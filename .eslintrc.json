@@ -1,0 +1,50 @@
+{
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es2021": true
+	},
+	"rules": {
+		"array-bracket-newline": "error",
+		"arrow-spacing": "error",
+		"block-scoped-var": "warn",
+		"brace-style": "error",
+		"camelcase": "warn",
+		"dot-location": "warn",
+		"dot-notation": "warn",
+		"eol-last": "error",
+		"indent": "error",
+		"key-spacing": "error",
+		"max-depth": ["error", 4],
+		"complexity": ["off", 2],
+		"prefer-arrow-callback": "error"
+	},
+	"extends": ["prettier", "airbnb-base"],
+	"parserOptions": {
+		"ecmaVersion": "latest"
+	},
+	"overrides": [
+		{
+			"rules": {
+				"no-console": "off",
+				"no-tabs": "off",
+				"eqeqeq": "off",
+				"default-case": "off",
+				"radix": ["error", "as-needed"],
+				"no-restricted-syntax": "off",
+				"guard-for-in": "off",
+				"semi": "off",
+				"indent": "off",
+				"comma-dangle": "off",
+				"prefer-const": "off",
+				"operator-linebreak": "off",
+				"func-names": "off",
+				"no-case-declarations": "off",
+				"semi-style": "off",
+				"global-require": "off",
+				"no-extra-semi": "off"
+			},
+			"files": ["./**/*.js"]
+		}
+	]
+}
