@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium expired.** Il tuo abbonamento premium è già scaduto.",
         "premium_deactivate_3" : "**Disattivato.** Tutti gli utenti di questo server Discord devono votare :(",
         "help_1" : "**Aiuto**. Ecco alcuni link utili per l'uso di **TempVoice**.",
-        "interface_description" : "Questa [**interfaccia**](https://www.tempvoice.xyz/usage) può essere usata per modificare il tuo canale vocale temporaneo. Altre opzioni sono disponibili tramite i comandi [**/voice**](https://www.tempvoice.xyz/commands#voice).",
+        "interface_description" : "Questa [**interfaccia**](https://docs.tempvoice.xyz/commands) può essere usata per modificare il tuo canale vocale temporaneo. Altre opzioni sono disponibili tramite i comandi [**/voice**](https://docs.tempvoice.xyz/commands).",
         "interface_footer" : "Questa interfaccia può essere utilizzata premendo i pulsanti sottostanti"
     }
 ]

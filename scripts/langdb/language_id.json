@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium expired.** Langganan premium kamu sudah habis.",
         "premium_deactivate_3" : "**Dinonaktifkan!** Semua pengguna di server ini diharuskan vote kembali.",
         "help_1" : "**Bantuan Datang!** Berikut adalah beberapa link untuk penggunaan TempVoice.",
-        "interface_description" : "[**interface**](https://www.tempvoice.xyz/usage) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [**/voice**](https://www.tempvoice.xyz/commands#voice).",
+        "interface_description" : "[**interface**](https://docs.tempvoice.xyz/commands) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [**/voice**](https://docs.tempvoice.xyz/commands).",
         "interface_footer" : "Interface ini dapat digunakan dengan menekan tombol di bawah."
     }
 ]

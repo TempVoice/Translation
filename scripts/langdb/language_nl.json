@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium verlopen.** Je TempVoice premium abonnement is verlopen.",
         "premium_deactivate_3" : "**Gedeactiveerd!** Gebruikers in deze Discord server zullen weer moeten voten voor de premium functies.",
         "help_1" : " **Hulp is gearriveerd!** Hier zijn wat handige links die je kunnen uitleggen hoe TempVoice werkt.",
-        "interface_description" : "Dit [**menu**](https://www.tempvoice.xyz/usage) kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [**/voice**](https://www.tempvoice.xyz/commands#voice) command.",
+        "interface_description" : "Dit [**menu**](https://docs.tempvoice.xyz/commands) kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [**/voice**](https://docs.tempvoice.xyz/commands) command.",
         "interface_footer" : "Dit menu kan gebruikt worden door op de onderstaande knoppen te drukken."
     }
 ]

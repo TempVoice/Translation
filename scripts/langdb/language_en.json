@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium Expired.** Your premium subscription has expired.",
         "premium_deactivate_3" : "**Deactivated!** Users on this Discord server have to vote again.",
         "help_1" : " **Help Has Arrived!** Here are some helpful links on how to use TempVoice.",
-        "interface_description" : "This [**interface**](https://www.tempvoice.xyz/usage) can be used to manage temporary voice channels. More options are available via [**/voice**](https://www.tempvoice.xyz/commands#voice) commands.",
+        "interface_description" : "This [**interface**](https://docs.tempvoice.xyz/commands) can be used to manage temporary voice channels. More options are available via [**/voice**](https://docs.tempvoice.xyz/commands) commands.",
         "interface_footer" : "This interface can be used by pressing the buttons below"
     }
 ]

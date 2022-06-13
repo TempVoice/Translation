@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
         "help_1" : "**Pagalba**. Keleta padedančių TempVoice nuorodų.",
-        "interface_description" : "Šią [**sąsają**](https://www.tempvoice.xyz/usage) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [**/voice**](https://www.tempvoice.xyz/commands#voice) komandas.",
+        "interface_description" : "Šią [**sąsają**](https://docs.tempvoice.xyz/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [**/voice**](https://docs.tempvoice.xyz/commands) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus."
     }
 ]

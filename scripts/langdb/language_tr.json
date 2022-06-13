@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium süresi doldu.** Premium aboneliğiniz zaten sona erdi.",
         "premium_deactivate_3" : "**Devre dışı.** Bu Discord sunucusundaki tüm kullanıcıların tekrar oy kullanması gerekiyor.",
         "help_1" : "**Yardım.** TempVoice kullanımı için bazı faydalı linkler burada.",
-        "interface_description" : "Bu [arayüz](https://www.tempvoice.xyz/usage) geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek [/voice](https://www.tempvoice.xyz/commands#voice) komutu ile mümkün.",
+        "interface_description" : "Bu [arayüz](https://docs.tempvoice.xyz/commands) geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek [/voice](https://docs.tempvoice.xyz/commands) komutu ile mümkün.",
         "interface_footer" : "Bu arayüz, aşağıdaki butonlara basarak kullanılabilir."
     }
 ]

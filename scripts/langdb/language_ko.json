@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**프리미엄만료됨** 프리미엄 구독이 이미 만료되었습니다.",
         "premium_deactivate_3" : "**비활성화됨** 지금부터 디스코드 서버에 있는 모든 인원이 다시 투표를 해야됩니다.",
         "help_1" : "**도움말**. 다음은 TempVoice 사용에 도움이 되는 링크입니다. :)",
-        "interface_description" : "[**인터페이스**](https://www.tempvoice.xyz/usage)는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음[**/voice**](https://www.tempvoice.xyz/commands#voice) 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
+        "interface_description" : "[**인터페이스**](https://docs.tempvoice.xyz/commands)는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음[**/voice**](https://docs.tempvoice.xyz/commands) 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
         "interface_footer" : "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다"
     }
 ]

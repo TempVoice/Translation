@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium expirado.** Tu subscripción premium ha expirado.",
         "premium_deactivate_3" : "**Desactivado.** Todos los usuarios en este servidor tienen que votar otra vez.",
         "help_1" : "**Ayuda**. Aquí hay unos links que te podrían ayudar en el uso del bot.",
-        "interface_description" : "Esta [**interfaz**](https://www.tempvoice.xyz/usage) puede utilizarse para editar tu canal de voz temporal. Hay más opciones disponibles a través de los comandos [**/voz**](https://www.tempvoice.xyz/commands#voice).",
+        "interface_description" : "Esta [**interfaz**](https://docs.tempvoice.xyz/commands) puede utilizarse para editar tu canal de voz temporal. Hay más opciones disponibles a través de los comandos [**/voz**](https://docs.tempvoice.xyz/commands).",
         "interface_footer" : "Esta interfaz se puede utilizar pulsando los siguientes botones"
     }
 ]

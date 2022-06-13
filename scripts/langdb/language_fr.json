@@ -101,7 +101,7 @@
         "premium_deactivate_2" : "**Premium expirer.** Votre abonnement premium a déjà expiré.",
         "premium_deactivate_3" : "**Désactiver** Tout les utilisateur de ce Discord vont devoir voté à nouveau.",
         "help_1" : "**Aide** Voici quelques liens utiles pour l'utilisation de TempVoice.",
-        "interface_description" : "Cette [**interface**](https://www.tempvoice.xyz/usage) peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponibles via les commandes [**/voice**](https://www.tempvoice.xyz/commands#voice).",
+        "interface_description" : "Cette [**interface**](https://docs.tempvoice.xyz/commands) peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponibles via les commandes [**/voice**](https://docs.tempvoice.xyz/commands).",
         "interface_footer" : "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous"
     }
 ]
