@@ -3,21 +3,6 @@
         "lang" : "ae"
     },
     {
-        "image_interface_privacy" : "PRIVACY",
-        "image_interface_limit" : "LIMIT",
-        "image_interface_rename" : "RENAME",
-        "image_interface_thread" : "THREAD",
-        "image_interface_trust" : "TRUST",
-        "image_interface_block" : "BLOCK",
-        "image_interface_region" : "REGION",
-        "image_interface_claim" : "CLAIM",
-        "image_interface_untrust" : "UNTRUST",
-        "image_interface_unblock" : "UNBLOCK",
-        "image_interface_kick" : "KICK",
-        "image_interface_transfer" : "TRANSFER",
-
-        "cmd_config_category_name" : "kategorie",
-
         "cmd_config_bitrate_description" : "Ändere die Audio Qualität des temporären Kanals",
         "cmd_config_category_description" : "Ändere die Kategorie, welche für temporären Kanäle benutzt werden soll",
         "cmd_config_censor_description" : "Choose which temporary channel names are not allowed to use",
@@ -93,8 +78,7 @@
         "error_ratelimit" : " **{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
 
         "voice_bitrate_1" : " **{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
-        "voice_bitrate_2" : " **الحد الاقصى** -> لا يمكن أن يكون معدل البت < **8**",
-        "voice_bitrate_3" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
+        "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
         "voice_block_1" : "**Not Possible.** You can only block up to **{val1}** users. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "voice_block_2" : " غير ممكن** -> هذا المستخدم ممنوع بالفعل**",
         "voice_block_3" : "ممنوع** -> تم حظر المستخدم من القناة الصوتية المؤقتة الخاصة بك**",
@@ -141,8 +125,7 @@
         "config_channel_1" : " **/setup creator** <- غير ممكن** -> لا توجد حاليا قنوات للمبدعين. إنشاء واحد مع**",
         "config_feature_1" : "معطل** -> تم إلغاء تنشيط الميزة**",
         "config_feature_2" : "منشط** -> تمت إعادة تنشيط الميزة**",
-        "config_limit_1" : " الحد الاقصى** -> لا يمكن أن يكون الحد > 99**",
-        "config_limit_2" : "**Updated!** The user limit for {val1} has been changed to **{val2}**.",
+        "config_limit_1" : "**Updated!** The user limit for {val1} has been changed to **{val2}**.",
         "config_name_1" : "**Updated!** The name for {val1} has been changed to **{val2}**.",
         "config_name_2" : "**Not Possible.** The selected name must include a **{CUSTOM}** placeholder.",
         "config_name_3" : "**Not Possible.** The selected name cannot include a **{val1}** placeholder.",
