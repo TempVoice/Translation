@@ -4,21 +4,6 @@
         "discord_lang" : "de"
     },
     {
-        "image_interface_privacy" : "PRIVACY",
-        "image_interface_limit" : "LIMIT",
-        "image_interface_rename" : "RENAME",
-        "image_interface_thread" : "THREAD",
-        "image_interface_trust" : "TRUST",
-        "image_interface_block" : "BLOCK",
-        "image_interface_region" : "REGION",
-        "image_interface_claim" : "CLAIM",
-        "image_interface_untrust" : "UNTRUST",
-        "image_interface_unblock" : "UNBLOCK",
-        "image_interface_kick" : "KICK",
-        "image_interface_transfer" : "TRANSFER",
-
-        "cmd_config_category_name" : "kategorie",
-
         "cmd_config_bitrate_description" : "Ändere die Audio Qualität des temporären Kanals",
         "cmd_config_category_description" : "Ändere die Kategorie, welche für temporären Kanäle benutzt werden soll",
         "cmd_config_censor_description" : "Choose which temporary channel names are not allowed to use",
@@ -94,8 +79,7 @@
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
 
         "voice_bitrate_1" : "**Limitiert**. Bitrate kann nicht > {val1} sein.",
-        "voice_bitrate_2" : "**Limitiert**. Bitrate kann nicht < 8 sein.",
-        "voice_bitrate_3" : "**Geändert**. Deine Kanalbitrate beträgt jetzt **{val1} kbps**.",
+        "voice_bitrate_2" : "**Geändert**. Deine Kanalbitrate beträgt jetzt **{val1} kbps**.",
         "voice_block_1" : "**Not Possible.** You can only block up to **{val1}** users. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "voice_block_2" : "**Nicht möglich**. Dieser Benutzer ist bereits gesperrt.",
         "voice_block_3" : "**Blockiert**. Der Benutzer wurde für deinen temporären Sprachkanal gesperrt.",
@@ -142,8 +126,7 @@
         "config_channel_1" : "**Nicht möglich**. Es gibt derzeit keine Ersteller-Kanäle. Erstellen Sie einen mit **/setup creator**.",
         "config_feature_1" : "**Deaktiviert**. Die Funktion wurde deaktiviert.",
         "config_feature_2" : "**Reaktiviert**. Die Funktion wurde reaktiviert.",
-        "config_limit_1" : "**Limitiert**. Das Benutzerlimit kann nicht > 99 sein.",
-        "config_limit_2" : "**Aktualisiert** Das User Limit für {val1} wurde auf **{val2}** gesetzt.",
+        "config_limit_1" : "**Aktualisiert** Das User Limit für {val1} wurde auf **{val2}** gesetzt.",
         "config_name_1" : "**Aktualisiert** Der Name für {val1} lautet nun **{val2}**.",
         "config_name_2" : "**Nicht möglich.** Der ausgewählte Name muss einen **{CUSTOM}** Placeholder beinhalten.",
         "config_name_3" : "**Nicht möglich.** Der ausgewählte Name kann keinen **{val1}** Placeholder beinhalten.",
