@@ -1,6 +1,69 @@
 [
-    {"lang":"nl"},
     {
+        "lang":"nl",
+        "discord_lang" : "nl"
+    },
+    {
+        "image_interface_privacy" : "PRIVACY",
+        "image_interface_limit" : "LIMIT",
+        "image_interface_rename" : "RENAME",
+        "image_interface_thread" : "THREAD",
+        "image_interface_trust" : "TRUST",
+        "image_interface_block" : "BLOCK",
+        "image_interface_region" : "REGION",
+        "image_interface_claim" : "CLAIM",
+        "image_interface_untrust" : "UNTRUST",
+        "image_interface_unblock" : "UNBLOCK",
+        "image_interface_kick" : "KICK",
+        "image_interface_transfer" : "TRANSFER",
+
+        "cmd_config_bitrate_description" : "Change the audio quality of temporary voice channels",
+        "cmd_config_category_description" : "Change the category that should be used to arrange temporary channels",
+        "cmd_config_censor_description" : "Choose which temporary channel names are not allowed to use",
+        "cmd_config_features_description" : "Turn On/Off features for managing temporary channels",
+        "cmd_config_info_description" : "Get information about a creator channel",
+        "cmd_config_limit_description" : "Change the default user limit for temporary channels",
+        "cmd_config_name_description" : "Set a default name for temporary channels",
+        "cmd_config_permissions_description" : "Choose if you want to sync role overwrite permissions from the category/creator",
+        "cmd_config_placeholder_description" : "Change the default text of an empty placeholder",
+        "cmd_config_privacy_description" : "Change the default privacy mode for temporary channels",
+        "cmd_config_reset_description" : "Reset the config from a creator channel",
+        "cmd_config_restore_description" : "Turn On/Off restoring properties for temporary channels",
+        "cmd_config_roles_description" : "Select a role for certain tasks for temporary channels",
+        "cmd_config_send_description" : "Send a message into text-in-voice channels",
+        "cmd_config_thread_description" : "Change the archive time of temporary threads",
+
+        "cmd_voice_bitrate_description" : "Change the bitrate quality of your temporary channel",
+        "cmd_voice_block_description" : "Blocked users are not able to view your temporary channel",
+        "cmd_voice_claim_description" : "Claim a temporary channel to gain the ownership of it",
+        "cmd_voice_close_description" : "Close your temporary channel to delete it manually",
+        "cmd_voice_info_description" : "Get information about a temporary channel",
+        "cmd_voice_invite_description" : "Invited users will get an invite through a dm can join your temporary channel",
+        "cmd_voice_kick_description" : "Will kick a user from your temporary channel",
+        "cmd_voice_limit_description" : "Change the user limit of your temporary channel",
+        "cmd_voice_name_description" : "Change the name of your temporary channel",
+        "cmd_voice_privacy_description" : "Change the privacy (lock or hide) of your temporary channel",
+        "cmd_voice_region_description" : "Change the region of your temporary channel",
+        "cmd_voice_thread_description" : "Create a temporary thread to your voice channel",
+        "cmd_voice_transfer_description" : "Transfer the ownership of your temporary channel to another user",
+        "cmd_voice_trust_description" : "Trusted users can always join your temporary channel",
+        "cmd_voice_unblock_description" : "Unblocked users are able to join your open temporary channel",
+        "cmd_voice_untrust_description" : "Untrusted users are able to join your open temporary channel",
+        "cmd_voice_users_description" : "Shows you a list of all trusted, blocked users and moderators of your temporary channel",
+
+        "cmd_setup_color_description" : "Change the global theme color of TempVoice",
+        "cmd_setup_creator_description" : "Setup a new creator channel for temporary voice channel creation",
+        "cmd_setup_delete_description" : "Shows you a list of all creators as long they still exist",
+        "cmd_setup_interface_description" : "Setup an interface for temporary voice channel control",
+        "cmd_setup_language_description" : "Change the global language of TempVoice",
+        "cmd_setup_tempvoice_description" : "Setup TempVoice easily with an assistant within seconds",
+
+        "cmd_premium_activate_description" : "Activate premium on this Discord server to bypass voting for all users",
+        "cmd_premium_deactivate_description" : "Deactivate premium on this Discord server",
+        "cmd_premium_status_description" : "Get information about the premium status on this Discord server",
+
+        "cmd_help_description" : "Get helpful links to our website and support server",
+
         "info_setup" : "**Installatie voltooid!** {val1} kan nu gebruikt worden om tijdelijke spraakkanalen aan te maken in je Discord server.",
         "info_setup2" : "**Installatie voltooid!** Dit [menu]({val1}) kan nu gebruikt worden om tijdelijke spraakkanalen te beheren in je Discord server.",
         "info_removed" : "**Verwijderd!** De geselecteerde spraakkanaal-maker is verwijderd. Maak een nieuwe met **/setup creator**.",
@@ -8,6 +71,7 @@
         "info_recreate" : "**Verwijderd.** Maak een nieuw tijdelijk spraakkanaal om de wijzigingen toe te passen.",
         "info_menu" : "Gebruik dit menu om een optie te selecteren:",
         "info_nousers" : "**Geen gebruikers gevonden**",
+
         "error_permited" : "**Missing Role.** This creator channel can only be used with a certain role.",
         "error_type" : "**Not Possible.** The option cannot be changed for this creator type.",
         "error_ownerless" : "**Not Possible.** Temporary voice channels from {val1} are ownerless and cannot be managed.",
@@ -26,6 +90,7 @@
         "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Ongelding kanaal.** Het geselecteerde kanaal bestaat niet.",
         "error_ratelimit" : "**Langzaam aan!** Dit command kan over **{val1}** weer gebruikt worden.",
+
         "voice_bitrate_1" : "**Niet mogelijk.** De bitrate kan niet groter zijn dan **{val1}**.",
         "voice_bitrate_2" : "**Niet mogelijk.** De bitrate kan niet kleiner zijn dan **8**.",
         "voice_bitrate_3" : "**Bijgewerkt!** De bitrate van je spraakkanaal is nu **{val1} kbps**.",
@@ -64,6 +129,7 @@
         "voice_thread_1" : "**Niet mogelijk!** Er is al een chat aangemaakt voor je tijdelijke spraakkanaal.",
         "voice_thread_2" : "**Aangemaakt!** Een tijdelijke chat is aangemaakt voor  je tijdelijke spraakkanaal.",
         "voice_close_1" : "**Gesloten!** Je tijdelijke spraakkanaal is nu gesloten.",
+
         "config_category_1" : "**Verkeerde invoer.** De invoer moet een categorie zijn.",
         "config_category_2" : "**Updated!** The category has been changed.",
         "config_censor_1" : "**Niet mogelijk!** Het woord **{val1}** is al gecensureerd.",
@@ -94,13 +160,16 @@
         "config_behavior_1" : "**Bijgewerkt!** Het gedrag van deze functie is bijgewerkt.",
         "config_placeholder_1" : "**Updated!** The default text of this empty placeholder has been updated.",
         "config_bitrate_1" : "**Bijgewerkt!** De standaard audiokwaliteit van tijdelijke spraakkanalen is succesvol aangepast.",
+        
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
         "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
         "premium_activate_3" : "**Geactiveerd!** Gebruikers in deze Discord server hoeven niet langer te voten voor de premium functies. **Geniet er van!**",
         "premium_deactivate_1" : "**Premium vereist.** Je moet een premium abonnement hebben gekoppelt voordat je deze kan ontkoppelen.",
         "premium_deactivate_2" : "**Premium verlopen.** Je TempVoice premium abonnement is verlopen.",
         "premium_deactivate_3" : "**Gedeactiveerd!** Gebruikers in deze Discord server zullen weer moeten voten voor de premium functies.",
+
         "help_1" : " **Hulp is gearriveerd!** Hier zijn wat handige links die je kunnen uitleggen hoe TempVoice werkt.",
+
         "interface_description" : "Dit [**menu**](https://docs.tempvoice.xyz/commands) kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [**/voice**](https://docs.tempvoice.xyz/commands) command.",
         "interface_footer" : "Dit menu kan gebruikt worden door op de onderstaande knoppen te drukken."
     }
