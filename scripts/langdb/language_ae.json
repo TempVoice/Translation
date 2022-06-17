@@ -131,8 +131,7 @@
         "voice_thread_2" : "تم الصنع** -> تم إنشاء موضوع مؤقت**",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
-        "config_category_1" : " قناة خاطئة** -> يجب أن تكون القناة **فئة** لتعمل**",
-        "config_category_2" : "**Updated!** The category has been changed.",
+        "config_category_1" : "**Updated!** The category has been changed.",
         "config_censor_1" : "  **{val1}** <- غير ممكن** -> تم حظره بالفعل لقناة صوتية مؤقتة من الكلمة",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "في أسماء القنوات الصوتية المؤقتة **{val1}** مضاف** -> لم يعد من الممكن استخدام كلمة**",

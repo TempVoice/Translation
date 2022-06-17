@@ -130,8 +130,7 @@
         "voice_thread_2" : "**Stworzono**. Utworzony został tymczasowy wątek.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
-        "config_category_1" : "**Zły kanał**. Kanał musi należeć do kategorii.",
-        "config_category_2" : "**Updated!** The category has been changed.",
+        "config_category_1" : "**Updated!** The category has been changed.",
         "config_censor_1" : "**Nie jest to możliwe**. Słowo **{val1}** jest już ocenzurowane dla tymczasowego kanału głosowego.",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "**Dodano**.. Słowo **{val1}** nie może być już używane w tymczasowych nazwach kanałów głosowych.",

@@ -130,8 +130,7 @@
         "voice_thread_2" : "**Créé**. Un fil temporaire a été créé.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
-        "config_category_1" : "**Mauvais salon**. La séléction doit être une catégorie.",
-        "config_category_2" : "**Updated!** The category has been changed.",
+        "config_category_1" : "**Updated!** The category has been changed.",
         "config_censor_1" : "**Impossible**. Le mot **{val1}** est censuré.",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "**Ajouté(e)**. Le mot **{val1}** ne peux être utilisé dans aucun nom de salon vocaux temporaire.",

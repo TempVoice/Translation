@@ -130,8 +130,7 @@
         "voice_thread_2" : "**Aangemaakt!** Een tijdelijke chat is aangemaakt voor  je tijdelijke spraakkanaal.",
         "voice_close_1" : "**Gesloten!** Je tijdelijke spraakkanaal is nu gesloten.",
 
-        "config_category_1" : "**Verkeerde invoer.** De invoer moet een categorie zijn.",
-        "config_category_2" : "**Updated!** The category has been changed.",
+        "config_category_1" : "**Updated!** The category has been changed.",
         "config_censor_1" : "**Niet mogelijk!** Het woord **{val1}** is al gecensureerd.",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "**Toegevoegd!** Het woord **{val1}** kan niet langer gebruikt worden in de naam van tijdelijke spraakkanalen.",

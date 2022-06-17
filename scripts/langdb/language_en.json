@@ -130,8 +130,7 @@
         "voice_thread_2" : "**Created!** A temporary thread has been created for this channel.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
-        "config_category_1" : "**Wrong Channel.** The channel has to be a category.",
-        "config_category_2" : "**Updated!** The category has been changed.",
+        "config_category_1" : "**Updated!** The category has been changed.",
         "config_censor_1" : "**Not Possible!** The word **{val1}** is already censored.",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "**Added!** The word **{val1}** cannot be used anymore in temporary voice channel names.",

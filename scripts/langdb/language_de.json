@@ -132,8 +132,7 @@
         "voice_thread_2" : "**Erstellt**. Ein temporärer Thread wurde erstellt.",
         "voice_close_1" : "**Geschlossen**. Du hast deinen temporären Sprachkanal vorzeitig geschlossen.",
 
-        "config_category_1" : "**Falscher Kanal**. Der Kanal muss eine Kategorie sein.",
-        "config_category_2" : "**Aktualisiert**. Die Kategory wurde geändert.",
+        "config_category_1" : "**Aktualisiert**. Die Kategory wurde geändert.",
         "config_censor_1" : "**Nicht möglich**. Das Wort **{val1}** ist bereits für den temporären Sprachkanal zensiert.",
         "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words. Increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "config_censor_3" : "**Hinzugefügt**. Das Wort **{val1}** kann nicht mehr in temporären Sprachkanalnamen verwendet werden.",
