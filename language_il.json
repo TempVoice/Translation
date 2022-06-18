@@ -54,7 +54,8 @@
         "info_setup2" : "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_removed" : "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה **/setup creator**.",
         "info_reset" : "**אתחול**. האפשרויות הותחלו.",
-        "info_recreate" : "**הוסר**. כדי לשנות את האופציה צרו חדר שיחה זמני.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "השתמשו בתפריט כדי לבחור אופציה:",
         "info_nousers" : "**אין משתמשים**",
 

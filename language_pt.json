@@ -55,7 +55,8 @@
         "info_setup2" : "**Configuração concluída**. Este [Interface]({val1}) pode agora ser usado para configurar canais no servidor!",
         "info_removed" : "**Removido**. O canal escolhido foi removido. Crie um novo com o comando **/setup creator**.",
         "info_reset" : "**Reset**. A configuração foi reajustada para o padrão.",
-        "info_recreate" : "**Removido**. Crie um novo canal de voz temporário para aplicar a alteração.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Usa o menu para escolher uma opção:",
         "info_nousers" : "**Sem Utilizadores**",
 

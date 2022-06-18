@@ -55,7 +55,8 @@
         "info_setup2" : "**Configurazione fatta**. Questa [Interfaccia]({val1}) può ora essere utilizzata per gestire canali vocali temporanei nel tuo server Discord!",
         "info_removed" : "**Rimosso**. Il canale creatore selezionato è stato rimosso. Creane uno nuovo con **/setup creator**.",
         "info_reset" : "**Reset**. La configurazione è stata reimpostata su quella di default.",
-        "info_recreate" : "**Rimosso**. Crea un nuovo canale di lingua temporaneo per applicare la modifica",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Utilizzare il menu per selezionare un'opzione:",
         "info_nousers" : "**Nessun utente**",
 

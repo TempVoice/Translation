@@ -55,7 +55,8 @@
         "info_setup2" : "**Installatie voltooid!** Dit [menu]({val1}) kan nu gebruikt worden om tijdelijke spraakkanalen te beheren in je Discord server.",
         "info_removed" : "**Verwijderd!** De geselecteerde spraakkanaal-maker is verwijderd. Maak een nieuwe met **/setup creator**.",
         "info_reset" : "**Gereset!.** De instellingen zijn gereset naar de standaardinstellingen.",
-        "info_recreate" : "**Verwijderd.** Maak een nieuw tijdelijk spraakkanaal om de wijzigingen toe te passen.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Gebruik dit menu om een optie te selecteren:",
         "info_nousers" : "**Geen gebruikers gevonden**",
 

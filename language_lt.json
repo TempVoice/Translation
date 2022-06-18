@@ -55,7 +55,8 @@
         "info_setup2" : "**Įdiegimas atliktas**. Šią [sąsają]({val1}) dabar galite naudoti laikiniems balso kanalams valdyti savo 'Discord' serveryje!",
         "info_removed" : "**Pašalinta**. Pasirinktas kūrėjo kanalas ištrintas. Sukurkite naują **/setup creator**.",
         "info_reset" : "**Atstatyti**. Konfigūracija buvo atstatyta į numatytąją.",
-        "info_recreate" : "**Pašalinta**. Sukurkite naują laikiną balso kanalą, kad išsisaugotų pakeitimai.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Naudodamiesi meniu pasirinkite parinktį:",
         "info_nousers" : "**Nėra naudotojų**",
         

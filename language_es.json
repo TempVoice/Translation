@@ -55,7 +55,8 @@
         "info_setup2" : "**Configuración realizada**. ¡Esta [Interfaz]({val1}) puede ser utilizada ahora para gestionar canales de voz temporales en tu servidor de Discord!",
         "info_removed" : "**Eliminado**. El canal de creación seleccionado ha sido eliminado. Crea uno nuevo con **/setup creator**.",
         "info_reset" : "**Restablecimiento**. La configuración se ha restablecido por defecto.",
-        "info_recreate" : "**Eliminado**. Crea un nuevo canal de voz temporal para que los cambios sean aplicados.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Use the menu to select a option:",
         "info_nousers" : "**Ningún usuario**",
 

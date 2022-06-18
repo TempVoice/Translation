@@ -54,7 +54,8 @@
         "info_setup2" : "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
         "info_removed" : "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan **/setup creator**.",
         "info_reset" : "**Reset.** Konfigurasi telah diatur ulang ke default.",
-        "info_recreate" : "**Terhapus.** Buatlah __voice channel sementara__ baru untuk menerapkan perubahan.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Gunakan menu ini untuk memilih opsi:",
         "info_nousers" : "**Tidak ada pengguna**",
 
