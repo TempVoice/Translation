@@ -73,6 +73,8 @@
         "error_ownership1" : "**Impossível**. Apenas o criador do canal pode usar este comando. Tente adquirir permissões no canal com o comando **/voice claim**.",
         "error_ownership2" : "**Impossível**. Apenas o criador do canal ou alguem permitido podem utilizar este comando. Tente adquirir permissões no canal com o comando **/voice claim**.",
         "error_permissions" : "**Missing Permissions**. Following permissions are missing: {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Desativado**. Este comando foi desativado para todos os canais criados pelo {val1}.",
         "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Canal errado**. O canal selecionado não é valido.",

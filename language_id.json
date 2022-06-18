@@ -72,6 +72,8 @@
         "error_ownership1" : "**Tidak memungkinkan.** Hanya pemilik voice channel yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : **/voice claim**.",
         "error_ownership2" : "**Tidak Memungkinan.** Hanya pemilik voice channel dan pengguna dengan izin yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : **/voice claim**.",
         "error_permissions" : "**Izin Hilang.** Izin berikut tidak ada: {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Dinonatifkan.** Command ini dinonaktifkan untuk semua __voice channel sementara__ {val1}.",
         "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Tidak Valid.** __Creator channel__ terpilih tidak ada.",

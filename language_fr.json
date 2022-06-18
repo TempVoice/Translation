@@ -73,6 +73,8 @@
         "error_ownership1" : "**Impossible**. Seulement le propriétaire de ce salon peu utiliser cette commande. Essaye de récupérer le salon: **/voice claim**.",
         "error_ownership2" : "**Impossible**. Seulement le propriétaire de ce salon ou un membre avec les permissions peu utiliser cette commande. Essaye de récupérer le salon: **/voice claim**.",
         "error_permissions" : "**Autorisations manquantes**. Les permissions suivantes sont manquantes : {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Désactivé(e)**. Cette commande est désactivée pour tous les salons vocaux temporaires de {val1}.",
         "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Mauvais salon**. Le salon séléctionner n'existe pas.",

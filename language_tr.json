@@ -73,6 +73,8 @@
         "error_ownership1" : "**Mümkün değil.** Bu komutu yalnızca ses kanalı sahibi kullanabilir. Ses kanalı için hak talebinde bulunmayı deneyin: **/voice claim**.",
         "error_ownership2" : "**Mümkün değil.** Bu komutu yalnızca ses kanalı sahibi veya izin verilen bir kullanıcı kullanabilir. Ses kanalı için hak talebinde bulunmayı deneyin: **/voice claim**.",
         "error_permissions" : "**Eksik İzinler.** İzinler eksik: {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Devre dışı.** Bu komut, {val1}'in tüm geçici ses kanalları için devre dışı bırakılmıştır.",
         "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Yanlış kanal.** Seçilen içerik oluşturucu kanalı mevcut değil.",
