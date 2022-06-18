@@ -73,6 +73,8 @@
         "error_ownership1" : "**Невозможно**. Только владелец голосового канала может использовать эту команду. Попробуй заявить права на голосовой канал: **/voice claim**.",
         "error_ownership2" : "**Невозможно**. Только владелец голосового канала или разрешенный пользователь может использовать эту команду. Попробуй заявить права на голосовой канал: **/voice claim**.",
         "error_permissions" : "** Отсутствуют разрешения**. Отсутствуют следующие права: {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Деактивировано**. Эта команда отключеная для всех временных голосовых каналов {val1}.",
         "error_limit" : "**Невозможно.** Ограничение на количество каналов создателя на одном сервере равно **{val1}**. Попробуйте удалить один из них с помощью **/config delete** или повысте количество с [premium](<https://www.patreon.com/tempvoice >).",
         "error_channel" : "**Неправильный канал**. Выбранный канал создателя не существует.",

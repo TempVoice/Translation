@@ -72,6 +72,8 @@
         "error_ownership1" : "**사용불가능**. 이 음성방의 소유권자만이 해당 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: **/voice claim**.",
         "error_ownership2" : "**사용불가능**. 이 음성방의 소유권자 혹은 허용된 유저만 이 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: **/voice claim**.",
         "error_permissions" : "**사용 권한 누락됨**. 다음 권한이 없습니다 : {val1}.",
+        "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
+        "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**비활성화됨**. 해당 명령은 {val1}의 모든 음성방에서 비활성화 되었습니다. ",
         "error_limit" : "**불가능** 단일 서버에서 채널 생성 제한은 다음과 같습니다**{val1}**. **/config delete** 명령어를 사용하여 삭제하거나 또는 프리미엄 구독을 활성화하여 제한을 해제할 수 있습니다. [프리미엄](<https://www.patreon.com/tempvoice>)",
         "error_channel" : "**잘못된채널**. 선택한 생성 채널이 존재하지않습니다.",
