@@ -13,7 +13,6 @@
         "cmd_config_name_description" : "Set a default name for temporary channels",
         "cmd_config_permissions_description" : "Choose if you want to sync role overwrite permissions from the category/creator",
         "cmd_config_placeholder_description" : "Change the default text of an empty placeholder",
-        "cmd_config_privacy_description" : "Change the default privacy mode for temporary channels",
         "cmd_config_reset_description" : "Reset the config from a creator channel",
         "cmd_config_restore_description" : "Turn On/Off restoring properties for temporary channels",
         "cmd_config_roles_description" : "Select a role for certain tasks for temporary channels",
@@ -56,7 +55,6 @@
         "info_removed" : "**Удалено**. Выбранный канал создателя был удален. Создайте новый с помощью **/setup creator**.",
         "info_reset" : "**Сброс**. Конфигурация была сброшена на стандартные настройки.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
-        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Используйте меню для выбора опции:",
         "info_nousers" : "**Нет пользователей**",
 
@@ -133,7 +131,6 @@
         "config_name_1" : "** Обновлено** Имя для {val1} было изменено на **{val2}**.",
         "config_name_2" : "**Невозможно.** Выбранное имя должно содержать **{индивидуальное}** заполнение.",
         "config_name_3" : "**Невозможно.** Выбранное имя не может содержать заполнение **{val1}**.",
-        "config_privacy_1" : "**Изменено**. Все временные голосовые каналы теперь будут: **{val1}**.",
         "config_role_1" : "**Обновлено** {val1} будет ролью участника по умолчанию вместо @everyone.",
         "config_role_2" : "**Обновлено** {val1} назначит или удалит роль, когда пользователь присоединяется/покидает временный голосовой канал.",
         "config_role_3" : "**Обновлено** {val1} будет разрешен для созданного временного голосового канала.",

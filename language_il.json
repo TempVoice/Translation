@@ -12,7 +12,6 @@
         "cmd_config_name_description" : "Set a default name for temporary channels",
         "cmd_config_permissions_description" : "Choose if you want to sync role overwrite permissions from the category/creator",
         "cmd_config_placeholder_description" : "Change the default text of an empty placeholder",
-        "cmd_config_privacy_description" : "Change the default privacy mode for temporary channels",
         "cmd_config_reset_description" : "Reset the config from a creator channel",
         "cmd_config_restore_description" : "Turn On/Off restoring properties for temporary channels",
         "cmd_config_roles_description" : "Select a role for certain tasks for temporary channels",
@@ -55,7 +54,6 @@
         "info_removed" : "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה **/setup creator**.",
         "info_reset" : "**אתחול**. האפשרויות הותחלו.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
-        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "השתמשו בתפריט כדי לבחור אופציה:",
         "info_nousers" : "**אין משתמשים**",
 
@@ -132,7 +130,6 @@
         "config_name_1" : "**Updated!** The name for {val1} has been changed to **{val2}**.",
         "config_name_2" : "**Not Possible.** The selected name must include a **{CUSTOM}** placeholder.",
         "config_name_3" : "**Not Possible.** The selected name cannot include a **{val1}** placeholder.",
-        "config_privacy_1" : "**שונה**. כל חדרי השיחה הזמניים עכשי יהיו: **{val1}**.",
         "config_role_1" : "**Updated!** {val1} will be the default member role instead of @everyone.",
         "config_role_2" : "**Updated!** {val1} will assign or remove a role when a user joins/leaves a temporary voice channel.",
         "config_role_3" : "**Updated!** {val1} will be permited to created temporary voice channel.",
