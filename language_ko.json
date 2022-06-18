@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**비활성화됨**. 해당 명령은 {val1}의 모든 음성방에서 비활성화 되었습니다. ",
-        "error_limit" : "**불가능** 단일 서버에서 채널 생성 제한은 다음과 같습니다**{val1}**. **/config delete** 명령어를 사용하여 삭제하거나 또는 프리미엄 구독을 활성화하여 제한을 해제할 수 있습니다. [프리미엄](<https://www.patreon.com/tempvoice>)",
+        "error_limit" : "**불가능** 단일 서버에서 채널 생성 제한은 다음과 같습니다**{val1}**. **/setup delete** 명령어를 사용하여 삭제하거나 또는 프리미엄 구독을 활성화하여 제한을 해제할 수 있습니다. [프리미엄](<https://www.patreon.com/tempvoice>)",
         "error_channel" : "**잘못된채널**. 선택한 생성 채널이 존재하지않습니다.",
         "error_ratelimit" : "**아직은 허용되지않음**. 해당 명령은 **{val1}**에 다시 이용이 가능합니다. 남은 타이머가 표시되므로 수시로 해당메세지를 확인해주세요.",
 
