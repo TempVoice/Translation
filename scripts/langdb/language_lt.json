@@ -13,7 +13,6 @@
         "cmd_config_name_description" : "Set a default name for temporary channels",
         "cmd_config_permissions_description" : "Choose if you want to sync role overwrite permissions from the category/creator",
         "cmd_config_placeholder_description" : "Change the default text of an empty placeholder",
-        "cmd_config_privacy_description" : "Change the default privacy mode for temporary channels",
         "cmd_config_reset_description" : "Reset the config from a creator channel",
         "cmd_config_restore_description" : "Turn On/Off restoring properties for temporary channels",
         "cmd_config_roles_description" : "Select a role for certain tasks for temporary channels",
@@ -56,7 +55,6 @@
         "info_removed" : "**Pašalinta**. Pasirinktas kūrėjo kanalas ištrintas. Sukurkite naują **/setup creator**.",
         "info_reset" : "**Atstatyti**. Konfigūracija buvo atstatyta į numatytąją.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
-        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Naudodamiesi meniu pasirinkite parinktį:",
         "info_nousers" : "**Nėra naudotojų**",
         
@@ -77,7 +75,7 @@
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Išjungta**. Ši komanda yra išjungta visiems laikiniems kanalams {val1}.",
-        "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/config delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
+        "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/setup delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Netinkamas Kanalas**. Pasirinktas kūrėjo kanalas neegzistuoja.",
         "error_ratelimit" : "**Dar negalima**. Komanda gali būti naudojama **{val1}**.",
 
@@ -133,7 +131,6 @@
         "config_name_1" : "**Updated!** The name for {val1} has been changed to **{val2}**.",
         "config_name_2" : "**Not Possible.** The selected name must include a **{CUSTOM}** placeholder.",
         "config_name_3" : "**Not Possible.** The selected name cannot include a **{val1}** placeholder.",
-        "config_privacy_1" : "**Pakeista**. Visi laikini balso kanalai dabar bus: **{val1}**.",
         "config_role_1" : "**Updated!** {val1} will be the default member role instead of @everyone.",
         "config_role_2" : "**Updated!** {val1} will assign or remove a role when a user joins/leaves a temporary voice channel.",
         "config_role_3" : "**Updated!** {val1} will be permited to created temporary voice channel.",
