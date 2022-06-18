@@ -55,7 +55,8 @@
         "info_setup2" : "**Kurulum tamamlandı.** Bu [Interface]({val1}) adlı arayüz ve geçici oda, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir!",
         "info_removed" : "**Kaldırıldı.** Seçilen içerik oluşturucu kanalı kaldırıldı. **/setup creator** ile yeni bir tane oluşturun.",
         "info_reset" : "**Sıfırla.** Yapılandırma varsayılana sıfırlandı.",
-        "info_recreate" : "**Kaldırıldı.** Değişikliği uygulamak için yeni bir geçici ses kanalı oluşturun.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Bir seçenek belirlemek için menüyü kullanın:",
         "info_nousers" : "**Kullanıcı yok.**",
 

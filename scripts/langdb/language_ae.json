@@ -54,7 +54,8 @@
         "info_setup2" : "[Interface]({val1}) <- تم الإعداد** ->  يمكنك الآن استخدامها لإدارة القنوات الصوتية المؤقتة في الدسكـورد الخاص بك**",
         "info_removed" : "**/setup creator** <- تم إزالته** -> تمت إزالة قناة المنشئ المحددة. قم بإنشاء قناة جديدة باستخدام**",
         "info_reset" : "إعادة ضبط**  -> تم إعادة التهيئة إلى إعدادات المصنع**",
-        "info_recreate" : "تم إزالته**  -> قم بإنشاء قناة صوتية مؤقتة جديدة لتطبيق التغييرات**",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : " :استخدم القائمة لتحديد خيارك",
         "info_nousers" : "**لا يوجد مستخدمون**",
 

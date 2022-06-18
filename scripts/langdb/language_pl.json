@@ -55,7 +55,8 @@
         "info_setup2" : "**Konfiguracja zakończona**. Ten [Panel]({val1}) może teraz używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
         "info_removed" : "**Usunięto**. Wybrany kanał został usunięty. Utwórz nowy za pomocą **/setup creator**.",
         "info_reset" : "**Reset**. Konfiguracja została przywrócona do wartości domyślnych.",
-        "info_recreate" : "**Usunięto**. Utwórz nowy tymczasowy kanał głosowy, aby zastosować zmiany.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Użyj menu, aby wybrać opcję:",
         "info_nousers" : "**Brak użytkowników**",
 

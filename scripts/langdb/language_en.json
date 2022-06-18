@@ -55,7 +55,8 @@
         "info_setup2" : "**Setup Complete!** This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
         "info_removed" : "**Removed!** The selected creator channel has been removed. Create a new one with **/setup creator**.",
         "info_reset" : "**Reset.** The configuration has been reset to default.",
-        "info_recreate" : "**Removed.** Create a new temporary voice channel to apply the change.",
+        "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
+        "info_toggled" : "**Toggled!**. Your choice has been saved.",
         "info_menu" : "Use this menu to select an option:",
         "info_nousers" : "**No users**",
         
