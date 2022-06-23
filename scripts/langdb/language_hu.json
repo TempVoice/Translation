@@ -17,7 +17,7 @@
         "cmd_config_restore_description" : "Kapcsolja be/ki az ideiglenes csatornák tulajdonságainak visszaállítását",
         "cmd_config_roles_description" : "Válasszon szerepet bizonyos feladatokhoz az ideiglenes csatornákhoz",
         "cmd_config_send_description" : "Üzenet küldése szöveges-hang csatornákra",
-        "cmd_config_thread_description" : "Módosítsa az ideiglenes szálak archiválási idejét",
+        "cmd_config_thread_description" : "Módosítsa az ideiglenes gondolatmenet archiválási idejét",
 
         "cmd_voice_bitrate_description" : "Az ideiglenes csatornád bitráta-minőségének módosítása",
         "cmd_voice_block_description" : "A letiltott felhasználók nem tudják megtekinteni az ideiglenes csatornádat",
@@ -30,7 +30,7 @@
         "cmd_voice_name_description" : "Az ideiglenes csatornád nevének módosítása",
         "cmd_voice_privacy_description" : "Az ideiglenes csatornád adatainak védelme (zárolás vagy elrejtés) módosítása",
         "cmd_voice_region_description" : "Az ideiglenes csatornád régiójának módosítása",
-        "cmd_voice_thread_description" : "Ideiglenes szál létrehozása a hangcsatornádhoz",
+        "cmd_voice_thread_description" : "Ideiglenes gondolatmenet létrehozása a hangcsatornádhoz",
         "cmd_voice_transfer_description" : "Az ideiglenes csatornád tulajdonjogának átruházása egy másik felhasználóra",
         "cmd_voice_trust_description" : "A megbízható felhasználók bármikor csatlakozhatnak az ideiglenes csatornádhoz",
         "cmd_voice_unblock_description" : "A feloldott felhasználók csatlakozhatnak a nyitott ideiglenes csatornádhoz",
@@ -113,8 +113,8 @@
         "voice_unblock_2" : "**Feloldva a blokkolást!** Ezt a felhasználót feloldották az ideiglenes hangcsatornákról.",
         "voice_untrust_1" : "**Nem lehetséges.** Ebben a felhasználóban nem megbízható.",
         "voice_untrust_2" : "**Nem megbízható!** Ez a felhasználó már nem bízik meg az ideiglenes hangcsatornákban.",
-        "voice_thread_1" : "**Nem lehetséges!** Ehhez az ideiglenes hangcsatornához már létrehoztak egy szálat.",
-        "voice_thread_2" : "**Létrehozva!** Egy ideiglenes szálat hoztunk létre ehhez a csatornához.",
+        "voice_thread_1" : "**Nem lehetséges!** Ehhez az ideiglenes hangcsatornához már létrehoztak egy gondolatmenetet.",
+        "voice_thread_2" : "**Létrehozva!** Egy ideiglenes gondolatmenetet hoztunk létre ehhez a csatornához.",
         "voice_close_1" : "**Bezárva!** Az ideiglenes hangcsatornádat bezártuk.",
 
         "config_category_1" : "**Frissítve!** A kategória megváltozott.",
