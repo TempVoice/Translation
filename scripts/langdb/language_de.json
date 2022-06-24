@@ -38,7 +38,7 @@
         "cmd_voice_users_description" : "Bekomme eine Liste mit allen Vertrauten und Blockierten Usern deines temporären Kanals",
 
         "cmd_setup_color_description" : "Änder das Color Theme von TempVoice",
-        "cmd_setup_creator_description" : "Richte einen neuen Cretor Channel ein",
+        "cmd_setup_creator_description" : "Richte einen neuen Creator Channel ein",
         "cmd_setup_delete_description" : "Lösche einen Creator Channel, wenn dieser nicht mehr benutzt werden soll",
         "cmd_setup_interface_description" : "Richte ein Interface für die Verwaltung von temporären Kanälen ein",
         "cmd_setup_language_description" : "Änder die Sprache von TempVoice",
