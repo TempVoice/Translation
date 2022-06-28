@@ -18,6 +18,7 @@
         "cmd_config_roles_description" : "Geçici kanallar için belirli görevler için bir rol seçin.",
         "cmd_config_send_description" : "Sesli metin kanallarına mesaj gönderin.",
         "cmd_config_thread_description" : "Geçici kanalların arşiv süresini değiştirin.",
+        "cmd_config_position_description" : "Change the position for temporary channels",
 
         "cmd_voice_bitrate_description" : "Geçici kanalın bit hız kalitesini değiştirin.",
         "cmd_voice_block_description" : "Engellenen kullanıcılar geçici kanalınızı göremez.",

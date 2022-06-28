@@ -17,6 +17,7 @@
         "cmd_config_roles_description" : "Select a role for certain tasks for temporary channels",
         "cmd_config_send_description" : "Send a message into text-in-voice channels",
         "cmd_config_thread_description" : "Change the archive time of temporary threads",
+        "cmd_config_position_description" : "Change the position for temporary channels",
 
         "cmd_voice_bitrate_description" : "Change the bitrate quality of your temporary channel",
         "cmd_voice_block_description" : "Blocked users are not able to view your temporary channel",

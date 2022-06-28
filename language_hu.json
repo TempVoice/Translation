@@ -18,6 +18,7 @@
         "cmd_config_roles_description" : "Válasszon szerepet bizonyos feladatokhoz az ideiglenes csatornákhoz",
         "cmd_config_send_description" : "Üzenet küldése szöveges-hang csatornákra",
         "cmd_config_thread_description" : "Módosítsa az ideiglenes gondolatmenet archiválási idejét",
+        "cmd_config_position_description" : "Change the position for temporary channels",
 
         "cmd_voice_bitrate_description" : "Az ideiglenes csatornád bitráta-minőségének módosítása",
         "cmd_voice_block_description" : "A letiltott felhasználók nem tudják megtekinteni az ideiglenes csatornádat",

@@ -18,6 +18,7 @@
         "cmd_config_roles_description" : "Wähle eine Rolle aus, welche bestimmte Aufgaben temporäre Kanäle übernehmen soll",
         "cmd_config_send_description" : "Sendeneine Nachricht in Text-in-Voice Kanal, wenn dieser neu erstellt wurde",
         "cmd_config_thread_description" : "Ändere die Archivierungszeit für temporäre Threads",
+        "cmd_config_position_description" : "Ändere die Position von temporären Kanälen",
 
         "cmd_voice_bitrate_description" : "Ändern der Audio Qualität des temporären Kanals",
         "cmd_voice_block_description" : "Blockiere User, damit diese den temporären Kanal nicht mehr sehen können",
