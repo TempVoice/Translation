@@ -18,6 +18,7 @@
         "cmd_config_roles_description" : "임시 채널의 특정 작업에 대한 역할 선택",
         "cmd_config_send_description" : "음성 채널의 text-in-voice에 메시지 보내기",
         "cmd_config_thread_description" : "임시 스레드의 보관 시간 변경",
+        "cmd_config_position_description" : "Change the position for temporary channels",
 
         "cmd_voice_bitrate_description" : "임시 채널의 음질/bitrate 설정",
         "cmd_voice_block_description" : "차단된 사용자는 임시 채널을 볼 수 없음",
