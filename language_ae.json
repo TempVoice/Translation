@@ -28,7 +28,7 @@
         "error_permissions_access" : "من أجل إنشاء قنوات مؤقتة بشكل صحيح <- Temp Voice: {val2} <- **{var 1}** <- تم رفض الطلب** -> يرجى الاتصال المشرف. الأوامر التالية هي **مرفوضة** في**",
         "error_permissions_sync" : "**{val2}** <- من أجل مزامنة الأذونات بشكل صحيح من <- role for Temp Voice: {vol 1} <- **أمر مفقود** -> يرجى الاتصال المشرف. الأوامر التالية **مفقودة** في **إعدادات الخادم**",
         "error_deactivated" : " {val1} معطل** -> يتم إلغاء تنشيط هذا الأمر لجميع القنوات الصوتية المؤقتة في**",
-        "error_limit" : "[premium](<https://www.patreon.com/tempvoice>) <- أو زيادة الحد مع أعلى <- **/setup delete** <- حاول حذف واحد مع <- **{val1}** <- غير ممكن** -> الحد الأقصى لقنوات المنشئ في خادم واحد هو**",
+        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : " قناة خاطئة** -> قناة المنشئ المحددة غير موجودة**",
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
 
