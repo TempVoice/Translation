@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**Desativado**. Este comando foi desativado para todos os canais criados pelo {val1}.",
-        "error_limit" : "**Not Possible.** The limit of creator channels in a single server is **{val1}**. Try deleting one with **/setup delete** or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
+        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Canal errado**. O canal selecionado não é valido.",
         "error_ratelimit" : "**Temporáriamente Desabilitado**. Comando pode ser usado **{val1}**.",
 

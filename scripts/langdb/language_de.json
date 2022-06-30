@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Verweigerte Berechtigungen.** Bitte kontaktiere einen Admin. Folgende Berechtigungen sind **verweigert** in **{val1}** für TempVoice: {val2} um temporäre Kanäle zu erstellen.",
         "error_permissions_sync" : "**Fehlende Berechtigungen.** Bitte kontaktiere einen Admin. Folgende Berechtigungen **fehlen** in der Rolle innerhalb der **Server Settings** für TempVoice: {val1} um Permissions von **{val2}** zu Syncen.",
         "error_deactivated" : "**Deaktiviert**. Dieser Befehl ist für alle temporären Sprachkanäle von {val1} deaktiviert.",
-        "error_limit" : "**Nicht möglich** Das Limit für Creator Channels auf diesem Discord Server ist **{val1}**. Versuche einen Creator Channel mit **/setup delete** zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",
+        "error_limit" : "**Nicht möglich** Das Limit für Creator Channels auf diesem Discord Server ist **{val1}**. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",
         "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit **/setup creator**.",
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
 

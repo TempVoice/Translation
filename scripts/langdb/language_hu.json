@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Megtagadott jog** Kérjük, forduljon egy adminhoz. A tempvoice-hoz a következő engedélyek **megtagadva** vannak a **{val1}** alatt: {val2} az ideiglenes csatornák megfelelő létrehozásához.",
         "error_permissions_sync" : "**Hiányzó engedélyek.** Kérjük, vegye fel a kapcsolatot egy adminnal. A következő engedélyek **hiányoznak** a TempVoice **kiszolgálóbeállítások** szerepkörében: {val1} az engedélyek megfelelő szinkronizálásához a **{val2}**.",
         "error_deactivated" : "**Nem lehetséges.** Ez a parancs a{val1} összes ideiglenes hangcsatornáján inaktiválva van.",
-        "error_limit" : "**Nem lehetséges.** Az egyetlen szerveren lévő alkotói csatornák korlátja {val1}. Próbáljon meg törölni egyet a **/setup delete** paranccsal, vagy növelje a korlátot egy magasabbra [prémium](<https://www.patreon.com/tempvoice>) szintre.",
+        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Érvénytelen csatorna.** A kiválasztott alkotói csatorna nem létezik.",
         "error_ratelimit" : "**Lassítson!** Ez a parancs újra használható **{val1}**.",
 

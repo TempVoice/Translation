@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Reddedilen İzinler.** Lütfen bir Yönetici ile iletişime geçin. TempVoice için **{val1}** deki izinler reddedildi: {val2}. Geçici kanalları düzgün bir şekilde oluşturmak için gerekli.",
         "error_permissions_sync" : "**Eksik İzinler.** Lütfen bir Yönetici ile iletişime geçin. TempVoice için **sunucuyu yönet** rolü **eksik**: {val1}, izinleri **{val2}** oluşturucusundan düzgün şekilde senkronize etmek için gerekli.",
         "error_deactivated" : "**Devre dışı.** Bu komut, {val1}'in tüm geçici ses kanalları için devre dışı bırakılmıştır.",
-        "error_limit" : "**Mümkün değil.** Tek bir sunucudaki oluşturucu kanallarının olma limiti **{val1}**. **/setup delete** ile bir tanesini silmeyi deneyebilirsin veya [Premium](<https://www.patreon.com/tempvoice>) ile limiti yükseltebilirsin.",
+        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Yanlış kanal.** Seçilen içerik oluşturucu kanalı mevcut değil.",
         "error_ratelimit" : "**Henüz mümkün değil.** Komut **{val1}** için kullanılabilir.",
         

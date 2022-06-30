@@ -76,7 +76,7 @@
         "error_permissions_access" : "**Отказ в разрешениях.** Пожалуйста, свяжись с администратором. Следующие разрешения **запрещены** в **{val1}** для TempVoice: {val2} для того, чтобы правильно создавать временные каналы.",
         "error_permissions_sync" : "**Отсутствуют разрешения.** Пожалуйста, свяжись с администратором. Следующие разрешения **отсутствуют** в роли **настройки сервера** для TempVoice: {val1}, чтобы правильно синхронизировать разрешения из **{val2}**..",
         "error_deactivated" : "**Деактивировано**. Эта команда отключеная для всех временных голосовых каналов {val1}.",
-        "error_limit" : "**Невозможно.** Ограничение на количество каналов создателя на одном сервере равно **{val1}**. Попробуйте удалить один из них с помощью **/setup delete** или повысте количество с [premium](<https://www.patreon.com/tempvoice>).",
+        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Неправильный канал**. Выбранный канал создателя не существует.",
         "error_ratelimit" : "**Пока невозможно**. Команду можно использовать **{val1}**.",
         
