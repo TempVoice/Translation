@@ -20,6 +20,7 @@
         "cmd_config_thread_description" : "임시 스레드의 보관 시간 변경",
         "cmd_config_position_description" : "Change the position for temporary channels",
 
+        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "임시 채널의 음질/bitrate 설정",
         "cmd_voice_block_description" : "차단된 사용자는 임시 채널을 볼 수 없음",
         "cmd_voice_claim_description" : "소유권을 양도받기 위해 해당 임시 채널의 소유권 양도 주장",
@@ -79,6 +80,10 @@
         "error_channel" : "**잘못된채널**. 선택한 생성 채널이 존재하지않습니다.",
         "error_ratelimit" : "**아직은 허용되지않음**. 해당 명령은 **{val1}**에 다시 이용이 가능합니다. 남은 타이머가 표시되므로 수시로 해당메세지를 확인해주세요.",
 
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**제한됨**. 비트레이트 설정은 > **{val1}** 의 수치를 넘을 수 없습니다.",
         "voice_bitrate_2" : "**변경됨**. 채널 비트레이트가 **{val1}kbps로 변경되었습니다**.",
         "voice_block_1" : "**불가능** 최대 **{val1}** 명의 사용자만 차단할 수 있으며, 프리미엄 구독을 활성화하여 제한을 해제할 수 있습니다. [프리미엄](<https://www.patreon.com/tempvoice>)",

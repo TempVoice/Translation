@@ -20,6 +20,7 @@
         "cmd_config_thread_description" : "Geçici kanalların arşiv süresini değiştirin.",
         "cmd_config_position_description" : "Change the position for temporary channels",
 
+        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "Geçici kanalın bit hız kalitesini değiştirin.",
         "cmd_voice_block_description" : "Engellenen kullanıcılar geçici kanalınızı göremez.",
         "cmd_voice_claim_description" : "Kanal sahipliğini kazanmak için geçici bir kanal talep edin.",
@@ -80,6 +81,10 @@
         "error_channel" : "**Yanlış kanal.** Seçilen içerik oluşturucu kanalı mevcut değil.",
         "error_ratelimit" : "**Henüz mümkün değil.** Komut **{val1}** için kullanılabilir.",
         
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**Sınırlama.** Bit hızı **{val1}**'den büyük olamaz.",
         "voice_bitrate_2" : "**Değiltirildi.** Kanalınızın bit hızı artık **{val1} kbps**.",
         "voice_block_1" : "**Mümkün değil.** Sadece **{val1}** kullanıcıya kadar engelleyebilirsin. [Premium](<https://www.patreon.com/tempvoice>) ile engelleme limitini artırın.",

@@ -32,6 +32,10 @@
         "error_channel" : " قناة خاطئة** -> قناة المنشئ المحددة غير موجودة**",
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
 
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
         "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
         "voice_block_1" : "[premium](<https://www.patreon.com/tempvoice>) <- المستخدمين. زيادة الحد مع أعلى <- **{val1}** <- غير ممكن** -> يمكنك فقط حظر ما يصل إلى**",
