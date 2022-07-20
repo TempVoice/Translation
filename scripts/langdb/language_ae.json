@@ -12,7 +12,7 @@
         "info_nousers" : "**لا يوجد مستخدمون**",
 
         "error_permited" : "الرتبة المفقودة** -> لا يمكن استخدام قناة المنشئ هذه إلا مع رتبة معينة**",
-        "error_type" : "غير ممكن** -> لا يمكن تغيير الخيار لنوع قناة منشئ المحتوى هذا**",
+        "error_type" : "غير ممكن -> لا يمكن تغيير الخيار لنوع قناة منشئ المحتوى هذا",
         "error_ownerless" : "هي بلا مالك ولا يمكن إدارتها <- {val1} <- غير ممكن** -> القنوات الصوتية المؤقتة من**",
         "error_empty" : " غير ممكن** -> لا يوجد مستخدمون يمكنك الاختيار من بينهم**",
         "error_missing" : " مفقود** -> الخيار المطلوب لهذا الأمر مفقود**",
@@ -32,6 +32,10 @@
         "error_channel" : " قناة خاطئة** -> قناة المنشئ المحددة غير موجودة**",
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
 
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
         "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
         "voice_block_1" : "[premium](<https://www.patreon.com/tempvoice>) <- المستخدمين. زيادة الحد مع أعلى <- **{val1}** <- غير ممكن** -> يمكنك فقط حظر ما يصل إلى**",
@@ -53,7 +57,7 @@
         "voice_name_1" : " غير ممكن** -> هذا الاسم ممنوع لجميع القنوات الصوتية المؤقتة**",
         "voice_name_2" : "**{val1}** <- تغير** -> اسم قناتك الآن**",
         "voice_privacy_1" : "**الآن **مقفل <- {val1} <- **تحديث**",
-        "voice_privacy_2" : "**الآن **مقفلة <- {val1} <- **تحديث**",
+        "voice_privacy_2" : "**الآن **مفتوحة <- {val1} <- **تحديث**",
         "voice_privacy_3" : "**الآن **مخفي <- {val1} <- **تحديث**",
         "voice_privacy_4" : "**الآن **غير مخفي <- {val1} <- **تحديث**",
         "voice_region_1" : "**{val2}** الى {val1} تغيرت المنطقة** -> تم تغيير المنطقه من**",

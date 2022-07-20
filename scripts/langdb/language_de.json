@@ -20,6 +20,7 @@
         "cmd_config_thread_description" : "Ändere die Archivierungszeit für temporäre Threads",
         "cmd_config_position_description" : "Ändere die Position von temporären Kanälen",
 
+        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "Ändern der Audio Qualität des temporären Kanals",
         "cmd_voice_block_description" : "Blockiere User, damit diese den temporären Kanal nicht mehr sehen können",
         "cmd_voice_claim_description" : "Beanspruche einen temporären Kanal, wenn der Besitzer diesen Verlassen hat",
@@ -80,6 +81,10 @@
         "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit **/setup creator**.",
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
 
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**Limitiert**. Die Bitrate kann nicht > {val1} sein.",
         "voice_bitrate_2" : "**Geändert**. Deine Bitrate beträgt jetzt **{val1} kbps**.",
         "voice_block_1" : "**Nicht möglich** Du kannst nur bis zu **{val1}** User sperren. Erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",

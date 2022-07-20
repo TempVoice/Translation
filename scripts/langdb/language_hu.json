@@ -20,6 +20,7 @@
         "cmd_config_thread_description" : "Módosítsa az ideiglenes gondolatmenet archiválási idejét",
         "cmd_config_position_description" : "Change the position for temporary channels",
 
+        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "Az ideiglenes csatornád bitráta-minőségének módosítása",
         "cmd_voice_block_description" : "A letiltott felhasználók nem tudják megtekinteni az ideiglenes csatornádat",
         "cmd_voice_claim_description" : "Ideiglenes csatorna igénylése a tulajdonjog megszerzéséhez",
@@ -80,6 +81,10 @@
         "error_channel" : "**Érvénytelen csatorna.** A kiválasztott alkotói csatorna nem létezik.",
         "error_ratelimit" : "**Lassítson!** Ez a parancs újra használható **{val1}**.",
 
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**Nem lehetséges.** A bitráta nem lehet nagyobb, mint **{val1}**.",
         "voice_bitrate_2" : "**Frissítve!** Csatornád bitrátája most **{val1} kbps**.",
         "voice_block_1" : "**Nem lehetséges.** Csak **{val1}** felhasználókat blokkolhat. Növelje a limitet magasabb [prémium](<https://www.patreon.com/tempvoice>) szintre.",

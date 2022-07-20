@@ -20,6 +20,7 @@
         "cmd_config_thread_description" : "Изменение времени архивирования временных потоков",
         "cmd_config_position_description" : "Change the position for temporary channels",
 
+        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "Изменение качества битрейта твоего временного канала",
         "cmd_voice_block_description" : "Заблокированные пользователи не могут просматривать твой временный канал",
         "cmd_voice_claim_description" : "Претендовать на временный канал, чтобы получить право собственности на него",
@@ -80,6 +81,10 @@
         "error_channel" : "**Неправильный канал**. Выбранный канал создателя не существует.",
         "error_ratelimit" : "**Пока невозможно**. Команду можно использовать **{val1}**.",
         
+        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
+        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
+        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
+        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**Ограничение**. Битрейт не может быть > **{val1}**.",
         "voice_bitrate_2" : "**Изменено**. Битрейт Вашего канала теперь **{val1} kbps**.",
         "voice_block_1" : "**Невозможно.** Вы можете заблокировать только до **{val1}** пользователей. Увеличьте лимит с помощью более высокой [premium](<https://www.patreon.com/tempvoice >).",
