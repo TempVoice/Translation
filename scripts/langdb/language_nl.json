@@ -81,6 +81,7 @@
         "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : "**Ongelding kanaal.** Het geselecteerde kanaal bestaat niet.",
         "error_ratelimit" : "**Langzaam aan!** Dit command kan over **{val1}** weer gebruikt worden.",
+        "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
 
         "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",

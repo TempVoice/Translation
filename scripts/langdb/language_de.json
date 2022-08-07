@@ -81,6 +81,7 @@
         "error_limit" : "**Nicht möglich** Das Limit für Creator Channels auf diesem Discord Server ist **{val1}**. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",
         "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit **/setup creator**.",
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
+        "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
 
         "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
