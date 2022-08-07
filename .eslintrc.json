@@ -26,6 +26,8 @@
 	"overrides": [
 		{
 			"rules": {
+				"no-plusplus": 0,
+				"import/no-dynamic-require": 0,
 				"no-console": "off",
 				"no-tabs": "off",
 				"eqeqeq": "off",
