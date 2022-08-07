@@ -11,6 +11,7 @@
         "info_menu" : " :استخدم القائمة لتحديد خيارك",
         "info_nousers" : "**لا يوجد مستخدمون**",
 
+        "error_validated" : "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
         "error_permited" : "الرتبة المفقودة** -> لا يمكن استخدام قناة المنشئ هذه إلا مع رتبة معينة**",
         "error_type" : "غير ممكن -> لا يمكن تغيير الخيار لنوع قناة منشئ المحتوى هذا",
         "error_ownerless" : "هي بلا مالك ولا يمكن إدارتها <- {val1} <- غير ممكن** -> القنوات الصوتية المؤقتة من**",
@@ -31,6 +32,7 @@
         "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_channel" : " قناة خاطئة** -> قناة المنشئ المحددة غير موجودة**",
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
+        "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
 
         "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
@@ -38,7 +40,7 @@
         "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
         "voice_bitrate_1" : "**{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
         "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
-        "voice_block_1" : "[premium](<https://www.patreon.com/tempvoice>) <- المستخدمين. زيادة الحد مع أعلى <- **{val1}** <- غير ممكن** -> يمكنك فقط حظر ما يصل إلى**",
+        "voice_block_1" : "**Not Possible** You can only block up to **{val1}** users.",
         "voice_block_2" : " غير ممكن** -> هذا المستخدم ممنوع بالفعل**",
         "voice_block_3" : "ممنوع** -> تم حظر المستخدم من القناة الصوتية المؤقتة الخاصة بك**",
         "voice_claim_1" : " غير ممكن** -> لا يمكنك المطالبة بقناة صوتية عادية**",
