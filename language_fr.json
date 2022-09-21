@@ -53,7 +53,7 @@
         "cmd_help_description" : "Helpful links to our website and support server",
 
         "info_setup" : "**Mise en place réussie**. {val1} peu maintenant être utiliser pour créer les salons temporaires dans votre serveur Discord !",
-        "info_setup2" : "**Setup terminé**. Cette [Interface] ({val1}) peut maintenant être utilisée pour gérer les canaux vocaux temporaires de votre serveur Discord !",
+        "info_setup2" : "**Setup terminé**. Cette [Interface]({val1}) peut maintenant être utilisée pour gérer les canaux vocaux temporaires de votre serveur Discord !",
         "info_removed" : "**Supprimé**. Le canal créateur sélectionné a été supprimé. Créez-en un nouveau avec **/setup creator**.",
         "info_reset" : "**Reset**. La configuration a été réinitialisée par défaut.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
