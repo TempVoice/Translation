@@ -52,6 +52,9 @@
 
         "cmd_help_description" : "Helpful links to our website and support server",
 
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+
         "info_setup" : "**Setup Complete!** {val1} can now be used to create temporary voice channels in your Discord server.",
         "info_setup2" : "**Setup Complete!** This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
         "info_removed" : "**Removed!** The selected creator channel has been removed. Create a new one with **/setup creator**.",

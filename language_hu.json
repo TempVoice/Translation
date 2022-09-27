@@ -52,6 +52,9 @@
 
         "cmd_help_description" : "Hasznos linkek a weboldalunkhoz és a támogatási szerverhez",
 
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+
         "info_setup" : "**A beállítás befejeződött!** {val1} mostantól ideiglenes hangcsatornák létrehozására használható a szerveren.",
         "info_setup2" : "**A beállítás befejeződött!** Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",
         "info_removed" : "**Eltávolítva!**A kiválasztott alkotói csatorna el lett távolítva. Hozzon létre egy újat a **/setup creator** segítségével.",

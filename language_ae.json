@@ -3,6 +3,9 @@
         "lang" : "ae"
     },
     {
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        
         "info_setup" : "{val1} <- تم الإعداد** -> يمكنك الآن إنشاء قنوات صوتية مؤقتة في الدسكـورد الخاص بك**",
         "info_setup2" : "[Interface]({val1}) <- تم الإعداد** ->  يمكنك الآن استخدامها لإدارة القنوات الصوتية المؤقتة في الدسكـورد الخاص بك**",
         "info_removed" : "**/setup creator** <- تم إزالته** -> تمت إزالة قناة المنشئ المحددة. قم بإنشاء قناة جديدة باستخدام**",

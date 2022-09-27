@@ -52,6 +52,9 @@
 
         "cmd_help_description" : "Helpful links to our website and support server",
 
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+
         "info_setup" : "**Installatie voltooid!** {val1} kan nu gebruikt worden om tijdelijke spraakkanalen aan te maken in je Discord server.",
         "info_setup2" : "**Installatie voltooid!** Dit [menu]({val1}) kan nu gebruikt worden om tijdelijke spraakkanalen te beheren in je Discord server.",
         "info_removed" : "**Verwijderd!** De geselecteerde spraakkanaal-maker is verwijderd. Maak een nieuwe met **/setup creator**.",
