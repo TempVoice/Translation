@@ -52,6 +52,9 @@
 
         "cmd_help_description" : "Destek sunucumuz ve web sitemiz hakkında yardımcı bağlantılar al.",
 
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+
         "info_setup" : "**Kurulum Tamamlandı!** {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
         "info_setup2" : "**Kurulum Tamamlandı!** [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
         "info_removed" : "**Kaldırıldı!** Seçilen oluşturucu kanalı kaldırıldı. Yeniden oluşturmak için **/setup creator** komutunu kullanın.",

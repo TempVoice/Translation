@@ -52,6 +52,9 @@
 
         "cmd_help_description" : "Erhalte hilfreiche Links zu unserer Website und unserem Support-Server.",
 
+        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
+        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+
         "info_setup" : "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
         "info_setup2" : "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
         "info_removed" : "**Entfernt**. Der ausgewählte Creator Channel wurde entfernt. Erstelle einen neuen mit **/setup creator**.",
@@ -154,7 +157,7 @@
         "config_bitrate_1" : "**Geändert**. Die Audio Qualität von temporären Sprachkanälen wurde geändert.",
 
         "premium_activate_1" : "**Premium erforderlich!** Du musst TempVoice auf Patreon unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
-        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon] (https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit **/premium deactivate**.",
+        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit **/premium deactivate**.",
         "premium_activate_3" : "**Aktiviert.** Alle Nutzer auf diesem Discord-Server müssen nicht mehr voten. **Viel Spaß!**",
         "premium_deactivate_1" : "**Premium benötigt.** Du müssst Premium erst aktivieren, bevor du es auf diesem Discord-Server deaktivieren kannst.",
         "premium_deactivate_2" : "**Premium abgelaufen.** Dein Premium ist bereits abgelaufen.",
