@@ -113,13 +113,13 @@
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Aktyvuota.** Visi naudotojai šiame discord serveryje nebeturi balsuoti. **Mėgaukitės!**",
         "premium_deactivate_1" : "**Reikalingas premium.** Norint išjungti premium ant šio serverio, primiausia reikia jį įjungti.",
         "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
-        "interface_description" : "Šią [**sąsają**](https://docs.tempvoice.xyz/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [**/voice**](https://docs.tempvoice.xyz/commands) komandas.",
+        "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [**/voice**](https://tempvoice.xyz/docs/commands) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus."
     }
 ]

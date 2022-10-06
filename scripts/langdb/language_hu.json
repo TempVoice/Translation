@@ -113,13 +113,13 @@
         "voice_close_1" : "**Bezárva!** Az ideiglenes hangcsatornádat bezártuk.",
 
         "premium_activate_1" : "**Prémium szükséges.** A prémium szolgáltatás aktiválásához ezen a szerver TempVoice Premium előfizetésre van szüksége. Ha már előfizetett, **várjon** a következő teljes óráig az érvényesítéshez, és győződjön meg róla, hogy [ A Discord-fiók össze van kapcsolva Patron-fiókjával](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Nem lehetséges.** Csak {val1} szervereken aktiválhatja a prémium szolgáltatást. Kérjük, frissítse előfizetését a [Patreon](https://www.patreon.com/tempvoice) oldalon, vagy távolítson el egy másik szervert a **/premium deactivate** használatával.",
+        "premium_activate_2" : "**Nem lehetséges.** Csak {val1} szervereken aktiválhatja a prémium szolgáltatást. Kérjük, frissítse előfizetését a [Patreon](https://www.patreon.com/tempvoice) oldalon, vagy távolítson el egy másik szervert a **/premium** használatával.",
         "premium_activate_3" : "**Aktiválva!** A Discord szerver felhasználóinak már nem kell szavazniuk. **Élvezd!**",
         "premium_deactivate_1" : "**Prémium szükséges.** Aktiválnia kell a prémiumot, mielőtt deaktiválhatná.",
         "premium_deactivate_2" : "**Prémium lejárt.** A prémium előfizetés lejárt.",
         "premium_deactivate_3" : "**Deaktivált!** A Discord szerver felhasználóinak újra szavazniuk kell.",
 
-        "interface_description" : "Ez az [**interfész**](https://docs.tempvoice.xyz/commands) használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a [**/voice**](https://docs.tempvoice.xyz/commands) parancsokon keresztül.",
+        "interface_description" : "Ez az [**interfész**](https://tempvoice.xyz/docs/commands) használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a [**/voice**](https://tempvoice.xyz/docs/commands) parancsokon keresztül.",
         "interface_footer" : "Ez a felület az alábbi gombok megnyomásával használható"
     }
 ]

@@ -113,13 +113,13 @@
         "voice_close_1" : "**Geschlossen**. Du hast deinen temporären Kanal vorzeitig geschlossen.",
 
         "premium_activate_1" : "**Premium erforderlich!** Du musst TempVoice auf Patreon unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
-        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit **/premium deactivate**.",
+        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit **/premium**.",
         "premium_activate_3" : "**Aktiviert.** Alle Nutzer auf diesem Discord-Server müssen nicht mehr voten. **Viel Spaß!**",
         "premium_deactivate_1" : "**Premium benötigt.** Du müssst Premium erst aktivieren, bevor du es auf diesem Discord-Server deaktivieren kannst.",
         "premium_deactivate_2" : "**Premium abgelaufen.** Dein Premium ist bereits abgelaufen.",
         "premium_deactivate_3" : "**Deaktiviert.** Alle Nutzer auf diesem Discord-Server müssen wieder voten.",
 
-        "interface_description" : "Dieses [**Interface**](https://docs.tempvoice.xyz/commands) kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [**/voice**](https://docs.tempvoice.xyz/commands) Chat Befehlen zur verfügung.",
+        "interface_description" : "Dieses [**Interface**](https://tempvoice.xyz/docs/commands) kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [**/voice**](https://tempvoice.xyz/docs/commands) Chat Befehlen zur verfügung.",
         "interface_footer" : "Das Interface kann mit den unteren Buttons verwendet werden."
     }
 ]

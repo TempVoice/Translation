@@ -113,13 +113,13 @@
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
         "premium_activate_1" : "**Premium Required** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Activated!** Users on this Discord server no longer have to vote. **Enjoy!**",
         "premium_deactivate_1" : "**Premium Required** You have to activate premium before you can deactivate it.",
         "premium_deactivate_2" : "**Premium Expired** Your premium subscription has expired.",
         "premium_deactivate_3" : "**Deactivated!** Users on this Discord server have to vote again.",
 
-        "interface_description" : "This [**interface**](https://docs.tempvoice.xyz/commands) can be used to manage temporary voice channels. More options are available with [**/voice**](https://docs.tempvoice.xyz/commands) commands.",
+        "interface_description" : "This [**interface**](https://tempvoice.xyz/docs/commands) can be used to manage temporary voice channels. More options are available with [**/voice**](https://tempvoice.xyz/docs/commands) commands.",
         "interface_footer" : "Press the buttons below to use the interface"
     }
 ]
