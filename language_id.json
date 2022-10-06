@@ -79,7 +79,7 @@
         "voice_close_1" : "**Ditutup!** Voice channel sementara kamu telah ditutup.",
 
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Diaktifkan!** Pengguna di server ini tidak perlu vote lagi. **Enjoy!**",
         "premium_deactivate_1" : "**Memerlukan Premium.** Kamu harus mengaktifkan premium dulu sebelum dapat menonaktifkannya",
         "premium_deactivate_2" : "**Premium expired.** Langganan premium kamu sudah habis.",
@@ -87,7 +87,7 @@
 
         "help_1" : "**Bantuan Datang!** Berikut adalah beberapa link untuk penggunaan TempVoice.",
         
-        "interface_description" : "[**interface**](https://docs.tempvoice.xyz/commands) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [**/voice**](https://docs.tempvoice.xyz/commands).",
+        "interface_description" : "[**interface**](https://tempvoice.xyz/docs/commands) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [**/voice**](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Interface ini dapat digunakan dengan menekan tombol di bawah."
     }
 ]

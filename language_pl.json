@@ -113,13 +113,13 @@
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Aktywowano.** Wszyscy użytkownicy na tym serwerze Discord nie muszą już głosować. **Rozkoszuj się!**",
         "premium_deactivate_1" : "**Wymagane Premium**. Musisz najpierw aktywować premium, zanim będziesz mógł je dezaktywować na tym serwerze Discord.",
         "premium_deactivate_2" : "**Premium wygasło.** Twoja subskrypcja premium już wygasła.",
         "premium_deactivate_3" : "**Dezaktywowano.** Wszyscy użytkownicy na tym serwerze Discord muszą zagłosować ponownie.",
         
-        "interface_description" : "Ten [**Interfejs**](https://docs.tempvoice.xyz/commands) może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnym pod komendą [**/voice**](https://docs.tempvoice.xyz/commands).",
+        "interface_description" : "Ten [**Interfejs**](https://tempvoice.xyz/docs/commands) może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnym pod komendą [**/voice**](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Interfejs może być użyty wciskając przyciski poniżej"
     }
 ]

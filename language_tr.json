@@ -113,13 +113,13 @@
         "voice_close_1" : "**Kapatıldı!** Geçici ses kanalınız kapatıldı.",
 
         "premium_activate_1" : "**Premium gerekli!** Bu Discord sunucusunda Premium'u etkinleştirmek için TempVoice Premium aboneliğine ihtiyacınız var. Eğer çoktan aboneyseniz, [Discord Hesabınızın Patreon hesabınıza bağlandığından](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) emin olduktan bir sonraki tam saate kadar onaylanmak için **bekleyiniz**.",
-        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya **/premium deactivate** ile başka bir sunucudan kaldırın.",
+        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya **/premium** ile başka bir sunucudan kaldırın.",
         "premium_activate_3" : "**Aktifleştirildi!** Bu Discord sunucusundaki tüm kullanıcılar artık oy vermek zorunda değil. **Eğlenin!**",
         "premium_deactivate_1" : "**Premium gerekli!** Bu Discord sunucusunda, Premium'u devre dışı bırakmadan önce etkinleştirmeniz gerekir.",
         "premium_deactivate_2" : "**Premium süresi doldu!** Premium aboneliğiniz süresi doldu.",
         "premium_deactivate_3" : "**Devre dışı!** Bu Discord sunucusundaki tüm kullanıcıların, tekrar oy kullanması gerekiyor.",
 
-        "interface_description" : "Bu [arayüz](https://docs.tempvoice.xyz/commands), geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://docs.tempvoice.xyz/commands) komutunu kullanın.",
+        "interface_description" : "Bu [arayüz](https://tempvoice.xyz/docs/commands), geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://tempvoice.xyz/docs/commands) komutunu kullanın.",
         "interface_footer" : "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir."
     }
 ]
