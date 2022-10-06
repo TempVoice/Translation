@@ -3,7 +3,7 @@
         "lang" : "il"
     },
     {
-        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
 
         "info_setup" : "**ההכנה הושלמה**. {val1} יכול עכשיו לשמש ליצירת חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_setup2" : "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
@@ -78,42 +78,12 @@
         "voice_thread_2" : "**נוצר**. חדר צ'אט זמני נוצר.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
-        "config_category_1" : "**Updated!** The category has been changed.",
-        "config_censor_1" : "**לא אפשרי**. המילה **{val1}** כבר חסומה לחדרי שיחה זמניים.",
-        "config_censor_2" : "**Not Possible.** You can only censor up to **{val1}** words.",
-        "config_censor_3" : "**הוסף**. המילה **{val1}** לא יכולה להיות חלק משמות של חדרי שיחה זמניים.",
-        "config_censor_4" : "**לא אפשרי**. המילה **{val1}** לא הייתה חסומה לשמות של חדרי שיחה זמניים.",
-        "config_censor_5" : "**הוסר**. המילה **{val1}** עכשיו לא חסומה יותר לשמות של חדרי שיחה זמניים.",
-        "config_channel_1" : "**לא אפשרי**. אין שום חדרי יוצר שיחות. צרו אחד עם **/setup creator**.",
-        "config_censor_6" : "**Updated!** The word **{val1}** will now be used to replace censored words.",
-        "config_feature_1" : "**הושבט**. התכונה הושבטה.",
-        "config_feature_2" : "**הופעלה**. התכונה הופעלה מחדש.",
-        "config_limit_1" : "**Updated!** The user limit for {val1} has been changed to **{val2}**.",
-        "config_name_1" : "**Updated!** The name for {val1} has been changed to **{val2}**.",
-        "config_name_2" : "**Not Possible.** The selected name must include a **{CUSTOM}** placeholder.",
-        "config_name_3" : "**Not Possible.** The selected name cannot include a **{val1}** placeholder.",
-        "config_role_1" : "**Updated!** {val1} will be the default member role instead of @everyone.",
-        "config_role_2" : "**Updated!** {val1} will assign or remove a role when a user joins/leaves a temporary voice channel.",
-        "config_role_3" : "**Updated!** {val1} will be permited to created temporary voice channel.",
-        "config_role_4" : "**Updated!** {val1} won’t be permited anymore to created temporary voice channel.",
-        "config_role_5" : "**Not Possible.** You can only permit up to **{val1}** roles to create temporary voice channel.",
-        "config_permission_1" : "**Updated!** Role overwrite permissions will now be synced from {val1}.",
-        "config_permission_2" : "**Updated!** Role overwrite permissions won’t be synced from {val1} anymore.",
-        "config_send_1" : "**Updated!** Following message will now be send into every newly created voice channel: **{val1}**.",
-        "config_language_1" : "**עודכן**. השפה שונתה ל**עברית**.",
-        "config_color_1" : "**Updated!** The server’s color has been updated to {val1}.",
-        "config_behavior_1" : "**שונה**. ההתנהגות של התכונה שנבחרה השתנתה.",
-        "config_placeholder_1" : "**Updated!** The default text of this empty placeholder has been updated.",
-        "config_bitrate_1" : "**שונה**. איכות השמע של ערוצי קול זמניים שונתה.",
-
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
         "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
         "premium_activate_3" : "**הופעל.** כל המשתמשים בשרת הדיסקורד הזה לא צריכים להצביע יותר. **תהנו!**",
         "premium_deactivate_1" : "**פרימיום נדרש.** אתה צריך להפעיל פרימיום לפני שאתה יכול לבטל אותו בשרת הדיסקורד הזה.",
         "premium_deactivate_2" : "**פג תוקף הפרימיום.** מנוי הפרימיום שלך כבר פג תוקף.",
         "premium_deactivate_3" : "**בוטל.** כל המשתמשים בשרת הדיסקורד הזה יצתרכו להצביע שוב.",
-
-        "help_1" : "**עזרה**. הנה כמה קישורים שיעזרו לכם להשתמש בTempVoice.",
         
         "interface_description" : "ניתן להשתמש ב[**ממשק**](https://docs.tempvoice.xyz/commands) זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות [**/voice**](https://docs.tempvoice.xyz/commands).",
         "interface_footer" : "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה"
