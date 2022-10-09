@@ -18,9 +18,9 @@
         "cmd_voice_region_description" : "Ändere die Region deines temporären Kanals.",
         "cmd_voice_thread_description" : "Erstelle einen temporären Thread für deinen temporären Kanal.",
         "cmd_voice_transfer_description" : "Übertrage die Kontrolle deines temporären Kanals auf einen anderen Nutzer.",
-        "cmd_voice_trust_description" : "Vertraue einem Nutzer, damit dieser deinem temporären Kanal jederzeit beitreten kann.",
+        "cmd_voice_trust_description" : "Vertraue einem Nutzer, damit dieser deinem temporären Kanal jederzeit joinen kann.",
         "cmd_voice_unblock_description" : "Entblockiere einen Nutzer, damit dieser deinen temporären Kanal wieder sehen kann.",
-        "cmd_voice_untrust_description" : "Misstraue einem Nutzer, damit dieser deinem geschlossenen temporären Kanal nicht mehr beitreten kann.",
+        "cmd_voice_untrust_description" : "Misstraue einem Nutzer, damit dieser deinem geschlossenen temporären Kanal nicht mehr joinen kann.",
         "cmd_voice_users_description" : "Bekomme eine Liste mit allen Vertrauten und Blockierten Nutzern deines temporären Kanals.",
 
         "cmd_setup_color_description" : "Ändere das Farb-Theme von TempVoice.",

@@ -5,7 +5,7 @@ let arr = ['./language_uk.json', './language_hu.json', './language_nl.json', './
 //let arr = ['./language_de.json', './language_fr.json'];
 for (let i = 0; i < arr.length; i++) {
 	const TransFile = require(arr[i]);
-	const { lang, discordLang } = TransFile[0]
+	const { lang, discord_lang } = TransFile[0]
 
 	Object.entries(TransFile[1]).forEach(async ([name, text]) => {
 		let LangItem = await Languages.findOne({ name, lang })
@@ -13,7 +13,7 @@ for (let i = 0; i < arr.length; i++) {
 		if (LangItem === null) LangItem = new Languages()
 
 		LangItem.overwrite({
-			lang, name, text, discordLang
+			lang, name, text, discord_lang
 		})
 
 		console.log(`Adding => ${lang} : ${name}`)
