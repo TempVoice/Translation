@@ -113,13 +113,13 @@
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Activer.** Tout les utilisateurs de ce serveur n'ont plus à voter désormais. **Enjoy!**",
         "premium_deactivate_1" : "**Premium expirer.** Vous devez d'abord activer le premium avant de pouvoir le désactiver par la suite sur ce serveur Discord.",
         "premium_deactivate_2" : "**Premium expirer.** Votre abonnement premium a déjà expiré.",
         "premium_deactivate_3" : "**Désactiver** Tout les utilisateur de ce Discord vont devoir voté à nouveau.",
         
-        "interface_description" : "Cette [**interface**](https://docs.tempvoice.xyz/commands) peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponibles via les commandes [**/voice**](https://docs.tempvoice.xyz/commands).",
+        "interface_description" : "Cette [**interface**](https://tempvoice.xyz/docs/commands) peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponibles via les commandes [**/voice**](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous"
     }
 ]

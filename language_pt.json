@@ -113,13 +113,13 @@
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
         
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium deactivate**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
         "premium_activate_3" : "**Ativado.** Todos os utilizadores deste servidor não terão mais de votar. **Enjoy!**",
         "premium_deactivate_1" : "**Necessário Premium.** Necessita de uma subscrição premium para usar este comando.",
         "premium_deactivate_2" : "**Premium expirado.** A sua subscrição já expirou.",
         "premium_deactivate_3" : "**Desativado.** Os utilizadores deste servidor terão de votar novamente.",
 
-        "interface_description" : "Esta [**interface**](https://docs.tempvoice.xyz/commands) pode ser utilizada para editar o seu canal de voz temporário. Mais opções estão disponíveis através de [**/voz***](https://docs.tempvoice.xyz/commands) comandos.",
+        "interface_description" : "Esta [**interface**](https://tempvoice.xyz/docs/commands) pode ser utilizada para editar o seu canal de voz temporário. Mais opções estão disponíveis através de [**/voz***](https://tempvoice.xyz/docs/commands) comandos.",
         "interface_footer" : "Esta interface pode ser utilizada premindo os botões abaixo"
     }
 ]
