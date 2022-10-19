@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Zaufani użytkownicy mogą zawsze dołączyć na Twój prywatny kanał",
         "cmd_voice_unblock_description" : "Odblokowani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
         "cmd_voice_untrust_description" : "Niezaufani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
-        "cmd_voice_users_description" : "Pokazuje listę wszystkich zaufanych, zablokowanych i moderatorów Twojego tymczasowego kanału głosowego",
+        "cmd_voice_users_description" : "Pokazuje listę wszystkich zaufanych i zablokowanych tymczasowych kanałów głosowych",
 
         "cmd_setup_color_description" : "Zmień kolor emotek TempVoice",
         "cmd_setup_creator_description" : "Stwórz nowy kanał twórcy",
@@ -30,7 +30,7 @@
         "cmd_setup_language_description" : "Zmień globalny język TempVoice",
         "cmd_setup_tempvoice_description" : "Ustaw TempVoice łatwo z pomocą asystenta",
 
-        "cmd_premium_activate_description" : "Aktywuj Premium na tym serwerze Discord, aby ominąć głosowanie dla wszystkich użytkowników na serwerze",
+        "cmd_premium_activate_description" : "Aktywuj Premium na tym serwerze, aby ominąć głosowanie dla wszystkich użytkowników na serwerze",
         "cmd_premium_deactivate_description" : "Dezaktywuj Premium na tym serwerze Discord",
         "cmd_premium_status_description" : "Informacja o statusie Premium na tym serwerze Discord",
 

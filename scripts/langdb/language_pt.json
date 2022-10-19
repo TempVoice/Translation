@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Os utilizadores de confiança podem sempre juntar-se ao seu canal temporário",
         "cmd_voice_unblock_description" : "Os utilizadores desbloqueados podem aderir ao seu canal temporário aberto",
         "cmd_voice_untrust_description" : "Os utilizadores não confiáveis podem aderir ao seu canal temporário aberto",
-        "cmd_voice_users_description" : "Mostra-lhe uma lista de todos os utilizadores de confiança e bloqueados do seu canal de voz temporário",
+        "cmd_voice_users_description" : "Mostra-lhe uma lista de todos os utilizadores de confiança e bloqueados do seu canal temporário",
 
         "cmd_setup_color_description" : "Mudar as cores emoji da TempVoice",
         "cmd_setup_creator_description" : "Configurar um novo canal criador para a criação de canais de voz temporários",

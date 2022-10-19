@@ -34,10 +34,10 @@
         "cmd_premium_deactivate_description" : "Deaktiviere Premium auf einem Discord Server.",
         "cmd_premium_status_description" : "Bekomme Informationen zum Premium Status auf einem Discord-Server.",
 
-        "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
-        "cmd_premium_description" : "Manage your TempVoice premium subscription",
+        "cmd_config_description" : "Konfiguriere den TempVoice Bot über das Web Dashboard",
+        "cmd_premium_description" : "Verwalten dein TempVoice-Premium Abonnement",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Konfigurieren übers Dashboard!** Melde dich mit deinem Discord Account an, um auf das Dashboard zuzugreifen: https://www.tempvoice.xyz/dashboard",
 
         "info_setup" : "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
         "info_setup2" : "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
