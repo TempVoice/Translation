@@ -4,22 +4,6 @@
         "discord_lang" : "tr"
     },
     {
-        "cmd_config_bitrate_description" : "Geçici ses kanallarının, varsayılan bit hızını ayarların.",
-        "cmd_config_category_description" : "Geçici kanalların oluşturulması için olan kategoriyi değiştirin.",
-        "cmd_config_censor_description" : "Geçici kanalların adlarında kullanılmayacak şeyleri ekleyin/kaldırın.",
-        "cmd_config_features_description" : "Geçici ses kanallarını yönetmek için özellikleri etkinleştir/devre dışı bırak.",
-        "cmd_config_info_description" : "Oluşturucu kanal hakkında bilgi al.",
-        "cmd_config_limit_description" : "Geçici ses kanalları için varsayılan kullanıcı limitini ayarlayın.",
-        "cmd_config_name_description" : "Geçici kanalların varsayılan ismini ayarlayın.",
-        "cmd_config_permissions_description" : "Kategori veya oluşturucu kanalı ile geçici ses kanalının izinlerini senkronize edin.",
-        "cmd_config_placeholder_description" : "Boş bir parametrenin varsayılan metnini ayarlayın.",
-        "cmd_config_reset_description" : "Oluşturucu kanalının yapılandırmasını sıfırlayın.",
-        "cmd_config_restore_description" : "Geçici ses kanallarında, hangi özelliklerin yükleneceğini seçin.",
-        "cmd_config_roles_description" : "Geçici ses kanallarının belirli görevleri için bir rol seçin.",
-        "cmd_config_send_description" : "Sesli metin kanallarına mesaj gönderin.",
-        "cmd_config_thread_description" : "Alt başlıkların arşiv süresini ayarlayın.",
-        "cmd_config_position_description" : "Geçici ses kanallarının pozisyonunu ayarlayın.",
-
         "cmd_voice_waiting_description" : "Geçici kanalınıza, katılma isteği atılması için bir bekleme odası oluşturun.",
         "cmd_voice_bitrate_description" : "Geçici ses kanalınızın bit hızını değiştirin.",
         "cmd_voice_block_description" : "Engellediğiniz kullanıcılar, geçici ses kanalınızı göremez.",
@@ -50,10 +34,10 @@
         "cmd_premium_deactivate_description" : "Bu Discord sunucusunda Premium'u devre dışı bırakın.",
         "cmd_premium_status_description" : "Bu Discord sunucusundaki Premium durumu hakkında bilgi al.",
 
-        "cmd_help_description" : "Destek sunucumuz ve web sitemiz hakkında yardımcı bağlantılar al.",
+        "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
+        "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "cmd_settings_description" : "Configure the TempVoice Discord bot via Web Dashboard",
-        "settings_1" : "Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
 
         "info_setup" : "**Kurulum Tamamlandı!** {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
         "info_setup2" : "**Kurulum Tamamlandı!** [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
@@ -128,44 +112,14 @@
         "voice_thread_2" : "**Oluşturudu!** Bu kanal için bir alt başlık oluşturuldu.",
         "voice_close_1" : "**Kapatıldı!** Geçici ses kanalınız kapatıldı.",
 
-        "config_category_1" : "**Güncellendi!** Kategori değiştirildi.",
-        "config_censor_1" : "**Mümkün değil!** **{val1}** kelimesi, geçici ses kanalları için zaten sansürlendi.",
-        "config_censor_2" : "**Mümkün değil!** En fazla **{val1}** kelimeye kadar sansürleme yapabilirsiniz.",
-        "config_censor_3" : "**Eklendi!** **{val1}** kelimesi, artık geçici ses kanallarının adlarında kullanılamaz.",
-        "config_censor_4" : "**Mümkün değil!** **{val1}** kelimesi geçici ses kanalları için sansürlenmedi.",
-        "config_censor_5" : "**Kaldırıldı!** **{val1}** kelimesi, artık geçici ses kanallarının adları için sansürsüzdür.",
-        "config_censor_6" : "**Güncellendi!** **{val1}** kelimesi, artık sansürlenmiş kelimelerin yerine kullanılacak.",
-        "config_channel_1" : "**Mümkün değil!** Şu an bu sunucuda, oluşturucu kanalı yok. Oluşturmak için **/setup creator** komutunu kullanın.",
-        "config_feature_1" : "**Devre dışı!** Özellik devre dışı bırakıldı.",
-        "config_feature_2" : "**Aktive edildi!** Özellik yeniden etkinleştirildi.",
-        "config_limit_1" : "**Güncellendi!** **{val1}** için olan kullanıcı limiti, **{val2}** olarak değiştirildi.",
-        "config_name_1" : "**Güncellendi!** {val1} adı, **{val2}** olarak değiştirildi.",
-        "config_name_2" : "**Mümkün değil!** Seçilen ad, bir **{CUSTOM}** parametresi içermelidir.",
-        "config_name_3" : "**Mümkün değil!** Seçilen ad, bir **{val1}** parametresi içeremez.",
-        "config_role_1" : "**Güncellendi!** {val1}, @everyone'ın yerine varsayılan üye rolü olacaktır.",
-        "config_role_2" : "**Güncellendi!** {val1}, bir kullanıcı geçici bir ses kanalına katıldığında veya bu kanaldan ayrıldığında bir rol atayacak veya kaldıracaktır.",
-        "config_role_3" : "**Güncellendi!** {val1}'in geçici ses kanalı oluşturmasına izin verilecek.",
-        "config_role_4" : "**Güncellendi!** {val1}'in artık geçici ses kanalı oluşturmasına izin verilmeyecek.",
-        "config_role_5" : "**Mümkün değil!** Geçici ses kanalı oluşturmak için en fazla **{val1}** role izin verebilirsiniz.",
-        "config_permission_1" : "**Güncellendi!** Rol üzerine yazma izinleri artık {val1} üzerinden senkronize edilecek.",
-        "config_permission_2" : "**Güncellendi!** Rol üzerine yazma izinleri artık {val1} üzerinden senkronize edilmeyecek.",
-        "config_send_1" : "**Güncellendi!** Yeni oluşturulan her ses kanalına şu mesaj gönderilecek: **{val1}**.",
-        "config_language_1" : "**Güncellendi!** Dil **Türkçe** olarak değiştirildi.",
-        "config_color_1" : "**Güncellendi!** Sunucunun rengi {val1} olarak güncellendi.",
-        "config_behavior_1" : "**Değiştirildi!** Seçilen özellikteki ayar değiştirildi.",
-        "config_placeholder_1" : "**Güncellendi!** Bu boş parametrenin varsayılan metni güncellendi.",
-        "config_bitrate_1" : "**Değiştirildi!** Geçici ses kanalının, varsayılan ses kalitesi değiştirildi.",
-
         "premium_activate_1" : "**Premium gerekli!** Bu Discord sunucusunda Premium'u etkinleştirmek için TempVoice Premium aboneliğine ihtiyacınız var. Eğer çoktan aboneyseniz, [Discord Hesabınızın Patreon hesabınıza bağlandığından](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) emin olduktan bir sonraki tam saate kadar onaylanmak için **bekleyiniz**.",
-        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya **/premium deactivate** ile başka bir sunucudan kaldırın.",
+        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya **/premium** ile başka bir sunucudan kaldırın.",
         "premium_activate_3" : "**Aktifleştirildi!** Bu Discord sunucusundaki tüm kullanıcılar artık oy vermek zorunda değil. **Eğlenin!**",
         "premium_deactivate_1" : "**Premium gerekli!** Bu Discord sunucusunda, Premium'u devre dışı bırakmadan önce etkinleştirmeniz gerekir.",
         "premium_deactivate_2" : "**Premium süresi doldu!** Premium aboneliğiniz süresi doldu.",
         "premium_deactivate_3" : "**Devre dışı!** Bu Discord sunucusundaki tüm kullanıcıların, tekrar oy kullanması gerekiyor.",
 
-        "help_1" : "**Yardım Geldi!** TempVoice'ın nasıl kullanılacağına dair yararlı bazı bağlantılar işte burada.",
-
-        "interface_description" : "Bu [arayüz](https://docs.tempvoice.xyz/commands), geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://docs.tempvoice.xyz/commands) komutunu kullanın.",
+        "interface_description" : "Bu [arayüz](https://tempvoice.xyz/docs/commands), geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://tempvoice.xyz/docs/commands) komutunu kullanın.",
         "interface_footer" : "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir."
     }
 ]
