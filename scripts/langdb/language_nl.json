@@ -41,7 +41,7 @@
 
         "info_setup" : "**Installatie voltooid!** {val1} kan nu gebruikt worden om tijdelijke spraakkanalen aan te maken in je Discord server.",
         "info_setup2" : "**Installatie voltooid!** Dit [menu]({val1}) kan nu gebruikt worden om tijdelijke spraakkanalen te beheren in je Discord server.",
-        "info_removed" : "**Verwijderd!** De geselecteerde spraakkanaal-maker is verwijderd. Maak een nieuwe met **/setup creator**.",
+        "info_removed" : "**Verwijderd!** De geselecteerde spraakkanaal-maker is verwijderd. Maak een nieuwe met </setup creator:921000495877877762>.",
         "info_reset" : "**Gereset!.** De instellingen zijn gereset naar de standaardinstellingen.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
         "info_menu" : "Gebruik dit menu om een optie te selecteren:",
@@ -59,8 +59,8 @@
         "error_manage" : "**Missende permissies.** Je hebt de **Server beheren** permissie nodig om dit command te gebruiken.",
         "error_vote" : "**Momenteel niet mogelijk.** Dit command kan ontgrendeld worden door te [voten](<https://top.gg/bot/762217899355013120/vote>), of permanent ontgrendeld worden met [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Niet mogelijk.** Je kan dit command niet gebruiken op de geselecteerde gebruiker.",
-        "error_ownership1" : "**Niet mogelijk.** Alleen de eigenaar van het spraakkanaal kan dit command gebruiken. Als de originele eigenaar het spraakkanaal heeft verlaten, gebruik dan het command: **/voice claim**.",
-        "error_ownership2" : "**Niet mogelijk.** Alleen de eigenaar en toegestane gebruikers van het spraakkanaal kunnen dit command gebruiken. Als de originele eigenaar het spraakkanaal heeft verlaten, gebruik dan het command: **/voice claim**.",
+        "error_ownership1" : "**Niet mogelijk.** Alleen de eigenaar van het spraakkanaal kan dit command gebruiken. Als de originele eigenaar het spraakkanaal heeft verlaten, gebruik dan het command: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Niet mogelijk.** Alleen de eigenaar en toegestane gebruikers van het spraakkanaal kunnen dit command gebruiken. Als de originele eigenaar het spraakkanaal heeft verlaten, gebruik dan het command: </voice claim:921416747687489568>.",
         "error_permissions" : "**Missende bot permissies.** De volgende permissies ontbreken: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**Aangemaakt!** Een tijdelijke chat is aangemaakt voor  je tijdelijke spraakkanaal.",
         "voice_close_1" : "**Gesloten!** Je tijdelijke spraakkanaal is nu gesloten.",
         
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </premium:920694126389903420>.",
         "premium_activate_3" : "**Geactiveerd!** Gebruikers in deze Discord server hoeven niet langer te voten voor de premium functies. **Geniet er van!**",
         "premium_deactivate_1" : "**Premium vereist.** Je moet een premium abonnement hebben gekoppelt voordat je deze kan ontkoppelen.",
         "premium_deactivate_2" : "**Premium verlopen.** Je TempVoice premium abonnement is verlopen.",
         "premium_deactivate_3" : "**Gedeactiveerd!** Gebruikers in deze Discord server zullen weer moeten voten voor de premium functies.",
 
-        "interface_description" : "Dit [**menu**](https://tempvoice.xyz/docs/commands) kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [**/voice**](https://tempvoice.xyz/docs/commands) command.",
+        "interface_description" : "Dit [**menu**](https://tempvoice.xyz/docs/commands) kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) command.",
         "interface_footer" : "Dit menu kan gebruikt worden door op de onderstaande knoppen te drukken."
     }
 ]

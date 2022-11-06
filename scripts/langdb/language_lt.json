@@ -41,7 +41,7 @@
 
         "info_setup" : "**Konfiguracija baigta**. {val1} dabar galima kurti balso kanalus jūsų Discord serveryje!",
         "info_setup2" : "**Įdiegimas atliktas**. Šią [sąsają]({val1}) dabar galite naudoti laikiniems balso kanalams valdyti savo 'Discord' serveryje!",
-        "info_removed" : "**Pašalinta**. Pasirinktas kūrėjo kanalas ištrintas. Sukurkite naują **/setup creator**.",
+        "info_removed" : "**Pašalinta**. Pasirinktas kūrėjo kanalas ištrintas. Sukurkite naują </setup creator:921000495877877762>.",
         "info_reset" : "**Atstatyti**. Konfigūracija buvo atstatyta į numatytąją.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
         "info_menu" : "Naudodamiesi meniu pasirinkite parinktį:",
@@ -59,8 +59,8 @@
         "error_manage" : "**Neleista**. Jums reikia **Manage Server** norint naudoti šią komandą.",
         "error_vote" : "**Dar negalima**. Ši komanda galima laikinai naudoti [prabalsavus](<https://top.gg/bot/762217899355013120/vote>) arba visam laikui su [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Negalima**. Jūs negalite naudoti šios komandos ant šio vartotojo.",
-        "error_ownership1" : "**Negalima**. Tik kanalo savininkas gali naudoti šią komandą. Pabandykite pasiimti šį kanalą: **/voice claim**.",
-        "error_ownership2" : "**Negalima**. Tik kanalo savininkas ar naudotojas su leidimu gali naudoti šią komandą. Pabandykite pasiimti šį kanalą: **/voice claim**.",
+        "error_ownership1" : "**Negalima**. Tik kanalo savininkas gali naudoti šią komandą. Pabandykite pasiimti šį kanalą: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Negalima**. Tik kanalo savininkas ar naudotojas su leidimu gali naudoti šią komandą. Pabandykite pasiimti šį kanalą: </voice claim:921416747687489568>.",
         "error_permissions" : "**Missing Permissions**. Following permissions are missing: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**Sukurta**. Sukurta laikina gija.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </premium:920694126389903420>.",
         "premium_activate_3" : "**Aktyvuota.** Visi naudotojai šiame discord serveryje nebeturi balsuoti. **Mėgaukitės!**",
         "premium_deactivate_1" : "**Reikalingas premium.** Norint išjungti premium ant šio serverio, primiausia reikia jį įjungti.",
         "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
-        "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [**/voice**](https://tempvoice.xyz/docs/commands) komandas.",
+        "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus."
     }
 ]

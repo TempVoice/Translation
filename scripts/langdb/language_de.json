@@ -41,7 +41,7 @@
 
         "info_setup" : "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
         "info_setup2" : "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
-        "info_removed" : "**Entfernt**. Der ausgewählte Creator Channel wurde entfernt. Erstelle einen neuen mit **/setup creator**.",
+        "info_removed" : "**Entfernt**. Der ausgewählte Creator Channel wurde entfernt. Erstelle einen neuen mit </setup creator:921000495877877762>.",
         "info_reset" : "**Zurückgesetzt**. Die Konfiguration wurde auf die Standardeinstellungen zurückgesetzt.",
         "info_recreate" : "**Geändert.** Erstelle einen neuen temporären Kanal um die Änderung zu übernehmen.",
         "info_menu" : "Verwende das Menü und wähle eine Option aus:",
@@ -59,14 +59,14 @@
         "error_manage" : "**Nicht erlaubt**. Du benötigst die Berechtigung **Server verwalten**, um diesen Befehl zu verwenden.",
         "error_vote" : "**Noch nicht möglich**. Dieser Befehl kann temporär mit einem [Vote](<https://top.gg/bot/762217899355013120/vote>) oder permanent mit [Premium](<https://www.patreon.com/tempvoice>) verwendet werden.",
         "error_target" : "**Nicht möglich**. Du kannst diesen Befehl für diesen Nutzer nicht verwenden.",
-        "error_ownership1" : "**Nicht möglich**. Nur der Besitzer des Kanals kann diesen Befehl verwenden. Versuche, den Kanal zu beanspruchen: **/voice claim**.",
-        "error_ownership2" : "**Nicht möglich**. Nur der Eigentümer des Kanals oder ein Vertrauter Moderator kann diesen Befehl verwenden. Versuche den Kanal zu beanspruchen: **/voice claim**.",
+        "error_ownership1" : "**Nicht möglich**. Nur der Besitzer des Kanals kann diesen Befehl verwenden. Versuche, den Kanal zu beanspruchen: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Nicht möglich**. Nur der Eigentümer des Kanals oder ein Vertrauter Moderator kann diesen Befehl verwenden. Versuche den Kanal zu beanspruchen: </voice claim:921416747687489568>.",
         "error_permissions" : "**Fehlende Berechtigungen**. Folgende Berechtigungen werden benötigt: {val1}.",
         "error_permissions_access" : "**Verweigerte Berechtigungen.** Bitte kontaktiere einen Administrator. Folgende Berechtigungen sind in **{val1}für TempVoice **verweigert**, {val2} um temporäre Kanäle zu erstellen.",
         "error_permissions_sync" : "**Fehlende Berechtigungen.** Bitte kontaktiere einen Administrator. Folgende Berechtigungen **fehlen** in der Rolle innerhalb der **Server Einstellungen** für TempVoice: {val1} um Permissions von **{val2}** zu synchronisieren.",
         "error_deactivated" : "**Deaktiviert**. Dieser Befehl ist für alle temporären Kanäle von {val1} deaktiviert.",
         "error_limit" : "**Nicht möglich** Das Limit für Creator Channels auf diesem Discord Server ist **{val1}**. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",
-        "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit **/setup creator**.",
+        "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit </setup creator:921000495877877762>.",
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
         "error_creation" : "**Slow Down!** Du kannst einen neuen Kannst **{val1}** erstellen.",
 
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**Erstellt**. Ein temporärer Thread wurde erstellt.",
         "voice_close_1" : "**Geschlossen**. Du hast deinen temporären Kanal vorzeitig geschlossen.",
 
-        "premium_activate_1" : "**Premium erforderlich!** Du musst TempVoice auf Patreon unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
-        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit **/premium**.",
+        "premium_activate_0" : "**Premium required!** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
+        "premium_activate_1" : "**Premium benötigt!** Du musst TempVoice auf [Patreon](https://www.patreon.com/tempvoice) unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
+        "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit </premium:920694126389903420>.",
         "premium_activate_3" : "**Aktiviert.** Alle Nutzer auf diesem Discord-Server müssen nicht mehr voten. **Viel Spaß!**",
         "premium_deactivate_1" : "**Premium benötigt.** Du müssst Premium erst aktivieren, bevor du es auf diesem Discord-Server deaktivieren kannst.",
         "premium_deactivate_2" : "**Premium abgelaufen.** Dein Premium ist bereits abgelaufen.",
         "premium_deactivate_3" : "**Deaktiviert.** Alle Nutzer auf diesem Discord-Server müssen wieder voten.",
 
-        "interface_description" : "Dieses [**Interface**](https://tempvoice.xyz/docs/commands) kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [**/voice**](https://tempvoice.xyz/docs/commands) Chat Befehlen zur verfügung.",
+        "interface_description" : "Dieses [**Interface**](https://tempvoice.xyz/docs/commands) kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) Chat Befehlen zur verfügung.",
         "interface_footer" : "Das Interface kann mit den unteren Buttons verwendet werden."
     }
 ]
