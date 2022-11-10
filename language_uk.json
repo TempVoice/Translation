@@ -37,11 +37,11 @@
         "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
         "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Налаштування закінчено**. {val1} теперь можна використовувати для створення тимчасових голосових каналів на сервері!",
         "info_setup2" : "**Налаштування закінчено**. Цей [Інтерфейс]({val1}) тепер можна використовувати для керування тимчасовими голосовими каналами на сервері!",
-        "info_removed" : "**Видалено**. Обраний канал творця було видалено. Створіть новий за допомогою **/setup creator**.",
+        "info_removed" : "**Видалено**. Обраний канал творця було видалено. Створіть новий за допомогою </setup creator:921000495877877762>.",
         "info_reset" : "**Скинути**. Конфігурацію було змінено на стандартні налаштування.",
         "info_recreate" : "**Оновлено.** Створіть новий тимчасовий канал щоб викоритсати зміни.",
         "info_menu" : "Використовуйте меню щоб обрати опцію:",
@@ -59,8 +59,8 @@
         "error_manage" : "**Заборонено.** Для використання цієї команди необхідні право **Управління сервером**.",
         "error_vote" : "**Покищо неможливо**. Ця команда може бути тимчасовою [vote](<https://top.gg/bot/762217899355013120/vote>) или постоянной с [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Неможливо**. Ви не можете використовувати цю команду для цього користувача.",
-        "error_ownership1" : "**Неможливо**. Лише власник голосового каналу може використати цю команду. Спробуй змінити власника каналу: **/voice claim**.",
-        "error_ownership2" : "**Неможливо**. Лише власник голосового каналу може використати цю команду. Спробуй змінити власника каналу: **/voice claim**.",
+        "error_ownership1" : "**Неможливо**. Лише власник голосового каналу може використати цю команду. Спробуй змінити власника каналу: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Неможливо**. Лише власник голосового каналу може використати цю команду. Спробуй змінити власника каналу: </voice claim:921416747687489568>.",
         "error_permissions" : "** Недостатньо привілеїв**. Недостатньо прав: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**Створено**. Створено тимчасовий потік.",
         "voice_close_1" : "**Закрито** Ваш тимчасовий голосовий канал закрито",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Потрібна premium-версія.** Для активації premium-версії на цьому сервері Discord вам потрібна передплата Temp Voice Premium. Якщо ви вже підписані, ** зачекайте ** деякий час, щоб пройти перевірку та переконатися, що ваш обліковий запис [Discord підключено до вашого Головного акаунту](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
-        "premium_activate_2" : "**Неможливо.** Ви можете активувати premium лише на серверах {val1}. Будь ласка, оновіть підписку на [Patreon](https://www.patreon.com/temp голос) або видаліть інший сервер Discord за допомогою **/premium**.",
+        "premium_activate_2" : "**Неможливо.** Ви можете активувати premium лише на серверах {val1}. Будь ласка, оновіть підписку на [Patreon](https://www.patreon.com/temp голос) або видаліть інший сервер Discord за допомогою </premium:920694126389903420>.",
         "premium_activate_3" : "**Активовано.** Усім користувачам на цьому сервері більше не потрібно голосувати. **Насолоджуйтесь!**",
         "premium_deactivate_1" : "**Потрібно premium.** Ви повинні спочатку активувати [premium], перш ніж зможете активувати його на цьому сервері.",
         "premium_deactivate_2" : "**Термін дії premium минув.** Термін дії Вашої [premium] підписки вже минув.",
         "premium_deactivate_3" : "**Деактивовано.** Всі користувачі на цьому сервері повинні голосувати знову.",
 
-        "interface_description" : "Цей [**інтерфейс**](https://tempvoice.xyz/docs/commands) можна використовувати для редагування твого тимчасового голосового каналу. Додаткові параметри доступні через команди [**/voice**](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "Цей [**інтерфейс**](https://tempvoice.xyz/docs/commands) можна використовувати для редагування твого тимчасового голосового каналу. Додаткові параметри доступні через команди [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Інтерфейс можна використовувати, натиснувши кнопки нижче."
     }
 ]

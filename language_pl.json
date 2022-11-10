@@ -37,11 +37,11 @@
         "cmd_config_description" : "Skonfiguruj TempVoice za pomocą Dashboardu w przeglądarce",
         "cmd_premium_description" : "Zarządzaj swoją subskrypcją Premium TempVoiceManage",
 
-        "config" : "**Konfiguracja przez Dashboard!** Zaloguj się za pomocą swojego konta Discord, żeby uzyskać dostęp: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Konfiguracja przez Dashboard!** Zaloguj się za pomocą swojego konta Discord, żeby uzyskać dostęp: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Konfiguracja zakończona**. {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",
         "info_setup2" : "**Konfiguracja zakończona**. Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
-        "info_removed" : "**Usunięto**. Wybrany kanał został usunięty. Utwórz nowy za pomocą **/setup creator**.",
+        "info_removed" : "**Usunięto**. Wybrany kanał został usunięty. Utwórz nowy za pomocą </setup creator:921000495877877762>.",
         "info_reset" : "**Zresetowano**. Konfiguracja została przywrócona do wartości domyślnych.",
         "info_recreate" : "**Zaktualizowano.** Stwórz nowy tymczasowy kanał głosowy, żeby zastosować zmianę.",
         "info_menu" : "Użyj menu, aby wybrać opcję:",
@@ -59,8 +59,8 @@
         "error_manage" : "**Niedozwolone**. Musisz mieć uprawnienie **Zarządzaj serwerem**, aby użyć tego polecenia.",
         "error_vote" : "**Nie jest to jeszcze możliwe**. To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://top.gg/bot/762217899355013120/vote>) lub permamentnie po zakupie [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Nie jest to możliwe**. Nie możesz użyć tego polecenia na tym użytkowniku.",
-        "error_ownership1" : "**Nie jest to możliwe**. Tylko właściciel kanału głosowego może użyć tego polecenia. Spróbuj przejąć kanał używając:  **/voice claim**.",
-        "error_ownership2" : "**Nie jest to możliwe**. Tylko właściciel kanału głosowego lub uprawniony użytkownik może użyć tego polecenia. Spróbuj przejąć kanał używając:  **/voice claim**.",
+        "error_ownership1" : "**Nie jest to możliwe**. Tylko właściciel kanału głosowego może użyć tego polecenia. Spróbuj przejąć kanał używając:  </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Nie jest to możliwe**. Tylko właściciel kanału głosowego lub uprawniony użytkownik może użyć tego polecenia. Spróbuj przejąć kanał używając:  </voice claim:921416747687489568>.",
         "error_permissions" : "**Brakujące uprawnienia**. Brakuje następujących uprawnień: {val1}.",
         "error_permissions_access" : "**Odmówione Uprawnienia.** Skontaktuj się z Adminem. Podane permisje są **odmówione** w **{val1}** dla TempVoice: {val2} w celu poprawnego stworzenia tymczasowych kanałów.",
         "error_permissions_sync" : "**Brakujące uprawnienia.** Skontaktuj się z Adminem. **Brakuje** podanych uprawnień w roli **ustawień serwera** dla TempVoice: {val1} w celu synchronizacji permisji z **{val2}**.",
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**Stworzono**. Utworzony został tymczasowy wątek.",
         "voice_close_1" : "**Zamknięto!** Twój tymczasowy kanał głosowy został zamknięty.",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Wymagane Premium.** Musisz posiadać subskrypcję Premium TempVoice, żeby aktywować premium na tym serwerze. Jeśli już subskrybujesz, **zaczekaj** do następnej pełnej godziny, żeby zostać zweryfikowanym i upewnij się, że [Twoje konto Discord jest połączone z kontem na Patreonie](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Nie jest to możliwe.** Możesz aktywować premium tylko na {val1} serwerów. Ulepsz swoją subskrypcję na [Patreonie](https://www.patreon.com/tempvoice) lub usuń inny serwer Discord za pomocą **/premium**.",
+        "premium_activate_2" : "**Nie jest to możliwe.** Możesz aktywować premium tylko na {val1} serwerów. Ulepsz swoją subskrypcję na [Patreonie](https://www.patreon.com/tempvoice) lub usuń inny serwer Discord za pomocą </premium:920694126389903420>.",
         "premium_activate_3" : "**Aktywowano.** Wszyscy użytkownicy na tym serwerze Discord nie muszą już głosować. **Rozkoszuj się!**",
         "premium_deactivate_1" : "**Wymagane Premium**. Musisz najpierw aktywować premium, zanim będziesz mógł je dezaktywować na tym serwerze Discord.",
         "premium_deactivate_2" : "**Premium wygasło.** Twoja subskrypcja premium już wygasła.",
         "premium_deactivate_3" : "**Dezaktywowano.** Wszyscy użytkownicy na tym serwerze Discord muszą zagłosować ponownie.",
         
-        "interface_description" : "Ten [**Interfejs**](https://tempvoice.xyz/docs/commands) może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [**/voice**](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "Ten [**Interfejs**](https://tempvoice.xyz/docs/commands) może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Interfejs może być użyty dzięki przyciskom poniżej"
     }
 ]

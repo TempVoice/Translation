@@ -3,11 +3,11 @@
         "lang" : "id"
     },
     {
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice channel sementara__ di server discord kamu.",
         "info_setup2" : "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
-        "info_removed" : "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan **/setup creator**.",
+        "info_removed" : "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan </setup creator:921000495877877762>.",
         "info_reset" : "**Reset.** Konfigurasi telah diatur ulang ke default.",
         "info_recreate" : "**Terbarui.** Buat sebuah voice channel sementara untuk mengaplikasikan perubahan.",
         "info_menu" : "Gunakan menu ini untuk memilih opsi:",
@@ -25,8 +25,8 @@
         "error_manage" : "**Tidak Diizinkan.** Kamu membutuhkan izin **Manage Server** untuk menggunakan command ini.",
         "error_vote" : "**Tidak Memungkinkan.** Command ini dapat digunakan sementara dengan melakukan [vote](<https://top.gg/bot/762217899355013120/vote>) atau secara permanent dengan membeli [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Tidak Memungkinkan.** Anda tidak dapat menggunakan command ini kepada pengguna ini.",
-        "error_ownership1" : "**Tidak memungkinkan.** Hanya pemilik voice channel yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : **/voice claim**.",
-        "error_ownership2" : "**Tidak Memungkinan.** Hanya pemilik voice channel dan pengguna dengan izin yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : **/voice claim**.",
+        "error_ownership1" : "**Tidak memungkinkan.** Hanya pemilik voice channel yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : </voice claim:921416747687489568>.",
+        "error_ownership2" : "**Tidak Memungkinan.** Hanya pemilik voice channel dan pengguna dengan izin yang dapat menggunakan command ini. Jika pemilik saat ini telah keluar, claim voice channel menggunakan : </voice claim:921416747687489568>.",
         "error_permissions" : "**Izin Hilang.** Izin berikut tidak ada: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Dimohon untuk menghubungi Admin. izin berikut ini : **ditolak** di **{val1}** untuk TempVoice: {val2} untuk membuat channel sementara dengan benar.",
         "error_permissions_sync" : "**Missing Permissions.** Dimohon untuk menghubungi Adminn. izin berikut ini **tidak ditemukan** di dalam **pengaturan server** role untuk TempVoice: {val1} dalam halnya untuk mensinkronkan izin secara benar dari **{val2}**.",
@@ -78,8 +78,9 @@
         "voice_thread_2" : "**Terbuat!** Sebuah Thread sementara telah dibuat.",
         "voice_close_1" : "**Ditutup!** Voice channel sementara kamu telah ditutup.",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Memerlukan premium.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Tidak memungkinkan.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
+        "premium_activate_2" : "**Tidak memungkinkan.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </premium:920694126389903420>.",
         "premium_activate_3" : "**Diaktifkan!** Pengguna di server ini tidak perlu vote lagi. **Enjoy!**",
         "premium_deactivate_1" : "**Memerlukan Premium.** Kamu harus mengaktifkan premium dulu sebelum dapat menonaktifkannya",
         "premium_deactivate_2" : "**Premium expired.** Langganan premium kamu sudah habis.",
@@ -87,7 +88,7 @@
 
         "help_1" : "**Bantuan Datang!** Berikut adalah beberapa link untuk penggunaan TempVoice.",
         
-        "interface_description" : "[**interface**](https://tempvoice.xyz/docs/commands) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [**/voice**](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "[**interface**](https://tempvoice.xyz/docs/commands) ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Interface ini dapat digunakan dengan menekan tombol di bawah."
     }
 ]

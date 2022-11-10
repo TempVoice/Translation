@@ -3,11 +3,11 @@
         "lang" : "il"
     },
     {
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**ההכנה הושלמה**. {val1} יכול עכשיו לשמש ליצירת חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_setup2" : "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
-        "info_removed" : "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה **/setup creator**.",
+        "info_removed" : "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה </setup creator:921000495877877762>.",
         "info_reset" : "**אתחול**. האפשרויות הותחלו.",
         "info_recreate" : "**Updated.** Create a new temporary voice channel to apply the change.",
         "info_menu" : "השתמשו בתפריט כדי לבחור אופציה:",
@@ -25,8 +25,8 @@
         "error_manage" : "**לא מורשה**. אתם צריכים את הגישה **Manage Server** כדי להשתמש בפקודה הזאת.",
         "error_vote" : "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**לא אפשרי**. אתם לא יכולים להשתמש בפקודה הזאת עם המשתמש הזה.",
-        "error_ownership1" : "**לא אפשרי**. רק מנהלי השיחה יכול להשתמש בפקודה זאת. נשו לתבוע את חדר השיחה הזאת: **/voice claim**.",
-        "error_ownership2" : "**לא אפשרי**. רק מנהל השיחה או משתמש שרשאי להשתמש בפקודה יכול להשתמש בפקודה זאתי. נשו לתבוע את חדר השיחה הזאת: **/voice claim**.",
+        "error_ownership1" : "**לא אפשרי**. רק מנהלי השיחה יכול להשתמש בפקודה זאת. נשו לתבוע את חדר השיחה הזאת: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**לא אפשרי**. רק מנהל השיחה או משתמש שרשאי להשתמש בפקודה יכול להשתמש בפקודה זאתי. נשו לתבוע את חדר השיחה הזאת: </voice claim:921416747687489568>.",
         "error_permissions" : "**גישות חסרות**. הגישות הבאות חסרות: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
@@ -78,14 +78,15 @@
         "voice_thread_2" : "**נוצר**. חדר צ'אט זמני נוצר.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with **/premium**.",
+        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </premium:920694126389903420>.",
         "premium_activate_3" : "**הופעל.** כל המשתמשים בשרת הדיסקורד הזה לא צריכים להצביע יותר. **תהנו!**",
         "premium_deactivate_1" : "**פרימיום נדרש.** אתה צריך להפעיל פרימיום לפני שאתה יכול לבטל אותו בשרת הדיסקורד הזה.",
         "premium_deactivate_2" : "**פג תוקף הפרימיום.** מנוי הפרימיום שלך כבר פג תוקף.",
         "premium_deactivate_3" : "**בוטל.** כל המשתמשים בשרת הדיסקורד הזה יצתרכו להצביע שוב.",
         
-        "interface_description" : "ניתן להשתמש ב[**ממשק**](https://tempvoice.xyz/docs/commands) זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות [**/voice**](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "ניתן להשתמש ב[**ממשק**](https://tempvoice.xyz/docs/commands) זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה"
     }
 ]

@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
         "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
         
         "info_setup" : "**설치완료**. {val1} 이제 서버에서 임시 음성채널을 생성할 수 있습니다.",
         "info_setup2" : "**설치완료**. 이제 [Interface]({val1}) 기능을 활용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",
@@ -59,8 +59,8 @@
         "error_manage" : "**허용되지않음**. 해당 명령을 사용하려면 서버관리자 권한이 필요합니다.",
         "error_vote" : "**현재 사용 불가능** 해당 명령은 투표를 통해 임시 잠금 해제될 수 있으며, [투표](<https://top.gg/bot/762217899355013120/vote>), 또는 프리미엄을 구독하여 자유롭게 사용가능 [프리미엄](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**사용불가능**. 해당 유저에게 이 명령을 사용할 수 없습니다.",
-        "error_ownership1" : "**사용불가능**. 이 음성방의 소유권자만이 해당 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: **/voice claim**.",
-        "error_ownership2" : "**사용불가능**. 이 음성방의 소유권자 혹은 허용된 유저만 이 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: **/voice claim**.",
+        "error_ownership1" : "**사용불가능**. 이 음성방의 소유권자만이 해당 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: </voice claim:921416747687489568>.",
+        "error_ownership2" : "**사용불가능**. 이 음성방의 소유권자 혹은 허용된 유저만 이 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: </voice claim:921416747687489568>.",
         "error_permissions" : "**사용 권한 누락됨**. 다음 권한이 없습니다 : {val1}.",
         "error_permissions_access" : "**거부된 권한.** 관리자에게 문의해주세요.",
         "error_permissions_sync" : "**누락된 사용 권한.** 관리자에게 문의해주세요. Tempvoice에 대한 서버 설정 역할에 다음 **역할 권한**이 없습니다: {val1}에서 사용 권한을 올바르게 동기화 하기 위해 **{val2}**.",
@@ -112,14 +112,15 @@
         "voice_thread_2" : "**스레드생성됨**. 임시 스레드가 생성되었습니다.",
         "voice_close_1" : "**닫힘** 당신의 임시 음성 채널이 닫혔습니다.",
 
+        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**프리미엄기능 필요함** 현재 discord 서버에서 프리미엄을 활성화 하려면 tempvoice premium 구독이 필요합니다. 이미 구독한 경우 잠시 기다린 후 다음을 확인해주세요[디스코드 계정은 사용자의 구독 계정에 연결됨](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** {val1} 서버에서만 프리미엄을 활성화 할 수 있습니다. 구독을 업그레이드 하시거나 [Patreon](https://www.patreon.com/tempvoice) 또는 **/premium** 명령어를 사용하여 기존 구독서버의 프리미엄 구독을 제거해주세요.",
+        "premium_activate_2" : "**Not Possible.** {val1} 서버에서만 프리미엄을 활성화 할 수 있습니다. 구독을 업그레이드 하시거나 [Patreon](https://www.patreon.com/tempvoice) 또는 </premium:920694126389903420> 명령어를 사용하여 기존 구독서버의 프리미엄 구독을 제거해주세요.",
         "premium_activate_3" : "**활성화됨.** 현 서버에 있는 모든 유저들이 더 이상 투표하지 않아도 됩니다! **Enjoy!**",
         "premium_deactivate_1" : "**프리미엄필요함** 프리미엄 기능을 먼저 활성화해야만 서버에서 프리미엄 기능을 비활성화시킬 수 있습니다.",
         "premium_deactivate_2" : "**프리미엄만료됨** 프리미엄 구독이 이미 만료되었습니다.",
         "premium_deactivate_3" : "**비활성화됨** 지금부터 디스코드 서버에 있는 모든 인원이 다시 투표를 해야됩니다.",
         
-        "interface_description" : "[**인터페이스**](https://tempvoice.xyz/docs/commands)는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음[**/voice**](https://tempvoice.xyz/docs/commands) 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
+        "interface_description" : "[**인터페이스**](https://tempvoice.xyz/docs/commands)는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음[</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
         "interface_footer" : "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다"
     }
 ]
