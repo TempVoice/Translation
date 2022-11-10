@@ -37,7 +37,7 @@
         "cmd_config_description" : "Skonfiguruj TempVoice za pomocą Dashboardu w przeglądarce",
         "cmd_premium_description" : "Zarządzaj swoją subskrypcją Premium TempVoiceManage",
 
-        "config" : "**Konfiguracja przez Dashboard!** Zaloguj się za pomocą swojego konta Discord, żeby uzyskać dostęp: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Konfiguracja przez Dashboard!** Zaloguj się za pomocą swojego konta Discord, żeby uzyskać dostęp: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Konfiguracja zakończona**. {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",
         "info_setup2" : "**Konfiguracja zakończona**. Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",

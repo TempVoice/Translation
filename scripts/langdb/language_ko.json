@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
         "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
         
         "info_setup" : "**설치완료**. {val1} 이제 서버에서 임시 음성채널을 생성할 수 있습니다.",
         "info_setup2" : "**설치완료**. 이제 [Interface]({val1}) 기능을 활용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",

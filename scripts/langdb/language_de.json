@@ -37,7 +37,7 @@
         "cmd_config_description" : "Konfiguriere den TempVoice Bot über das Web Dashboard",
         "cmd_premium_description" : "Verwalten dein TempVoice-Premium Abonnement",
 
-        "config" : "**Konfigurieren übers Dashboard!** Melde dich mit deinem Discord Account an, um auf das Dashboard zuzugreifen: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Konfigurieren übers Dashboard!** Melde dich mit deinem Discord Account an, um auf das Dashboard zuzugreifen: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
         "info_setup2" : "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
@@ -68,7 +68,7 @@
         "error_limit" : "**Nicht möglich** Das Limit für Creator Channels auf diesem Discord Server ist **{val1}**. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://www.patreon.com/tempvoice>) Stufe.",
         "error_channel" : "**Falscher Kanal**. Der ausgewählte Creator Channel existiert nicht. Erstelle einen mit </setup creator:921000495877877762>.",
         "error_ratelimit" : "**Noch nicht möglich**. Befehl kann verwendet werden **{val1}**.",
-        "error_creation" : "**Slow Down!** Du kannst einen neuen Kannst **{val1}** erstellen.",
+        "error_creation" : "**Nicht so schnell!** Du kannst einen neuen Kannst **{val1}** erstellen.",
 
         "voice_waiting_1" : "**Nicht möglich.** Du kannst keinen Warteraum erstellen, wenn dein temporärer Kanal versteckt ist.",
         "voice_waiting_2" : "**Nicht möglich.** Du kannst deinen temporären Kanal nicht verstecken, wenn du einen Warteraum hast.",
@@ -112,7 +112,7 @@
         "voice_thread_2" : "**Erstellt**. Ein temporärer Thread wurde erstellt.",
         "voice_close_1" : "**Geschlossen**. Du hast deinen temporären Kanal vorzeitig geschlossen.",
 
-        "premium_activate_0" : "**Premium required!** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
+        "premium_activate_0" : "**Premium benötigt!** Du benötigst ein TempVoice Premium Abonnement auf [Patreon](https://www.patreon.com/tempvoice) für **Branding Avatar und Name**.",
         "premium_activate_1" : "**Premium benötigt!** Du musst TempVoice auf [Patreon](https://www.patreon.com/tempvoice) unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
         "premium_activate_2" : "**Nicht möglich.** Du kannst Premium nur auf {val1} Servern aktivieren. Welchsel auf ein höheres Level auf [Patreon](https://www.patreon.com/tempvoice) oder entferne einen anderen Discord-Server mit </premium:920694126389903420>.",
         "premium_activate_3" : "**Aktiviert.** Alle Nutzer auf diesem Discord-Server müssen nicht mehr voten. **Viel Spaß!**",

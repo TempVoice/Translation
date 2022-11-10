@@ -37,7 +37,7 @@
         "cmd_config_description" : "通過網頁儀錶板設定TempVoice機器人",
         "cmd_premium_description" : "管理您的TempVoice高級會員訂閱",
 
-        "config" : "**透過儀錶板設定!** 登入您的Discord帳號使用儀表板: https://www.tempvoice.xyz/dashboard",
+        "config" : "**透過儀錶板設定!** 登入您的Discord帳號使用儀表板: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**設定完成!** {val1} 現在可以在您的伺服器創建臨時語音頻道",
         "info_setup2" : "**設定完成!** 此 [快速設定介面]({val1}) 現在可以在您的伺服器管理臨時語音頻道",

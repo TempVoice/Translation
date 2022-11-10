@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configura TempVoice a través del panel web",
         "cmd_premium_description" : "Gestiona tu suscripción prémium de TempVoice",
 
-        "config" : "**¡Configuración a través del panel web!** Inicia sesión con tu cuenta de Discord para acceder al panel web: https://www.tempvoice.xyz/dashboard",
+        "config" : "**¡Configuración a través del panel web!** Inicia sesión con tu cuenta de Discord para acceder al panel web: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Configuración completada**. ¡{val1} ya puede ser utilizado para crear canales de voz temporales en tu servidor de Discord!",
         "info_setup2" : "**Configuración completada**. ¡Esta [interfaz]({val1}) ahora puede ser utilizada para gestionar canales de voz temporales en tu servidor de Discord!",

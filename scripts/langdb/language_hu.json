@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
         "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**A beállítás befejeződött!** {val1} mostantól ideiglenes hangcsatornák létrehozására használható a szerveren.",
         "info_setup2" : "**A beállítás befejeződött!** Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",

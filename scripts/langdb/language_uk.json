@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
         "cmd_premium_description" : "Manage your TempVoice premium subscription",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Налаштування закінчено**. {val1} теперь можна використовувати для створення тимчасових голосових каналів на сервері!",
         "info_setup2" : "**Налаштування закінчено**. Цей [Інтерфейс]({val1}) тепер можна використовувати для керування тимчасовими голосовими каналами на сервері!",

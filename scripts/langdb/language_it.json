@@ -37,7 +37,7 @@
         "cmd_config_description" : "Configurazione del TempVoice Bot tramite il cruscotto web",
         "cmd_premium_description" : "Gestire l'abbonamento premium a TempVoice",
 
-        "config" : "**Configurazione tramite Dashboard!** Effettuare il login con il proprio account Discord per accedere alla Dashboard: https://www.tempvoice.xyz/dashboard",
+        "config" : "**Configurazione tramite Dashboard!** Effettuare il login con il proprio account Discord per accedere alla Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Impostazione fatta**. {val1} può usato per creare canali temporanei nel tou Discord server",
         "info_setup2" : "**Configurazione fatta**. Questa [Interfaccia]({val1}) può ora essere utilizzata per gestire canali vocali temporanei nel tuo server Discord!",
