@@ -114,7 +114,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**需要訂閱** 您需要訂閱TempVoice高級會員以取得高級功能. 如果您已經訂閱，請 **等待** 至下一個整點才能得到驗證，並且請確定您的 [Discord 帳號已經連結至您的 Patron 帳號](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**無法完成** 您只能開起高級功能於 {val1} 個伺服器，請升級您的訂閱 [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </premium:920694126389903420>.",
+        "premium_activate_2" : "**無法完成** 您只能開起高級功能於 {val1} 個伺服器，請升級您的訂閱 [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </setup premium:921000495877877762>.",
         "premium_activate_3" : "**已啟動!** 此伺服器的使用者不再需要投票 **Enjoy!**",
         "premium_deactivate_1" : "**需要訂閱** 您需要有訂閱會員才能關閉它",
         "premium_deactivate_2" : "**訂閱到期** 您的訂閱已經到期",

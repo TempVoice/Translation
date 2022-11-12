@@ -114,13 +114,13 @@
 
         "premium_activate_0" : "**Reikalingas Premium** Jums reikalinga TempVoice Premium prenumerata [Patreon](https://www.patreon.com/tempvoice) **personalizuotam brandingui ir nuotraukoms**.",
         "premium_activate_1" : "**Reikalingas Premium.** Jums reikia TempVoice Premium prenumeratos, norint suaktyvinti premium šiame discord serveryje. Jei jūs jau prenumeravote, **palaukite** apie valandą, kol būsite patvirtinti [Discord paskyra yra prijungta prie jūsų Patron paskyros](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Negalima.** Jūs galite suaktyvinti premium tik {val1} serveriuose. Prašome atnaujinti savo prenumeratą [Patreon](https://www.patreon.com/tempvoice) arba pašalinti premium kitame serveryje </premium:920694126389903420>.",
+        "premium_activate_2" : "**Negalima.** Jūs galite suaktyvinti premium tik {val1} serveriuose. Prašome atnaujinti savo prenumeratą [Patreon](https://www.patreon.com/tempvoice) arba pašalinti premium kitame serveryje </setup premium:921000495877877762>.",
         "premium_activate_3" : "**Aktyvuota.** Visi naudotojai šiame discord serveryje nebeturi balsuoti. **Mėgaukitės!**",
         "premium_deactivate_1" : "**Reikalingas premium.** Norint išjungti premium ant šio serverio, primiausia reikia jį įjungti.",
         "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
-        "interface_description" : "Šią [**sąsają**](https://docs.tempvoice.xyz/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://docs.tempvoice.xyz/commands) komandas.",
+        "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus."
     }
 ]

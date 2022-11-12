@@ -114,7 +114,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Premium gerekli!** Bu Discord sunucusunda Premium'u etkinleştirmek için TempVoice Premium aboneliğine ihtiyacınız var. Eğer çoktan aboneyseniz, [Discord Hesabınızın Patreon hesabınıza bağlandığından](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) emin olduktan bir sonraki tam saate kadar onaylanmak için **bekleyiniz**.",
-        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya </premium:920694126389903420> ile başka bir sunucudan kaldırın.",
+        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya </setup premium:921000495877877762> ile başka bir sunucudan kaldırın.",
         "premium_activate_3" : "**Aktifleştirildi!** Bu Discord sunucusundaki tüm kullanıcılar artık oy vermek zorunda değil. **Eğlenin!**",
         "premium_deactivate_1" : "**Premium gerekli!** Bu Discord sunucusunda, Premium'u devre dışı bırakmadan önce etkinleştirmeniz gerekir.",
         "premium_deactivate_2" : "**Premium süresi doldu!** Premium aboneliğiniz süresi doldu.",
