@@ -114,7 +114,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Prémium szükséges.** A prémium szolgáltatás aktiválásához ezen a szerver TempVoice Premium előfizetésre van szüksége. Ha már előfizetett, **várjon** a következő teljes óráig az érvényesítéshez, és győződjön meg róla, hogy [ A Discord-fiók össze van kapcsolva Patron-fiókjával](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Nem lehetséges.** Csak {val1} szervereken aktiválhatja a prémium szolgáltatást. Kérjük, frissítse előfizetését a [Patreon](https://www.patreon.com/tempvoice) oldalon, vagy távolítson el egy másik szervert a </premium:920694126389903420> használatával.",
+        "premium_activate_2" : "**Nem lehetséges.** Csak {val1} szervereken aktiválhatja a prémium szolgáltatást. Kérjük, frissítse előfizetését a [Patreon](https://www.patreon.com/tempvoice) oldalon, vagy távolítson el egy másik szervert a </setup premium:921000495877877762> használatával.",
         "premium_activate_3" : "**Aktiválva!** A Discord szerver felhasználóinak már nem kell szavazniuk. **Élvezd!**",
         "premium_deactivate_1" : "**Prémium szükséges.** Aktiválnia kell a prémiumot, mielőtt deaktiválhatná.",
         "premium_deactivate_2" : "**Prémium lejárt.** A prémium előfizetés lejárt.",

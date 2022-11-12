@@ -114,7 +114,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**프리미엄기능 필요함** 현재 discord 서버에서 프리미엄을 활성화 하려면 tempvoice premium 구독이 필요합니다. 이미 구독한 경우 잠시 기다린 후 다음을 확인해주세요[디스코드 계정은 사용자의 구독 계정에 연결됨](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** {val1} 서버에서만 프리미엄을 활성화 할 수 있습니다. 구독을 업그레이드 하시거나 [Patreon](https://www.patreon.com/tempvoice) 또는 </premium:920694126389903420> 명령어를 사용하여 기존 구독서버의 프리미엄 구독을 제거해주세요.",
+        "premium_activate_2" : "**Not Possible.** {val1} 서버에서만 프리미엄을 활성화 할 수 있습니다. 구독을 업그레이드 하시거나 [Patreon](https://www.patreon.com/tempvoice) 또는 </setup premium:921000495877877762> 명령어를 사용하여 기존 구독서버의 프리미엄 구독을 제거해주세요.",
         "premium_activate_3" : "**활성화됨.** 현 서버에 있는 모든 유저들이 더 이상 투표하지 않아도 됩니다! **Enjoy!**",
         "premium_deactivate_1" : "**프리미엄필요함** 프리미엄 기능을 먼저 활성화해야만 서버에서 프리미엄 기능을 비활성화시킬 수 있습니다.",
         "premium_deactivate_2" : "**프리미엄만료됨** 프리미엄 구독이 이미 만료되었습니다.",

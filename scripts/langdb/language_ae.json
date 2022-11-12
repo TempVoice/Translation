@@ -80,7 +80,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "(<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) <- [Discord Account is connected to your Patron account] <- لتنشيط بريميوم على خادم الخلاف هذا. إذا كنت مشتركا بالفعل ، **انتظر** حتى ساعة كاملة القادمة للحصول على التحقق من صحة وتأكد من <- Temp Voice <- مطلوب عضو مميز** -> أنت بحاجة إلى اشتراك بريميوم**",
-        "premium_activate_2" : "</premium:920694126389903420> <- أو قم بإزالة خادم خلاف آخر باستخدام <- [Patreon](https://www.patreon.com/tempvoice)  <- الخوادم. يرجى ترقية اشتراكك على <- {val1} <- غير ممكن** -> يمكنك تفعيل بريميوم فقط على**",
+        "premium_activate_2" : "</setup premium:921000495877877762> <- أو قم بإزالة خادم خلاف آخر باستخدام <- [Patreon](https://www.patreon.com/tempvoice)  <- الخوادم. يرجى ترقية اشتراكك على <- {val1} <- غير ممكن** -> يمكنك تفعيل بريميوم فقط على**",
         "premium_activate_3" : "**مفعل** -> لم يعد يتعين على جميع المستخدمين على الدسكـورد هذا التصويت بعد الآن **يتمتع**",
         "premium_deactivate_1" : "متطلبات التميز** -> يجب عليك تنشيط الإصدار المميز أولاً قبل أن تتمكن من إلغاء تنشيطه على الدسكـورد هذا**",
         "premium_deactivate_2" : "الاشتراك المميز انتهى** -> انتهت صلاحية اشتراكك المميز بالفعل**",

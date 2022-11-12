@@ -114,7 +114,7 @@
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Wymagane Premium.** Musisz posiadać subskrypcję Premium TempVoice, żeby aktywować premium na tym serwerze. Jeśli już subskrybujesz, **zaczekaj** do następnej pełnej godziny, żeby zostać zweryfikowanym i upewnij się, że [Twoje konto Discord jest połączone z kontem na Patreonie](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Nie jest to możliwe.** Możesz aktywować premium tylko na {val1} serwerów. Ulepsz swoją subskrypcję na [Patreonie](https://www.patreon.com/tempvoice) lub usuń inny serwer Discord za pomocą </premium:920694126389903420>.",
+        "premium_activate_2" : "**Nie jest to możliwe.** Możesz aktywować premium tylko na {val1} serwerów. Ulepsz swoją subskrypcję na [Patreonie](https://www.patreon.com/tempvoice) lub usuń inny serwer Discord za pomocą </setup premium:921000495877877762>.",
         "premium_activate_3" : "**Aktywowano.** Wszyscy użytkownicy na tym serwerze Discord nie muszą już głosować. **Rozkoszuj się!**",
         "premium_deactivate_1" : "**Wymagane Premium**. Musisz najpierw aktywować premium, zanim będziesz mógł je dezaktywować na tym serwerze Discord.",
         "premium_deactivate_2" : "**Premium wygasło.** Twoja subskrypcja premium już wygasła.",
