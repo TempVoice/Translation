@@ -34,10 +34,10 @@
         "cmd_premium_deactivate_description" : "Bu Discord sunucusunda Premium'u devre dışı bırakın.",
         "cmd_premium_status_description" : "Bu Discord sunucusundaki Premium durumu hakkında bilgi al.",
 
-        "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
-        "cmd_premium_description" : "Manage your TempVoice premium subscription",
+        "cmd_config_description" : "TempVoice Bot'u site üzerinden yapılandırın",
+        "cmd_premium_description" : "TempVoice premium aboneliğinizi yönetin",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "config" : "**Site üzerinden yapılandırın!** Siteye erişebilmek için Discord hesabınızla giriş yapın: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Kurulum Tamamlandı!** {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
         "info_setup2" : "**Kurulum Tamamlandı!** [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
