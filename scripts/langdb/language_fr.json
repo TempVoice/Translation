@@ -39,7 +39,7 @@
 
         "config" : "**Configuration avec le tableau de bord!** Connectez-vous avec votre compte Discord pour accéder au tableau de bord: https://tempvoice.xyz/dashboard",
 
-        "info_setup" : "**Mise en place réussie**. {val1} peut maintenant être utiliser pour créer les canaux temporaires dans votre serveur Discord !",
+        "info_setup" : "**Mise en place réussie**. {val1} peut maintenant être utilisé pour créer les canaux temporaires dans votre serveur Discord !",
         "info_setup2" : "**Configuration terminée**. Cette [Interface]({val1}) peut maintenant être utilisée pour gérer les canaux vocaux temporaires de votre serveur Discord !",
         "info_removed" : "**Suppression**. Le canal de créateur sélectionné a été supprimé. Créez-en un nouveau avec </setup creator:921000495877877762>.",
         "info_reset" : "**Réinitialisation**. La configuration a été réinitialisée par défaut.",
@@ -65,7 +65,7 @@
         "error_permissions_access" : "**Autorisations refusées** Veuillez contacter un administrateur. Les autorisations suivantes sont **refusées** dans **{val1}** pour TempVoice: {val2} afin de créer correctement des canaux temporaires.",
         "error_permissions_sync" : "**Autorisations manquantes** Veuillez contacter un administrateur. Les autorisations suivantes sont **manquantes** dans le rôle **paramètres du serveur** pour TempVoice: {val1} afin de synchroniser correctement les autorisations depuis **{val2}**.",
         "error_deactivated" : "**Désactivation**. Cette commande est désactivée pour tous les canaux vocaux temporaires de {val1}.",
-        "error_limit" : "**Pas possible** La limite des canaux créateurs sur un même serveur est {val1}. Essayez d'en supprimer un ou augmentez la limite avec un [premium] plus élevé (<https://www.patreon.com/tempvoice>)",
+        "error_limit" : "**Pas possible** La limite des canaux créateurs sur un même serveur est {val1}. Essayez d'en supprimer un ou augmentez la limite avec un [prime](<https://www.patreon.com/tempvoice>) plus élevé",
         "error_channel" : "**Mauvais canal**. Le canal séléctionné n'existe pas.",
         "error_ratelimit" : "**Pas encore possible**. Cette commande peut être utilsée **{val1}**.",
         "error_creation" : "**Ralentissez!** Vous pouvez créer un nouveau canal **{val1}**.",
