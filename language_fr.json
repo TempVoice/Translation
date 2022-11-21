@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Les utilisateurs de confiance peuvent toujours rejoindre votre chaîne temporaire",
         "cmd_voice_unblock_description" : "Les utilisateurs non bloqués peuvent rejoindre votre canal temporaire ouvert",
         "cmd_voice_untrust_description" : "Les utilisateurs non approuvés peuvent rejoindre votre canal temporaire ouvert",
-        "cmd_voice_users_description" : "Affiche une liste de tous les utilisateurs de confiance, bloqués et modérateurs de votre canal vocal temporaire",
+        "cmd_voice_users_description" : "Affiche une liste de tous les canaux vocaux fiables et bloqués de votre canal vocal temporaire",
 
         "cmd_setup_color_description" : "Changer les couleurs emoji de TempVoice",
         "cmd_setup_creator_description" : "Configurer un nouveau canal de créateur pour créer des canaux vocaux temporaires",
