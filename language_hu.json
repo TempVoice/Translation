@@ -4,7 +4,7 @@
         "discord_lang" : "hu"
     },
     {
-        "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
+        "cmd_voice_waiting_description" : "Hozz létre egy várószobát az ideiglenes csatornához való csatlakozási kérelemhez",
         "cmd_voice_bitrate_description" : "Az ideiglenes csatornád bitráta-minőségének módosítása",
         "cmd_voice_block_description" : "A letiltott felhasználók nem tudják megtekinteni az ideiglenes csatornádat",
         "cmd_voice_claim_description" : "Ideiglenes csatorna igénylése a tulajdonjog megszerzéséhez",
@@ -34,10 +34,10 @@
         "cmd_premium_deactivate_description" : "Deaktiválja a prémiumot ezen a szerveren",
         "cmd_premium_status_description" : "Szerezzen információt a szerver prémium állapotáról",
 
-        "cmd_config_description" : "Configure the TempVoice Bot via Web Dashboard",
-        "cmd_premium_description" : "Manage your TempVoice premium subscription",
+        "cmd_config_description" : "Konfiguráld a TempVoice Botot a webes irányítópulton keresztül",
+        "cmd_premium_description" : "Kezeld TempVoice prémium előfizetését",
 
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "config" : "**Konfigurálás a műszerfalon keresztül!** Jelentkezz be a Discord fiókoddal a használathoz: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**A beállítás befejeződött!** {val1} mostantól ideiglenes hangcsatornák létrehozására használható a szerveren.",
         "info_setup2" : "**A beállítás befejeződött!** Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",
@@ -47,7 +47,7 @@
         "info_menu" : "Ezzel a menüvel válasszon egy lehetőséget:",
         "info_nousers" : "**Nincs felhasználó**",
         
-        "error_validated" : "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
+        "error_validated" : "**Nem érvényes** {val1} Kérlek vedd fel a kapcsolatot egy adminnal. Ez az alkotói csatorna már nem érvényes, mivel a prémium előfizetést visszaminősítették vagy törölték.",
         "error_permited" : "**Hiányzó szerepkör.** Ez az alkotói csatorna csak egy bizonyos szerepkörrel használható.",
         "error_type" : "**Nem lehetséges.** A beállítás nem módosítható ennél az alkotótípusnál.",
         "error_ownerless" : "**Nem lehetséges.** A(z) {val1} ideiglenes hangcsatornái tulajdonos nélküliek, és nem kezelhetők.",
@@ -65,15 +65,15 @@
         "error_permissions_access" : "**Megtagadott jog** Kérjük, forduljon egy adminhoz. A tempvoice-hoz a következő engedélyek **megtagadva** vannak a **{val1}** alatt: {val2} az ideiglenes csatornák megfelelő létrehozásához.",
         "error_permissions_sync" : "**Hiányzó engedélyek.** Kérjük, vegye fel a kapcsolatot egy adminnal. A következő engedélyek **hiányoznak** a TempVoice **kiszolgálóbeállítások** szerepkörében: {val1} az engedélyek megfelelő szinkronizálásához a **{val2}**.",
         "error_deactivated" : "**Nem lehetséges.** Ez a parancs a{val1} összes ideiglenes hangcsatornáján inaktiválva van.",
-        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
+        "error_limit" : "**Nem lehetséges** Az alkotói csatornák korlátja egyetlen szerveren: {val1}. Próbáljon meg törölni egyet, vagy emelje a [prémium](<https://www.patreon.com/tempvoice>) szintet.",
         "error_channel" : "**Érvénytelen csatorna.** A kiválasztott alkotói csatorna nem létezik.",
-        "error_ratelimit" : "**Lassítson!** Ez a parancs újra használható **{val1}**.",
-        "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
+        "error_ratelimit" : "**Lassíts!** Ez a parancs újra használható **{val1}**.",
+        "error_creation" : "**Lassíts!** Létrehozhat egy új csatornát **{val1}**.",
 
-        "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
-        "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
-        "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
-        "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
+        "voice_waiting_1" : "**Nem lehetséges** Nem hozhat létre várószobát, ha a csatorna el van rejtve.",
+        "voice_waiting_2" : "**Nem lehetséges** Nem rejtheti el csatornáját, ha van váróterme.",
+        "voice_waiting_3" : "**Nem lehetséges** Ehhez az ideiglenes hangcsatornához már létrehoztak egy várótermet.",
+        "voice_waiting_4" : "**Létrehozva!** A várószoba sikeresen létrehozva a csatornához.",
         "voice_bitrate_1" : "**Nem lehetséges.** A bitráta nem lehet nagyobb, mint **{val1}**.",
         "voice_bitrate_2" : "**Frissítve!** Csatornád bitrátája most **{val1} kbps**.",
         "voice_block_1" : "**Nem lehetséges.** Csak **{val1}** felhasználókat blokkolhat.",
@@ -112,10 +112,10 @@
         "voice_thread_2" : "**Létrehozva!** Egy ideiglenes gondolatmenetet hoztunk létre ehhez a csatornához.",
         "voice_close_1" : "**Bezárva!** Az ideiglenes hangcsatornádat bezártuk.",
 
-        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
+        "premium_activate_0" : "**Prémium szükséges** TempVoice Premium előfizetésre van szüksége a [Patreon]-on (https://www.patreon.com/tempvoice) az **egyéni márkanevekhez és avatarokhoz**.",
         "premium_activate_1" : "**Prémium szükséges.** A prémium szolgáltatás aktiválásához ezen a szerver TempVoice Premium előfizetésre van szüksége. Ha már előfizetett, **várjon** a következő teljes óráig az érvényesítéshez, és győződjön meg róla, hogy [ A Discord-fiók össze van kapcsolva Patron-fiókjával](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
         "premium_activate_2" : "**Nem lehetséges.** Csak {val1} szervereken aktiválhatja a prémium szolgáltatást. Kérjük, frissítse előfizetését a [Patreon](https://www.patreon.com/tempvoice) oldalon, vagy távolítson el egy másik szervert a </setup premium:921000495877877762> használatával.",
-        "premium_activate_3" : "**Aktiválva!** A Discord szerver felhasználóinak már nem kell szavazniuk. **Élvezd!**",
+        "premium_activate_3" : "**Aktiválva!** A Discord szerver felhasználóinak már nem kell szavazniuk. **Használja egészséggel:)!**",
         "premium_deactivate_1" : "**Prémium szükséges.** Aktiválnia kell a prémiumot, mielőtt deaktiválhatná.",
         "premium_deactivate_2" : "**Prémium lejárt.** A prémium előfizetés lejárt.",
         "premium_deactivate_3" : "**Deaktivált!** A Discord szerver felhasználóinak újra szavazniuk kell.",
