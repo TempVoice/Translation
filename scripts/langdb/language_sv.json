@@ -115,7 +115,7 @@
         "premium_activate_0" : "**Premium krävs** Du behöver en TempVoice prenumeration på [Patreon](https://www.patreon.com/tempvoice) för **anpassad avatar och namn**.",
         "premium_activate_1" : "**Premium krävs** Du behöver en TempVoice prenumeration för att aktivera detta på din Discord server. Om du redan prenumererar, **vänta** till nästa hela timme för att bli validerad och se till att ditt [Discord är kopplat till ditt Patron konto](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
         "premium_activate_2" : "**Inte möjligt** Du kan bara aktivera premium på {val1} servrar. Uppgradera din prenumeration på [Patreon](https://www.patreon.com/tempvoice) eller ta bort en annan Discord server med </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Aktiverad!** Användare på denna Discord server behöver inte längre rösta. **Slappna av och njut!**",
+        "premium_activate_3" : "**Aktiverad!** Användare på denna Discord server behöver inte längre rösta. **Luta dig tillbaka och njut!**",
         "premium_deactivate_1" : "**Premium Krävs** Du måste aktivera premium innan du kan inaktivera det.",
         "premium_deactivate_2" : "**Premium har löpt ut** Ditt premium har löpt ut.",
         "premium_deactivate_3" : "**Inaktiverad!** Användare på denna Discord server måste rösta igen.",
