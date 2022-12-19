@@ -40,6 +40,8 @@
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
         "voice_waiting_3" : "**Not Possible** A waiting room has already been created for this temporary voice channel.",
         "voice_waiting_4" : "**Created!** A waiting room has been created for this channel.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**הגבלה**. קצב הסיביות לא יכול להיות > **{val1}**.",
         "voice_bitrate_2" : "**שינוי**. קצב הסיביות של השיחה שלכם הוא עכשיו **{val1} kbps**.",
         "voice_block_1" : "**Not Possible.** You can only block up to **{val1}** users.",

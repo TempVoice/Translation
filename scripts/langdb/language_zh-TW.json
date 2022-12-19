@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**無法完成** 當您有等待室時，無法隱藏頻道",
         "voice_waiting_3" : "**無法完成** 此頻道已經有等待室",
         "voice_waiting_4" : "**設定完成!** 此頻道已建立等待室",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**無法完成** 位元率不得高於 **{val1}**",
         "voice_bitrate_2" : "**已更新** 您的頻道位元率現在為 **{val1} kbps**.",
         "voice_block_1" : "**無法完成** 您最高只能封鎖 **{val1}** 個使用者",

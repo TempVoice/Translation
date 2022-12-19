@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Nicht möglich.** Du kannst deinen temporären Kanal nicht verstecken, wenn du einen Warteraum hast.",
         "voice_waiting_3" : "**Nicht möglich.** Es ist schon ein Wartetaum für diesen temporären Kanal erstellt.",
         "voice_waiting_4" : "**Erstellt!** Es wurde ein Warteraum für diesen temporären Kanal erstellt.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Limitiert**. Die Bitrate kann nicht > {val1} werden.",
         "voice_bitrate_2" : "**Geändert**. Deine Bitrate beträgt jetzt **{val1} kbps**.",
         "voice_block_1" : "**Nicht möglich.** Du kannst nur bis zu **{val1}** Nutzer sperren.",

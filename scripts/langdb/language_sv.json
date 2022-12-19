@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Inte möjligt** Du kan inte dölja din kanal när du har ett väntrum.",
         "voice_waiting_3" : "**Inte möjligt** Ett väntrum har redan skapats för den här tillfälliga röstkanalen.",
         "voice_waiting_4" : "**Skapad!** Ett väntrum har skapats för den här kanalen.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Inte möjligt** Bithastigheten kan inte vara högre än **{val1}**.",
         "voice_bitrate_2" : "**Uppdaterad!** Din kanals bithastighet är nu **{val1} kbps**.",
         "voice_block_1" : "**Inte möjligt** Du kan bara blockera upp till **{val1}** användare.",

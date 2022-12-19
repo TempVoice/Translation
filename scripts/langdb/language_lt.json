@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Negalima** Jūs negalite paslėpti kanalo, nes esate sukūrę laukiamąjį kanalą.",
         "voice_waiting_3" : "**Negalima** Laukiamasis jau yra sukurtas šiam laikinąjam balso kanalui.",
         "voice_waiting_4" : "**Sukurta!** Laukiamasis sėkmingai sukurtas.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Limitas**. Bitų sparta negali būti > **{val1}**.",
         "voice_bitrate_2" : "**Pakeista**. Jūsų bitų sparta dabar yra **{val1} kbps**.",
         "voice_block_1" : "**Negalima.** Jūs galite blokuoti iki **{val1}** naudotojų. Padidinkite limitą su [premium](<https://www.patreon.com/tempvoice>).",

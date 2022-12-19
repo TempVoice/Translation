@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Αδύνατον** Δεν μπορείς να κρύψεις το κανάλι σου όσο είσαι στην αναμονή.",
         "voice_waiting_3" : "**Αδύνατον** Το κανάλι αναμονής έχει ήδη δημιουργηθεί.",
         "voice_waiting_4" : "**Έτοιμο!** Το κανάλι αναμονής δημιουρήθηκε.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Αδύνατον** Το Bitrate δεν μπορεί να είναι μεγαλύτερο από **{val1}**.",
         "voice_bitrate_2" : "**ΟΚ η αλλαγή!** Το νέο bitrate τώρα είναι**{val1} kbps**.",
         "voice_block_1" : "**Δεν είναι δυνατόν** Μπορείς να κάνεις block μέχρι **{val1}** χρήστες.",

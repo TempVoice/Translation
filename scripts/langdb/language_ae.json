@@ -40,6 +40,8 @@
         "voice_waiting_2" : "غير ممكن** -> لا يمكنك إخفاء قناتك عندما يكون لديك غرفة انتظار**",
         "voice_waiting_3" : "غير ممكن** -> تم بالفعل إنشاء غرفة انتظار لهذه القناة الصوتية المؤقتة**",
         "voice_waiting_4" : "تم إنشاؤه** -> تم إنشاء غرفة انتظار لهذه القناة**",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
         "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
         "voice_block_1" : "من المستخدمين <- **{val1}** <- غير ممكن** -> يمكنك فقط حظر ما يصل إلى**",
