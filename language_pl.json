@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Nie jest to możliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
         "voice_waiting_3" : "**Nie jest to możliwe** Poczekalnia została już stworzona dla tego kanału głosowego.",
         "voice_waiting_4" : "**Created!** Poczekalnia została stworzona dla tego kanału.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Limit**. Bitrate nie może być większy od **{val1}**.",
         "voice_bitrate_2" : "**Zmieniono**. Bitrate kanału wynosi teraz **{val1} kbps**.",
         "voice_block_1" : "**Nie jest to możliwe.** Możesz zablokować maksymalnie **{val1}** użytkowników.",

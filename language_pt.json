@@ -74,6 +74,8 @@
         "voice_waiting_2" : "**Não é possível** Não pode esconder o seu canal quando tem uma sala de espera.",
         "voice_waiting_3" : "**Não é possível** Já foi criada uma sala de espera para este canal de voz temporário.",
         "voice_waiting_4" : "**Criado!** Foi criada uma sala de espera para este canal.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Limitação** Bitrate não pode ser > **{val1}**.",
         "voice_bitrate_2" : "**Alterado** A taxa de bitrate do seu canal ficou de **{val1} kbps**.",
         "voice_block_1" : "**Não é possível** Só se pode bloquear até **{val1}** utilizadores.",

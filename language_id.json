@@ -40,6 +40,8 @@
         "voice_waiting_2" : "**Tidak Memungkinan** Kamu tidak dapat menyembunyikan channel kamu, ketika kamu mempunyai ruang tunggu.",
         "voice_waiting_3" : "**Tidak Memungkinan** Sebuah Ruang tunggu sudah ada untuk pembuat voice channel sementara ini.",
         "voice_waiting_4" : "**Created!** Sebuah ruang tunggu telah berhasil dibuat untuk channel ini.",
+        "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
+        "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
         "voice_bitrate_1" : "**Terbatas.** Bitrate tidak boleh lebih dari **{val1}**.",
         "voice_bitrate_2" : "**Updated!**. Bitrate channel kamu sekarang adalah **{val1} kbps**.",
         "voice_block_1" : "**Tidak memungkinkan.** Kamu hanya bisa memblock user hanya sampai **{val1}** users.",
