@@ -78,6 +78,8 @@
         "voice_untrust_2" : "**הוסר**. המשתמש הוסר מרשימת האנשים שיכולים להכנס לחדר השיחה הזמנית שלך.",
         "voice_thread_1" : "**לא אפשרי**. יכול להיות לכם רק חדר צ'אט זמני אחד לכל חדר שיחה זמני.",
         "voice_thread_2" : "**נוצר**. חדר צ'אט זמני נוצר.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Closed!** Your temporary voice channel has been closed.",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",

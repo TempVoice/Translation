@@ -78,6 +78,8 @@
         "voice_untrust_2" : "غير موثوق به** -> لم يثق المستخدم في قناتك الصوتية المؤقتة**",
         "voice_thread_1" : " غير ممكن** -> لا يمكن أن يكون لديك أكثر من سلسلة رسائل لكل قناة صوتية مؤقتة**",
         "voice_thread_2" : "تم الصنع** -> تم إنشاء موضوع مؤقت**",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "مغلق** -> تم إغلاق قناتك الصوتية المؤقتة**",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",

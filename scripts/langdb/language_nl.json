@@ -112,6 +112,8 @@
         "voice_untrust_2" : "**Niet langer vertrouwd!** Deze gebruiker is niet langer vertrouwd in je tijdelijke spraakkanalen.",
         "voice_thread_1" : "**Niet mogelijk!** Er is al een chat aangemaakt voor je tijdelijke spraakkanaal.",
         "voice_thread_2" : "**Aangemaakt!** Een tijdelijke chat is aangemaakt voor  je tijdelijke spraakkanaal.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Gesloten!** Je tijdelijke spraakkanaal is nu gesloten.",
         
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",

@@ -112,6 +112,8 @@
         "voice_untrust_2" : "**Pas de confiance**. Cet utilisateur n'est désormais plus digne de confiance dans votre canal vocal.",
         "voice_thread_1" : "**Pas possible**. Vous ne pouvez pas avoir plus d'un fil par canal vocal temporaire.",
         "voice_thread_2" : "**Création**. Un fil temporaire a été créé.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Fermeture** Votre canal vocal temporaire a été fermé.",
 
         "premium_activate_0" : "**Premium requis** Vous avez besoin d'un abonnement TempVoice Premium sur [Patreon](https://www.patreon.com/tempvoice) pour **avatar et nom de marque personnalisés**.",

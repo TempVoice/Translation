@@ -112,6 +112,8 @@
         "voice_untrust_2" : "**¡No confiado!** El usuario ya no está confiado en tu canal de voz temporal.",
         "voice_thread_1" : "**No es posible**. Ya hay un hilo creado para este canal de voz temporal.",
         "voice_thread_2" : "**¡Creado!** Se ha creado un hilo temporal para este canal.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**¡Cerrado!** Tu canal de voz temporal ha sido cerrado.",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",

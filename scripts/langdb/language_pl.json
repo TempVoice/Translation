@@ -112,6 +112,8 @@
         "voice_untrust_2" : "** Niezaufany**. Użytkownik nie jest już zaufany na Twoim tymczasowym kanale głosowym.",
         "voice_thread_1" : "**Nie jest to możliwe**. Nie można mieć więcej niż jeden wątek na każdy tymczasowy kanał głosowy.",
         "voice_thread_2" : "**Stworzono**. Utworzony został tymczasowy wątek.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Zamknięto!** Twój tymczasowy kanał głosowy został zamknięty.",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",

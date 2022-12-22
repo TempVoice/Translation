@@ -112,6 +112,8 @@
         "voice_untrust_2" : "**Permessi aggiornati!** L'utente non è più un utente fidato del tuo canale vocale temporaneo.",
         "voice_thread_1" : "**Errore** Esiste già un thread per questo canale.",
         "voice_thread_2" : "**Thread creato!** È stato creato un thread temporaneo.",
+        "voice_thread_3" : "**Deleted!** The thread has been deleted.",
+        "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Canale chiuso!** Il tuo canale vocale temporaneo è stato chiuso.",
 
         "premium_activate_0" : "**Premium necessario** Hai bisogno di un abbonamento a TempVoice Premium su [Patreon](https://www.patreon.com/tempvoice) per poter **personalizzare avatar e nome del bot**.",
