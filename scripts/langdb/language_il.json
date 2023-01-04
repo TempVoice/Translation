@@ -3,7 +3,7 @@
         "lang" : "il"
     },
     {
-        "config" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "help" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**ההכנה הושלמה**. {val1} יכול עכשיו לשמש ליצירת חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_setup2" : "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
@@ -14,25 +14,19 @@
         "info_nousers" : "**אין משתמשים**",
 
         "error_validated" : "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
-        "error_permited" : "**Missing Role.** This creator channel can only be used with a certain role.",
-        "error_type" : "**Not Possible.** The option cannot be changed for this creator type.",
         "error_ownerless" : "**Not Possible.** Temporary voice channels from {val1} are ownerless and cannot be managed.",
         "error_empty" : "**לא אפשרי**. לא ניתן לבחור שום משתמש מכיוון שאין משתמשים לבחור מהם.",
-        "error_missing" : "**חסר.** אופציה חשובה לפקודה הזאת חסרה.",
         "error_invalid" : "**שגיאה.** אתם לא בחדר שיחה קיים.",
-        "error_invalid2" : "**שגיאה**. חדר יוצר השיחות הנבחר כנראה כבר נמחק.",
         "error_length" : "**הגבלה**. הערך לא יכול להיות יותר ערוך מ**{val1}** אותיות.",
         "error_manage" : "**לא מורשה**. אתם צריכים את הגישה **Manage Server** כדי להשתמש בפקודה הזאת.",
         "error_vote" : "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**לא אפשרי**. אתם לא יכולים להשתמש בפקודה הזאת עם המשתמש הזה.",
-        "error_ownership1" : "**לא אפשרי**. רק מנהלי השיחה יכול להשתמש בפקודה זאת. נשו לתבוע את חדר השיחה הזאת: </voice claim:921416747687489568>.",
-        "error_ownership2" : "**לא אפשרי**. רק מנהל השיחה או משתמש שרשאי להשתמש בפקודה יכול להשתמש בפקודה זאתי. נשו לתבוע את חדר השיחה הזאת: </voice claim:921416747687489568>.",
+        "error_ownership" : "**לא אפשרי**. רק מנהלי השיחה יכול להשתמש בפקודה זאת. נשו לתבוע את חדר השיחה הזאת: </voice claim:921416747687489568>.",
         "error_permissions" : "**גישות חסרות**. הגישות הבאות חסרות: {val1}.",
         "error_permissions_access" : "**Denied Permissions.** Please contact an Admin. The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**מושבת**. הפקודה הזאת מושבתת לכל חדרי השיחה הזמניים של {val1}.",
         "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
-        "error_channel" : "**חדר לא נכון**. חדר יוצר השיחה הנבחר לא קיים.",
         "error_ratelimit" : "**לא אפשרי כעת**. הפקודה יכולה להשתמש **{val1}**.",
         "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
 
