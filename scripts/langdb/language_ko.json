@@ -128,6 +128,26 @@
         "premium_deactivate_3" : "**비활성화됨** 지금부터 디스코드 서버에 있는 모든 인원이 다시 투표를 해야됩니다.",
         
         "interface_description" : "[**인터페이스**](https://tempvoice.xyz/docs/commands)는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음[</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
-        "interface_footer" : "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다"
+        "interface_footer" : "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다",
+
+        "privacy_menu_placehoder" : "Select a Privacy Option",
+        "privacy_menu_label_1" : "Lock",
+        "privacy_menu_description_1" : "Only trusted users will be able to join your voice channel",
+        "privacy_menu_label_2" : "Unlock",
+        "privacy_menu_description_2" : "Everyone will be able to join your voice channel",
+        "privacy_menu_label_3" : "Invisible",
+        "privacy_menu_description_3" : "Only trusted users will be able to view your voice channel",
+        "privacy_menu_label_4" : "Visible",
+        "privacy_menu_description_4" : "Everyone will be able to view your voice channel",
+        "privacy_menu_label_5" : "Close Chat",
+        "privacy_menu_description_5" : "Only trusted users will be able to text in your chat",
+        "privacy_menu_label_6" : "Open Chat",
+        "privacy_menu_description_6" : "Everyone will be able to text in your chat",
+
+        "waiting_menu_placehoder" : "{val1} wants to join your Channel",
+        "waiting_menu_label_1" : "Accept",
+        "waiting_menu_description_1" : "User will be moved into your voice channel",
+        "waiting_menu_label_2" : "Deny",
+        "waiting_menu_description_2" : "User will be kicked and blocked"
     }
 ]

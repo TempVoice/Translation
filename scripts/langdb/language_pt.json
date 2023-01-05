@@ -128,6 +128,26 @@
         "premium_deactivate_3" : "**Desativado** Os usuários neste servidor do Discord precisam votar novamente.",
 
         "interface_description" : "Essa [**interface**](https://tempvoice.xyz/docs/commands) pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands)",
-        "interface_footer" : "Pressione os botões abaixo para usar a interface"
+        "interface_footer" : "Pressione os botões abaixo para usar a interface",
+
+        "privacy_menu_placehoder" : "Select a Privacy Option",
+        "privacy_menu_label_1" : "Lock",
+        "privacy_menu_description_1" : "Only trusted users will be able to join your voice channel",
+        "privacy_menu_label_2" : "Unlock",
+        "privacy_menu_description_2" : "Everyone will be able to join your voice channel",
+        "privacy_menu_label_3" : "Invisible",
+        "privacy_menu_description_3" : "Only trusted users will be able to view your voice channel",
+        "privacy_menu_label_4" : "Visible",
+        "privacy_menu_description_4" : "Everyone will be able to view your voice channel",
+        "privacy_menu_label_5" : "Close Chat",
+        "privacy_menu_description_5" : "Only trusted users will be able to text in your chat",
+        "privacy_menu_label_6" : "Open Chat",
+        "privacy_menu_description_6" : "Everyone will be able to text in your chat",
+
+        "waiting_menu_placehoder" : "{val1} wants to join your Channel",
+        "waiting_menu_label_1" : "Accept",
+        "waiting_menu_description_1" : "User will be moved into your voice channel",
+        "waiting_menu_label_2" : "Deny",
+        "waiting_menu_description_2" : "User will be kicked and blocked"
     }
 ]
