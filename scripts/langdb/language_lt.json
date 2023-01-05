@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Patikimi naudotojai visada gali prisijungti į jūsų laikinajį balso kanalą",
         "cmd_voice_unblock_description" : "Atblokuoti naudotojai gali prisijungti į jūsų laikinajį balso kanalą",
         "cmd_voice_untrust_description" : "Nepatikimi naudotojai gali prisijungti į jūsų laikinajį balso kanalą",
-        "cmd_voice_users_description" : "Parodo sąrašą visų patikimų, užblokuotų bei moderatorius jūsų laikinojo balso kanale",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

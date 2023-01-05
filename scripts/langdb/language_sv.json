@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Betrodda användare kan alltid gå med i din tillfälliga kanal",
         "cmd_voice_unblock_description" : "Oblockerade användare kan gå med i din tillfälliga kanal",
         "cmd_voice_untrust_description" : "Obetrodda användare kan gå med i din tillfälliga kanal",
-        "cmd_voice_users_description" : "Visar dig en lista över alla betrodda, blockerade och moderatorer för din tillfälliga röstkanal",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

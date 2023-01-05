@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "A megbízható felhasználók bármikor csatlakozhatnak az ideiglenes csatornádhoz",
         "cmd_voice_unblock_description" : "A feloldott felhasználók csatlakozhatnak a nyitott ideiglenes csatornádhoz",
         "cmd_voice_untrust_description" : "A nem megbízható felhasználók csatlakozhatnak a nyitott ideiglenes csatornádhoz",
-        "cmd_voice_users_description" : "Megjeleníti az ideiglenes csatornád szerepköri listáját",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

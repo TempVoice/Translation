@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Los usuarios confiados siempre pueden unirse a tu canal de voz temporal",
         "cmd_voice_unblock_description" : "Los usuarios desbloqueados pueden unirse a tu canal temporal público",
         "cmd_voice_untrust_description" : "Los usuarios en los que no se confía pueden unirse a tu canal temporal público",
-        "cmd_voice_users_description" : "Muestra una lista de todos los usuarios de confianza y bloqueados de tu canal de voz temporal",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

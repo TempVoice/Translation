@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "신뢰할 수 있는 유저는 언제든지 임시 채널에 입장 가능",
         "cmd_voice_unblock_description" : "차단되지 않은 유저는 공개 임시 채널에 입장 가능",
         "cmd_voice_untrust_description" : "신뢰할 수 없는 유저가 공개 임시 채널에 입장 가능",
-        "cmd_voice_users_description" : "임시 채널의 신뢰할 수 있고 차단된 모든 유저 및 소유자 목록을 표시",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

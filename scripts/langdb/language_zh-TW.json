@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "信任的玩家將永遠可以加入您的臨時頻道",
         "cmd_voice_unblock_description" : "解除封鎖的玩家將可以加入您的臨時頻道",
         "cmd_voice_untrust_description" : "解除信任的玩家將可以加入您的臨時頻道",
-        "cmd_voice_users_description" : "顯示您的臨時頻道設定的信任、封鎖、管理員玩家清單",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

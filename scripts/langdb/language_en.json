@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Trusted users can always join your temporary channel",
         "cmd_voice_unblock_description" : "Unblocked users are able to join your open temporary channel",
         "cmd_voice_untrust_description" : "Untrusted users are able to join your open temporary channel",
-        "cmd_voice_users_description" : "Shows you a list of all trusted, blocked, and moderator users of your temporary voice channel",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

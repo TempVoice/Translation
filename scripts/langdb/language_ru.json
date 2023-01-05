@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Доверенные пользователи всегда могут присоединиться к твоему временному каналу",
         "cmd_voice_unblock_description" : "Незаблокированные пользователи могут присоединиться к твоему открытому временному каналу",
         "cmd_voice_untrust_description" : "Недоверенные пользователи могут присоединиться к твоему открытому временному каналу",
-        "cmd_voice_users_description" : "Показывает список всех доверенных и заблокированных пользователей вашего временного канала",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
