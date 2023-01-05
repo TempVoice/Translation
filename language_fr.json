@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Les utilisateurs de confiance peuvent toujours rejoindre votre chaîne temporaire",
         "cmd_voice_unblock_description" : "Les utilisateurs non bloqués peuvent rejoindre votre canal temporaire ouvert",
         "cmd_voice_untrust_description" : "Les utilisateurs non approuvés peuvent rejoindre votre canal temporaire ouvert",
-        "cmd_voice_users_description" : "Affiche une liste de tous les canaux vocaux fiables et bloqués de votre canal vocal temporaire",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

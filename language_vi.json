@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Người đáng tin có thể tham gia kênh thoại tạm thời của cậu",
         "cmd_voice_unblock_description" : "Người dùng không bị chặn có thể tham gia kênh thoại tạm thời được mở của cậu",
         "cmd_voice_untrust_description" : "Người dùng không bị chặn có thể tham gia kênh thoại tạm thời được mở của cậu",
-        "cmd_voice_users_description" : "Hiển thị danh sách những người cậu tin cậy, bị chặn và người kiểm duyệt của kênh thoại tạm thời của cậu",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 

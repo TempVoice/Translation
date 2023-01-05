@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Důvěryhodní uživatelé se mohou vždy připojit k vašemu dočasnému kanálu",
         "cmd_voice_unblock_description" : "Nedůvěryhodní uživatelé se mohou připojit k vašemu otevřenému dočasnému kanálu.",
         "cmd_voice_untrust_description" : "Nedůvěryhodní uživatelé se mohou připojit k vašemu otevřenému dočasnému kanálu.",
-        "cmd_voice_users_description" : "Zobrazí seznam všech důvěryhodných, blokovaných a moderovaných uživatelů vašeho dočasného hlasového kanálu.",
+        "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
