@@ -22,6 +22,9 @@
         "cmd_voice_unblock_description" : "Người dùng không bị chặn có thể tham gia kênh thoại tạm thời được mở của cậu",
         "cmd_voice_untrust_description" : "Người dùng không bị chặn có thể tham gia kênh thoại tạm thời được mở của cậu",
         "cmd_voice_users_description" : "Hiển thị danh sách những người cậu tin cậy, bị chặn và người kiểm duyệt của kênh thoại tạm thời của cậu",
+        "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+
+        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
 
         "cmd_setup_creator_description" : "Thiết lập trình tạo kênh tạm thời mới",
         "cmd_setup_interface_description" : "Tạo giao diện bảng điều khiển cho kênh thoại tạm thời",
@@ -111,6 +114,14 @@
         "voice_thread_3" : "**Deleted!** The thread has been deleted.",
         "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Đã Đóng!** Kênh thoại tạm thời của cậu đã bị đóng.",
+        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+
+        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
+        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
+        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
+        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
+        "join_5" : "**Correct Password** Your are now able to join {val1}",
 
         "premium_activate_0" : "**Yêu Cầu Premium** Cậu cần đăng ký gói premium của TempVoice ở [Patreon](https://www.patreon.com/tempvoice) để **avatar và tên thương hiệu tùy chỉnh**.",
         "premium_activate_1" : "**Yêu Cầu Premium** Cậu cần đăng ký gói premium của TempVoice để kích hoạt premium cho máy chủ này. Nếu cậu đã đăng ký, **đợi** cho đến hết giờ tiếp theo để được xác thực và đảm bảo [Tài khoản Discord của cậu được kết nối với tài khoản Patreon của cậu](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",

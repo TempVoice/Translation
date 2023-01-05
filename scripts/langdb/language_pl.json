@@ -22,6 +22,9 @@
         "cmd_voice_unblock_description" : "Odblokowani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
         "cmd_voice_untrust_description" : "Niezaufani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
         "cmd_voice_users_description" : "Pokazuje listę wszystkich zaufanych i zablokowanych tymczasowych kanałów głosowych",
+        "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+
+        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
 
         "cmd_setup_creator_description" : "Stwórz nowy kanał twórcy",
         "cmd_setup_interface_description" : "Stwórz interfejs dla tymczasowych kanałów głosowych",
@@ -106,6 +109,14 @@
         "voice_thread_3" : "**Deleted!** The thread has been deleted.",
         "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Zamknięto!** Twój tymczasowy kanał głosowy został zamknięty.",
+        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+
+        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
+        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
+        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
+        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
+        "join_5" : "**Correct Password** Your are now able to join {val1}",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Wymagane Premium.** Musisz posiadać subskrypcję Premium TempVoice, żeby aktywować premium na tym serwerze. Jeśli już subskrybujesz, **zaczekaj** do następnej pełnej godziny, żeby zostać zweryfikowanym i upewnij się, że [Twoje konto Discord jest połączone z kontem na Patreonie](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",

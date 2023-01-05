@@ -22,6 +22,9 @@
         "cmd_voice_unblock_description" : "Ξεμπλόκαρε χρήστες που δεν μπορούν να μπουν στο κανάλι σου",
         "cmd_voice_untrust_description" : "Μή Έμπιστοι χρήστες μπορούν να μπαίνουν πάντα στο κανάλι",
         "cmd_voice_users_description" : "Λίστα με όλους τους έμπιστους, μπλοκαρισμένους και moderator χρήστες",
+        "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+
+        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
 
         "cmd_setup_creator_description" : "Δημιουργία νέας γεννήτριας προσωρινών καναλιών",
         "cmd_setup_interface_description" : "Δημιουργία πίνακα ελέγχου για τα κανάλια",
@@ -106,6 +109,14 @@
         "voice_thread_3" : "**Deleted!** The thread has been deleted.",
         "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**Κλειστό!** Το κανάλι μόλις έκλεισε.",
+        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+
+        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
+        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
+        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
+        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
+        "join_5" : "**Correct Password** Your are now able to join {val1}",
 
         "premium_activate_0" : "**Μόνο premium** Χρείαζεσαι να πλερω την premium συνδρομή εδώ [Patreon](https://www.patreon.com/tempvoice) για **custom branding avatar και όνομα**.",
         "premium_activate_1" : "**Μόνο premium** Χρειάζεται Premium συνδρομή. Αν ήδη έχεις, **ΠΕΡΙΜΕΝΕ** περίπου 1 ώρα [Ο λογαριασμός του Discord να ειναι συνδεμένος με τον λογαριασμός του Patreon](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",

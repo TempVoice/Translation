@@ -22,6 +22,9 @@
         "cmd_voice_unblock_description" : "Los usuarios desbloqueados pueden unirse a tu canal temporal público",
         "cmd_voice_untrust_description" : "Los usuarios en los que no se confía pueden unirse a tu canal temporal público",
         "cmd_voice_users_description" : "Muestra una lista de todos los usuarios de confianza y bloqueados de tu canal de voz temporal",
+        "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+
+        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
 
         "cmd_setup_creator_description" : "Configura un nuevo creador de canales para crear canales de voz temporales",
         "cmd_setup_interface_description" : "Crea una interfaz de control para los canales de voz temporales",
@@ -106,6 +109,14 @@
         "voice_thread_3" : "**Deleted!** The thread has been deleted.",
         "voice_thread_4" : "**Not Possible** There is no thread to delete.",
         "voice_close_1" : "**¡Cerrado!** Tu canal de voz temporal ha sido cerrado.",
+        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+
+        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
+        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
+        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
+        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
+        "join_5" : "**Correct Password** Your are now able to join {val1}",
 
         "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
         "premium_activate_1" : "**Suscripción prémium requerida**. Necesitas una suscripción prémium de TempVoice para activarla en este servidor de Discord. Si ya estás suscrito, **espera** hasta el comienzo de la próxima hora para que se valide y asegúrate de que [tu cuenta de Discord esté conectada con tu cuenta de Patreon](<https://support.patreon.com/hc/es-es/articles/212052266--Cómo-conecto-Discord-a-Patreon-mecenas->).",

@@ -22,6 +22,9 @@
         "cmd_voice_unblock_description" : "Nedůvěryhodní uživatelé se mohou připojit k vašemu otevřenému dočasnému kanálu.",
         "cmd_voice_untrust_description" : "Nedůvěryhodní uživatelé se mohou připojit k vašemu otevřenému dočasnému kanálu.",
         "cmd_voice_users_description" : "Zobrazí seznam všech důvěryhodných, blokovaných a moderovaných uživatelů vašeho dočasného hlasového kanálu.",
+        "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+
+        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
 
         "cmd_setup_creator_description" : "Nastavení nového kanálu tvůrce pro vytváření dočasných hlasových kanálů",
         "cmd_setup_interface_description" : "Vytvoření ovládacího rozhraní pro dočasné hlasové kanály",
@@ -105,6 +108,14 @@
         "voice_thread_3" : "**Smazáno!** Vlákno bylo smazáno.",
         "voice_thread_4" : "**Není možné** Neexistuje žádné vlákno, které by bylo možné smazat.",
         "voice_close_1" : "**Uzavřeno!** Váš dočasný hlasový kanál byl uzavřen.",
+        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+
+        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
+        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
+        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
+        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
+        "join_5" : "**Correct Password** Your are now able to join {val1}",
 
         "premium_activate_0" : "**Požadované prémium** Potřebujete předplatné TempVoice Premium na [Patreon](https://www.patreon.com/tempvoice) pro **vlastní avatar a jméno**.",
         "premium_activate_1" : "**Požadované prémium** Potřebujete předplatné TempVoice Premium pro aktivováni premium na tento Discord server. Pokud jste již přihlášeni k odběru, **wait** do příští celé hodiny, abyste se ujistili, že váš [Discord účet je připojen k vašemu účtu Patron](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",

@@ -1,8 +1,8 @@
 require('dotenv').config()
 const { Languages } = require('../../db')
 
-let arr = ['./language_cs.json', './language_sv.json', './language_el.json', './language_zh-TW.json', './language_uk.json', './language_hu.json', './language_nl.json', './language_ae.json', './language_de.json', './language_en.json', './language_es.json', './language_fr.json', './language_id.json', './language_il.json', './language_it.json', './language_ko.json', './language_lt.json', './language_pl.json', './language_pt.json', './language_ru.json', './language_tr.json'];
-//let arr = ['./language_cs.json'];
+let arr = ['./language_cs.json', './language_vi.json', './language_sv.json', './language_el.json', './language_zh-TW.json', './language_uk.json', './language_hu.json', './language_nl.json', './language_ae.json', './language_de.json', './language_en.json', './language_es.json', './language_fr.json', './language_id.json', './language_il.json', './language_it.json', './language_ko.json', './language_lt.json', './language_pl.json', './language_pt.json', './language_ru.json', './language_tr.json'];
+//let arr = ['./language_en.json'];
 for (let i = 0; i < arr.length; i++) {
 	const TransFile = require(arr[i]);
 	const { lang, discord_lang } = TransFile[0]
