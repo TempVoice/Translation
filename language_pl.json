@@ -21,7 +21,7 @@
         "cmd_voice_trust_description" : "Zaufani użytkownicy mogą zawsze dołączyć na Twój prywatny kanał",
         "cmd_voice_unblock_description" : "Odblokowani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
         "cmd_voice_untrust_description" : "Niezaufani użytkownicy mogą dołączyć na Twój otwarty tymczasowy kanał",
-        "cmd_voice_users_description" : "Pokazuje listę wszystkich zaufanych, zablokowanych i moderatorów Twojego tymczasowego kanału głosowego",
+        "cmd_voice_users_description" : "Pokazuje listę wszystkich zaufanych i zablokowanych z Twojego tymczasowego kanału głosowego",
         "cmd_voice_password_description" : "Ustaw hasło dla innych, żeby mogli dołączyć do Twojego tymczasowego kanału głosowego",
         "cmd_voice_reset_description" : "Zresetuj konfigurację Twojego tymczasowego kanału głosowego",
 
