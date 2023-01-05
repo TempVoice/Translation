@@ -128,6 +128,26 @@
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
         "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) komandas.",
-        "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus."
+        "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",
+
+        "privacy_menu_placehoder" : "Select a Privacy Option",
+        "privacy_menu_label_1" : "Lock",
+        "privacy_menu_description_1" : "Only trusted users will be able to join your voice channel",
+        "privacy_menu_label_2" : "Unlock",
+        "privacy_menu_description_2" : "Everyone will be able to join your voice channel",
+        "privacy_menu_label_3" : "Invisible",
+        "privacy_menu_description_3" : "Only trusted users will be able to view your voice channel",
+        "privacy_menu_label_4" : "Visible",
+        "privacy_menu_description_4" : "Everyone will be able to view your voice channel",
+        "privacy_menu_label_5" : "Close Chat",
+        "privacy_menu_description_5" : "Only trusted users will be able to text in your chat",
+        "privacy_menu_label_6" : "Open Chat",
+        "privacy_menu_description_6" : "Everyone will be able to text in your chat",
+
+        "waiting_menu_placehoder" : "{val1} wants to join your Channel",
+        "waiting_menu_label_1" : "Accept",
+        "waiting_menu_description_1" : "User will be moved into your voice channel",
+        "waiting_menu_label_2" : "Deny",
+        "waiting_menu_description_2" : "User will be kicked and blocked"
     }
 ]

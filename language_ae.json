@@ -93,6 +93,26 @@
         "premium_deactivate_3" : "معطل** -> يجب على جميع المستخدمين على خادم الدسكـورد هذا التصويت مرة أخرى**",
 
         "interface_description" : " .أوامر [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) [**لوحه التحكم**](https://tempvoice.xyz/docs/commands) يمكن استخدامها للتحكم في قناة الصوت المؤقتة الخاصة بك. المزيد من الخيارات المتاحة عبر هذه",
-        "interface_footer" : "يمكن استخدام هذه الواجهة بالضغط على الأزرار أدناه"
+        "interface_footer" : "يمكن استخدام هذه الواجهة بالضغط على الأزرار أدناه",
+
+        "privacy_menu_placehoder" : "Select a Privacy Option",
+        "privacy_menu_label_1" : "Lock",
+        "privacy_menu_description_1" : "Only trusted users will be able to join your voice channel",
+        "privacy_menu_label_2" : "Unlock",
+        "privacy_menu_description_2" : "Everyone will be able to join your voice channel",
+        "privacy_menu_label_3" : "Invisible",
+        "privacy_menu_description_3" : "Only trusted users will be able to view your voice channel",
+        "privacy_menu_label_4" : "Visible",
+        "privacy_menu_description_4" : "Everyone will be able to view your voice channel",
+        "privacy_menu_label_5" : "Close Chat",
+        "privacy_menu_description_5" : "Only trusted users will be able to text in your chat",
+        "privacy_menu_label_6" : "Open Chat",
+        "privacy_menu_description_6" : "Everyone will be able to text in your chat",
+
+        "waiting_menu_placehoder" : "{val1} wants to join your Channel",
+        "waiting_menu_label_1" : "Accept",
+        "waiting_menu_description_1" : "User will be moved into your voice channel",
+        "waiting_menu_label_2" : "Deny",
+        "waiting_menu_description_2" : "User will be kicked and blocked"
     }
 ]
