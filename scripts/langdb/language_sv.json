@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Obetrodda användare kan gå med i din tillfälliga kanal",
         "cmd_voice_users_description" : "Visar dig en lista över alla betrodda, blockerade och moderatorer för din tillfälliga röstkanal",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Ställ in en ny skaparkanal för att skapa tillfälliga röstkanaler",
         "cmd_setup_interface_description" : "Skapa ett kontrollgränssnitt för tillfälliga röstkanaler",

@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Μή Έμπιστοι χρήστες μπορούν να μπαίνουν πάντα στο κανάλι",
         "cmd_voice_users_description" : "Λίστα με όλους τους έμπιστους, μπλοκαρισμένους και moderator χρήστες",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Δημιουργία νέας γεννήτριας προσωρινών καναλιών",
         "cmd_setup_interface_description" : "Δημιουργία πίνακα ελέγχου για τα κανάλια",

@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "解除信任的玩家將可以加入您的臨時頻道",
         "cmd_voice_users_description" : "顯示您的臨時頻道設定的信任、封鎖、管理員玩家清單",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "設定一個新的臨時頻道創造器",
         "cmd_setup_interface_description" : "為臨時頻道創立一個快速設定介面頻道",

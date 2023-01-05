@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Güvenilmeyen kullanıcılar açık olan geçici kanalınıza katılabilir.",
         "cmd_voice_users_description" : "Geçici ses kanalınızın tüm güvenilir, engellenen ve moderatörlerinin bir listesini gösterir.",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Geçici ses kanalları oluşturmak için yeni bir oluşturucu kanalı kurun.",
         "cmd_setup_interface_description" : "Geçici ses kanalları için bir kontrol arayüzü oluşturun.",

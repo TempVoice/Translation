@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Usuários não confiáveis ​​podem entrar em seu canal temporário aberto",
         "cmd_voice_users_description" : "Mostra uma lista de todos os usuários confiáveis, bloqueados e moderadores do seu canal de voz temporário",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Configure um novo canal de criador para criar canais de voz temporários",
         "cmd_setup_interface_description" : "Crie uma interface de controle para canais de voz temporários",

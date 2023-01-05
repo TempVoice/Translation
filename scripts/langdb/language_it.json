@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Gli utenti non fidati possono unirsi al canale temporaneo aperto",
         "cmd_voice_users_description" : "Mostra un elenco di tutti gli utenti fidati, bloccati e moderatori del tuo canale vocale temporaneo",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Imposta un nuovo creator channel (canale generatore) per la creazione di canali vocali temporanei",
         "cmd_setup_interface_description" : "Crea un'interfaccia di controllo per i canali vocali temporanei",

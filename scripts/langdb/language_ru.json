@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Недоверенные пользователи могут присоединиться к твоему открытому временному каналу",
         "cmd_voice_users_description" : "Показывает список всех доверенных и заблокированных пользователей вашего временного канала",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Настройка нового creator-канала для создания временных голосовых каналов",
         "cmd_setup_interface_description" : "Установка интерфейса для временных голосовых каналов",

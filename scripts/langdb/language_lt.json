@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "Nepatikimi naudotojai gali prisijungti į jūsų laikinajį balso kanalą",
         "cmd_voice_users_description" : "Parodo sąrašą visų patikimų, užblokuotų bei moderatorius jūsų laikinojo balso kanale",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Sukurti naują kūrėjo kanalą, kad kurti naujus laikinuosius balso kanalus",
         "cmd_setup_interface_description" : "Sukurti laikinųjų balso kanalų valdymo skydą",

@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "A nem megbízható felhasználók csatlakozhatnak a nyitott ideiglenes csatornádhoz",
         "cmd_voice_users_description" : "Megjeleníti az ideiglenes csatornád szerepköri listáját",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "Új alkotói csatorna beállítása az ideiglenes hangcsatorna-létrehozáshoz",
         "cmd_setup_interface_description" : "Interfész beállítása az ideiglenes hangcsatorna-vezérléshez",

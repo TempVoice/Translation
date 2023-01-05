@@ -23,8 +23,9 @@
         "cmd_voice_untrust_description" : "신뢰할 수 없는 유저가 공개 임시 채널에 입장 가능",
         "cmd_voice_users_description" : "임시 채널의 신뢰할 수 있고 차단된 모든 유저 및 소유자 목록을 표시",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
+        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
 
-        "cmd_join_description" : "Join a Temporary Voice Channel by using a Password",
+        "cmd_join_description" : "Join a temporary voice channel by using a password",
 
         "cmd_setup_creator_description" : "임시 음성 채널 생성을 위한 새 채널 설정",
         "cmd_setup_interface_description" : "임시 음성 채널 제어를 위한 인터페이스 설정",
