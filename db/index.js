@@ -10,7 +10,6 @@ mongoose.connect(process.env.dbstring, {
 	},
 })
 
-
 module.exports = {
 	Languages: require('./language'),
 }
