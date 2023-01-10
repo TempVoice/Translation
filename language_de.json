@@ -23,9 +23,9 @@
         "cmd_voice_untrust_description" : "Misstraue einem User, damit dieser deinem geschlossenen temporären Kanal nicht mehr joinen kann.",
         "cmd_voice_users_description" : "Bekomme eine Liste mit allen Befreundeten und Blockierten Usern deines temporären Kanals.",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
-        "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_reset_description" : "Setze die Konfiguration deines temporären Kanals zurück",
 
-        "cmd_join_description" : "Join a temporary voice channel by using a password",
+        "cmd_join_description" : "Trete einem temporären Kanal mithilfe eines Passworts bei",
 
         "cmd_setup_creator_description" : "Richte einen neuen Creator Channel ein.",
         "cmd_setup_interface_description" : "Richte ein Interface für die Verwaltung von temporären Kanälen ein.",
@@ -110,14 +110,14 @@
         "voice_thread_3" : "**Gelöscht!** Der Thread wurde nun gelöscht.",
         "voice_thread_4" : "**Nicht möglich** Es existiert kein Thread, welcher gelöscht werden kann.",
         "voice_close_1" : "**Geschlossen**. Du hast deinen temporären Kanal vorzeitig geschlossen.",
-        "voice_password_1" : "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
-        "voice_password_2" : "**Updated!** The password for your temporary voice channel has been removed.",
+        "voice_password_1" : "**Geändert!** User sind nun in der Lage deinem temporärern Kanal beizutreten, indem diese das Passwort ||`{val1}`|| mit </join:1060564928529956985> Befehl benutzen.",
+        "voice_password_2" : "**Geändert!** Das Passwort für deinen temporärern Kanal wurde entfernt.",
 
-        "join_1" : "**Invalid** You selected a non valid temporary voice channel.",
-        "join_2" : "**Not Possible** You are not allowed to join this temporary voice channel.",
-        "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
-        "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
-        "join_5" : "**Correct Password** Your are now able to join {val1}",
+        "join_1" : "**Nicht gültig** Der ausgewählte Kanal ist kein gültiger temporärer Kanal.",
+        "join_2" : "**Nicht möglich** Du darfst diesem temporärem Kanal nicht beitreten.",
+        "join_3" : "**Nicht möglich** Der ausgewählte temporäre Kanal besitzt kein Passwort zum beitreten.",
+        "join_4" : "**Falsches Passwort** Das eigegebene Passwort ist falsch. Versuch es erneut mit einem anderen.",
+        "join_5" : "**Korrektes Passwort** Du kannst nun {val1} beitreten",
 
         "premium_activate_0" : "**Premium benötigt!** Du benötigst ein TempVoice Premium Abonnement auf [Patreon](https://www.patreon.com/tempvoice) für **Branding Avatar und Name**.",
         "premium_activate_1" : "**Premium benötigt!** Du musst TempVoice auf [Patreon](https://www.patreon.com/tempvoice) unterstüzen, um Premium auf diesem Discord-Server zu aktivieren. Wenn du bereits auf Patreon bist, dann **warte** bis zur nächsten vollen Stunde, um sich validieren zu lassen, und stellen überprüfe, ob dein [Discord Account mit deinem Patreon Account verbunden ist](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->).",
