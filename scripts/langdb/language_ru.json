@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Создано**! Для этого канала была создана комната ожидания.",
         "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
         "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Невозможно**. Битрейт не может быть больше, чем **{val1}**.",
         "voice_bitrate_2" : "**Обновлено**. Битрейт твоего канала **{val1} Kbps**.",
         "voice_block_1" : "**Невозможно**. Ты можешь заблокировать только до **{val1}** пользователей.",

@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Oluşturuldu!** Bu kanal için bekleme odası oluşturuldu.",
         "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
         "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Mümkün değil!** Kanalın bit hızı, **{val1}** değerinden büyük olamaz.",
         "voice_bitrate_2" : "**Güncellendi!** Kanalınızın bit hızı artık **{val1} kbps**.",
         "voice_block_1" : "**Mümkün değil!** En fazla **{val1}** kullanıcıyı engelleyebilirsin.",

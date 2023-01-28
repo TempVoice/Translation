@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Đã Tạo!** Một phòng chờ đã được tạo trong kênh thoại tạm thời này.",
         "voice_waiting_5" : "**Đã Xóa!** Phòng chờ của kênh này đã bị xóa.",
         "voice_waiting_6" : "**Không Thể** Không có phòng chờ nào để xóa cả.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Không Thể** Băng tầng không thể lớn hơn **{val1}**.",
         "voice_bitrate_2" : "**Đã Cập Nhật!** Băng tầng kênh của cậu đã được đặt thành **{val1} kbps**.",
         "voice_block_1" : "**Không Thể** Cậu chỉ có thể chặn tối đa **{val1}** người.",

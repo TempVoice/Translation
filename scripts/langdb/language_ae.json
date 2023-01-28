@@ -36,6 +36,7 @@
         "voice_waiting_4" : "تم إنشاؤه** -> تم إنشاء غرفة انتظار لهذه القناة**",
         "voice_waiting_5" : "**Deleted!** The waiting room has been deleted for this channel.",
         "voice_waiting_6" : "**Not Possible** There is no waiting room to delete.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**{val1}** الحد الاقصى** -> لا يمكن أن يكون معدل البت اكبر من**",
         "voice_bitrate_2" : "**{val1} kbps** <- تغير** -> معدل البت قناتك الآن**",
         "voice_block_1" : "من المستخدمين <- **{val1}** <- غير ممكن** -> يمكنك فقط حظر ما يصل إلى**",
