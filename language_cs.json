@@ -70,6 +70,7 @@
         "voice_waiting_4" : "**Vytvořeno!** Pro tento kanál byla vytvořena čekárna.",
         "voice_waiting_5" : "**Odstraněno!** Čekárna byla pro tento kanál odstraněna.",
         "voice_waiting_6" : "**Není možné** Neexistuje žádná čekárna na vymazání.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Není možné** Bitrate nemůže být větší než **{val1}**.",
         "voice_bitrate_2" : "**Updated!** Bitrate vašeho kanálu je nyní **{val1} kbps**.",
         "voice_block_1" : "**Není možné** Blokovat můžete pouze **{val1}** uživatelé.",

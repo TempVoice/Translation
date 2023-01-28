@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Stworzono!** Poczekalnia została stworzona dla tego kanału.",
         "voice_waiting_5" : "**Usunięto!** Poczekalnia została usunięta dla tego kanału.",
         "voice_waiting_6" : "**Niemożliwe** Nie ma poczekalni do usunięcia.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Niemożliwe**. Bitrate nie może być większy od **{val1}**.",
         "voice_bitrate_2" : "**Zmieniono**. Bitrate kanału wynosi teraz **{val1} kbps**.",
         "voice_block_1" : "**Niemożliwe.** Możesz zablokować maksymalnie **{val1}** użytkowników.",

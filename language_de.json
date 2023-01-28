@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Erstellt!** Es wurde ein Warteraum für diesen temporären Kanal erstellt.",
         "voice_waiting_5" : "**Gelöscht!** Der Warteraum wurde für diesen temporären Kanal gelöscht.",
         "voice_waiting_6" : "**Nicht möglich**. Es existiert kein Warteraum, welcher gelöscht werden kann.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Limitiert**. Die Bitrate kann nicht > {val1} werden.",
         "voice_bitrate_2" : "**Geändert**. Deine Bitrate beträgt jetzt **{val1} kbps**.",
         "voice_block_1" : "**Nicht möglich**. Du kannst nur bis zu **{val1}** User sperren.",

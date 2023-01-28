@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Création**. Une salle d'attente a été créée pour cette chaîne.",
         "voice_waiting_5" : "**Supprimé!** La salle d'attente a été supprimée pour ce canal.",
         "voice_waiting_6" : "**Pas possible** There is no waiting room to delete.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Limitation**. Le débit ne peut pas être supérieur à > **{val1}**.",
         "voice_bitrate_2" : "**Modification**. Le débit du canal est maintenant de **{val1} kbps**.",
         "voice_block_1" : "**Pas possible**. Vous pouvez bloquer que jusqu'à **{val1}** utilisateurs.",

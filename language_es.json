@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**¡Creado!** Se ha creado una sala de espera para este canal.",
         "voice_waiting_5" : "**¡Borrado!** The waiting room has been deleted for this channel.",
         "voice_waiting_6" : "**No es posible** There is no waiting room to delete.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**No es posible**. La tasa de bits no puede ser mayor a **{val1}**.",
         "voice_bitrate_2" : "**¡Cambiado!** La tasa de bits de tu canal ahora es de **{val1} kbps**.",
         "voice_block_1" : "**No es posible.** Solo puedes bloquear un máximo de **{val1}** usuarios.",

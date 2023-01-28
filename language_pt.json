@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Criado!** Uma sala de espera foi criada para este canal.",
         "voice_waiting_5" : "**Excluído!** A sala de espera foi excluída para este canal.",
         "voice_waiting_6" : "**impossível** Não há sala de espera para excluir.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Impossível** A taxa de bits não pode ser maior que **{val1}**.",
         "voice_bitrate_2" : "**Atualizado!** A taxa de bits do seu canal agora é de **{val1} kbps**.",
         "voice_block_1" : "**Impossível** Você só pode bloquear até **{val1}** usuários.",

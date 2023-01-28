@@ -71,6 +71,7 @@
         "voice_waiting_4" : "**Sukurta!** Laukiamasis sėkmingai sukurtas.",
         "voice_waiting_5" : "**Ištrinta!** Šio kanalo laukiamasis ištrintas.",
         "voice_waiting_6" : "**Negalima** Nėra laukiamojo, kurį būtų galima ištrinti.",
+        "voice_waiting_7" : "**Not Possible** You cannot unlock your channel when you have a waiting room.",
         "voice_bitrate_1" : "**Limitas**. Bitų sparta negali būti > **{val1}**.",
         "voice_bitrate_2" : "**Pakeista**. Jūsų bitų sparta dabar yra **{val1} kbps**.",
         "voice_block_1" : "**Negalima.** Jūs galite blokuoti iki **{val1}** naudotojų. Padidinkite limitą su [premium](<https://www.patreon.com/tempvoice>).",
