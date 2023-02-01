@@ -64,6 +64,7 @@
         "error_limit" : "**Inte möjligt** Gränsen för skaparkanaler på en enda server är {val1}. Testa att ta bort en eller öka gränsen med [premium](<https://www.patreon.com/tempvoice>).",
         "error_ratelimit" : "**Sakta ner!** Detta kommando kan användas igen om **{val1}**.",
         "error_creation" : "**Sakta ner!** Du kan skapa en ny kanal om **{val1}**.",
+        "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
 
         "voice_waiting_1" : "**Inte möjligt** Du kan inte skapa ett väntrum när din kanal är dold.",
         "voice_waiting_2" : "**Inte möjligt** Du kan inte dölja din kanal när du har ett väntrum.",

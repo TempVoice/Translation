@@ -64,6 +64,7 @@
         "error_limit" : "**Niemożliwe** Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://www.patreon.com/tempvoice>).",
         "error_ratelimit" : "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
         "error_creation" : "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
+        "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
 
         "voice_waiting_1" : "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
         "voice_waiting_2" : "**Niemożliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",

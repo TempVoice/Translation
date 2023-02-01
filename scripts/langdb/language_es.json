@@ -64,6 +64,7 @@
         "error_limit" : "**No es posible**. El límite de creadores de canales en un solo servidor es de {val1}. Prueba a eliminar uno o incrementa el límite con un nivel más alto de la suscripción [prémium](<https://www.patreon.com/tempvoice>).",
         "error_ratelimit" : "**¡Cálmate!** El comando puede ser usado de nuevo **{val1}**.",
         "error_creation" : "**¡Cálmate!** Puedes crear un nuevo canal **{val1}**.",
+        "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
 
         "voice_waiting_1" : "**No es posible**. No puedes crear una sala de espera si tu canal está oculto.",
         "voice_waiting_2" : "**No es posible**. No es posible ocultar tu canal si tienes una sala de espera.",
