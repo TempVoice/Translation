@@ -29,6 +29,7 @@
         "error_limit" : "**Tidak Memungkinan.** Batas untuk pembuat server dalam 1 server adalah: {val1}. Cobalah untuk menghapus satu atau meningkatkan jumlah agar lebih tinggi dengan: [premium](<https://www.patreon.com/tempvoice>) tier.",
         "error_ratelimit" : "**Pelan Pelan.** Perintah ini dapat digunakan lagi dalam **{val1}**.",
         "error_creation" : "**Pelan Pelan!** Kamu dapat membuat channel baru **{val1}**.",
+        "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
 
         "voice_waiting_1" : "**Tidak Memungkinan** Kamu tidak dapat membaut ruang tunggu, ketika channel kamu disembunyikan.",
         "voice_waiting_2" : "**Tidak Memungkinan** Kamu tidak dapat menyembunyikan channel kamu, ketika kamu mempunyai ruang tunggu.",

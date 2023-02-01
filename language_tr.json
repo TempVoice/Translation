@@ -64,6 +64,7 @@
         "error_limit" : "**Mümkün değil!** Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyin veya daha fazla oluşturucu kurmak için [Premium](<https://www.patreon.com/tempvoice>) kademesine yükseltin.",
         "error_ratelimit" : "**Yavaşla!** Komut, **{val1}** içerisinde tekrar kullanılabilir.",
         "error_creation" : "**Yavaşla!** Yeni bir kanal oluşturmak için: **{val1}**.",
+        "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
         
         "voice_waiting_1" : "**Mümkün değil!** Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
         "voice_waiting_2" : "**Mümkün değil!** Bekleme odanız varken, kanalınızı gizleyemezsiniz.",
