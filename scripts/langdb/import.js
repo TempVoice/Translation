@@ -26,7 +26,7 @@ let arr = [
 	'./language_zh-TW.json',
 ];
 
-// let arr = ['./language_vi.json'];
+let arr = ['./language_ae.json', './language_de.json', './language_ru.json'];
 
 for (let i = 0; i < arr.length; i++) {
 	const TransFile = require(arr[i]);
