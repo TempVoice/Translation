@@ -1,6 +1,6 @@
 [
     {
-        "lang" : "ae"
+        "lang" : "ar"
     },
     {
         "help" : "https://tempvoice.xyz/dashboard <- ضبط البوت باستخدام نظام لوحة القيادة** -> قم بتسجيل الدخول باستخدام حساب ديسكورد الخاص بك للوصول إلى لوحة التحكم**",
@@ -20,14 +20,14 @@
         "error_setup" : "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
         "error_length" : " الحد الاقصى** -> لا يمكنك كتابة أكثر من **{val1}** حرفًا**",
         "error_manage" : " غير مسموح.** -> تحتاج إلى صلاحيات ** سيرفر مانج ** لاستخدام هذا الأمر**",
-        "error_vote" : "[premium](<https://www.patreon.com/tempvoice>) <- أو دائم مع [vote](<https://top.gg/bot/762217899355013120/vote>) <- غير ممكن بعد** -> يمكن استخدام هذا الأمر مؤقتًا مع**",
+        "error_vote" : "[عضوية مدفوعة](<https://www.patreon.com/tempvoice>) <- أو دائم مع [صوت](<https://top.gg/bot/762217899355013120/vote>) <- غير ممكن بعد** -> يمكن استخدام هذا الأمر مؤقتًا مع**",
         "error_target" : " غير ممكن.** -> لا يمكنك استخدام هذا الأمر مع هذا المستخدم**",
         "error_ownership" : "</voice claim:921416747687489568> :غير ممكن** -> يمكن فقط لمالك القناة الصوتية استخدام هذا الأمر. أو حاول المطالبة بهذه القناة الصوتية**",
         "error_permissions" : "{val1} الصلاحيات مفقوده** ->  الصلاحيات التالية مفقودة**",
         "error_permissions_access" : "من أجل إنشاء قنوات مؤقتة بشكل صحيح <- Temp Voice: {val2} <- **{var 1}** <- تم رفض الطلب** -> يرجى الاتصال المشرف. الأوامر التالية هي **مرفوضة** في**",
         "error_permissions_sync" : "**{val2}** <- من أجل مزامنة الأذونات بشكل صحيح من <- role for Temp Voice: {vol 1} <- **أمر مفقود** -> يرجى الاتصال المشرف. الأوامر التالية **مفقودة** في **إعدادات الخادم**",
         "error_deactivated" : " {val1} معطل** -> يتم إلغاء تنشيط هذا الأمر لجميع القنوات الصوتية المؤقتة في**",
-        "error_limit" : "**Not Possible** The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://www.patreon.com/tempvoice>) tier.",
+        "error_limit" : "لا يمكن** لقد وصلت للحد المجاني**  {val1}.  [عضوية مدفوعة](<https://www.patreon.com/tempvoice>) tier.بمكانك حذف القنوات الحالة او تطوير العضوية المدفوعة",
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
         "error_creation" : "يمكنك إنشاء قناة جديدة <- ** {val1} ** <- **يرجى الانتظار ثانية قبل الضغط**",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
@@ -50,8 +50,8 @@
         "voice_claim_4" : " {val1} <- غير ممكن بعد** ->  المالك لا يزال في هذه القناة**",
         "voice_invite_1" : " **غير ممكن** -> المستخدم في حالة **عدم الإزعاج**",
         "voice_invite_2" : " غير ممكن** -> لا يقبل المستخدم الرسائل المباشرة**",
-        "voice_invite_3" : "غير متاح** -> تمت دعوة المستخدم للانضمام إلى القناة الصوتية المؤقتة الخاصة بك**",
-        "voice_invite_4" : "**غير متاح** {val1} <- دعاك للانضمام -> {val2}",
+        "voice_invite_3" : "تم ارسال دعوة** -> تمت دعوة المستخدم للانضمام إلى القناة الصوتية المؤقتة الخاصة بك**",
+        "voice_invite_4" : "**لقد تلقيت دعوة!** {val1} <- دعاك للانضمام -> {val2}",
         "voice_kick_1" : " غير ممكن** -> لا يمكنك طرد مستخدم ليس في قناة صوتية**",
         "voice_kick_2" : " غير ممكن** -> لا يمكنك طرد مستخدم من قناة صوتية أخرى**",
         "voice_kick_3" : "مطرود** -> تم طرد المستخدم من القناة الصوتية المؤقتة الخاصة بك**",
