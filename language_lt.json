@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
         "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
-        "interface_description" : "Šią [**sąsają**](https://tempvoice.xyz/docs/commands) galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) komandas.",
+        "interface_description" : "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",
 
         "privacy_menu_placehoder" : "Pasirinkite privatumo parinktį",

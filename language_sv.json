@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium har löpt ut** Ditt premium har löpt ut.",
         "premium_deactivate_3" : "**Inaktiverad!** Användare på denna Discord server måste rösta igen.",
 
-        "interface_description" : "Detta [**gränssnitt**](https://tempvoice.xyz/docs/commands) kan användas för att hantera tillfälliga röstkanaler. Fler alternativ är tillgängliga med [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) kommandon.",
+        "interface_description" : "Detta **gränssnitt** kan användas för att hantera tillfälliga röstkanaler. Fler alternativ är tillgängliga med [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) kommandon.",
         "interface_footer" : "Tryck på knapparna nedan för att använda gränssnittet",
 
         "privacy_menu_placehoder" : "Select a Privacy Option",

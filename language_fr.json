@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Expiration du premium** Votre abonnement premium a déjà expiré.",
         "premium_deactivate_3" : "**Désactivé** Tous les utilisateurs de ce Discord vont devoir voter à nouveau.",
         
-        "interface_description" : "Cette [**interface**](https://tempvoice.xyz/docs/commands) peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponible avec les commandes [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "Cette **interface** peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponible avec les commandes [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous",
 
         "privacy_menu_placehoder" : "Sélectionnez une option de confidentialité",

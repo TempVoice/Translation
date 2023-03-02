@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium expirado** Sua assinatura premium expirou.",
         "premium_deactivate_3" : "**Desativado** Os usuários neste servidor do Discord precisam votar novamente.",
 
-        "interface_description" : "Essa [**interface**](https://tempvoice.xyz/docs/commands) pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands)",
+        "interface_description" : "Essa **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands)",
         "interface_footer" : "Pressione os botões abaixo para usar a interface",
 
         "privacy_menu_placehoder" : "Selecione uma opção de privacidade",

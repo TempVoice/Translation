@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Suscripción prémium expirada**. Tu suscripción prémium ha expirado.",
         "premium_deactivate_3" : "**¡Desactivado!** Todos los usuarios en este servidor tienen que votar de nuevo.",
         
-        "interface_description" : "Esta [**interfaz**](https://tempvoice.xyz/docs/commands) puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
         "interface_footer" : "Esta interfaz se puede utilizar pulsando los botones de abajo.",
 
         "privacy_menu_placehoder" : "Elige una opción de privacidad",
