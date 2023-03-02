@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium abgelaufen.** Dein Premium ist bereits abgelaufen.",
         "premium_deactivate_3" : "**Deaktiviert.** Alle User auf diesem Discord-Server müssen wieder voten.",
 
-        "interface_description" : "Dieses [**Interface**](https://tempvoice.xyz/docs/commands) kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) Chat Befehlen zur verfügung.",
+        "interface_description" : "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) Chat Befehlen zur verfügung.",
         "interface_footer" : "Das Interface kann mit den unteren Buttons verwendet werden.",
 
         "privacy_menu_placehoder" : "Wähle eine Option aus",
