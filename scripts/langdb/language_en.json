@@ -6,7 +6,7 @@
     {
         "cmd_voice_waiting_description" : "Create a waiting room for join request to your temporary channel",
         "cmd_voice_bitrate_description" : "Change the bitrate of your temporary channel",
-        "cmd_voice_block_description" : "Blocked users are not able to view your temporary channel",
+        "cmd_voice_block_description" : "Block users from your temporary channel so they cannot join anymore",
         "cmd_voice_claim_description" : "Claim a temporary channel and gain ownership of it",
         "cmd_voice_close_description" : "Delete your temporary channel",
         "cmd_voice_info_description" : "Get information about a temporary channel",
@@ -18,9 +18,9 @@
         "cmd_voice_region_description" : "Change the region of your temporary channel",
         "cmd_voice_thread_description" : "Create a temporary thread for your temporary channel",
         "cmd_voice_transfer_description" : "Transfer the ownership of your temporary channel to another user",
-        "cmd_voice_trust_description" : "Trusted users can always join your temporary channel",
-        "cmd_voice_unblock_description" : "Unblocked users are able to join your open temporary channel",
-        "cmd_voice_untrust_description" : "Untrusted users are able to join your open temporary channel",
+        "cmd_voice_trust_description" : "Trust users to your temporary channel so they can always join",
+        "cmd_voice_unblock_description" : "Unblock users from your temporary channel",
+        "cmd_voice_untrust_description" : "Untrust users from your temporary channel",
         "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary channel",
@@ -38,7 +38,7 @@
 
         "cmd_help_description" : "Configure the TempVoice Bot via Web Dashboard",
 
-        "help" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "help" : "**Help Has Arrived!** Take a look at the buttons below and login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**Setup Complete!** {val1} can now be used to create temporary voice channels in your Discord server.",
         "info_setup2" : "**Setup Complete!** This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
