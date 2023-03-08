@@ -58,6 +58,7 @@
         "error_vote" : "**Zatím není možné** Tento příkaz lze dočasně odblokovat pomocí [hlasovaním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčené pomocí [premium](<https://www.patreon.com/tempvoice>).",
         "error_target" : "**Není možné** You cannot use this command for the selected user.",
         "error_ownership" : "**Není možné** Tento příkaz může použít pouze vlastník hlasového kanálu. Pokud aktuální vlastník odešel, požádejte o hlasový kanál pomocí příkazu: </voice claim:921416747687489568>.",
+        "error_permissions" : "**Missing Permissions.** The following permissions are missing: {val1}",
         "error_permissions_access" : "**Zamítnuta oprávnění** Prosím kontaktujte Admin. Následující oprávnění jsou **Zamítnuta** na **{val1}** pre TempVoice: {val2} aby bylo možné správně vytvořit dočasné kanály.",
         "error_permissions_sync" : "**Chybějící oprávnění** Kontaktujte prosím Admina. Následující oprávnění jsou **Chybějící** v **nastavení serveru** role pre TempVoice: {val1} aby bylo možné správně synchronizovat oprávnění z **{val2}**.",
         "error_deactivated" : "**Není možné** Tento příkaz je deaktivován pro všechny dočasné hlasové kanály. {val1}.",
