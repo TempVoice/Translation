@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium Đã Hết Hạn** Gói premium của bạn đã hết hạn.",
         "premium_deactivate_3" : "**Đã Hủy Kích Hoạt!** Thành viên trong server này phải bỏ phiếu lại rồi.",
 
-        "interface_description" : "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) commands.",
+        "interface_description" : "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh [</voice:921416747687489568>](https://tempvoice.xyz) commands.",
         "interface_footer" : "Nhấn các nút bên dưới để sử dụng giao diện",
 
         "privacy_menu_placehoder" : "Select a Privacy Option",

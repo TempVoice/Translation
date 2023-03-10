@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium süresi doldu!** Premium aboneliğiniz süresi doldu.",
         "premium_deactivate_3" : "**Devre dışı!** Bu Discord sunucusundaki tüm kullanıcıların, tekrar oy kullanması gerekiyor.",
 
-        "interface_description" : "Bu arayüz, geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://tempvoice.xyz/docs/commands) komutunu kullanın.",
+        "interface_description" : "Bu arayüz, geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://tempvoice.xyz) komutunu kullanın.",
         "interface_footer" : "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir.",
 
         "privacy_menu_placehoder" : "Select a Privacy Option",

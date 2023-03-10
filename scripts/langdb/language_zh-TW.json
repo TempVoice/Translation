@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**訂閱到期** 您的訂閱已經到期",
         "premium_deactivate_3" : "**已停用!** 此伺服器的使用者需要再次投票",
 
-        "interface_description" : "此 **設定介面** 可以管理臨時語音頻道. 更多選項可使用 [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) 開頭的命令",
+        "interface_description" : "此 **設定介面** 可以管理臨時語音頻道. 更多選項可使用 [</voice:921416747687489568>](https://tempvoice.xyz) 開頭的命令",
         "interface_footer" : "請按下面的按鈕使用此介面",
 
         "privacy_menu_placehoder" : "選擇隱私選項",

@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium wygasło.** Twoja subskrypcja premium już wygasła.",
         "premium_deactivate_3" : "**Dezaktywowano.** Wszyscy użytkownicy na tym serwerze Discord muszą zagłosować ponownie.",
         
-        "interface_description" : "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands).",
+        "interface_description" : "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [</voice:921416747687489568>](https://tempvoice.xyz).",
         "interface_footer" : "Interfejs może być użyty dzięki przyciskom poniżej",
 
         "privacy_menu_placehoder" : "Wybierz Opcję Prywatności",

@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Premium Expired.** Your premium subscription has expired.",
         "premium_deactivate_3" : "**Deactivated.** Users on this Discord server have to vote again.",
 
-        "interface_description" : "This **interface** can be used to manage temporary voice channels. More options are available with [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) commands.",
+        "interface_description" : "This **interface** can be used to manage temporary voice channels. More options are available with [</voice:921416747687489568>](https://tempvoice.xyz) commands.",
         "interface_footer" : "Press the buttons below to use the interface",
 
         "privacy_menu_placehoder" : "Select a Privacy Option",

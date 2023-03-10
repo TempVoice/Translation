@@ -130,7 +130,7 @@
         "premium_deactivate_2" : "**Prémium lejárt.** A prémium előfizetés lejárt.",
         "premium_deactivate_3" : "**Deaktivált!** A Discord szerver felhasználóinak újra szavazniuk kell.",
 
-        "interface_description" : "Ez az **interfész** használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) parancsokon keresztül.",
+        "interface_description" : "Ez az **interfész** használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a [</voice:921416747687489568>](https://tempvoice.xyz) parancsokon keresztül.",
         "interface_footer" : "Ez a felület az alábbi gombok megnyomásával használható",
 
         "privacy_menu_placehoder" : "Válasszon egy adatvédelmi beállítást",
