@@ -1,5 +1,5 @@
 # How to add a new language to TempVoice?
-Download a language.json file, replace the text and send it back to @EXCORDO on the [official Discord server](https://discord.gg/4tKxZC82HA).
+Download a translation.json file, replace the text and send it back to @EXCORDO#1614 on the [Discord server](https://tempvoice.xyz/redirect/support).
 
 # How to translate the language.json file?
 Only edit the blue part:
@@ -12,3 +12,8 @@ Only edit the blue part:
 
 # What should I do with hyperlinks?
 `[Text](url-link)` is a clickable text for an url. Its important that the brackets `[ ]( )` stay together. The text inside of an `[ ]` bracket should be translated.
+
+# What else do I have to consider?
+- Try to not translate keywords like "dashboard", "interface", "creator channel" & "placeholder"
+- Do not change the structure of the file
+- Wse a suitable software to edit the file! (VS Code, Nodepad++)
