@@ -16,4 +16,4 @@ Only edit the blue part:
 # What else do I have to consider?
 - Try to not translate keywords like "dashboard", "interface", "creator channel" & "placeholder"
 - Do not change the structure of the file
-- Wse a suitable software to edit the file! (VS Code, Nodepad++)
+- Use a suitable software to edit the file! (VS Code, Nodepad++)
