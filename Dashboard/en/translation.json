@@ -41,9 +41,9 @@
     "component_5_description" : "Send a welcome message into temporary channels after creation",
     "component_5_1_description" : "No more than 300 characters are allowed.",
     "component_6" : "In-Voice Role",
-    "component_6_description" : "Assign a role when joining/leaving a temporary channel (Default: @everyone)",
+    "component_6_description" : "Assign a role when joining/leaving a temporary channel",
     "component_7" : "Member Role",
-    "component_7_description" : "Required to see temporary channels (Default: @everyone)",
+    "component_7_description" : "Required to see temporary channels",
     "component_8" : "Restore Owner Settings",
     "component_8_description" : "Restore temporary channels properties to the way they were before deletion",
     "component_9" : "Reset Configuration",
@@ -86,7 +86,7 @@
     "component_26" : "Temporary Channel Category (Primary)",
     "component_26_description" : "Primary category for temporary channels",
 
-    "placeholder_1_description" : "When using the {PRIVACY} placeholder the channel name gets updated when changing the privacy. This is only possible every 5 minutes duo Discord limitations.",
+    "placeholder_1_description" : "When using the {PRIVACY} placeholder the channel name gets updated when changing the privacy. This is only possible every 5 minutes due to Discord limitations.",
     "placeholder_2_description" : "Show the role name no matter when the role is separated on the list of online members.",
     "placeholder_3_description" : "Shows the highest role name which is separated on the list of online members.",
 
