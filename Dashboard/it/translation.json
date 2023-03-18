@@ -89,7 +89,9 @@
     "component_26_description" : "Categoria nella quale verranno aggiunti i canali temporanei creati",
     "component_27" : "Flash votazioni",
     "component_27_description" : "Guadagni da 1 a 3 Flash ogni volta che voti per TempVoice. 60 Flash possono essere scambiati per 2 settimane di Premium! Bello neh? Ricorda che puoi votare ogni 12 ore e farlo richiede pochissimi secondi!",
-
+    "component_28" : "Temporary Channel Fillup",
+    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    
     "placeholder_1_description" : "Quando si usa il placeholder {PRIVACY} il nome del canale viene aggiornato quando vengono cambiate le impostazioni di privacy. Questo è possibile solo ogni 5 minuti per via di limitazioni imposte da Discord.",
     "placeholder_2_description" : "Mostra il nome del ruolo più alto dell'utente, a prescindere dal fatto che questo sia separato nell'elenco dei membri online.",
     "placeholder_3_description" : "Mostra il nome del ruolo più alto dell'utente, che sia separato nell'elenco dei membri online.",

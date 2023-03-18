@@ -89,7 +89,9 @@
     "component_26_description" : "Основная категория для временных каналов",
     "component_27" : "Vote Flash-ы",
     "component_27_description" : "Вы получайте 1-3 Flash-а каждый раз, голосуя за TempVoice. За 60 flash-ов вы можете получить 2 недели премиума! Круто, да? Не забывайте, что можно голосовать каждые 12 часов и это занимет всего несколько секунд!",
-
+    "component_28" : "Temporary Channel Fillup",
+    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    
     "placeholder_1_description" : "При использовании placeholder-а {PRIVACY}, название канала обновляется при смене настройки приватности. Это возможно только раз в 5 минут в виду лимитов.",
     "placeholder_2_description" : "Показывать название роли независимо от разделения в списке участников.",
     "placeholder_3_description" : "Показывает название роли самой высокой роли, которая разделена в списке участников.",

@@ -89,7 +89,9 @@
     "component_26_description" : "Κύρια κατηγορία",
     "component_27" : "Vote Flashes",
     "component_27_description" : "You get 1-3 Flashes every time you vote for TempVoice. 60 flashes can be exchanged for 2 weeks premium! Cool huh? Remember that you can vote every 12 hours and takes less then seconds!",
-
+    "component_28" : "Temporary Channel Fillup",
+    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    
     "placeholder_1_description" : "Όταν αλλάζεις τις {PRIVACY} αλλάζει και το όνομα του placeholder. Αυτό είναι εφικτό μόνο κάθε 5 λεπτά.",
     "placeholder_2_description" : "Εμφάνισε τον ρόλο ξεχωριστά.",
     "placeholder_3_description" : "Εμφάνισε τον μεγαλύτερο ρόλο ξεχωριστά.",

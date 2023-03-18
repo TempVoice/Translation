@@ -89,7 +89,9 @@
     "component_26_description" : "Categoria principal para canais temporários",
     "component_27" : "Vote Flashes",
     "component_27_description" : "Você ganha 1-3 Flashes toda vez que vota no TempVoice. 60 flashes podem ser trocados por 2 semanas premium! Legal né? Lembre-se que você pode votar a cada 12 horas e leva menos de segundos!",
-
+    "component_28" : "Temporary Channel Fillup",
+    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    
     "placeholder_1_description" : "Ao usar o espaço reservado {PRIVACY}, o nome do canal é atualizado ao alterar a privacidade. Isso só é possível a cada 5 minutos devido às limitações do Discord.",
     "placeholder_2_description" : "Mostre o nome do cargo, independentemente de quando o cargo estiver separada na lista de membros online.",
     "placeholder_3_description" : "Mostra o nome do cargo mais alto que está separada na lista de membros online.",
