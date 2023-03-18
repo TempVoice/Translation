@@ -27,8 +27,8 @@
 
         "cmd_join_description" : "パスワードを使って一時的なチャンネルに参加する",
 
-        "cmd_setup_creator_description" : "一時的なチャンネルを作成するための新しいcreator channelを設定する",
-        "cmd_setup_interface_description" : "一時的なチャンネルの制御interfaceを作成する",
+        "cmd_setup_creator_description" : "一時的なチャンネルを作成するための新しいクリエーターチャンネルを設定する",
+        "cmd_setup_interface_description" : "一時的なチャンネルの制御インターフェースを作成する",
         "cmd_setup_tempvoice_description" : "数秒で簡単にTempvoiceを設定する",
         "cmd_setup_premium_description" : "TempVoiceのプレミアムサブスクリプションを管理する",
 
@@ -36,22 +36,22 @@
         "cmd_premium_deactivate_description" : "このDiscordサーバーでプレミアムを無効化する",
         "cmd_premium_status_description" : "このDiscordサーバーのプレミアムステータスに関する情報",
 
-        "cmd_help_description" : "Web dashboard からTempVoiceボットを設定する",
+        "cmd_help_description" : "Webダッシュボード からTempVoiceボットを設定する",
 
-        "help" : "**ヘルプが到着しました!** 以下のボタンを見て、Discordアカウントでログインし、dashboardにアクセスしてください。: https://tempvoice.xyz/dashboard",
+        "help" : "**ヘルプが到着しました!** 以下のボタンを見て、Discordアカウントでログインし、ダッシュボードにアクセスしてください。: https://tempvoice.xyz/dashboard",
 
         "info_setup" : "**セットアップ完了!** {val1} は今後サーバーで一時的な音声チャンネルを作成できます",
-        "info_setup2" : "**インストール完了!** この [interface]({val1}) を使用してDiscordサーバーの一時的な音声チャンネルを管理できます。",
-        "info_removed" : "**削除されました!** 選択したcreator channelが削除されました. 新規作成する際は次のコマンドを使用してください </setup creator:921000495877877762>.",
+        "info_setup2" : "**インストール完了!** この [インターフェース]({val1}) を使用してDiscordサーバーの一時的な音声チャンネルを管理できます。",
+        "info_removed" : "**削除されました!** 選択したクリエーターチャンネルが削除されました. 新規作成する際は次のコマンドを使用してください </setup creator:921000495877877762>.",
         "info_reset" : "**リセット** 設定がデフォルトに戻されました。",
         "info_recreate" : "**更新しました。** 変更を適用するために、新しい一時的な音声チャンネルを作成してください。",
         "info_menu" : "このメニューを使用してオプションを選択してください:",
         "info_nousers" : "**ユーザーがいません**",
         
-        "error_validated" : "**無効です。** {val1} 管理者に連絡してください。 このクcreator channelは、プレミアムサブスクリプションがダウングレードまたはキャンセルされたため、無効になっています。",
+        "error_validated" : "**無効です。** {val1} 管理者に連絡してください。 このクリエーターチャンネルは、プレミアムサブスクリプションがダウングレードまたはキャンセルされたため、無効になっています。",
         "error_ownerless" : "**不可能です。** {val1} の一時的な音声チャンネルはオーナーがいないため、管理できません。",
         "error_empty" : "**不可能です。**  選択できるユーザーがいません。",
-        "error_invalid" : "**無効です。** 有効な一時的な音声チャンネルにいません。まず、**creator channel** に参加してください: {val1}",
+        "error_invalid" : "**無効です。** 有効な一時的な音声チャンネルにいません。まず、**クリエーターチャンネル** に参加してください: {val1}",
         "error_setup" : "**クリエーターが見つかりません。** このボットはまだ設定されていません。 あなたが管理者の場合は、 </setup tempvoice:921000495877877762> または </setup creator:921000495877877762> を使用してください。",
         "error_length" : "**不可能です。** 値は **{val1}** 文字を超えることはできません。",
         "error_manage" : "**許可されていません。** このコマンドを使用するには、**サーバー管理**権限が必要です。",
@@ -62,7 +62,7 @@
         "error_permissions_access" : "**アクセスが拒否されました。** 管理者に連絡してください。 The following permissions are **denied** in **{val1}** for TempVoice: {val2} in order to create temporary channels properly.",
         "error_permissions_sync" : "**権限が不足しています。** 管理者に連絡してください。 The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions properly from **{val2}**.",
         "error_deactivated" : "**不可能です。** このコマンドは、{val1}のすべての一時的な音声チャンネルで無効になっています。",
-        "error_limit" : "**不可能です。** サーバー内のcreator channelsの制限は{val1}です。 1つ削除するか、[プレミアム](<https://www.patreon.com/tempvoice>) ティアで制限を増やしてみてください。",
+        "error_limit" : "**不可能です。** サーバー内のクリエーターチャンネルの制限は{val1}です。 1つ削除するか、[プレミアム](<https://www.patreon.com/tempvoice>) ティアで制限を増やしてみてください。",
         "error_ratelimit" : "**速度を落としてください!** このコマンドは **{val1}** 後に再度使用できます。",
         "error_creation" : "**速度を落としてください!** 新しいチャンネルは **{val1}** 後に作成できます。",
         "error_max" : "**制限に達しました。** 同時に使用できる**{val1}**の一時的な音声チャネルの制限に達しました。後で再試行してください。",
@@ -130,8 +130,8 @@
         "premium_deactivate_2" : "**プレミアムが期限切れです。** あなたのプレミアムサブスクリプションは期限切れです。",
         "premium_deactivate_3" : "**無効化しました。** このDiscordサーバーのユーザーは、再度投票する必要があります。",
 
-        "interface_description" : "この **interface** は、一時的な音声チャンネルの管理に使用できます。 [</voice:921416747687489568>](https://tempvoice.xyz) コマンドでさらに多くのオプションが利用可能です。",
-        "interface_footer" : "以下のボタンを押すと、interfaceを使用できます。",
+        "interface_description" : "この **インターフェース** は、一時的な音声チャンネルの管理に使用できます。 [</voice:921416747687489568>](https://tempvoice.xyz) コマンドでさらに多くのオプションが利用可能です。",
+        "interface_footer" : "以下のボタンを押すと、インターフェースを使用できます。",
 
         "privacy_menu_placehoder" : "プライバシーオプションを選択",
         "privacy_menu_label_1" : "ロック",
