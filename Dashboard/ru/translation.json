@@ -37,8 +37,8 @@
     "component_2_description" : "Битрейт временных каналов по умолчанию",
     "component_3" : "Общий лимит временных каналов",
     "component_3_description" : "Общий лимит временных каналов, которые могут сосуществовать",
-    "component_4" : "Manage Premium",
-    "component_4_description" : "Number of Discord Servers on which you can activate premium:",
+    "component_4" : "Управление Премиумом",
+    "component_4_description" : "Количество Discord серверов на которых вы можете активировать премиум:",
     "component_5" : "Приветственное Сообщение",
     "component_5_description" : "Отправление приветственного сообщения во временной канал при создании",
     "component_5_1_description" : "Допускается не более 300 символов.",
@@ -96,7 +96,7 @@
 
     "navbar_login_1" : "Авторизованы как",
     "navbar_login_2" : "Панель управления",
-    "navbar_login_3" : "Profile",
+    "navbar_login_3" : "Профиль",
     "navbar_login_4" : "Выйти",
 
     "invite_button" : "Пригласить TempVoice",
@@ -105,7 +105,7 @@
     "login_button" : "Авторизоваться через Discord",
     "patreon_button" : "Поддержать TempVoice на Patreon",
     "connect_button" : "Подключить Patreon к Discord",
-    "vote_button" : "Проголосвать за TempVoice на Top.gg",
+    "vote_button" : "Проголосовать за TempVoice на Top.gg",
 
     "statistics_1" : "Итого Кластеров",
     "statistics_2" : "Итого Шардов",
