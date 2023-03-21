@@ -14,6 +14,6 @@ Only edit the blue part:
 `[Text](url-link)` is a clickable text for an url. Its important that the brackets `[ ]( )` stay together. The text inside of an `[ ]` bracket should be translated.
 
 # What else do I have to consider?
-- Try to not translate keywords like "dashboard", "interface", "creator channel" & "placeholder"
-- Do not change the structure of the file
+- Do not use any internet translators without proofreading it twice!
+- Do not change the structure of the file!
 - Use a suitable software to edit the file! (VS Code, Nodepad++)
