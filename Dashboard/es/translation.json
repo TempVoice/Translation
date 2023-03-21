@@ -28,6 +28,7 @@
     "headline_15_description": "Una vez hayas creado un Canal de Voz Temporal uniéndote a un Canal Creador, puedes usar los comandos '/voice' para controlar las propiedades del Canal de Voz. Ten en cuenta que todos los cambios que hagas a tu Canal de Voz Temporal serán guardados y restaurados cuando crees un nuevo Canal de Voz Temporal en cualquier momento!",
     "headline_16_description": "Selecciona un servidor de Discord para editar la configuración de TempVoice.",
     "headline_17_description": "Selecciona un Canal Creador para editar la configuración de TempVoice. Configura un nuevo creador usando '/setup creator' y elimina uno borrando el canal en Discord.",
+    
     "component_1": "En que cluster esta mi servidor?",
     "component_1_description": "Introduce la ID de tu servidor aquí",
     "component_1_1_description": "Tu servidor esta en",
@@ -88,13 +89,18 @@
     "component_26_description": "Categoría primaria para los canales temporales",
     "component_27": "Vote Flashes",
     "component_27_description": "Obtienes 1-3 Flashes cada vez que votas por TempVoice. 60 flashes pueden ser intercambiados por 2 semanas de premium! Genial, ¿eh? Recuerda que puedes votar cada 12 horas y toma solo unos segundos!",
+    "component_28" : "Temporary Channel Fillup",
+    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    
     "placeholder_1_description": "Al usar el placeholder {PRIVACY} el nombre del canal se actualiza al cambiar la privacidad. Esto solo es posible cada 5 minutos debido a limitaciones de Discord.",
     "placeholder_2_description": "Muestra el nombre del rol sin importar cuando el rol es separado en la lista de miembros en linea.",
     "placeholder_3_description": "Muestra el nombre del rol mas alto que es separado en la lista de miembros en linea.",
+    
     "navbar_login_1": "Sesión iniciada como",
     "navbar_login_2": "Dashboard",
     "navbar_login_3": "Perfil",
     "navbar_login_4": "Cerrar Sesión",
+
     "invite_button": "Invitar a TempVoice",
     "dashboard_button": "Abrir el Dashboard",
     "guides_button": "Ver Guías",
@@ -102,10 +108,12 @@
     "patreon_button": "Apoya a TempVoice en Patreon",
     "connect_button": "Conecta Patreon con Discord",
     "vote_button": "Vota por TempVoice en Top.gg",
+
     "statistics_1": "Clusters en total",
     "statistics_2": "Shards en total",
     "statistics_3": "Servidores en total",
     "statistics_4": "Miembros en total",
+
     "alert_premium_activate": "Tu premium esta listo para ser usado!",
     "alert_premium_inactivate": "Si recientemente apoyaste a TempVoice en Patreon tienes que esperar hasta la proxima hora completa para ser validado y poder activar Premium en cualquier servidor de Discord (ej. son las 11:40am asi que espera hasta las 12:00am)",
     "alert_please_login": "Por favor inicia sesión con tu cuenta de Discord para continuar.",
