@@ -115,8 +115,7 @@
     "statistics_4" : "Итого Участников",
 
     "alert_premium_activate" : "Ваш премиум готов к использованию!",
-    "alert_premium_inactivate" : "Если вы недавно поддержали TempVoice на Patreon, вам нужно подождать до следующего полного часа, чтобы пройти проверку и получить возможность активировать премиум на любом сервере Discord (например, сейчас 11:40, вы должны будете подождать до 12:00)",
-    "alert_please_login" : "Пожалуйста, авторизуйтесь через Discord, чтобы продолжить.",
+    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
     "alert_no_servers" : "Вы не владейте или администрируйте какой-либо Discord сервер. Вам нужно право 'Управлять сервером'.",
 	"alert_no_creators": "На этом Discord сервере пока нет creator-каналов. Настройте новый канал с помощью '/setup creator' и обновите страницу.",
 	"alert_input_limit" : "Допускается не более 64 символов.",

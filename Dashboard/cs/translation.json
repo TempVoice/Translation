@@ -115,7 +115,7 @@
     "statistics_4" : "Celkový počet členů",
 
     "alert_premium_activate" : "Your Premium is ready to be used!",
-    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait until the next full hour to get validated and be able to activate Premium on any Discord Server (ex. its 11:40am so wait until 12:00am)",
+    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
     "alert_please_login" : "Pro pokračování se prosím přihlaste pomocí svého účtu Discord.",
     "alert_no_servers" : "Nevlastníte ani nemoderujete žádný server Discord. Budete potřebovat oprávnění 'Spravovat server'.",
     "alert_no_creators" : "Tento server Discord zatím nemá žádné tvůrce. Nastavte nový kanál tvůrce pomocí '/setup creator' a obnovte stránku.",

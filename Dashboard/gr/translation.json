@@ -115,7 +115,7 @@
     "statistics_4" : "Members σύνολο",
 
     "alert_premium_activate" : "Your Premium is ready to be used!",
-    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait until the next full hour to get validated and be able to activate Premium on any Discord Server (ex. its 11:40am so wait until 12:00am)",
+    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
     "alert_please_login" : "Μπες μέσω discord.",
     "alert_no_servers" : "Χρειάζεται το 'Manage Server' permission.",
     "alert_no_creators" : "Φτιάξε ένα νέο Creator Channel with '/setup creator' και ανανέωσε την σελίδα.",
