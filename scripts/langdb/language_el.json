@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Λίστα με όλους τους έμπιστους, μπλοκαρισμένους και moderator χρήστες",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary voice channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Απενεργοποίηση της premium εγγραφής",
         "cmd_premium_status_description" : "Πληροφορίες για την premium συνδρομή σου",
 
-        "cmd_help_description" : "Χειρισμός μέσω Web Dashboard",
-
-        "help" : "**Παραμετροποίηση μέσω Dashboard!** Κάντε Login με το Discord λογαριασμό σου για να έχεις πρόσβαση: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Το Setup Ολοκληρώθηκε!!** {val1} μπορεί να χρησιμοποιηθεί για την δημιουργία νέων καναλιών.",
         "info_setup2" : "**Το Setup Ολοκληρώθηκε!** Αυτό το [interface]({val1}) μπορεί να χρησιμοποιηθεί για να ελέγχει τα κανάλια.",

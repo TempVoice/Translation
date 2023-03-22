@@ -3,8 +3,6 @@
         "lang" : "id"
     },
     {
-        "help" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
-
         "info_setup" : "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice channel sementara__ di server discord kamu.",
         "info_setup2" : "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
         "info_removed" : "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan </setup creator:921000495877877762>.",

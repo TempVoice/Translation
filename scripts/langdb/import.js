@@ -24,6 +24,7 @@ let arr = [
 	'./language_uk.json',
 	'./language_vi.json',
 	'./language_zh-TW.json',
+	'./language_ja.json',
 ];
 
 for (let i = 0; i < arr.length; i++) {

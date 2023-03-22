@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary voice channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "현재 디스코드 서버의 프리미엄 구독을 비활성화",
         "cmd_premium_status_description" : "현재 디스코드 서버의 프리미엄 구독 상태에 대한 정보 확인",
 
-        "cmd_help_description" : "Configure the TempVoice Bot via Web Dashboard",
-
-        "help" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
         
         "info_setup" : "**설치완료**. {val1} 이제 서버에서 임시 음성채널을 생성할 수 있습니다.",
         "info_setup2" : "**설치완료**. 이제 [Interface]({val1}) 기능을 활용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",

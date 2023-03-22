@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "顯示您臨時頻道的信任和封鎖的玩家清單",
         "cmd_voice_password_description" : "為您的臨時頻道設定密碼",
         "cmd_voice_reset_description" : "將您的臨時頻道設定恢復預設",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "使用密碼加入臨時語音頻道",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "停用此伺服器的高級會員選項",
         "cmd_premium_status_description" : "顯示此伺服器高級會員選項資訊",
 
-        "cmd_help_description" : "通過網頁儀錶板設定TempVoice機器人",
-
-        "help" : "**透過儀錶板設定!** 登入您的Discord帳號使用儀表板: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**設定完成!** {val1} 現在可以在您的伺服器創建臨時語音頻道",
         "info_setup2" : "**設定完成!** 此 [快速設定介面]({val1}) 現在可以在您的伺服器管理臨時語音頻道",

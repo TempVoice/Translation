@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Megjeleníti az ideiglenes hangcsatorna összes megbízható és blokkolt felhasználójának listáját.",
         "cmd_voice_password_description" : "Jelszó beállítása, hogy mások is csatlakozhassanak az ideiglenes hangcsatornához",
         "cmd_voice_reset_description" : "Az ideiglenes hangcsatorna konfigurációjának visszaállítása",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Jelszóval csatlakozhat egy ideiglenes hangcsatornához",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Deaktiválja a prémiumot ezen a szerveren",
         "cmd_premium_status_description" : "Szerezzen információt a szerver prémium állapotáról",
 
-        "cmd_help_description" : "A TempVoice Bot konfigurálása a Web Dashboardon keresztül",
-
-        "help" : "**Konfiguráció a Dashboardon keresztül!** Jelentkezz be a Discord fiókoddal a Dashboard eléréséhez: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**A beállítás befejeződött!** {val1} mostantól ideiglenes hangcsatornák létrehozására használható a szerveren.",
         "info_setup2" : "**A beállítás befejeződött!** Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",

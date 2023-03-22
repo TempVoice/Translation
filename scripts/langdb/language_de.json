@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Bekomme eine Liste mit allen Befreundeten und Blockierten Usern deines temporären Kanals",
         "cmd_voice_password_description" : "Setzte ein Passwort fest, damit andere User mit diesem joinen können",
         "cmd_voice_reset_description" : "Setze die Konfiguration deines temporären Kanals zurück",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Trete einem temporären Kanal mithilfe eines Passworts bei",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Deaktiviere Premium auf einem Discord Server",
         "cmd_premium_status_description" : "Bekomme Informationen zum Premium Status auf einem Discord-Server",
 
-        "cmd_help_description" : "Konfiguriere den TempVoice Bot über das Web Dashboard",
-
-        "help" : "**Hilfe ist angekommen!** Schau dir die unteren Buttons an und melde dich mit deinem Discord Account an, um auf das Dashboard zuzugreifen: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
         "info_setup2" : "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",

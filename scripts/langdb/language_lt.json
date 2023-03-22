@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Rodo visų patikimų ir užblokuotų laikinojo balso kanalo naudotojų sąrašą",
         "cmd_voice_password_description" : "Nustatykite slaptažodį, kad kiti galėtų prisijungti prie jūsų laikinojo balso kanalo",
         "cmd_voice_reset_description" : "Iš naujo nustatykite laikinojo balso kanalo konfigūraciją",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Prisijunkite prie laikino balso kanalo naudodami slaptažodį",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Išjungti premium šiam serveriui",
         "cmd_premium_status_description" : "Informacija apie premium šiam discord serveriui",
 
-        "cmd_help_description" : "Sukonfigūruokite TempVoice botą naudojant internetinį valdymo skydą",
-
-        "help" : "**Nustatymai Pagrindiniame Skyde!** Prisijunkite su savo Discord paskyra norint pasiekti pagrindinį valdymo skydą: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Konfiguracija baigta**. {val1} dabar galima kurti balso kanalus jūsų Discord serveryje!",
         "info_setup2" : "**Įdiegimas atliktas**. Šią [sąsają]({val1}) dabar galite naudoti laikiniems balso kanalams valdyti savo 'Discord' serveryje!",

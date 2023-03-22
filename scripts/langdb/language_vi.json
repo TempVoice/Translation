@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary voice channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Gỡ premium cho máy chủ Discord này",
         "cmd_premium_status_description" : "Information about the premium status on this Discord máy chủ",
 
-        "cmd_help_description" : "Điều khiển TempVoice Bot qua web điều khiển",
-
-        "help" : "**Bảng điều khiển!** Đăng nhập tài khoản Discord của cậu để có thể truy cập vào bảng điều khiển: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Quá Trình Thiết Lập Thành công!** {val1} có thể dùng để tạo kênh thoại tạm thời ngay bây giờ.",
         "info_setup2" : "**Quá Trình Thiết Lập Thành Công!** [Giao diện]({val1}) này có thể dùng để quản lý kênh thoại tạm thời trong máy chủ này ngay bây giờ.",
