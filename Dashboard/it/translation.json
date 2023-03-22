@@ -89,8 +89,8 @@
     "component_26_description" : "Categoria nella quale verranno aggiunti i canali temporanei creati",
     "component_27" : "Flash votazioni",
     "component_27_description" : "Guadagni da 1 a 3 Flash ogni volta che voti per TempVoice. 60 Flash possono essere scambiati per 2 settimane di Premium! Bello neh? Ricorda che puoi votare ogni 12 ore e farlo richiede pochissimi secondi!",
-    "component_28" : "Temporary Channel Fillup",
-    "component_28_description" : "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+    "component_28" : "Riempimento canali temporanei",
+    "component_28_description" : "Forza il riempimento dei canali temporanei già esistenti prima della creazione di nuovi (Richiede: Limite utenti 1-99)",
     
     "placeholder_1_description" : "Quando si usa il placeholder {PRIVACY} il nome del canale viene aggiornato quando vengono cambiate le impostazioni di privacy. Questo è possibile solo ogni 5 minuti per via di limitazioni imposte da Discord.",
     "placeholder_2_description" : "Mostra il nome del ruolo più alto dell'utente, a prescindere dal fatto che questo sia separato nell'elenco dei membri online.",
@@ -115,7 +115,7 @@
     "statistics_4" : "Numero di utenti",
 
     "alert_premium_activate" : "Il tuo Premium è pronto per essere usato!",
-    "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
+    "alert_premium_inactivate" : "Se hai appena donato a TempVoice su Patreon dovrai aspettare qualche minuto per ottenere i vantaggi del Premium sui tuoi server Discord",
     "alert_please_login" : "Accedi con il tuo account di Discord per continuare.",
     "alert_no_servers" : "Non sei il proprietario né l'amministratore di alcun server Discord. Hai bisogno del permesso di 'Gestire Server' per apportare delle modifiche.",
     "alert_no_creators" : "Questo server Discord non ha alcun Canale Creatore attivi. Configurane uno con il comando '/setup creator' e aggiorna la pagina.",
