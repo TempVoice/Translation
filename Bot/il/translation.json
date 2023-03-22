@@ -3,8 +3,6 @@
         "lang" : "il"
     },
     {
-        "help" : "**Config via Dashboard!** Login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
-
         "info_setup" : "**ההכנה הושלמה**. {val1} יכול עכשיו לשמש ליצירת חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_setup2" : "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
         "info_removed" : "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה </setup creator:921000495877877762>.",

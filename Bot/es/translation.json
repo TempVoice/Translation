@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Muestra una lista de tus usuarios confiados y bloqueados en tu canal de voz temporal",
         "cmd_voice_password_description" : "Establece una contraseña para que otros accedan a tu canal de voz temporal",
         "cmd_voice_reset_description" : "Reinicia la configuración de tu canal de voz temporal",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Únete a un canal de voz temporal usando una contraseña",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Desactiva la suscripción prémium en este servidor de Discord",
         "cmd_premium_status_description" : "Información sobre el estado de la suscripción prémium en este servidor de Discord",
 
-        "cmd_help_description" : "Configura TempVoice a través del panel web",
-
-        "help" : "**¡Configuración a través del panel web!** Inicia sesión con tu cuenta de Discord para acceder al panel web: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Configuración completada**. ¡{val1} ya puede ser utilizado para crear canales de voz temporales en tu servidor de Discord!",
         "info_setup2" : "**Configuración completada**. ¡Esta [interfaz]({val1}) ahora puede ser utilizada para gestionar canales de voz temporales en tu servidor de Discord!",

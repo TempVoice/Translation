@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Zobrazí seznam všech důvěryhodných, blokovaných a moderovaných uživatelů vašeho dočasného hlasového kanálu.",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary voice channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Deaktivace prémiového účtu na tomto serveru Discord",
         "cmd_premium_status_description" : "Informace o prémiovém statusu na tomto serveru Discord",
 
-        "cmd_help_description" : "Konfigurace TempVoice Bot prostřednictvím webového ovládacího panelu",
-
-        "help" : "**Konfigurace prostřednictvím panelu!** Pro přístup k ovládacímu panelu se přihlaste pomocí účtu Discord: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Nastavení dokončeno!** {val1} lze nyní použít k vytvoření dočasných hlasových kanálů na serveru Discord.",
         "info_setup2" : "**Nastavení dokončeno!** Tohle [interface]({val1}) lze nyní použít ke správě dočasných hlasových kanálů na serveru Discord.",

@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "一時的なチャンネルのすべての信頼済みおよびブロック済みユーザーのリストを表示する",
         "cmd_voice_password_description" : "他のユーザーが自分の一時的なチャンネルに参加するためのパスワードを設定します",
         "cmd_voice_reset_description" : "自分の仮設チャンネルの設定をリセットします",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "パスワードを使って一時的なチャンネルに参加する",
 
@@ -36,7 +37,7 @@
         "cmd_premium_deactivate_description" : "このDiscordサーバーでプレミアムを無効化する",
         "cmd_premium_status_description" : "このDiscordサーバーのプレミアムステータスに関する情報",
 
-        "cmd_help_description" : "Webダッシュボード からTempVoiceボットを設定する",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "help" : "**ヘルプが到着しました!** 以下のボタンを見て、Discordアカウントでログインし、ダッシュボードにアクセスしてください。: https://tempvoice.xyz/dashboard",
 

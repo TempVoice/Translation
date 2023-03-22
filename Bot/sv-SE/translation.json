@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary voice channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary voice channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary voice channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary voice channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Inaktivera premium på denna Discord server",
         "cmd_premium_status_description" : "Information om premium status för denna Discord server",
 
-        "cmd_help_description" : "Konfigurera TempVoice Bot via Web Dashboard",
-
-        "help" : "**Konfigurera via Dashboard!** Logga in med ditt Discord konto för att komma åt Dashboard: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Installationen är klar!** {val1} kan nu användas för att skapa tillfälliga röstkanaler på din Discord server.",
         "info_setup2" : "**Installationen är klar!** Detta [interface]({val1}) kan nu användas för att hantera tillfälliga röstkanaler på din Discord server.",

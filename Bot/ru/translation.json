@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Показать список всех довереных и заблокированых пользователей этого канала",
         "cmd_voice_password_description" : "Установить пароль на вход для временного канала",
         "cmd_voice_reset_description" : "Сбросить настройки временного канала",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Зайти в канал, используя пароль",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Деактивировать премиум на этом Discord сервере",
         "cmd_premium_status_description" : "Информация о статусе премиум подписки на этом Discord сервере",
 
-        "cmd_help_description" : "Настроить TempVoice через панель управления",
-
-        "help" : "**Настраивайте TempVoice через панель управления!** Авторизуйтесь, используя ваш Discord аккаунт для получения доступ к панели управления: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Настройка завершена.** {val1} теперь вы можете создававать временные каналы на вашем Discord сервере.",
         "info_setup2" : "**Настройка завершена.** Этот [интерфейс]({val1}) вы можете использовать для управления личными каналами на вашем Discord сервере.",

@@ -24,6 +24,7 @@
         "cmd_voice_users_description" : "Shows you a list of all trusted and blocked users of your temporary channel",
         "cmd_voice_password_description" : "Set a password for others to join your temporary channel",
         "cmd_voice_reset_description" : "Reset the configuration of your temporary channel",
+        "cmd_voice_lfp_description" : "Send an invite link to your temporary channel in this chat",
 
         "cmd_join_description" : "Join a temporary channel by using a password",
 
@@ -36,9 +37,7 @@
         "cmd_premium_deactivate_description" : "Deactivate premium on this Discord server",
         "cmd_premium_status_description" : "Information about the premium status on this Discord server",
 
-        "cmd_help_description" : "Configure the TempVoice Bot via Web Dashboard",
-
-        "help" : "**Help Has Arrived!** Take a look at the buttons below and login with your Discord account to access the Dashboard: https://tempvoice.xyz/dashboard",
+        "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
         "info_setup" : "**Setup Complete!** {val1} can now be used to create temporary voice channels in your Discord server.",
         "info_setup2" : "**Setup Complete!** This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
