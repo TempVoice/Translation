@@ -65,6 +65,7 @@
         "error_ratelimit" : "**Yavaşla!** Komut, **{val1}** içerisinde tekrar kullanılabilir.",
         "error_creation" : "**Yavaşla!** Yeni bir kanal oluşturmak için: **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
         
         "voice_waiting_1" : "**Mümkün değil!** Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
         "voice_waiting_2" : "**Mümkün değil!** Bekleme odanız varken, kanalınızı gizleyemezsiniz.",

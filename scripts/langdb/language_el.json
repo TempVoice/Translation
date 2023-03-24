@@ -65,6 +65,7 @@
         "error_ratelimit" : "**Χαλάρωσε!** Αυτή η εντολή μπορεί να χρησιμοποιηθεί ξανά σε **{val1}**.",
         "error_creation" : "**Χαλάρωσε λιγάκι!** Μπορείς να φτιάξεις νέο κανάλι σε **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Αδύνατον** Δενμπορείς να φτιάξεις κανάλι αναμονής όταν έχεις κανει κρυφό το κανάλι σου.",
         "voice_waiting_2" : "**Αδύνατον** Δεν μπορείς να κρύψεις το κανάλι σου όσο είσαι στην αναμονή.",
