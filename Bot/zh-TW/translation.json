@@ -65,6 +65,7 @@
         "error_ratelimit" : "**慢一點!** 此命令可在 **{val1}**後使用",
         "error_creation" : "**慢一點!** 您可在 **{val1}**後創建新頻道",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**無法完成** 當您的頻道隱藏時，無法設定等待室",
         "voice_waiting_2" : "**無法完成** 當您有等待室時，無法隱藏頻道",

@@ -65,6 +65,7 @@
         "error_ratelimit" : "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
         "error_creation" : "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
         "error_max" : "**Osiągnięto Limit** Limit tymczasowych kanałów **{val1}** w tym samym czasie został osiągnięty. Spróbuj ponownie później.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
         "voice_waiting_2" : "**Niemożliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",

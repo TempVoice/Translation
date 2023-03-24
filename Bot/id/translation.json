@@ -29,6 +29,7 @@
     "error_ratelimit": "**Pelan Pelan.** Perintah ini bisa digunakan lagi dalam **{val1}**.",
     "error_creation": "**Pelan Pelan!** Kamu bisa membuat channel baru **{val1}**.",
     "error_max": "**Sudah melampui** Batas channel sementara **{val1}** sudah tercapai. Coba lagi nanti.",
+    "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
     "voice_waiting_1": "**Tidak Bisa** Kamu tidak bisa membuat ruang tunggu ketika channel kamu disembunyikan.",
     "voice_waiting_2": "**Tidak Bisa** Kamu tidak bisa menyembunyikan channel kamu ketika kamu mempunyai ruang tunggu.",

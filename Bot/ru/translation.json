@@ -65,6 +65,7 @@
         "error_ratelimit" : "**Помедленнее!** Эта команда может быть использована снова **{val1}**.",
         "error_creation" : "**Помедленнее!** Вы можете создать новый канал **{val1}**.",
         "error_max" : "**Ошибка.** Был достигнут лимит временных каналов в **{val1}**. Попробуйте снова позже.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Ошибка.** Нельзя создать комнату ожидания, если ваш канал скрыт.",
         "voice_waiting_2" : "**Ошибка.** Нельзя скрыть свой канал, если у вас есть комната ожидания.",

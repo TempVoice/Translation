@@ -65,6 +65,7 @@
         "error_ratelimit" : "**¡Cálmate!** El comando puede ser usado de nuevo **{val1}**.",
         "error_creation" : "**¡Cálmate!** Puedes crear un nuevo canal **{val1}**.",
         "error_max" : "**Límite alcanzado** El límite de canales de voz temporales de **{val1}** al mismo tiempo ha sido alcanzado. Intenta nuevamente luego.",
+        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**No es posible**. No puedes crear una sala de espera si tu canal está oculto.",
         "voice_waiting_2" : "**No es posible**. No es posible ocultar tu canal si tienes una sala de espera.",
