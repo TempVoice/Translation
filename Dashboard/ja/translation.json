@@ -116,6 +116,7 @@
 
     "alert_premium_activate" : "あなたのプレミアムが使用可能になりました！",
     "alert_premium_inactivate" : "最近PatreonでTempVoiceを支援された方は、数分待つと認証され、どのDiscordサーバーでもプレミアムを有効にすることができます",
+    "alert_please_login" : "Please login with your Discord Account to continue.",
     "alert_no_servers" : "あなたはDiscordサーバーを所有または管理していません。'サーバー管理'の権限が必要です。",
     "alert_no_creators" : "このDiscordサーバーには、まだクリエーターがいません。 /setup creator'で新しいクリエーターチャンネルを設定し、ページを更新してください。",
     "alert_input_limit" : "64文字以上は使用できません。",

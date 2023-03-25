@@ -29,7 +29,6 @@
         "error_ratelimit" : "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
         "error_creation" : "يمكنك إنشاء قناة جديدة <- ** {val1} ** <- **يرجى الانتظار ثانية قبل الضغط**",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "غير ممكن** -> لا يمكنك إنشاء غرفة انتظار عندما تكون قناتك مخفية**",
         "voice_waiting_2" : "غير ممكن** -> لا يمكنك إخفاء قناتك عندما يكون لديك غرفة انتظار**",
@@ -85,14 +84,6 @@
         "join_3" : "لا يمكن** -> القناة الصوتية المُختارة ليس لديها رقم سري**",
         "join_4" : "رقم سري خاطئ** -> الرقم السري المدخل غير صحيح. حاول مرة أخرى**",
         "join_5" : "{val1} رقم سري صحيح** ->  بإمكان الآن الدخل إلى**",
-
-        "premium_activate_0" : "**مطلوب عضويةتميز** [Patreon](https://www.patreon.com/tempvoice) من اجل **custom branding avatar and name**.",
-        "premium_activate_1" : "(<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) <- [Discord Account is connected to your Patron account] <- لتنشيط بريميوم على خادم الخلاف هذا. إذا كنت مشتركا بالفعل ، **انتظر** حتى ساعة كاملة القادمة للحصول على التحقق من صحة وتأكد من <- Temp Voice <- مطلوب عضو مميز** -> أنت بحاجة إلى اشتراك بريميوم**",
-        "premium_activate_2" : "</setup premium:921000495877877762> <- أو قم بإزالة خادم خلاف آخر باستخدام <- [Patreon](https://www.patreon.com/tempvoice)  <- الخوادم. يرجى ترقية اشتراكك على <- {val1} <- غير ممكن** -> يمكنك تفعيل بريميوم فقط على**",
-        "premium_activate_3" : "**مفعل** -> لم يعد يتعين على جميع المستخدمين على الدسكـورد هذا التصويت بعد الآن **يتمتع**",
-        "premium_deactivate_1" : "متطلبات التميز** -> يجب عليك تنشيط الإصدار المميز أولاً قبل أن تتمكن من إلغاء تنشيطه على الدسكـورد هذا**",
-        "premium_deactivate_2" : "الاشتراك المميز انتهى** -> انتهت صلاحية اشتراكك المميز بالفعل**",
-        "premium_deactivate_3" : "معطل** -> يجب على جميع المستخدمين على خادم الدسكـورد هذا التصويت مرة أخرى**",
 
         "interface_description" : " .أوامر [</voice:921416747687489568>](https://tempvoice.xyz) لوحه التحكم يمكن استخدامها للتحكم في قناة الصوت المؤقتة الخاصة بك. المزيد من الخيارات المتاحة عبر هذه",
         "interface_footer" : "يمكن استخدام هذه الواجهة بالضغط على الأزرار أدناه",

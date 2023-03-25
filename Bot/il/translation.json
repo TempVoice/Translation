@@ -29,7 +29,6 @@
         "error_ratelimit" : "**לא אפשרי כעת**. הפקודה יכולה להשתמש **{val1}**.",
         "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
@@ -85,14 +84,6 @@
         "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
         "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
         "join_5" : "**Correct Password** Your are now able to join {val1}",
-
-        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
-        "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**הופעל.** כל המשתמשים בשרת הדיסקורד הזה לא צריכים להצביע יותר. **תהנו!**",
-        "premium_deactivate_1" : "**פרימיום נדרש.** אתה צריך להפעיל פרימיום לפני שאתה יכול לבטל אותו בשרת הדיסקורד הזה.",
-        "premium_deactivate_2" : "**פג תוקף הפרימיום.** מנוי הפרימיום שלך כבר פג תוקף.",
-        "premium_deactivate_3" : "**בוטל.** כל המשתמשים בשרת הדיסקורד הזה יצתרכו להצביע שוב.",
         
         "interface_description" : "ניתן להשתמש ב **ממשק** זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות [</voice:921416747687489568>](https://tempvoice.xyz).",
         "interface_footer" : "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה",

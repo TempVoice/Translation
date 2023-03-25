@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Nastavení nového kanálu tvůrce pro vytváření dočasných hlasových kanálů",
         "cmd_setup_interface_description" : "Vytvoření ovládacího rozhraní pro dočasné hlasové kanály",
         "cmd_setup_tempvoice_description" : "Snadné nastavení TempVoice pomocí asistenta během několika sekund",
-        "cmd_setup_premium_description" : "Manage your TempVoice premium subscription",
-
-        "cmd_premium_activate_description" : "Aktivace prémiového účtu na tomto serveru Discord pro obejití hlasování pro všechny uživatele",
-        "cmd_premium_deactivate_description" : "Deaktivace prémiového účtu na tomto serveru Discord",
-        "cmd_premium_status_description" : "Informace o prémiovém statusu na tomto serveru Discord",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Zpomalte!** Tento příkaz lze použít znovu **{val1}**.",
         "error_creation" : "**Zpomalte!** Můžete vytvořit nový kanál **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Není možné** Čekárnu nelze vytvořit, pokud je váš kanál skrytý.",
         "voice_waiting_2" : "**Není možné** Když máte čekárnu, nemůžete svůj kanál skrýt.",
@@ -121,14 +115,6 @@
         "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
         "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
         "join_5" : "**Correct Password** Your are now able to join {val1}",
-
-        "premium_activate_0" : "**Požadované prémium** Potřebujete předplatné TempVoice Premium na [Patreon](https://www.patreon.com/tempvoice) pro **vlastní avatar a jméno**.",
-        "premium_activate_1" : "**Požadované prémium** Potřebujete předplatné TempVoice Premium pro aktivováni premium na tento Discord server. Pokud jste již přihlášeni k odběru, **wait** do příští celé hodiny, abyste se ujistili, že váš [Discord účet je připojen k vašemu účtu Patron](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Není možné** Prémium si můžete aktivovat pouze na {val1} servers. Upgradujte prosím své předplatné na [Patreon](https://www.patreon.com/tempvoice) nebo odeberte jiný Discord server </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Aktivované!** Uživatelé na tomto serveru Discord již nemusí hlasovat. **Užijte si!**",
-        "premium_deactivate_1" : "**Potrebné Premium** Před deaktivací prémiové služby ji musíte aktivovat.",
-        "premium_deactivate_2" : "**Premium Expirované** Vaše prémiové předplatné vypršelo.",
-        "premium_deactivate_3" : "**Deaktivováno!** Uživatelé na tomto serveru Discord musí znovu hlasovat.",
 
         "interface_description" : "Tenhle **interface** lze použít ke správě dočasných hlasových kanálů. Další možnosti jsou k dispozici s [</voice:921416747687489568>](https://tempvoice.xyz) příkazy.",
         "interface_footer" : "Pro použití rozhraní stiskněte níže uvedená tlačítka",

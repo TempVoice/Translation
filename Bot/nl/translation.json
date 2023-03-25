@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Setup a new creator channel for creating temporary voice channels",
         "cmd_setup_interface_description" : "Create a control interface for temporary voice channels",
         "cmd_setup_tempvoice_description" : "Setup TempVoice easily with an assistant within seconds",
-        "cmd_setup_premium_description" : "Manage your TempVoice premium subscription",
-
-        "cmd_premium_activate_description" : "Activate premium on this Discord server to bypass voting for all users",
-        "cmd_premium_deactivate_description" : "Deactivate premium on this Discord server",
-        "cmd_premium_status_description" : "Information about the premium status on this Discord server",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Langzaam aan!** Dit command kan over **{val1}** weer gebruikt worden.",
         "error_creation" : "**Slow Down!** You can create a new channel **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Not Possible** You cannot create a waiting room when your channel is hidden.",
         "voice_waiting_2" : "**Not Possible** You cannot hide your channel when you have an waiting room.",
@@ -121,14 +115,6 @@
         "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
         "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
         "join_5" : "**Correct Password** Your are now able to join {val1}",
-        
-        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
-        "premium_activate_1" : "**Premium Required.** You need a TempVoice Premium subscription to activate premium on this Discord server. If you are already subscribed, **wait** until the next full hour to get validated and make sure your [Discord Account is connected to your Patron account](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Not Possible.** You can only activate premium on {val1} servers. Please upgrade your subscription on [Patreon](https://www.patreon.com/tempvoice) or remove another Discord server with </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Geactiveerd!** Gebruikers in deze Discord server hoeven niet langer te voten voor de premium functies. **Geniet er van!**",
-        "premium_deactivate_1" : "**Premium vereist.** Je moet een premium abonnement hebben gekoppelt voordat je deze kan ontkoppelen.",
-        "premium_deactivate_2" : "**Premium verlopen.** Je TempVoice premium abonnement is verlopen.",
-        "premium_deactivate_3" : "**Gedeactiveerd!** Gebruikers in deze Discord server zullen weer moeten voten voor de premium functies.",
 
         "interface_description" : "Dit **menu** kan gebruikt worden om je tijdelijke spraakkanaal te beheren. Er zijn nog meer opties beschikbaar via het [</voice:921416747687489568>](https://tempvoice.xyz) command.",
         "interface_footer" : "Dit menu kan gebruikt worden door op de onderstaande knoppen te drukken.",

@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Geçici ses kanalları oluşturmak için yeni bir oluşturucu kanalı kurun.",
         "cmd_setup_interface_description" : "Geçici ses kanalları için bir kontrol arayüzü oluşturun.",
         "cmd_setup_tempvoice_description" : "TempVoice'ı bir asistanla saniyeler içinde kolayca kurun.",
-        "cmd_setup_premium_description" : "Manage your TempVoice premium subscription",
-
-        "cmd_premium_activate_description" : "Tüm kullanıcılar için oylamayı atlamak istiyorsan, bu sunucuda Premium'u etkinleştirin.",
-        "cmd_premium_deactivate_description" : "Bu Discord sunucusunda Premium'u devre dışı bırakın.",
-        "cmd_premium_status_description" : "Bu Discord sunucusundaki Premium durumu hakkında bilgi al.",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Yavaşla!** Komut, **{val1}** içerisinde tekrar kullanılabilir.",
         "error_creation" : "**Yavaşla!** Yeni bir kanal oluşturmak için: **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
         
         "voice_waiting_1" : "**Mümkün değil!** Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
         "voice_waiting_2" : "**Mümkün değil!** Bekleme odanız varken, kanalınızı gizleyemezsiniz.",
@@ -121,14 +115,6 @@
         "join_3" : "**Not Possible** The selected temporary voice channel has no password to join.",
         "join_4" : "**Wrong Password** The password you entered is incorrect. Try again.",
         "join_5" : "**Correct Password** Your are now able to join {val1}",
-
-        "premium_activate_0" : "**Premium Required** You need a TempVoice Premium subscription on [Patreon](https://www.patreon.com/tempvoice) for **custom branding avatar and name**.",
-        "premium_activate_1" : "**Premium gerekli!** Bu Discord sunucusunda Premium'u etkinleştirmek için TempVoice Premium aboneliğine ihtiyacınız var. Eğer çoktan aboneyseniz, [Discord Hesabınızın Patreon hesabınıza bağlandığından](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->) emin olduktan bir sonraki tam saate kadar onaylanmak için **bekleyiniz**.",
-        "premium_activate_2" : "**Mümkün değil!** Premium'u sadece {val1} sunucularında etkinleştirebilirsin. Lütfen aboneliğinizi [Patreon](https://www.patreon.com/tempvoice) üzerinden yükseltin veya </setup premium:921000495877877762> ile başka bir sunucudan kaldırın.",
-        "premium_activate_3" : "**Aktifleştirildi!** Bu Discord sunucusundaki tüm kullanıcılar artık oy vermek zorunda değil. **Eğlenin!**",
-        "premium_deactivate_1" : "**Premium gerekli!** Bu Discord sunucusunda, Premium'u devre dışı bırakmadan önce etkinleştirmeniz gerekir.",
-        "premium_deactivate_2" : "**Premium süresi doldu!** Premium aboneliğiniz süresi doldu.",
-        "premium_deactivate_3" : "**Devre dışı!** Bu Discord sunucusundaki tüm kullanıcıların, tekrar oy kullanması gerekiyor.",
 
         "interface_description" : "Bu arayüz, geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için [/voice](https://tempvoice.xyz) komutunu kullanın.",
         "interface_footer" : "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir.",

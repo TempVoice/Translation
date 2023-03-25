@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Настроить новый creator-канал для создания временных каналов",
         "cmd_setup_interface_description" : "Создать интерфейс для настройки временных каналов",
         "cmd_setup_tempvoice_description" : "Быстро настроить TempVoice",
-        "cmd_setup_premium_description" : "Управлять вашей премиум подпиской TempVoice",
-
-        "cmd_premium_activate_description" : "Активировать премиум в этом Discord сервере, чтобы обойти голосования для всех пользователей",
-        "cmd_premium_deactivate_description" : "Деактивировать премиум на этом Discord сервере",
-        "cmd_premium_status_description" : "Информация о статусе премиум подписки на этом Discord сервере",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Помедленнее!** Эта команда может быть использована снова **{val1}**.",
         "error_creation" : "**Помедленнее!** Вы можете создать новый канал **{val1}**.",
         "error_max" : "**Ошибка.** Был достигнут лимит временных каналов в **{val1}**. Попробуйте снова позже.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Ошибка.** Нельзя создать комнату ожидания, если ваш канал скрыт.",
         "voice_waiting_2" : "**Ошибка.** Нельзя скрыть свой канал, если у вас есть комната ожидания.",
@@ -121,14 +115,6 @@
         "join_3" : "**Ошибка.** Выбранный канал не имеет пароля на вход.",
         "join_4" : "**Ошибка.** Ведённый вами пароль неверный. Попробуйте снова позже.",
         "join_5" : "**Успех!** Вы теперь можете подключиться к {val1}",
-
-        "premium_activate_0" : "**Ошибка.** Требуется премиум подписка, которую можно приобрести в [Patreon](https://www.patreon.com/tempvoice) для **смены аватара и названия**.",
-        "premium_activate_1" : "**Ошибка.** Требуется премиум подписка, которую можно активаровать на этом Discord сервере. Если вы уже подписаны, **подождите** до следующего полного часа, чтобы пройти валидацию и убедись, что ваш [Discord аккаунт подключен к вашему Patron аккаунту](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Ошибка.** Вы можете активировать премиум только на {val1}. Приобрести подписку можно на [Patreon](https://www.patreon.com/tempvoice) или убрать премиум с другого Discord сервера через </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Успех!** Премиум активирован на этом Discord сервере. Пользватели теперь могут больше не голосовать. **Наслаждайтесь!** :3",
-        "premium_deactivate_1" : "**Oшибка.** Требуется премиум подписка, прежде чем его деактивировать.",
-        "premium_deactivate_2" : "**Премиум закончился.** Ваша премиум подписка на TempVoice закончилась.",
-        "premium_deactivate_3" : "**Успех!** Премиум подписка была деактивирована на этом сервере.",
 
         "interface_description" : "Этот **интерфейс** можно использовать для управления личными каналами. Дополнительные возможности доступны через [</voice:921416747687489568>](https://tempvoice.xyz/docs/commands) команды.",
         "interface_footer" : "Чтобы использовать функции интерфейса, воспользуйтесь кнопками ниже.",

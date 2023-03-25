@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Stwórz nowy kanał twórcy",
         "cmd_setup_interface_description" : "Stwórz interfejs dla tymczasowych kanałów głosowych",
         "cmd_setup_tempvoice_description" : "Ustaw TempVoice łatwo z pomocą asystenta",
-        "cmd_setup_premium_description" : "Zarządzaj swoją subskrypcją TempVoice Premium",
-
-        "cmd_premium_activate_description" : "Aktywuj Premium na tym serwerze, aby ominąć głosowanie dla wszystkich użytkowników na serwerze",
-        "cmd_premium_deactivate_description" : "Dezaktywuj Premium na tym serwerze Discord",
-        "cmd_premium_status_description" : "Informacja o statusie Premium na tym serwerze Discord",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
         "error_creation" : "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
         "error_max" : "**Osiągnięto Limit** Limit tymczasowych kanałów **{val1}** w tym samym czasie został osiągnięty. Spróbuj ponownie później.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
         "voice_waiting_2" : "**Niemożliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
@@ -121,14 +115,6 @@
         "join_3" : "**Niemożliwe** Wybrany tymczasowy kanał głosowy nie ma hasła.",
         "join_4" : "**Błędne Hasło** Hasło, które wprowadziłeś jest niepoprawne. Spróbuj ponownie.",
         "join_5" : "**Poprawne Hasło** Możesz teraz dołączyć na {val1}",
-
-        "premium_activate_0" : "**Wymagane Premium** Musisz posiadać subskrypcję TempVoice Premium na [Patreonie](https://www.patreon.com/tempvoice) dla **własnego awataru i nazwy**.",
-        "premium_activate_1" : "**Wymagane Premium.** Musisz posiadać subskrypcję Premium TempVoice, żeby aktywować premium na tym serwerze. Jeśli już subskrybujesz, **zaczekaj** do następnej pełnej godziny, żeby zostać zweryfikowanym i upewnij się, że [Twoje konto Discord jest połączone z kontem na Patreonie](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Niemożliwe.** Możesz aktywować premium tylko na {val1} serwerów. Ulepsz swoją subskrypcję na [Patreonie](https://www.patreon.com/tempvoice) lub usuń inny serwer Discord za pomocą </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Aktywowano.** Wszyscy użytkownicy na tym serwerze Discord nie muszą już głosować. **Rozkoszuj się!**",
-        "premium_deactivate_1" : "**Wymagane Premium**. Musisz najpierw aktywować premium, zanim będziesz mógł je dezaktywować na tym serwerze Discord.",
-        "premium_deactivate_2" : "**Premium wygasło.** Twoja subskrypcja premium już wygasła.",
-        "premium_deactivate_3" : "**Dezaktywowano.** Wszyscy użytkownicy na tym serwerze Discord muszą zagłosować ponownie.",
         
         "interface_description" : "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [</voice:921416747687489568>](https://tempvoice.xyz).",
         "interface_footer" : "Interfejs może być użyty dzięki przyciskom poniżej",

@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Thiết lập trình tạo kênh tạm thời mới",
         "cmd_setup_interface_description" : "Tạo giao diện bảng điều khiển cho kênh thoại tạm thời",
         "cmd_setup_tempvoice_description" : "Thiết lập TempVoice dễ dàng hơn với trợ lý chỉ trong vài giây",
-        "cmd_setup_premium_description" : "Quản lý đăng ký TempVoice premium của cậu",
-
-        "cmd_premium_activate_description" : "Kích hoạt premium cho máy chủ Discord này để loại bỏ vote bot cho tất cả thành viên",
-        "cmd_premium_deactivate_description" : "Gỡ premium cho máy chủ Discord này",
-        "cmd_premium_status_description" : "Thông tin về trạng thái cao cấp trên máy chủ Discord này",
 
         "cmd_help_description" : "Nhận trợ giúp với TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể sử dụng lại lệnh này.",
         "error_creation" : "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể tạo lại một kênh mới.",
         "error_max" : "**Đã đạt đến giới hạn** Đã đạt đến giới hạn Kênh thoại tạm thời của **{val1}** cùng một lúc. Hãy thử lại sau.",
-        "error_lfp" : "**Không thể.** Lệnh này chỉ có thể được sử dụng trong cùng một máy chủ mà cậu đang ở trong kênh thoại tạm thời.",
 
         "voice_waiting_1" : "**Không Thể** Cậu không thể tạo phòng chờ khi kênh của cậu đang bị ẩn.",
         "voice_waiting_2" : "**Không Thể** Cậu không thể ẩn kênh của cậu khi có phòng chờ.",
@@ -121,14 +115,6 @@
         "join_3" : "**Không thể** Kênh thoại tạm thời đã chọn không có mật khẩu để tham gia.",
         "join_4" : "**Sai mật khẩu** Mật khẩu cậu đã nhập không chính xác. Hãy thử lại.",
         "join_5" : "**Mật khẩu chính xác** cậu hiện có thể tham gia {val1}",
-
-        "premium_activate_0" : "**Yêu Cầu Premium** Cậu cần đăng ký gói premium của TempVoice ở [Patreon](https://www.patreon.com/tempvoice) để **avatar và tên thương hiệu tùy chỉnh**.",
-        "premium_activate_1" : "**Yêu Cầu Premium** Cậu cần đăng ký gói premium của TempVoice để kích hoạt premium cho máy chủ này. Nếu cậu đã đăng ký, **đợi** cho đến hết giờ tiếp theo để được xác thực và đảm bảo [Tài khoản Discord của cậu được kết nối với tài khoản Patreon của cậu](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Không Thể** cậu chỉ có thể kích hoạt premium cho {val1} máy chủ. Vui lòng nâng cấp gói đăng ký của cậu ở [Patreon](https://www.patreon.com/tempvoice) hoặc xóa một máy chủ Discord khác bằng lệnh </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Đã Kích Hoạt!** Người dùng trên máy chủ Discord này không còn phải bỏ phiếu nữa. **Hãy tận hưởng!**",
-        "premium_deactivate_1" : "**Yêu Cầu Premium** cậu phải có gói đăng ký trước rồi mới có thể gỡ.",
-        "premium_deactivate_2" : "**Premium Đã Hết Hạn** Gói premium của cậu đã hết hạn.",
-        "premium_deactivate_3" : "**Đã Hủy Kích Hoạt!** Thành viên trong server này phải bỏ phiếu lại rồi.",
 
         "interface_description" : "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh [</voice:921416747687489568>](https://tempvoice.xyz) commands.",
         "interface_footer" : "Nhấn các nút bên dưới để sử dụng giao diện",

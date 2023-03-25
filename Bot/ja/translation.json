@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "一時的なチャンネルを作成するための新しいクリエーターチャンネルを設定する",
         "cmd_setup_interface_description" : "一時的なチャンネルの制御インターフェースを作成する",
         "cmd_setup_tempvoice_description" : "数秒で簡単にTempvoiceを設定する",
-        "cmd_setup_premium_description" : "TempVoiceのプレミアムサブスクリプションを管理する",
-
-        "cmd_premium_activate_description" : "このDiscordサーバーでプレミアムを有効化し、すべてのユーザーの投票をバイパスする",
-        "cmd_premium_deactivate_description" : "このDiscordサーバーでプレミアムを無効化する",
-        "cmd_premium_status_description" : "このDiscordサーバーのプレミアムステータスに関する情報",
 
         "cmd_help_description" : "TempVoice Discordボットのヘルプを表示します",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**速度を落としてください！** このコマンドは **{val1}** 後に再度使用できます。",
         "error_creation" : "**速度を落としてください！** 新しいチャンネルは **{val1}** 後に作成できます。",
         "error_max" : "**制限に達しました。** 同時に使用できる**{val1}**の一時的な音声チャネルの制限に達しました。後で再試行してください。",
-        "error_lfp" : "**不可能です。** このコマンドは、一時的なボイスチャンネルに参加しているサーバーと同じサーバーでのみ使用できます。",
 
         "voice_waiting_1" : "**不可能です。** チャンネルを非表示にすると、待機室を作ることができません。",
         "voice_waiting_2" : "**不可能です。** 待機室がある場合、チャンネルを非表示にすることはできません。",
@@ -121,14 +115,6 @@
         "join_3" : "**不可能です。** 選択した一時的な音声チャンネルは参加するためのパスワードがありません。",
         "join_4" : "**パスワードが違います。** 入力したパスワードが間違っています。もう一度お試しください。",
         "join_5" : "**正しいパスワードです。** {val1} に参加できるようになりました。",
-
-        "premium_activate_0" : "**プレミアムが必要です。** **アバターと名前のカスタムブランディング**には [Patreon](https://www.patreon.com/tempvoice) プレミアムサブスクリプションが必要です。",
-        "premium_activate_1" : "**プレミアムが必要です。** このDiscordサーバーでプレミアムを有効にするには、TempVoiceプレミアムサブスクリプションが必要です。 既にサブスクしている場合は、 次の１時間いっぱいまで **待機** して検証を受け、 [DiscordアカウントがPatronアカウントに接続されていることを確認してください](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->)",
-        "premium_activate_2" : "**不可能です。** {val1} サーバーでのみプレミアムを有効にできます。 [Patreon](https://www.patreon.com/tempvoice) でサブスクリプションをアップグレードするか、別のDiscordサーバーを </setup premium:921000495877877762> で削除してください。",
-        "premium_activate_3" : "**有効化しました！** このDiscordサーバーのユーザーはもう投票する必要がありません。**お楽しみください！**",
-        "premium_deactivate_1" : "**プレミアムが必要です。** プレミアムを有効化してからでないと、無効化できません。",
-        "premium_deactivate_2" : "**プレミアムが期限切れです。** あなたのプレミアムサブスクリプションは期限切れです。",
-        "premium_deactivate_3" : "**無効化しました。** このDiscordサーバーのユーザーは、再度投票する必要があります。",
 
         "interface_description" : "この **インターフェース** は、一時的な音声チャンネルの管理に使用できます。 [</voice:921416747687489568>](https://tempvoice.xyz) コマンドでさらに多くのオプションが利用可能です。",
         "interface_footer" : "以下のボタンを押すと、インターフェースを使用できます。",

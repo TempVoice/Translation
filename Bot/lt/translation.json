@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Sukurti naują kūrėjo kanalą, kad kurti naujus laikinuosius balso kanalus",
         "cmd_setup_interface_description" : "Sukurti laikinųjų balso kanalų valdymo skydą",
         "cmd_setup_tempvoice_description" : "Lengvai paruošti TempVoice su asistento pagalba",
-        "cmd_setup_premium_description" : "Tvarkykite savo TempVoice premium prenumeratą",
-
-        "cmd_premium_activate_description" : "Aktyvuoti premium, norint išjungti balsavimą visiems vartotojams",
-        "cmd_premium_deactivate_description" : "Išjungti premium šiam serveriui",
-        "cmd_premium_status_description" : "Informacija apie premium šiam discord serveriui",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Dar negalima**. Komanda gali būti naudojama **{val1}**.",
         "error_creation" : "**Prilėtink!** Gali sukurti kanalą **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Negalima** Jūs negalite sukurti laukiamojo, kai jūsų kanalas paslėptas.",
         "voice_waiting_2" : "**Negalima** Jūs negalite paslėpti kanalo, nes esate sukūrę laukiamąjį kanalą.",
@@ -121,14 +115,6 @@
         "join_3" : "**Negalima** Pasirinktas laikinas balso kanalas neturi slaptažodžio, prie kurio būtų galima prisijungti.",
         "join_4" : "**Neteisingas Slaptažodis** Įvestas slaptažodis yra neteisingas. Bandyk iš naujo.",
         "join_5" : "**Teisingas Slaptažodis** Dabar galite prisijungti į {val1}",
-
-        "premium_activate_0" : "**Reikalingas Premium** Jums reikalinga TempVoice Premium prenumerata [Patreon](https://www.patreon.com/tempvoice) **personalizuotam brandingui ir nuotraukoms**.",
-        "premium_activate_1" : "**Reikalingas Premium.** Jums reikia TempVoice Premium prenumeratos, norint suaktyvinti premium šiame discord serveryje. Jei jūs jau prenumeravote, **palaukite** apie valandą, kol būsite patvirtinti [Discord paskyra yra prijungta prie jūsų Patron paskyros](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Negalima.** Jūs galite suaktyvinti premium tik {val1} serveriuose. Prašome atnaujinti savo prenumeratą [Patreon](https://www.patreon.com/tempvoice) arba pašalinti premium kitame serveryje </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Aktyvuota.** Visi naudotojai šiame discord serveryje nebeturi balsuoti. **Mėgaukitės!**",
-        "premium_deactivate_1" : "**Reikalingas premium.** Norint išjungti premium ant šio serverio, primiausia reikia jį įjungti.",
-        "premium_deactivate_2" : "**Premium baigė galioti.** Jūsų premium prenumerata baigė galioti.",
-        "premium_deactivate_3" : "**Išjungta.** Visi naudotojai šiame serveryje vėl turi balsuoti.",
 
         "interface_description" : "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz) komandas.",
         "interface_footer" : "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",

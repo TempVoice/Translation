@@ -116,6 +116,7 @@
 
     "alert_premium_activate" : "Ваш премиум готов к использованию!",
     "alert_premium_inactivate" : "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
+    "alert_please_login" : "Please login with your Discord Account to continue.",
     "alert_no_servers" : "Вы не владейте или администрируйте какой-либо Discord сервер. Вам нужно право 'Управлять сервером'.",
 	"alert_no_creators": "На этом Discord сервере пока нет creator-каналов. Настройте новый канал с помощью '/setup creator' и обновите страницу.",
 	"alert_input_limit" : "Допускается не более 64 символов.",

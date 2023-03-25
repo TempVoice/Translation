@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Δημιουργία νέας γεννήτριας προσωρινών καναλιών",
         "cmd_setup_interface_description" : "Δημιουργία πίνακα ελέγχου για τα κανάλια",
         "cmd_setup_tempvoice_description" : "Έναρξη αυτόματου σεταρίσματος του TempVoice",
-        "cmd_setup_premium_description" : "Manage your TempVoice premium subscription",
-
-        "cmd_premium_activate_description" : "Ενεργοποίηση premium λειτουργειών χωρίς την ανάγκη ψήφων",
-        "cmd_premium_deactivate_description" : "Απενεργοποίηση της premium εγγραφής",
-        "cmd_premium_status_description" : "Πληροφορίες για την premium συνδρομή σου",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**Χαλάρωσε!** Αυτή η εντολή μπορεί να χρησιμοποιηθεί ξανά σε **{val1}**.",
         "error_creation" : "**Χαλάρωσε λιγάκι!** Μπορείς να φτιάξεις νέο κανάλι σε **{val1}**.",
         "error_max" : "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**Αδύνατον** Δενμπορείς να φτιάξεις κανάλι αναμονής όταν έχεις κανει κρυφό το κανάλι σου.",
         "voice_waiting_2" : "**Αδύνατον** Δεν μπορείς να κρύψεις το κανάλι σου όσο είσαι στην αναμονή.",
@@ -121,14 +115,6 @@
         "join_3" : "**Αδύνατον** Το κανάλι δεν έχει κωδικό για να μπεις.",
         "join_4" : "**Λάθος password** Λάθος κωδικός πρόσβασης. Δοκίμασε ξανά.",
         "join_5" : "**Σωστό Password** Τώρα μπορείς να μπείς {val1}",
-
-        "premium_activate_0" : "**Μόνο premium** Χρείαζεσαι να πλερω την premium συνδρομή εδώ [Patreon](https://www.patreon.com/tempvoice) για **custom branding avatar και όνομα**.",
-        "premium_activate_1" : "**Μόνο premium** Χρειάζεται Premium συνδρομή. Αν ήδη έχεις, **ΠΕΡΙΜΕΝΕ** περίπου 1 ώρα [Ο λογαριασμός του Discord να ειναι συνδεμένος με τον λογαριασμός του Patreon](<https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron->). ",
-        "premium_activate_2" : "**Αδύνατο** Χρειάζεσαι premium για {val1} servers. Αναβάθμισε εδώ [Patreon](https://www.patreon.com/tempvoice) ή αφαίρεσε έναν server εδώ </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**Ενεργοποιήθηκε!** Οι χρήστες πλέον δεν χρειάζεται να ψηφίζουν. **Απόλαυσε το!**",
-        "premium_deactivate_1" : "**Χρειάζεται Premium** Πρέπει να φτιάξεις premium για να το απενεργοποιήσεις.",
-        "premium_deactivate_2" : "**Λήξη Premium** Έληξε η premium έκδοση σου.",
-        "premium_deactivate_3" : "**Απενεργοποιήθηκε!** Οι χρήστες πρέπει να ψηφίζουν ξανά.",
 
         "interface_description" : "Το περιβάλλον χρήσης **interface** μπορεί να χρησιμοποιηθεί για να αλλάξετε τα voice κανάλια. Περισσότερες επιλογές και εντολές εδώ: [</voice:921416747687489568>](https://tempvoice.xyz).",
         "interface_footer" : "Χρησιμοποίησε τα κουμπιά για να πλοηγηθείς",

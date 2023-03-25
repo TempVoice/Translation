@@ -31,11 +31,6 @@
         "cmd_setup_creator_description" : "Configura un nuevo creador de canales para crear canales de voz temporales",
         "cmd_setup_interface_description" : "Crea una interfaz de control para los canales de voz temporales",
         "cmd_setup_tempvoice_description" : "Configura fácilmente TempVoice en segundos con un asistente",
-        "cmd_setup_premium_description" : "Gestiona tu suscripción prémium a TempVoice",
-
-        "cmd_premium_activate_description" : "Activa la suscripción prémium en este servidor de Discord para eliminar la votación para todos los usuarios",
-        "cmd_premium_deactivate_description" : "Desactiva la suscripción prémium en este servidor de Discord",
-        "cmd_premium_status_description" : "Información sobre el estado de la suscripción prémium en este servidor de Discord",
 
         "cmd_help_description" : "Get help with the TempVoice Discord Bot",
 
@@ -65,7 +60,6 @@
         "error_ratelimit" : "**¡Cálmate!** El comando puede ser usado de nuevo **{val1}**.",
         "error_creation" : "**¡Cálmate!** Puedes crear un nuevo canal **{val1}**.",
         "error_max" : "**Límite alcanzado** El límite de canales de voz temporales de **{val1}** al mismo tiempo ha sido alcanzado. Intenta nuevamente luego.",
-        "error_lfp" : "**Not Possible.** This command can only be used in the same server in which you are in a temporary voice channel.",
 
         "voice_waiting_1" : "**No es posible**. No puedes crear una sala de espera si tu canal está oculto.",
         "voice_waiting_2" : "**No es posible**. No es posible ocultar tu canal si tienes una sala de espera.",
@@ -121,14 +115,6 @@
         "join_3" : "**No es posible** El canal de voz temporal elegido no tiene contraseña de acceso.",
         "join_4" : "**Contraseña incorrecta**. La contraseña ingresada es incorrecta. Intenta de nuevo.",
         "join_5" : "**Contraseña correcta**. Ahora tienes permitido entrar a {val1}.",
-
-        "premium_activate_0" : "**Requiere Prémium**. Necesitas una suscripción prémium a TempVoice en nuestro [Patreon](https://www.patreon.com/tempvoice) para contar con una **marca personalizada en avatar y nombre**.",
-        "premium_activate_1" : "**Suscripción prémium requerida**. Necesitas una suscripción prémium de TempVoice para activarla en este servidor de Discord. Si ya estás suscrito, **espera** hasta el comienzo de la próxima hora para que se valide y asegúrate de que [tu cuenta de Discord esté conectada con tu cuenta de Patreon](<https://support.patreon.com/hc/es-es/articles/212052266--Cómo-conecto-Discord-a-Patreon-mecenas->).",
-        "premium_activate_2" : "**No es posible.** Solo puedes activar tu suscripción prémium en {val1} servidores. Por favor suscríbete a un nivel más alto en [Patreon](https://www.patreon.com/tempvoice) o elimina otro servidor de Discord con </setup premium:921000495877877762>.",
-        "premium_activate_3" : "**¡Activado!** Los usuarios en este servidor de Discord ya no tienen que votar. **¡Disfruta!**",
-        "premium_deactivate_1" : "**Suscripción prémium requerida**. Tienes que activar la suscripción prémium antes de desactivarla.",
-        "premium_deactivate_2" : "**Suscripción prémium expirada**. Tu suscripción prémium ha expirado.",
-        "premium_deactivate_3" : "**¡Desactivado!** Todos los usuarios en este servidor tienen que votar de nuevo.",
         
         "interface_description" : "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos [</voice:921416747687489568>](https://tempvoice.xyz).",
         "interface_footer" : "Esta interfaz se puede utilizar pulsando los botones de abajo.",
