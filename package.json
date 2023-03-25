@@ -1,9 +1,4 @@
 {
-	"scripts": {
-		"dev": "nodemon .",
-		"update": "node ./scripts/langdb/import.js",
-		"lint": "eslint --fix ./"
-	},
 	"nodemonConfig": {
 		"ignore": [],
 		"delay": 0
