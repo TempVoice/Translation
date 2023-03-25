@@ -20,7 +20,7 @@
         "cmd_voice_transfer_description" : "Transférer la propriété de votre canal vocal temporaire à un autre utilisateur",
         "cmd_voice_trust_description" : "Les utilisateurs de confiance peuvent toujours rejoindre votre chaîne temporaire",
         "cmd_voice_unblock_description" : "Les utilisateurs non bloqués peuvent rejoindre votre canal temporaire ouvert",
-        "cmd_voice_untrust_description" : "Les utilisateurs non approuvés peuvent rejoindre votre canal temporaire ouvert",
+        "cmd_voice_untriust_description" : "Les utilisateurs non approuvés peuvent rejoindre votre canal temporaire ouvert",
         "cmd_voice_users_description" : "Montre une liste de tous les utilisateurs de confiance et bloqués de votre canal vocal temporaire",
         "cmd_voice_password_description" : "Définir un mot de passe pour que d'autres personnes rejoignent votre canal vocal temporaire",
         "cmd_voice_reset_description" : "Réinitialiser la configuration de votre canal vocal temporaire",
