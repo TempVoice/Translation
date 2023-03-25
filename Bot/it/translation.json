@@ -39,8 +39,6 @@
         
       "cmd_help_description" : "Chiedi aiuto su come usare TempVoice Discord Bot",
         
-      "help" : "**Aiuto in arrivo!** Dai un'occhiata ai pulsanti qua sotto per accedere alla dashboard con il tuo account Discord: https://tempvoice.xyz/dashboard",
-        
       "info_setup" : "**Setup completato!** {val1} può ora essere usato per creare nuovi canali vocali temporanei nel tuo server Discord",
       "info_setup2" : "**Setup completato!** Questa [interfaccia]({val1}) può ora essere utilizzata per gestire i canali vocali temporanei nel tuo server Discord!",
       "info_removed" : "**Rimosso!** Il Canale Creatore selezionato è stato rimosso. Creane uno nuovo con </setup creator:921000495877877762>.",
