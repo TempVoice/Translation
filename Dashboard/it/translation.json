@@ -95,7 +95,7 @@
   "placeholder_1_description": "Quando si usa il placeholder {PRIVACY} il nome del canale viene aggiornato quando vengono cambiate le impostazioni di privacy. Questo è possibile solo ogni 5 minuti per via di limitazioni imposte da Discord.",
   "placeholder_2_description": "Mostra il nome del ruolo più alto dell'utente, a prescindere dal fatto che questo sia separato nell'elenco dei membri online.",
   "placeholder_3_description": "Mostra il nome del ruolo più alto dell'utente, che sia separato nell'elenco dei membri online.",
-  "placeholder_4_description": "This placeholder will be replaced with the name a user has choosen with '/voice name'. When the user chooses a new name, only the part of the placeholder gets changed and the rest stays remains untouched.",
+  "placeholder_4_description": "Questo placeholder viene rimpiazzato con il testo inserito col comando '/voice name'. Quando l'utente sceglie un nuovo nome per il canale solo la parte del placeholder viene rimpiazzata, il resto rimane uguale.",
 
   "navbar_login_1": "Registrato come",
   "navbar_login_2": "Dashboard",
@@ -124,5 +124,5 @@
   "alert_added_success": "TempVoice è stato aggiunto al tuo server Discord con successo!",
   "alert_added_fail": "Non è stato possibile aggiungere TempVoice al tuo server Discord. Riprova più tardi.",
   "alert_offline": "Un problema noto impedisce il corretto funzionamento di TempVoice. Per favore sii paziente.",
-  "alert_online": "TempVoice è operativo"
+  "alert_online": "TempVoice è operativo."
 }
