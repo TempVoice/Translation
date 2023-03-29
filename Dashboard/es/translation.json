@@ -68,6 +68,7 @@
   "component_17_description": "Nombre predeterminado para los 'Placeholders' cuando no tienen información por mostrar",
   "component_18": "Nombre del Canal de Voz Temporal",
   "component_18_description": "Nombre por defecto para tu Canal de Voz Temporal",
+  "component_18_1": "Available Placeholders✨",
   "component_19": "{CUSTOM} 'Placeholder'",
   "component_19_description": "Nombre por defecto cuando el usuario no tiene su propio nombre (Default: Username)",
   "component_20": "Límite de usuarios de un Canal de Voz Temporal",
