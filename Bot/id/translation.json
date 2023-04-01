@@ -1,8 +1,40 @@
+
 [
   {
-    "lang": "id"
+    "lang": "id",
+    "discord_lang": "id"
   },
   {
+    "cmd_voice_waiting_description": "Buat ruang tunggu for join request ke channel sementara ini",
+    "cmd_voice_bitrate_description": "Ganti bitrate suara pada channel sementara ini",
+    "cmd_voice_block_description": "Blokir pengguna dari channel sementara ini",
+    "cmd_voice_claim_description": "Klaim kepemilikan channel sementara ini",
+    "cmd_voice_close_description": "Hapus channel sementara ini",
+    "cmd_voice_info_description": "Dapatkan informasi mengenai channel sementara ini",
+    "cmd_voice_invite_description": "Kirim undangan melalui DM untuk join ke channel ini",
+    "cmd_voice_kick_description": "Keluarkan pengguna dari channel sementara ini",
+    "cmd_voice_limit_description": "Ubah batas slot pengguna pada channel sementara ini",
+    "cmd_voice_name_description": "Ganti nama pada channel sementara ini",
+    "cmd_voice_privacy_description": "Kunci atau sembunyikan channel sementara ini",
+    "cmd_voice_region_description": "Ganti region server pada channel sementara ini",
+    "cmd_voice_thread_description": "Buat thread sementara pada channel sementara ini",
+    "cmd_voice_transfer_description": "Alihkan kepemilikan channel sementara ini kepada pengguna lain",
+    "cmd_voice_trust_description": "Percayai pengguna untuk bisa masuk ke channel sementara ini",
+    "cmd_voice_unblock_description": "Hapus blokir pengguna dari channel sementara ini",
+    "cmd_voice_untrust_description": "Hapus kepercayaan pengguna dari channel sementara ini",
+    "cmd_voice_users_description": "Menampilkan daftar semua pengguna tepercaya dan yang diblokir dari saluran sementara ini",
+    "cmd_voice_password_description": "Berikan sandi untuk channel sementara ini",
+    "cmd_voice_reset_description": "Reset konfirguarsi channel sementara ini",
+    "cmd_voice_lfp_description": "Kirim tautan undangan ke saluran sementara ini di obrolan ini",
+
+    "cmd_join_description": "Bergabung dengan channel sementara dengan menggunakan kata sandi",
+
+    "cmd_setup_creator_description": "Siapkan creator channel baru untuk membuat channel sementara",
+    "cmd_setup_interface_description": "Siapkan control interface untuk channel sementara",
+    "cmd_setup_tempvoice_description": "Siapkan TempVoice dengan mudah dengan asisten",
+
+    "cmd_help_description": "Dapatkan bantuan Bot Discord TempVoice",
+
     "info_setup": "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice channel sementara__ di server discord kamu.",
     "info_setup2": "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
     "info_removed": "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan </setup creator:921000495877877762>.",
@@ -16,7 +48,7 @@
     "error_empty": "**Tidak Memungkinkan.** Tidak ada pengguna yang bisa kamu pilih.",
     "error_invalid": "**Tidak Bisa** Kamu tidak berada di channel sementara apapun. join salah satu **Creator Channel** untuk melanjutkan: {val1}",
     "error_setup": "**Tidak Ada Creator Channel** Bot ini belum disetup. Jika kamu admin, gunakan </setup tempvoice:921000495877877762> atau </setup creator:921000495877877762>.",
-    "error_length": "**Terbatas.** Nilai tidak boleh lebih dari **{val1}** huruf.",
+    "error_length": "**Terbatas.** Tidak boleh lebih dari **{val1}** huruf.",
     "error_manage": "**Tidak Diizinkan.** Kamu butuh izin **Manage Server** untuk menggunakan command ini.",
     "error_vote": "**Tidak Memungkinkan.** Command ini bisa digunakan sementara dengan melakukan [vote](<https://top.gg/bot/762217899355013120/vote>) atau secara permanen dengan membeli [premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Tidak Memungkinkan.** Kamu tidak bisa menggunakan command ini untuk pengguna ini.",
@@ -85,7 +117,7 @@
     "join_4": "**Password salah** Password yang kamu masukkan salah. Coba lagi.",
     "join_5": "**Password benar** Kamu sekarang bisa join {val1}",
 
-    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz).",
+    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz/id).",
     "interface_footer": "Interface ini dapat digunakan dengan menekan tombol di bawah.",
 
     "privacy_menu_placehoder": "Pilih menu privasi",
