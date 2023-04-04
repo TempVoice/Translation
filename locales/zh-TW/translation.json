@@ -106,6 +106,7 @@
     "voice_thread_3": "**已刪除!** 臨時子文字討論串已刪除",
     "voice_thread_4": "**無法完成** 沒有臨時子文字討論串可刪除",
     "voice_close_1": "**已關閉!** 您的臨時語音頻道已經關閉",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**已更新!** 使用者已可使用</join:1060564928529956985> 指令，並使用密碼： ||`{val1}`|| 加入您的頻道",
     "voice_password_2": "**已更新!** 您的臨時頻道密碼已移除",
 

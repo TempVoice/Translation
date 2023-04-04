@@ -106,6 +106,7 @@
     "voice_thread_3": "**Usunięto!** Wątek został usunięty.",
     "voice_thread_4": "**Niemożliwe** Nie ma wątku do usunięcia.",
     "voice_close_1": "**Zamknięto!** Twój tymczasowy kanał głosowy został zamknięty.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Zaktualizowano!** Użytkownicy mogą teraz dołączyć na Twój tymczasowy kanał głosowy z użyciem hasła ||`{val1}`|| za pomocą komendy </join:1060564928529956985>.",
     "voice_password_2": "**Zaktualizowano!** Hasło do Twojego tymczasowego kanału głosowego zostało usunięte.",
 

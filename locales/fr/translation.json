@@ -106,6 +106,7 @@
     "voice_thread_3": "**Supprimé!** Le fil a été supprimé.",
     "voice_thread_4": "**Pas possible** Il n'y a pas de fil à supprimer.",
     "voice_close_1": "**Fermeture** Votre canal vocal temporaire a été fermé.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Mis à jour!** Les utilisateurs peuvent désormais rejoindre votre canal vocal temporaire en utilisant le mot de passe ||`{val1}`|| avec la commande </join:1060564928529956985>.",
     "voice_password_2": "**Mis à jour!** Le mot de passe de votre canal vocal temporaire a été supprimé.",
 

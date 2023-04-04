@@ -106,6 +106,7 @@
     "voice_thread_3": "**Διαγραγή!** Το thread διαγράφηκε.",
     "voice_thread_4": "**Αδύνατον** Δεν υπάρχει thread για διαγραφή.",
     "voice_close_1": "**Κλειστό!** Το κανάλι μόλις έκλεισε.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Ανανεώθηκε!** Οι χρήστες μπορούν πλέον να μπουν στο κανάλι σου με το password ||`{val1}`|| και με την εντολή </join:1060564928529956985>.",
     "voice_password_2": "**Ανανεώθηκε!** Το  password for your temporary voice channel has been removed.",
 
