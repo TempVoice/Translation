@@ -106,6 +106,7 @@
 		"voice_thread_3": "**削除しました。** スレッドが削除されました。",
 		"voice_thread_4": "**不可能です。** 削除するスレッドがありません。",
 		"voice_close_1": "**閉じました。** あなたの一時的な音声チャンネルは閉じられました。",
+		"voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
 		"voice_password_1": "**更新しました。** ユーザーはパスワード ||{val1}|| を使って、</join:1060564928529956985> コマンドであなたの一時的な音声チャンネルに参加できるようになりました。",
 		"voice_password_2": "**更新しました。** あなたの一時的な音声チャンネルのパスワードが削除されました。",
 

@@ -106,6 +106,7 @@
     "voice_thread_3": "**Törölve!** A gondolatmenet törölve.",
     "voice_thread_4": "**Nem lehetséges** Nincs törölni való gondolatmenet.",
     "voice_close_1": "**Bezárva!** Az ideiglenes hangcsatornádat bezártuk.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Frissítve!** A felhasználók mostantól a jelszó használatával csatlakozhatnak az ideiglenes hangcsatornához. ||`{val1}`|| A </join:1060564928529956985> paranccsal.",
     "voice_password_2": "**Frissítve!** Az ideiglenes hangcsatornához tartozó jelszót eltávolították.",
 

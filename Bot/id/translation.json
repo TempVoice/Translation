@@ -107,6 +107,7 @@
     "voice_thread_3": "**Dihapus!** Thread telah di hapus.",
     "voice_thread_4": "**Tidak Mungkin** Tidak ada thread yang bisa dihapus.",
     "voice_close_1": "**Ditutup!** Voice channel sementara kamu telah ditutup.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Diperbarui!** Pengguna sekarang dapat bergabung dengan channel suara sementara kamu dengan menggunakan password ||`{val1}`|| dengan perintah </join:1060564928529956985>.",
     "voice_password_2": "**Diperbarui!** Password untuk channel suara sementara kamu telah dihapus.",
 

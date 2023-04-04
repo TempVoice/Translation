@@ -106,6 +106,7 @@
     "voice_thread_3": "**¡Borrado!** El hilo ha sido eliminado.",
     "voice_thread_4": "**No es posible**. No existe un hilo para borrar.",
     "voice_close_1": "**¡Cerrado!** Tu canal de voz temporal ha sido cerrado.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**¡Actualizado!** Ahora pueden entrar a tu canal de voz temporal usando la contraseña ||`{val1}`|| con el comando </join:1060564928529956985>.",
     "voice_password_2": "**¡Actualizado!** La contraseña para tu canal de voz temporal fue removida.",
 

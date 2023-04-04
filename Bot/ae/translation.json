@@ -75,6 +75,7 @@
     "voice_thread_3": "تم الحذف** -> تم حذف الموضوع بنجاح**",
     "voice_thread_4": "غير ممكن** -> لا يوجد أي موضوع للحذف**",
     "voice_close_1": "مغلق** -> تم إغلاق قناتك الصوتية المؤقتة**",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
     "voice_password_2": "تحديث** -> تمت إزالة الرقم السري الخاص بالقناة الصوتية**",
 

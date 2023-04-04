@@ -106,6 +106,7 @@
     "voice_thread_3": "**Verwijderd.** De draad is verwijderd.",
     "voice_thread_4": "**Niet mogelijk.** Er is geen draad om te verwijderen.",
     "voice_close_1": "**Gesloten.** Je tijdelijke spraakkanaal is gesloten.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Bijgewerkt.** Gebruikers kunnen nu lid worden van uw tijdelijke spraakkanaal door het wachtwoord ||`{val1}`|| met de opdracht </join:1060564928529956985>.",
     "voice_password_2": "**Bijgewerkt.** Het wachtwoord voor je tijdelijke spraakkanaal is verwijderd.",
 

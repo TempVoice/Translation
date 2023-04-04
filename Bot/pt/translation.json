@@ -106,6 +106,7 @@
     "voice_thread_3": "**Deleted!** O fio foi apagado",
     "voice_thread_4": "**Não é possível*** Não há linha a ser apagada",
     "voice_close_1": "**Fechado!** Seu canal de voz temporário foi fechado.",
+    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "**Atualizado!** Os usuários agora podem entrar no seu canal de voz temporário usando a senha ||`{val1}`|| com o comando </join:1060564928529956985>.",
     "voice_password_2": "**Atualizado!** A senha do seu canal de voz temporário foi removida.",
 
