@@ -59,6 +59,7 @@
     "error_ratelimit": "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể sử dụng lại lệnh này.",
     "error_creation": "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể tạo lại một kênh mới.",
     "error_max": "**Đã đạt đến giới hạn** Đã đạt đến giới hạn Kênh thoại tạm thời của **{val1}** cùng một lúc. Hãy thử lại sau.",
+    "error_cb": "**Not Possible.** You are trying to use a command for a **Custom Branding** bot from [TempVoice](https://tempvoice.xyz/), which is not enabled for this Discord server. If you are the owner of the Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Không Thể** Cậu không thể tạo phòng chờ khi kênh của cậu đang bị ẩn.",
     "voice_waiting_2": "**Không Thể** Cậu không thể ẩn kênh của cậu khi có phòng chờ.",

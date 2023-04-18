@@ -59,6 +59,7 @@
     "error_ratelimit": "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
     "error_creation": "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
     "error_max": "**Osiągnięto Limit** Limit tymczasowych kanałów **{val1}** w tym samym czasie został osiągnięty. Spróbuj ponownie później.",
+    "error_cb": "**Not Possible.** You are trying to use a command for a **Custom Branding** bot from [TempVoice](https://tempvoice.xyz/), which is not enabled for this Discord server. If you are the owner of the Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
     "voice_waiting_2": "**Niemożliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
