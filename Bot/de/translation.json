@@ -116,7 +116,7 @@
     "join_4": "**Falsches Passwort.** Das eigegebene Passwort ist falsch. Versuch es erneut mit einem anderen.",
     "join_5": "**Korrektes Passwort.** Du kannst nun {val1} beitreten",
 
-    "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem Command [</voice:921416747687489568>](https://tempvoice.xyz) zur verfügung.",
+    "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem Command **/voice** zur verfügung.",
     "interface_footer": "Das Interface kann mit den unteren Buttons verwendet werden.",
 
     "privacy_menu_placehoder": "Wähle eine Option aus",

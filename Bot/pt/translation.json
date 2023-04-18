@@ -116,7 +116,7 @@
     "join_4": "**Senha incorreta** A senha digitada está incorreta. Tente novamente.",
     "join_5": "**Senha correta** Agora você pode entrar em {val1}",
 
-    "interface_description": "Essa **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos [</voice:921416747687489568>](https://tempvoice.xyz)",
+    "interface_description": "Essa **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos **/voice**",
     "interface_footer": "Pressione os botões abaixo para usar a interface",
 
     "privacy_menu_placehoder": "Selecione uma opção de privacidade",

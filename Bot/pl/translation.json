@@ -116,7 +116,7 @@
     "join_4": "**Błędne Hasło** Hasło, które wprowadziłeś jest niepoprawne. Spróbuj ponownie.",
     "join_5": "**Poprawne Hasło** Możesz teraz dołączyć na {val1}",
 
-    "interface_description": "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą [</voice:921416747687489568>](https://tempvoice.xyz).",
+    "interface_description": "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą **/voice**.",
     "interface_footer": "Interfejs może być użyty dzięki przyciskom poniżej",
 
     "privacy_menu_placehoder": "Wybierz Opcję Prywatności",

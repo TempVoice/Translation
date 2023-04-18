@@ -117,7 +117,7 @@
     "join_4": "**Password salah** Password yang kamu masukkan salah. Coba lagi.",
     "join_5": "**Password benar** Kamu sekarang bisa join {val1}",
 
-    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz/id).",
+    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command **/voice**.",
     "interface_footer": "Interface ini dapat digunakan dengan menekan tombol di bawah.",
 
     "privacy_menu_placehoder": "Pilih menu privasi",

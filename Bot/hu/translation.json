@@ -116,7 +116,7 @@
     "join_4": "**Rossz jelszó** A megadott jelszó hibás. Próbáld újra.",
     "join_5": "**Sikeres** Ön most már képes csatlakozni a {val1} csatornához",
 
-    "interface_description": "Ez az **interfész** használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a [</voice:921416747687489568>](https://tempvoice.xyz) parancsokon keresztül.",
+    "interface_description": "Ez az **interfész** használható ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a **/voice** parancsokon keresztül.",
     "interface_footer": "Ez a felület az alábbi gombok megnyomásával használható",
 
     "privacy_menu_placehoder": "Válasszon egy adatvédelmi beállítást",
