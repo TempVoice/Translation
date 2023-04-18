@@ -59,7 +59,7 @@
     "error_ratelimit": "**Pas encore possible**. Cette commande peut être utilsée **{val1}**.",
     "error_creation": "**Ralentissez!** Vous pouvez créer un nouveau canal **{val1}**.",
     "error_max": "**Limite atteinte** La limite de **{val1}** canaux vocaux temporaires en même temps a été atteinte. Réessayez plus tard.",
-    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Pas possible** Vous ne pouvez pas créer de salle d'attente lorsque votre chaîne est masquée.",
     "voice_waiting_2": "**Pas possible** Vous ne pouvez pas masquer votre chaîne lorsque vous avez une salle d'attente.",

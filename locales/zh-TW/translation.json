@@ -59,7 +59,7 @@
     "error_ratelimit": "**慢一點!** 此命令可在 **{val1}**後使用",
     "error_creation": "**慢一點!** 您可在 **{val1}**後創建新頻道",
     "error_max": "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**無法完成** 當您的頻道隱藏時，無法設定等待室",
     "voice_waiting_2": "**無法完成** 當您有等待室時，無法隱藏頻道",
