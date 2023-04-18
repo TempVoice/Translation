@@ -59,7 +59,7 @@
     "error_ratelimit": "**Помедленнее!** Эта команда может быть использована снова **{val1}**.",
     "error_creation": "**Помедленнее!** Вы можете создать новый канал **{val1}**.",
     "error_max": "**Ошибка.** Был достигнут лимит временных каналов в **{val1}**. Попробуйте снова позже.",
-    "error_cb": "**Not Possible.** You are trying to use a command for a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not authorized for this Discord server. If you are the owner of this Custom Branding bot, authorize it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Ошибка.** Нельзя создать комнату ожидания, если ваш канал скрыт.",
     "voice_waiting_2": "**Ошибка.** Нельзя скрыть свой канал, если у вас есть комната ожидания.",

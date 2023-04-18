@@ -59,7 +59,7 @@
     "error_ratelimit": "**Lassíts!** Ez a parancs újra használható **{val1}**.",
     "error_creation": "**Lassíts!** Új csatornát hozhat létre **{val1}**.",
     "error_max": "**Limit Reached** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-    "error_cb": "**Not Possible.** You are trying to use a command for a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not authorized for this Discord server. If you are the owner of this Custom Branding bot, authorize it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Nem lehetséges** Nem hozhat létre várótermet, ha a csatornája el van rejtve.",
     "voice_waiting_2": "**Nem lehetséges** Nem lehet elrejteni a csatornát, ha van egy váróterem.",
