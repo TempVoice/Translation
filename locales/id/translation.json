@@ -60,7 +60,7 @@
     "error_ratelimit": "**Pelan Pelan.** Perintah ini bisa digunakan lagi dalam **{val1}**.",
     "error_creation": "**Pelan Pelan!** Kamu bisa membuat channel baru **{val1}**.",
     "error_max": "**Sudah melampui** Batas channel sementara **{val1}** sudah tercapai. Coba lagi nanti.",
-    "error_cb": "**Not Possible.** You are trying to use a command for a **Custom Branding** bot from [TempVoice](https://tempvoice.xyz/), which is not enabled for this Discord server. If you are the owner of the Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a command for a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not authorized for this Discord server. If you are the owner of this Custom Branding bot, authorize it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Tidak Bisa** Kamu tidak bisa membuat ruang tunggu ketika channel kamu disembunyikan.",
     "voice_waiting_2": "**Tidak Bisa** Kamu tidak bisa menyembunyikan channel kamu ketika kamu mempunyai ruang tunggu.",
