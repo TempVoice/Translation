@@ -59,7 +59,7 @@
     "error_ratelimit": "**Slow Down!** This command can be used again **{val1}**.",
     "error_creation": "**Slow Down!** You can create a new channel **{val1}**.",
     "error_max": "**Limit Reached.** The limit of Temporary Voice Channels of **{val1}** at the same time has been reached. Try again later.",
-    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Not Possible.** You cannot create a waiting room when your channel is hidden.",
     "voice_waiting_2": "**Not Possible.** You cannot hide your channel when you have a waiting room.",

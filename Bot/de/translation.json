@@ -59,7 +59,7 @@
     "error_ratelimit": "**Noch nicht möglich.** Command kann verwendet werden **{val1}**.",
     "error_creation": "**Nicht so schnell!** Du kannst einen neuen Kanal **{val1}** erstellen.",
     "error_max": "**Limit erreicht.** Das Limit der temporären Kanäle von **{val1}** zur gleichen Zeit wurde erreicht. Versuche es später noch einmal.",
-    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Nicht möglich.** Du kannst keinen Warteraum erstellen, wenn dein temporärer Kanal versteckt ist.",
     "voice_waiting_2": "**Nicht möglich.** Du kannst deinen temporären Kanal nicht verstecken, wenn du einen Warteraum hast.",

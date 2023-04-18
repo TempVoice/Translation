@@ -59,7 +59,7 @@
     "error_ratelimit": "**Vertragen!** Deze opdracht kan opnieuw worden gebruikt **{val1}**.",
     "error_creation": "**Vertragen!** U kunt een nieuw kanaal maken **{val1}**.",
     "error_max": "**Limiet bereikt.** De limiet van tijdelijke spraakkanalen van **{val1}** tegelijkertijd is bereikt. Probeer het later nog eens.",
-    "error_cb": "**Not Possible.** You are trying to use a [**TempVoice Custom Branding**](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
 
     "voice_waiting_1": "**Niet mogelijk.** Je kunt geen wachtkamer maken als je kanaal verborgen is.",
     "voice_waiting_2": "**Niet mogelijk.** Je kunt je kanaal niet verbergen als je een wachtkamer hebt.",
