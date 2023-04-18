@@ -116,7 +116,7 @@
     "join_4": "**Wrong Password.** The password you entered is incorrect. Try again.",
     "join_5": "**Correct Password.** Your are now able to join {val1}",
 
-    "interface_description": "This **interface** can be used to manage temporary voice channels. More options are available with [</voice:921416747687489568>](https://tempvoice.xyz) commands.",
+    "interface_description": "This **interface** can be used to manage temporary voice channels. More options are available with **/voice** commands.",
     "interface_footer": "Press the buttons below to use the interface",
 
     "privacy_menu_placehoder": "Select a Privacy Option",

@@ -116,7 +116,7 @@
     "join_4": "**Wrong Password** The password you entered is incorrect. Try again.",
     "join_5": "**Correct Password** Your are now able to join {val1}",
 
-    "interface_description": "Цей **інтерфейс** можна використовувати для редагування твого тимчасового голосового каналу. Додаткові параметри доступні через команди [</voice:921416747687489568>](https://tempvoice.xyz).",
+    "interface_description": "Цей **інтерфейс** можна використовувати для редагування твого тимчасового голосового каналу. Додаткові параметри доступні через команди **/voice**.",
     "interface_footer": "Інтерфейс можна використовувати, натиснувши кнопки нижче.",
 
     "privacy_menu_placehoder": "Select a Privacy Option",

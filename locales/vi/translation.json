@@ -116,7 +116,7 @@
     "join_4": "**Sai mật khẩu** Mật khẩu cậu đã nhập không chính xác. Hãy thử lại.",
     "join_5": "**Mật khẩu chính xác** cậu hiện có thể tham gia {val1}",
 
-    "interface_description": "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh [</voice:921416747687489568>](https://tempvoice.xyz) commands.",
+    "interface_description": "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh **/voice** commands.",
     "interface_footer": "Nhấn các nút bên dưới để sử dụng giao diện",
 
     "privacy_menu_placehoder": "Chọn một Tùy chọn Quyền riêng tư",

@@ -116,7 +116,7 @@
     "join_4": "**Verkeerd wachtwoord.** Het ingevoerde wachtwoord is onjuist. Probeer het nog eens.",
     "join_5": "**Juist wachtwoord.** Je kunt nu lid worden van {val1}.",
 
-    "interface_description": "Deze **interface** kan worden gebruikt om tijdelijke spraakkanalen te beheren. Meer opties zijn beschikbaar met [</voice:921416747687489568>](https://tempvoice.xyz) commando's.",
+    "interface_description": "Deze **interface** kan worden gebruikt om tijdelijke spraakkanalen te beheren. Meer opties zijn beschikbaar met **/voice** commando's.",
     "interface_footer": "Druk op de onderstaande knoppen om de interface te gebruiken",
 
     "privacy_menu_placehoder": "Selecteer een privacyoptie",

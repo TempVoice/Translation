@@ -106,7 +106,7 @@
     "voice_thread_3": "**Gelöscht!** Der Thread wurde nun gelöscht.",
     "voice_thread_4": "**Nicht möglich.** Es existiert kein Thread, welcher gelöscht werden kann.",
     "voice_close_1": "**Geschlossen.** Du hast deinen temporären Kanal vorzeitig geschlossen.",
-    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "**Bist du sicher?** Dein temporärer Kanal wird gelöscht. Bestätige unten mit dem Button.",
     "voice_password_1": "**Geändert!** User sind nun in der Lage deinem temporärern Kanal beizutreten, indem diese das Passwort ||`{val1}`|| mit </join:1060564928529956985> Command benutzen.",
     "voice_password_2": "**Geändert!** Das Passwort für deinen temporärern Kanal wurde entfernt.",
 
@@ -116,7 +116,7 @@
     "join_4": "**Falsches Passwort.** Das eigegebene Passwort ist falsch. Versuch es erneut mit einem anderen.",
     "join_5": "**Korrektes Passwort.** Du kannst nun {val1} beitreten",
 
-    "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem Command [</voice:921416747687489568>](https://tempvoice.xyz) zur verfügung.",
+    "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem Command **/voice** zur verfügung.",
     "interface_footer": "Das Interface kann mit den unteren Buttons verwendet werden.",
 
     "privacy_menu_placehoder": "Wähle eine Option aus",

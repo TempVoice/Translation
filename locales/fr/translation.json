@@ -116,7 +116,7 @@
     "join_4": "**Mot de passe incorrect** Le mot de passe que vous avez entré est incorrect. Essayer à nouveau.",
     "join_5": "**Mot de passe correct** Vous pouvez maintenant rejoindre {val1}",
 
-    "interface_description": "Cette **interface** peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponible avec les commandes [</voice:921416747687489568>](https://tempvoice.xyz).",
+    "interface_description": "Cette **interface** peut être utilisée pour éditer votre canal vocal temporaire. Plus d'options sont disponible avec les commandes **/voice**.",
     "interface_footer": "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous",
 
     "privacy_menu_placehoder": "Sélectionnez une option de confidentialité",

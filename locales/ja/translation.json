@@ -53,7 +53,7 @@
 		"error_target": "**不可能です。** 選択したユーザーに対してこのコマンドを使用することはできません。",
 		"error_ownership": "**不可能です。**このコマンドは、音声チャンネルのオーナーのみが使用できます。 現在のオーナーが退出した場合は、 </voice claim:921416747687489568> を使用して音声チャンネルを請求してください。",
 		"error_permissions": "**権限が不足しています。**  次の権限が不足しています: {val1}",
-		"error_permissions_sync": "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+		"error_permissions_sync": "**権限が不足しています。** 管理者にお問い合わせください。以下の権限が**サーバー設定**のTempVoiceロールに**不足**しています：{val1}、権限を同期するために必要です。",
 		"error_deactivated": "**不可能です。** このコマンドは、{val1}のすべての一時的な音声チャンネルで無効になっています。",
 		"error_limit": "**不可能です。** サーバー内のクリエーターチャンネルの制限は{val1}です。 1つ削除するか、[プレミアム](<https://www.patreon.com/tempvoice>) ティアで制限を増やしてみてください。",
 		"error_ratelimit": "**速度を落としてください！** このコマンドは **{val1}** 後に再度使用できます。",
@@ -106,7 +106,7 @@
 		"voice_thread_3": "**削除しました。** スレッドが削除されました。",
 		"voice_thread_4": "**不可能です。** 削除するスレッドがありません。",
 		"voice_close_1": "**閉じました。** あなたの一時的な音声チャンネルは閉じられました。",
-		"voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+		"voice_close_2": "**本当によろしいですか？** 一時的なボイスチャンネルが削除されます。下のボタンを使用して確認してください。",
 		"voice_password_1": "**更新しました。** ユーザーはパスワード ||{val1}|| を使って、</join:1060564928529956985> コマンドであなたの一時的な音声チャンネルに参加できるようになりました。",
 		"voice_password_2": "**更新しました。** あなたの一時的な音声チャンネルのパスワードが削除されました。",
 
@@ -116,7 +116,7 @@
 		"join_4": "**パスワードが違います。** 入力したパスワードが間違っています。もう一度お試しください。",
 		"join_5": "**正しいパスワードです。** {val1} に参加できるようになりました。",
 
-		"interface_description": "この **インターフェース** は、一時的な音声チャンネルの管理に使用できます。 [</voice:921416747687489568>](https://tempvoice.xyz) コマンドでさらに多くのオプションが利用可能です。",
+		"interface_description": "この **インターフェース** は、一時的な音声チャンネルの管理に使用できます。 **/voice** コマンドでさらに多くのオプションが利用可能です。",
 		"interface_footer": "以下のボタンを押すと、インターフェースを使用できます。",
 
 		"privacy_menu_placehoder": "プライバシーオプションを選択",

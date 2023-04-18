@@ -116,7 +116,7 @@
     "join_4": "**Neteisingas Slaptažodis** Įvestas slaptažodis yra neteisingas. Bandyk iš naujo.",
     "join_5": "**Teisingas Slaptažodis** Dabar galite prisijungti į {val1}",
 
-    "interface_description": "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant [</voice:921416747687489568>](https://tempvoice.xyz) komandas.",
+    "interface_description": "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant **/voice** komandas.",
     "interface_footer": "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",
 
     "privacy_menu_placehoder": "Pasirinkite privatumo parinktį",

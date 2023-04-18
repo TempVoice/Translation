@@ -116,7 +116,7 @@
     "join_4": "**Contraseña incorrecta**. La contraseña ingresada es incorrecta. Intenta de nuevo.",
     "join_5": "**Contraseña correcta**. Ahora tienes permitido entrar a {val1}.",
 
-    "interface_description": "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos [</voice:921416747687489568>](https://tempvoice.xyz).",
+    "interface_description": "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos **/voice**.",
     "interface_footer": "Esta interfaz se puede utilizar pulsando los botones de abajo.",
 
     "privacy_menu_placehoder": "Elige una opción de privacidad",
