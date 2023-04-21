@@ -36,18 +36,13 @@
 
     "info_setup": "**Einrichtig abgeschlossen**. {val1} kann jetzt benutzt werden um temporäre Kanäle auf diesem Discord Server zu erstellen!",
     "info_setup2": "**Einrichtig abgeschlossen**. Dieses [Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord Server zu verwalten!",
-    "info_removed": "**Entfernt.** Der ausgewählte Creator Channel wurde entfernt. Erstelle einen neuen mit </setup creator:921000495877877762>.",
     "info_reset": "**Zurückgesetzt.** Die Konfiguration wurde auf die Standardeinstellungen zurückgesetzt.",
-    "info_recreate": "**Geändert.** Erstelle einen neuen temporären Kanal um die Änderung zu übernehmen.",
-    "info_menu": "Verwende das Menü und wähle eine Option aus:",
-    "info_nousers": "**Keine User**",
 
     "error_validated": "**Nicht gültig.** {val1} Bitte kontaktiere einen Administrator. Dieser Creator Channel ist nicht mehr gültig, da das Premium Level herabgestuft oder gekündigt wurde.",
     "error_ownerless": "**Nicht möglich.** Temporären Kanäle von {val1} sind Besitzerlos und können nicht bearbeitet werden.",
     "error_empty": "**Nicht möglich.** Es gibt keine User, welche du auswählen kannst.",
     "error_invalid": "**Ungültig.** Du befindest dich nicht in einem gültigen temporären Kanal. Trete zuerst einem **Creator Channel** bei: {val1}",
     "error_setup": "**Keine Creator gefunden.** Dieser Bot wurde noch nicht eingerichtet. Wenn du ein Administrator bist, verwende </setup tempvoice:921000495877877762> oder </setup creator:921000495877877762>.",
-    "error_length": "**Limitiert.** Die Eingabe darf nicht länger als **{val1}** Zeichen sein.",
     "error_manage": "**Nicht erlaubt.** Du benötigst die Berechtigung **Server verwalten**, um diesen Command zu verwenden.",
     "error_vote": "**Noch nicht möglich.** Dieser Command kann temporär mit einem [Vote](<https://top.gg/bot/762217899355013120/vote>) oder permanent mit [Premium](<https://www.patreon.com/tempvoice>) verwendet werden.",
     "error_target": "**Nicht möglich.** Du kannst diesen Command für diesen User nicht verwenden.",

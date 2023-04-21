@@ -36,18 +36,13 @@
 
     "info_setup": "**Mise en place réussie**. {val1} peut maintenant être utilisé pour créer les canaux temporaires dans votre serveur Discord !",
     "info_setup2": "**Configuration terminée**. Cette [Interface]({val1}) peut maintenant être utilisée pour gérer les canaux vocaux temporaires de votre serveur Discord !",
-    "info_removed": "**Suppression**. Le canal de créateur sélectionné a été supprimé. Créez-en un nouveau avec </setup creator:921000495877877762>.",
     "info_reset": "**Réinitialisation**. La configuration a été réinitialisée par défaut.",
-    "info_recreate": "**Mise à jour.** Créez un nouveau canal vocal temporaire pour appliquer la modification.",
-    "info_menu": "Utilisez le menu pour sélectionner une option :",
-    "info_nousers": "**Aucun utilisateur**",
 
     "error_validated": "**Non valide** {val1} Veuillez contacter un administrateur. Le canal de créateur n'est plus valide, car l'abonnement premium a été rétrogradé ou annulé.",
     "error_ownerless": "**Pas possible** Canaux vocaux temporaires de {val1} sont sans propriétaire et ne peuvent pas être gérés.",
     "error_empty": "**Pas possible**. Il n'y a pas d'utilisateur parmis lesquels vous pouvez choisir.",
     "error_invalid": "**Invalide** Vous n'êtes pas dans un canal vocal temporaire valide. Rejoignez un canal **Creator Channel** en premier lieu: {val1}",
     "error_setup": "**Pas de crateur trouvé** Ce Bot n'a pas encore été configuré. Si vous êtes administrateur, utilisez </setup tempvoice:921000495877877762> ou </setup creator:921000495877877762>.",
-    "error_length": "**Limitation**. La valeur ne peut pas être supérieure à **{val1}** lettres.",
     "error_manage": "**Non autorisé**. Vous devez avoir les permissions de **Gérer le serveur** pour utiliser cette commande.",
     "error_vote": "**Pas encore possible**. Cette commande peut être utilisée de façon temporaire avec un [vote](<https://top.gg/bot/762217899355013120/vote>) ou permanente avec un [premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Impossible**. Vous ne pouvez pas utiliser cette commande sur cet utilisateur.",

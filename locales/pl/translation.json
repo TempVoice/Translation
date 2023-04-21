@@ -36,18 +36,13 @@
 
     "info_setup": "**Konfiguracja zakończona**. {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",
     "info_setup2": "**Konfiguracja zakończona**. Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
-    "info_removed": "**Usunięto**. Wybrany kanał został usunięty. Utwórz nowy za pomocą </setup creator:921000495877877762>.",
     "info_reset": "**Zresetowano**. Konfiguracja została przywrócona do wartości domyślnych.",
-    "info_recreate": "**Zaktualizowano.** Stwórz nowy tymczasowy kanał głosowy, żeby zastosować zmianę.",
-    "info_menu": "Użyj menu, aby wybrać opcję:",
-    "info_nousers": "**Brak użytkowników**",
 
     "error_validated": "**Nieważne** {val1} Skontaktuj się z Adminem. Ten kanał twórcy nie jest już ważny ze względu na zmniejszenie subskrypcji Premium lub jej anulowanie.",
     "error_ownerless": "**Niemożliwe.** Tymczasowe kanały głosowe od {val1} nie mają właściciela i nie mogą być zarządzane.",
     "error_empty": "**Niemożliwe**. Nie ma użytkowników, których można wybrać.",
     "error_invalid": "**Błąd** Nie jesteś na prawidłowym kanale tymczasowym. Dołącz najpierw na **Kanał tworzenia**: {val1}",
     "error_setup": "**Brak Kanału Tworzenia** Ten bot nie został jeszcze skonfigurowany. Jeśli jesteś administratorem, użyj </setup tempvoice:921000495877877762> lub </setup creator:921000495877877762>.",
-    "error_length": "**Niemożliwe**. Wartość nie może być dłuższa niż **{val1}** znaków.",
     "error_manage": "**Niedozwolone**. Musisz mieć uprawnienie **Zarządzaj serwerem**, aby użyć tego polecenia.",
     "error_vote": "**Jeszczcze Niemożliwe**. To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://top.gg/bot/762217899355013120/vote>) lub permanentnie po zakupie [Premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Niemożliwe**. Nie możesz użyć tego polecenia na tym użytkowniku.",

@@ -36,18 +36,13 @@
 
     "info_setup": "**Installationen är klar!** {val1} kan nu användas för att skapa tillfälliga röstkanaler på din Discord server.",
     "info_setup2": "**Installationen är klar!** Detta [interface]({val1}) kan nu användas för att hantera tillfälliga röstkanaler på din Discord server.",
-    "info_removed": "**Borttagen!** Den valda skaparkanalen har tagits bort. Skapa en ny med </setup creator:921000495877877762>.",
     "info_reset": "**Återställd** Konfigurationen har återställts till standard.",
-    "info_recreate": "**Uppdaterad** Skapa en ny tillfällig röstkanal för att tillämpa ändringen.",
-    "info_menu": "Använd den här menyn för att välja ett alternativ:",
-    "info_nousers": "**Inga användare**",
 
     "error_validated": "**Ej giltig** {val1} Kontakta en administratör. Den här skaparkanalen är inte giltig längre eftersom prenumerationen har nedgraderats eller avslutats.",
     "error_ownerless": "**Inte möjligt** Tillfälliga röstkanaler från {val1} saknar ägare och kan inte hanteras.",
     "error_empty": "**Inte möjligt** Det finns inga användare som du kan välja mellan.",
-    "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
+    "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
-    "error_length": "**Inte möjligt** Värdet får inte vara längre än **{val1}** tecken.",
     "error_manage": "**Inte tillåtet** Du behöver behörigheten **Hantera Server** för att använda det här kommandot.",
     "error_vote": "**Inte möjligt ännu** Det här kommandot kan låsas upp tillfälligt genom att [rösta](<https://top.gg/bot/762217899355013120/vote>), eller permanent låsas upp med [premium](<https://www.patreon. com/tempvoice>).",
     "error_target": "**Inte möjligt** Du kan inte använda det här kommandot för den valda användaren.",
@@ -111,7 +106,7 @@
     "voice_password_1": "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
     "voice_password_2": "**Updated!** The password for your temporary voice channel has been removed.",
 
-    "join_1": "**Invalid** You selected a non valid temporary voice channel.",
+    "join_1": "**No Valid Channel!** You selected a non valid temporary voice channel.",
     "join_2": "**Not Possible** You are not allowed to join this temporary voice channel.",
     "join_3": "**Not Possible** The selected temporary voice channel has no password to join.",
     "join_4": "**Wrong Password** The password you entered is incorrect. Try again.",
