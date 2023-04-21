@@ -36,18 +36,13 @@
 
     "info_setup": "**Installatie voltooid!** {val1} kan nu worden gebruikt om tijdelijke spraakkanalen in uw Discord-server te maken.",
     "info_setup2": "**Installatie voltooid!** Dit [koppel]({val1}) kan nu worden gebruikt om tijdelijke spraakkanalen in uw Discord-server te beheren.",
-    "info_removed": "**Verwijderd!** Het geselecteerde creatorkanaal is verwijderd. Maak een nieuwe met </setup creator:921000495877877762>.",
     "info_reset": "**Resetten.** De configuratie is teruggezet naar standaard.",
-    "info_recreate": "**Bijgewerkt.** Maak een nieuw tijdelijk spraakkanaal aan om de wijziging toe te passen.",
-    "info_menu": "Gebruik dit menu om een optie te selecteren:",
-    "info_nousers": "**Geen gebruikers**",
 
     "error_validated": "**Niet geldig.** {val1} Neem contact op met een beheerder. Dit creatorkanaal is niet meer geldig omdat het premium-abonnement is gedowngraded of geannuleerd.",
     "error_ownerless": "**Niet mogelijk.** Tijdelijke spraakkanalen van {val1} hebben geen eigenaar en kunnen niet worden beheerd.",
     "error_empty": "**Niet mogelijk.** Er zijn geen gebruikers waaruit u kunt kiezen.",
     "error_invalid": "**Ongeldig.** U bevindt zich niet in een geldig tijdelijk spraakkanaal. Word eerst lid van een **Creator-kanaal**: {val1}",
     "error_setup": "**Geen makers gevonden.** Deze bot is nog niet ingesteld. Als u een beheerder bent, gebruikt u </setup tempvoice:921000495877877762> of </setup creator:921000495877877762>.",
-    "error_length": "**Niet mogelijk.** Waarde mag niet langer zijn dan **{val1}** tekens.",
     "error_manage": "**Not Permitted.** U hebt de machtiging **Server beheren** nodig om deze opdracht te gebruiken.",
     "error_vote": "**Nog niet mogelijk.** Deze opdracht kan tijdelijk worden ontgrendeld door [voting](<https://top.gg/bot/762217899355013120/vote>), of permanent ontgrendeld met [premium](<https://www.patreon.com/tempvoice>) .",
     "error_target": "**Niet mogelijk.** U kunt deze opdracht niet gebruiken voor de geselecteerde gebruiker.",

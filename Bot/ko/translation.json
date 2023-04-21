@@ -36,18 +36,13 @@
 
     "info_setup": "**설치완료**. {val1} 이제 서버에서 임시 음성채널을 생성할 수 있습니다.",
     "info_setup2": "**설치완료**. 이제 [Interface]({val1}) 기능을 활용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",
-    "info_removed": "**제거됨**. 선택한 생성 채널이 제거 되었습니다.  **/setup creator 명령을 사용하여 새로운 채널을 만들어주세요**.",
     "info_reset": "**초기화됨**. config(구성)이 기본값으로 초기화 되었습니다",
-    "info_recreate": "**업데이트** 새 임시 음성 채널을 만들어 변경 내용을 적용합니다.",
-    "info_menu": "메뉴를 사용하여 옵션을 선택합니다.",
-    "info_nousers": "**유저없음**",
 
     "error_validated": "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
     "error_ownerless": "**불가능**. {val1}의 임시 음성 채널은 소유자가 없으므로 관리 및 변경할 수 없습니다.",
     "error_empty": "**불가능**. 선택할 수 있는 사용자가 없습니다.",
     "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
-    "error_length": "**제한됨**. 최대 문자수는 {val1}자 이하로 설정해야합니다.",
     "error_manage": "**허용되지않음**. 해당 명령을 사용하려면 서버관리자 권한이 필요합니다.",
     "error_vote": "**현재 사용 불가능** 해당 명령은 투표를 통해 임시 잠금 해제될 수 있으며, [투표](<https://top.gg/bot/762217899355013120/vote>), 또는 프리미엄을 구독하여 자유롭게 사용가능 [프리미엄](<https://www.patreon.com/tempvoice>).",
     "error_target": "**사용불가능**. 해당 유저에게 이 명령을 사용할 수 없습니다.",

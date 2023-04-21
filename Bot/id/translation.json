@@ -37,18 +37,13 @@
 
     "info_setup": "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice channel sementara__ di server discord kamu.",
     "info_setup2": "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
-    "info_removed": "**Terhapus!** Creator channel yang dipilih telah terhapus. Buat yang baru dengan </setup creator:921000495877877762>.",
     "info_reset": "**Reset.** Konfigurasi telah diatur ulang ke default.",
-    "info_recreate": "**Terbarui.** Buat sebuah voice channel sementara untuk mengaplikasikan perubahan.",
-    "info_menu": "Gunakan menu ini untuk memilih opsi:",
-    "info_nousers": "**Tidak ada pengguna**",
 
     "error_validated": "**Tidak Valid.** Mohon hubungi admin. Creator channel ini sudah tidak valid karena paket premium telah di downgrade atau dibatalkan.",
     "error_ownerless": "**Tidak Memungkinkan.** Channel sementara dari {val1} tidak punya pemilik dan tidak bisa dikelola.",
     "error_empty": "**Tidak Memungkinkan.** Tidak ada pengguna yang bisa kamu pilih.",
     "error_invalid": "**Tidak Bisa** Kamu tidak berada di channel sementara apapun. join salah satu **Creator Channel** untuk melanjutkan: {val1}",
     "error_setup": "**Tidak Ada Creator Channel** Bot ini belum disetup. Jika kamu admin, gunakan </setup tempvoice:921000495877877762> atau </setup creator:921000495877877762>.",
-    "error_length": "**Terbatas.** Tidak boleh lebih dari **{val1}** huruf.",
     "error_manage": "**Tidak Diizinkan.** Kamu butuh izin **Manage Server** untuk menggunakan command ini.",
     "error_vote": "**Tidak Memungkinkan.** Command ini bisa digunakan sementara dengan melakukan [vote](<https://top.gg/bot/762217899355013120/vote>) atau secara permanen dengan membeli [premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Tidak Memungkinkan.** Kamu tidak bisa menggunakan command ini untuk pengguna ini.",

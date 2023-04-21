@@ -5,18 +5,13 @@
   {
     "info_setup": "**ההכנה הושלמה**. {val1} יכול עכשיו לשמש ליצירת חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
     "info_setup2": "**ההכנה הושלמה**. ה({val1})[תפריט] יכול עכשיו לשמש לניהול חדרי שיחה זמניים בשרת הדיסקורד שלכם!",
-    "info_removed": "**הוסר**. חדר יוצר השיחות הנבחר הוסר. צרו אחד חדש עם הפקודה </setup creator:921000495877877762>.",
     "info_reset": "**אתחול**. האפשרויות הותחלו.",
-    "info_recreate": "**Updated.** Create a new temporary voice channel to apply the change.",
-    "info_menu": "השתמשו בתפריט כדי לבחור אופציה:",
-    "info_nousers": "**אין משתמשים**",
 
     "error_validated": "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
     "error_ownerless": "**Not Possible.** Temporary voice channels from {val1} are ownerless and cannot be managed.",
     "error_empty": "**לא אפשרי**. לא ניתן לבחור שום משתמש מכיוון שאין משתמשים לבחור מהם.",
     "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
-    "error_length": "**הגבלה**. הערך לא יכול להיות יותר ערוך מ**{val1}** אותיות.",
     "error_manage": "**לא מורשה**. אתם צריכים את הגישה **Manage Server** כדי להשתמש בפקודה הזאת.",
     "error_vote": "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://www.patreon.com/tempvoice>).",
     "error_target": "**לא אפשרי**. אתם לא יכולים להשתמש בפקודה הזאת עם המשתמש הזה.",

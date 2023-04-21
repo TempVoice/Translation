@@ -36,18 +36,13 @@
 
 		"info_setup": "**セットアップ完了！** {val1} は今後サーバーで一時的な音声チャンネルを作成できます",
 		"info_setup2": "**インストール完了！** この [インターフェース]({val1}) を使用してDiscordサーバーの一時的な音声チャンネルを管理できます。",
-		"info_removed": "**削除されました！** 選択したクリエーターチャンネルが削除されました. 新規作成する際は次のコマンドを使用してください </setup creator:921000495877877762>.",
 		"info_reset": "**リセット** 設定がデフォルトに戻されました。",
-		"info_recreate": "**更新しました。** 変更を適用するために、新しい一時的な音声チャンネルを作成してください。",
-		"info_menu": "このメニューを使用してオプションを選択してください:",
-		"info_nousers": "**ユーザーがいません**",
 
 		"error_validated": "**無効です。** {val1} 管理者に連絡してください。 このクリエーターチャンネルは、プレミアムサブスクリプションがダウングレードまたはキャンセルされたため、無効になっています。",
 		"error_ownerless": "**不可能です。** {val1} の一時的な音声チャンネルはオーナーがいないため、管理できません。",
 		"error_empty": "**不可能です。**  選択できるユーザーがいません。",
 		"error_invalid": "**無効です。** 有効な一時的な音声チャンネルにいません。まず、**クリエーターチャンネル** に参加してください: {val1}",
 		"error_setup": "**クリエーターが見つかりません。** このボットはまだ設定されていません。 あなたが管理者の場合は、 </setup tempvoice:921000495877877762> または </setup creator:921000495877877762> を使用してください。",
-		"error_length": "**不可能です。** 値は **{val1}** 文字を超えることはできません。",
 		"error_manage": "**許可されていません。** このコマンドを使用するには、**サーバー管理**権限が必要です。",
 		"error_vote": "**まだ不可能です。** このコマンドは [投票](<https://top.gg/bot/762217899355013120/vote>) で一時的にロック解除するか、 [プレミアム](<https://www.patreon.com/tempvoice>) で永久的にロック解除できます。",
 		"error_target": "**不可能です。** 選択したユーザーに対してこのコマンドを使用することはできません。",
@@ -59,7 +54,7 @@
 		"error_ratelimit": "**速度を落としてください！** このコマンドは **{val1}** 後に再度使用できます。",
 		"error_creation": "**速度を落としてください！** 新しいチャンネルは **{val1}** 後に作成できます。",
 		"error_max": "**制限に達しました。** 同時に使用できる**{val1}**の一時的な音声チャネルの制限に達しました。後で再試行してください。",
-		"error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+		"error_cb": "**不可能です。** このDiscordサーバーでは有効化されていない [TempVoice Custom Branding](https://tempvoice.xyz/) ボットを使用しようとしています。 もし、このカスタムブランディングボットのオーナーである場合は、[プロフィール](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding** で有効にしてください。",
 
 		"voice_waiting_1": "**不可能です。** チャンネルを非表示にすると、待機室を作ることができません。",
 		"voice_waiting_2": "**不可能です。** 待機室がある場合、チャンネルを非表示にすることはできません。",

@@ -36,18 +36,13 @@
 
     "info_setup": "**Nastavení dokončeno!** {val1} lze nyní použít k vytvoření dočasných hlasových kanálů na serveru Discord.",
     "info_setup2": "**Nastavení dokončeno!** Tohle [interface]({val1}) lze nyní použít ke správě dočasných hlasových kanálů na serveru Discord.",
-    "info_removed": "**Odstraněno!** Vybraný kanál tvůrce byl odstraněn. Vytvořte nový pomocí </setup creator:921000495877877762>.",
     "info_reset": "**Resetování** Konfigurace byla obnovena na výchozí nastavení.",
-    "info_recreate": "**Aktualizováno** Vytvořte nový dočasný hlasový kanál a použijte změnu.",
-    "info_menu": "Pomocí této nabídky vyberte možnost:",
-    "info_nousers": "**Žádní uživatelé**",
 
     "error_validated": "**Neplatné** {val1} Kontaktujte prosím Admina. Tento kanál tvůrce již není platný, protože prémiové předplatné bylo sníženo nebo zrušeno.",
     "error_ownerless": "**Není možné** Dočasné hlasové kanály z {val1} jsou bez vlastníka a nelze je spravovat.",
     "error_empty": "**Není možné** Neexistují žádní uživatelé, ze kterých byste mohli vybírat.",
     "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
-    "error_length": "**Není možné** Hodnota nesmí být delší než **{val1}** znaky.",
     "error_manage": "**Není povoleno** Potřebujete **Spravovat server** oprávnění používat tento příkaz.",
     "error_vote": "**Zatím není možné** Tento příkaz lze dočasně odblokovat pomocí [hlasovaním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčené pomocí [premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Není možné** You cannot use this command for the selected user.",

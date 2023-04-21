@@ -36,18 +36,13 @@
 
     "info_setup": "**Setup completato!** {val1} può ora essere usato per creare nuovi canali vocali temporanei nel tuo server Discord",
     "info_setup2": "**Setup completato!** Questa [interfaccia]({val1}) può ora essere utilizzata per gestire i canali vocali temporanei nel tuo server Discord!",
-    "info_removed": "**Rimosso!** Il Canale Creatore selezionato è stato rimosso. Creane uno nuovo con </setup creator:921000495877877762>.",
     "info_reset": "**Ripristinato.** Le impostazioni sono state ripristinate a quelle di default.",
-    "info_recreate": "**Aggiornato.** Crea un nuovo canale vocale temporaneo per applicare le modifiche.",
-    "info_menu": "Usa questo menù per selezionare un'opzione:",
-    "info_nousers": "**Nessun utente**",
 
     "error_validated": "**Non valido.** {val1} Si prega di contattare un amministratore. Questo Canale Creatore non è più valido perché l'abbonamento Premium è scaduto o è stato cancellato.",
     "error_ownerless": "**Errore.** I canali vocali temporanei generati da {val1} sono senza proprietario e non possono essere modificati.",
     "error_empty": "**Errore.** Non ci sono utenti da selezionare.",
     "error_invalid": "**Errore.** Non ti trovi in un canale vocale temporaneo valido. Per crearne uno entra in un **Canale Creatore**: {val1}",
     "error_setup": "**Nessun Creatore trovato.** Il bot non è ancora stato configurato correttamente. Se sei un admin, usa il comando </setup tempvoice:921000495877877762> oppure </setup creator:921000495877877762>.",
-    "error_length": "**Non valido.** Il valore non può essere più lungo di **{val1}** caratteri.",
     "error_manage": "**Non consentito.** Hai bisogno del permesso **Gestire Server** per usare questo comando.",
     "error_vote": "**Non disponibile.** Questo comando può essere sbloccato temporaneamente [votando](<https://top.gg/bot/762217899355013120/vote>), oppure permanentemente sottoscrivendo un abbonamento [Premium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**Errore.** Non puoi usare questo commando sull'utente selezionato.",

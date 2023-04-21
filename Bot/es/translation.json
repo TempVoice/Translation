@@ -36,18 +36,13 @@
 
     "info_setup": "**Configuración completada**. ¡{val1} ya puede ser utilizado para crear canales de voz temporales en tu servidor de Discord!",
     "info_setup2": "**Configuración completada**. ¡Esta [interfaz]({val1}) ahora puede ser utilizada para gestionar canales de voz temporales en tu servidor de Discord!",
-    "info_removed": "**Eliminado**. El creador de canales seleccionado ha sido eliminado. Crea uno nuevo con </setup creator:921000495877877762>.",
     "info_reset": "**Restablecido**. La configuración se ha restablecido a sus valores predeterminados.",
-    "info_recreate": "**¡Cambiado!** Crea un canal de voz temporal nuevo para aplicar el cambio.",
-    "info_menu": "Usa este menú para seleccionar una opción:",
-    "info_nousers": "**No hay usuarios**",
 
     "error_validated": "**No válido**. {val1} Por favor contacta con un administrador. Este creador de canales ya no es válido porque la suscripción prémium ha sido degradada o cancelada.",
     "error_ownerless": "**No es posible.** Los canales de voz temporales de {val1} no tienen dueño y no se pueden gestionar.",
     "error_empty": "**No es posible**. No hay usuarios a los que puedas seleccionar.",
     "error_invalid": "**No es válido** No estas en un canal de voz temporal válido. Entra a un canal creador primero: {val1}",
     "error_setup": "**No se encontraron creadores** Este bot aún no se ha configurado. Si eres un administrador, usa </setup tempvoice:921000495877877762> o </setup creator:921000495877877762>.",
-    "error_length": "**No es posible**. El valor no puede ser mayor a **{val1}** caracteres.",
     "error_manage": "**No permitido**. Necesitas el permiso **Gestionar servidor** para usar este comando.",
     "error_vote": "**Todavía no es posible**. Este comando puede ser temporalmente desbloqueado [votando](<https://top.gg/bot/762217899355013120/vote>) o permanentemente desbloqueado con la suscripción [prémium](<https://www.patreon.com/tempvoice>).",
     "error_target": "**No es posible**. No puedes usar este comando con este usuario.",
