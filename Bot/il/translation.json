@@ -10,7 +10,7 @@
     "error_validated": "**Not Valid** {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got downgraded or canceled.",
     "error_ownerless": "**Not Possible.** Temporary voice channels from {val1} are ownerless and cannot be managed.",
     "error_empty": "**לא אפשרי**. לא ניתן לבחור שום משתמש מכיוון שאין משתמשים לבחור מהם.",
-    "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
+    "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
     "error_manage": "**לא מורשה**. אתם צריכים את הגישה **Manage Server** כדי להשתמש בפקודה הזאת.",
     "error_vote": "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://www.patreon.com/tempvoice>).",
@@ -75,7 +75,7 @@
     "voice_password_1": "**Updated!** Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
     "voice_password_2": "**Updated!** The password for your temporary voice channel has been removed.",
 
-    "join_1": "**Invalid** You selected a non valid temporary voice channel.",
+    "join_1": "**No Valid Channel!** You selected a non valid temporary voice channel.",
     "join_2": "**Not Possible** You are not allowed to join this temporary voice channel.",
     "join_3": "**Not Possible** The selected temporary voice channel has no password to join.",
     "join_4": "**Wrong Password** The password you entered is incorrect. Try again.",

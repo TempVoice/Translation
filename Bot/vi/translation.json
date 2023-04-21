@@ -41,7 +41,7 @@
     "error_validated": "**Không Hợp Lệ** {val1} Hãy liên hệ với Quản trị viên. Trình tạo kênh thoại này không còn khả dụng vì gói premium của máy chủ này đã hết hoặc đã gỡ.",
     "error_ownerless": "**Không Thể** Kênh thoại tạm thời từ {val1} không có chủ sở hữu và không thể quản lý.",
     "error_empty": "**Không Thể** Chẳng có ai để cậu có thể chọn cả.",
-    "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
+    "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
     "error_manage": "**Không Có Quyền** Cậu cần quyền **Quản lý máy chủ** để dùng lệnh này.",
     "error_vote": "**Chưa Thể** Lệnh này có thể được mở khóa bởi [bỏ phiếu cho bot](<https://top.gg/bot/762217899355013120/vote>), hoặc mở khóa với [gói premium](<https://www.patreon.com/tempvoice>).",

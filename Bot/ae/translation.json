@@ -10,7 +10,7 @@
     "error_validated": "يرجى الاتصال بالمسؤول. قناة المنشئ هذه غير صالحة لأن الاشتراك المميز قد تم إرجاعه إلى إصدار سابق أو تم إلغاؤه <- {val1} <- **غير صالح**",
     "error_ownerless": "هي بلا مالك ولا يمكن إدارتها <- {val1} <- غير ممكن** -> القنوات الصوتية المؤقتة من**",
     "error_empty": " غير ممكن** -> لا يوجد مستخدمون يمكنك الاختيار من بينهم**",
-    "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
+    "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
     "error_manage": " غير مسموح.** -> تحتاج إلى صلاحيات ** سيرفر مانج ** لاستخدام هذا الأمر**",
     "error_vote": "[premium](<https://www.patreon.com/tempvoice>) <- أو دائم مع [vote](<https://top.gg/bot/762217899355013120/vote>) <- غير ممكن بعد** -> يمكن استخدام هذا الأمر مؤقتًا مع**",

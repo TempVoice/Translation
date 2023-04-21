@@ -41,7 +41,7 @@
     "error_validated": "**Λάθος επιλογή** {val1} Επικοινωνήστε με το προσωπικό του server. Η συνδρομή σας δεν ισχύει πλέον.",
     "error_ownerless": "**Αδύνατον!** Τα κανάλια από {val1} δεν έχουν κυριότητα οπότε δεν μπορείς να τα διαχειριστείς.",
     "error_empty": "**Αδύνατον!** Δεν υπάρχονυ χρήστες για την επιλογή αυτή.",
-    "error_invalid": "**Invalid** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
+    "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
     "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
     "error_manage": "**Έφαγες πόρτα!* Χρειάζεται να έχεις **Ειδική ΆΔΕΙΑ** για να χρησιμοποιήσεις αυτή την εντολή.",
     "error_vote": "**Ξέχασε το** Αυτή η εντολή είναι προσωρινά κλειστή. Ψήφισε εδώ να την ξεκλειδώσεις [voting](<https://top.gg/bot/762217899355013120/vote>), ή πλερώ την συνδρομή [premium](<https://www.patreon.com/tempvoice>).",
