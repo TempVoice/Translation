@@ -116,7 +116,7 @@
   "statistics_4": "Total de membros",
 
   "alert_premium_activate": "Seu Premium está pronto para ser usado!",
-  "alert_premium_inactivate": "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
+  "alert_premium_inactivate": "Se você apoiou recentemente o TempVoice no Patreon, você deve esperar alguns minutos para ser validado e poder ativar o Premium em qualquer servidor Discord",
   "alert_please_login": "Por favor, Faça login com sua conta do Discord para continuar.",
   "alert_no_servers": "Você não possui ou moderado nenhum servidor do Discord. Você precisará de permissões de 'Gerenciar servidor'.",
   "alert_no_creators": "Este servidor do Discord ainda não possui criadores. Configure um novo canal de criador com '/setup Creator' e atualize a página.",
