@@ -111,8 +111,6 @@
   "dashboard_button": "Open Dashboard",
   "guides_button": "View Guides",
   "login_button": "Login with Discord",
-  "patreon_button": "Support TempVoice on Patreon",
-  "connect_button": "Connect Patreon with Discord",
   "vote_button": "Vote for TempVoice on Top.gg",
 
   "statistics_1": "Total Clusters",
