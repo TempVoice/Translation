@@ -91,6 +91,11 @@
   "component_27_description": "Вы получайте 1-3 Flash-а каждый раз, голосуя за TempVoice. За 60 flash-ов вы можете получить 2 недели премиума! Круто, да? Не забывайте, что можно голосовать каждые 12 часов и это занимет всего несколько секунд!",
   "component_28": "Temporary Channel Fillup",
   "component_28_description": "Filling up temporary channels before creating new ones (Requires: User Limit 1-99)",
+  "component_29": "Custom Branding",
+  "component_29_description": "How do I get a bot token?",
+  "component_29_2_description": "Custom Branding allows you to change the appearance of TempVoice by changing its name and avatar. Enter a Discord Bot token to create a new custom branding bot, which will be hosted on a seperate server.",
+  "component_30": "Customize Bot Status",
+  "component_30_description": "Change the Discord status of the Custom Branding bot.",
 
   "placeholder_1_description": "При использовании placeholder-а {PRIVACY}, название канала обновляется при смене настройки приватности. Это возможно только раз в 5 минут в виду лимитов.",
   "placeholder_2_description": "Показывать название роли независимо от разделения в списке участников.",
@@ -115,8 +120,9 @@
   "statistics_3": "Итого Серверов",
   "statistics_4": "Итого Участников",
 
+  "alert_custom_branding_token": "Do not share the Discord Bot token with anyone else under any circumstances!",
   "alert_premium_activate": "Ваш премиум готов к использованию!",
-  "alert_premium_inactivate": "If you recently supported TempVoice on Patreon you have to wait a couple of minutes to get validated and be able to activate Premium on any Discord Server",
+  "alert_premium_inactivate": "If you recently subscribed to TempVoice Premium you might have to wait a couple of minutes to get validated and be able to activate Premium on any Discord server.",
   "alert_please_login": "Please login with your Discord Account to continue.",
   "alert_no_servers": "Вы не владейте или администрируйте какой-либо Discord сервер. Вам нужно право 'Управлять сервером'.",
   "alert_no_creators": "На этом Discord сервере пока нет creator-каналов. Настройте новый канал с помощью '/setup creator' и обновите страницу.",

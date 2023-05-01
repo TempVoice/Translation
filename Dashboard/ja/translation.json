@@ -91,6 +91,11 @@
   "component_27_description": "TempVoiceに投票するたびに、1〜3つのFlashesを取得できます。 60のFlashesを2週間のプレミアムに交換できます! 素敵でしょう? 投票は12時間ごとに可能で、数秒で完了します!",
   "component_28": "一時的なチャンネルの充填",
   "component_28_description": "新しいチャンネルを作成する前に一時チャンネルを充填します (必要条件: ユーザー制限 1-99)",
+  "component_29": "Custom Branding",
+  "component_29_description": "How do I get a bot token?",
+  "component_29_2_description": "Custom Branding allows you to change the appearance of TempVoice by changing its name and avatar. Enter a Discord Bot token to create a new custom branding bot, which will be hosted on a seperate server.",
+  "component_30": "Customize Bot Status",
+  "component_30_description": "Change the Discord status of the Custom Branding bot.",
 
   "placeholder_1_description": "{PRIVACY} プレースホルダーを使用すると、プライバシーを変更する際にチャンネル名が更新されます。 これはDiscordの制限により5分ごとにのみ可能です。",
   "placeholder_2_description": "オンラインメンバーリストにロールが分離されている場合でも、ロール名を表示します。",
@@ -115,8 +120,9 @@
   "statistics_3": "サーバーの合計",
   "statistics_4": "メンバーの合計",
 
+  "alert_custom_branding_token": "Do not share the Discord Bot token with anyone else under any circumstances!",
   "alert_premium_activate": "あなたのプレミアムが使用可能になりました！",
-  "alert_premium_inactivate": "最近PatreonでTempVoiceを支援された方は、数分待つと認証され、どのDiscordサーバーでもプレミアムを有効にすることができます",
+  "alert_premium_inactivate": "If you recently subscribed to TempVoice Premium you might have to wait a couple of minutes to get validated and be able to activate Premium on any Discord server.",
   "alert_please_login": "Please login with your Discord Account to continue.",
   "alert_no_servers": "あなたはDiscordサーバーを所有または管理していません。'サーバー管理'の権限が必要です。",
   "alert_no_creators": "このDiscordサーバーには、まだクリエーターがいません。 /setup creator'で新しいクリエーターチャンネルを設定し、ページを更新してください。",

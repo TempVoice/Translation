@@ -91,6 +91,11 @@
   "component_27_description": "Anda mendapatkan 1-3 Flashes setiap kali melakukan voting untuk TempVoice. 60 flashes dapat ditukar dengan 2 minggu premium! Keren kan? Ingat bahwa Anda dapat memberi voting setiap 12 jam!",
   "component_28": "Isi Channel Sementara",
   "component_28_description": "Isi channel sementara sebelum membuat yang baru (Batas hanya 99 user)",
+  "component_29": "Custom Branding",
+  "component_29_description": "How do I get a bot token?",
+  "component_29_2_description": "Custom Branding allows you to change the appearance of TempVoice by changing its name and avatar. Enter a Discord Bot token to create a new custom branding bot, which will be hosted on a seperate server.",
+  "component_30": "Customize Bot Status",
+  "component_30_description": "Change the Discord status of the Custom Branding bot.",
 
   "placeholder_1_description": "Ketika menggunakan placeholder {PRIVACY}, nama channel akan diperbarui ketika mengubah privasi. Hal ini hanya dimungkinkan setiap 5 menit karena keterbatasan Discord.",
   "placeholder_2_description": "Tampilkan nama role tidak peduli kapan role dipisahkan pada daftar anggota yang online.",
@@ -115,8 +120,9 @@
   "statistics_3": "Total Server Discord",
   "statistics_4": "Total Pengguna",
 
+  "alert_custom_branding_token": "Do not share the Discord Bot token with anyone else under any circumstances!",
   "alert_premium_activate": "Premium Anda siap digunakan!",
-  "alert_premium_inactivate": "Jika Anda baru saja berlanganan TempVoice di Patreon, Anda harus menunggu beberapa menit untuk mendapatkan validasi dan dapat mengaktifkan Premium di server Discord apa pun",
+  "alert_premium_inactivate": "If you recently subscribed to TempVoice Premium you might have to wait a couple of minutes to get validated and be able to activate Premium on any Discord server.",
   "alert_please_login": "Silakan masuk dengan akun Discord untuk melanjutkan.",
   "alert_no_servers": "Untuk menggunakan fitur ini, Anda perlu menjadi admin server atau memiliki izin 'Administrator'.",
   "alert_no_creators": "Server Discord ini belum memiliki creator apa pun. Pasang Channel Creator baru dengan '/setup creator' dan muat ulang halaman.",

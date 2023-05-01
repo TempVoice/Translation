@@ -91,7 +91,12 @@
     "component_27_description": "Vous obtenez 1 à 3 flashs chaque fois que vous votez pour TempVoice. 60 flashs peuvent être échangés contre 2 semaines de prime ! Cool hein? N'oubliez pas que vous pouvez voter toutes les 12 heures et cela prend moins de secondes !",
     "component_28": "Remplissage de canal temporaire",
     "component_28_description": "Remplir les canaux temporaires avant d'en créer de nouveaux (nécessite : limite d'utilisateurs 1-99)",
-  
+    "component_29": "Custom Branding",
+    "component_29_description": "How do I get a bot token?",
+    "component_29_2_description": "Custom Branding allows you to change the appearance of TempVoice by changing its name and avatar. Enter a Discord Bot token to create a new custom branding bot, which will be hosted on a seperate server.",
+    "component_30": "Customize Bot Status",
+    "component_30_description": "Change the Discord status of the Custom Branding bot.",
+
     "placeholder_1_description": "Lorsque vous utilisez l'espace réservé {PRIVACY}, le nom du canal est mis à jour lors de la modification de la confidentialité. Ceci n'est possible que toutes les 5 minutes en raison des limitations de Discord.",
     "placeholder_2_description": "Affiche le nom du rôle, peu importe quand le rôle est séparé dans la liste des membres en ligne.",
     "placeholder_3_description": "Affiche le nom de rôle le plus élevé qui est séparé dans la liste des membres en ligne.",
@@ -115,8 +120,9 @@
     "statistics_3": "Total de serveurs",
     "statistics_4": "Total de membres",
   
+    "alert_custom_branding_token": "Do not share the Discord Bot token with anyone else under any circumstances!",
     "alert_premium_activate": "Votre Premium est prêt à être utilisé !",
-    "alert_premium_inactivate": "Si vous avez récemment pris en charge TempVoice sur Patreon, vous devez attendre quelques minutes pour être validé et pouvoir activer Premium sur n'importe quel serveur Discord",
+    "alert_premium_inactivate": "If you recently subscribed to TempVoice Premium you might have to wait a couple of minutes to get validated and be able to activate Premium on any Discord server.",
     "alert_please_login": "Veuillez vous connecter avec votre compte Discord pour continuer.",
     "alert_no_servers": "Vous ne possédez ni ne modérez aucun serveur Discord. Vous aurez besoin des autorisations 'Gerer le serveur'.",
     "alert_no_creators": "Ce serveur Discord n'a pas encore de créateurs. Configurez un nouveau canal de créateur avec '/setup creator' et actualisez la page.",

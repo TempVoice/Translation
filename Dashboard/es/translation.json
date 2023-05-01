@@ -92,6 +92,11 @@
   "component_27_description": "Obtienes 1-3 'Flashes' cada vez que votas por TempVoice. ¡Puedes canjear Premium por 2 semanas con 60 'flashes'! ¿Genial no? Recuerda que puedes votar cada 12 horas en tan solo unos pocos segundos",
   "component_28": "Relleno de Canales de Voz Temporal",
   "component_28_description": "Rellena un Canal de Voz Temporal antes de crear uno nuevo (Requiere: Límite de usuarios 1-99)",
+  "component_29": "Custom Branding",
+  "component_29_description": "How do I get a bot token?",
+  "component_29_2_description": "Custom Branding allows you to change the appearance of TempVoice by changing its name and avatar. Enter a Discord Bot token to create a new custom branding bot, which will be hosted on a seperate server.",
+  "component_30": "Customize Bot Status",
+  "component_30_description": "Change the Discord status of the Custom Branding bot.",
 
   "placeholder_1_description": "Al utilizar el 'placeholder' {PRIVACY} el nombre del canal es actualizado cuando se cambia su privacidad. Esto solo es posible cada 5 minutos debido a limitaciones de Discord.",
   "placeholder_2_description": "Muestra el nombre del rol sin importar si el rol está separado en la lista de usuarios conectados.",
@@ -116,8 +121,9 @@
   "statistics_3": "Servidores Totales",
   "statistics_4": "Miembros Totales",
 
+  "alert_custom_branding_token": "Do not share the Discord Bot token with anyone else under any circumstances!",
   "alert_premium_activate": "¡Tu Premium está listo para usar!",
-  "alert_premium_inactivate": "Si has donado recientemente a TempVoice debes esperar un par de minutos para que seas validado y puedas activar Premium en cualquier servidor.",
+  "alert_premium_inactivate": "If you recently subscribed to TempVoice Premium you might have to wait a couple of minutes to get validated and be able to activate Premium on any Discord server.",
   "alert_please_login": "Por favor inicia sesión con tu cuenta de Discord para continuar.",
   "alert_no_servers": "Tú no eres dueño ni moderas ningún Servidor de Discord. Tú necesitarás el permiso 'Gestionar Servidor'.",
   "alert_no_creators": "Este Servidor de Discord no posee ningún 'Creator Channel' aún. Configura un nuevo 'Creator Channel' con '/setup creator' y refresca la página.",
