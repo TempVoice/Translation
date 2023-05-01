@@ -1,4 +1,3 @@
-
 [
   {
     "lang": "id",
@@ -49,13 +48,13 @@
     "error_target": "**Tidak Memungkinkan.** Kamu tidak bisa menggunakan command ini untuk pengguna ini.",
     "error_ownership": "**Tidak Memungkinkan.** Hanya pemilik voice channel yang bisa menggunakan command ini. Jika pemilik saat ini sudah keluar, claim voice channel dengan: </voice claim:921416747687489568>.",
     "error_permissions": "**Izin Hilang.** Izin berikut tidak ada: {val1}.",
-    "error_permissions_sync": "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions_sync": "**Izin Tidak Tersedia**. Silakan hubungi Admin. Izin-izin berikut **tidak tersedia** dalam role **pengaturan server** untuk TempVoice: {val1} agar dapat melakukan sinkronisasi izin.",
     "error_deactivated": "**Dinonatifkan.** Command ini dinonaktifkan untuk semua __voice channel sementara__ {val1}.",
     "error_limit": "**Tidak Memungkinan.** Batas untuk creator channel dalam 1 server adalah: {val1}. Coba hapus salah satu atau dengan cara: [premium](<https://www.patreon.com/tempvoice>) untuk menambahkan lebih banyak.",
     "error_ratelimit": "**Pelan Pelan.** Perintah ini bisa digunakan lagi dalam **{val1}**.",
     "error_creation": "**Pelan Pelan!** Kamu bisa membuat channel baru **{val1}**.",
     "error_max": "**Sudah melampui** Batas channel sementara **{val1}** sudah tercapai. Coba lagi nanti.",
-    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Tidak Bisa** Kamu mencoba menggunakan bot [TempVoice Custom Branding](https://tempvoice.xyz/), yang belum diaktifkan untuk server Discord ini. Jika kamu pemilik bot Custom Branding ini, aktifkan di [sini](https://tempvoice.xyz/profile) lalu pergi ke **TempVoice Custom Branding** > ** Activate Custom Branding**.",
 
     "voice_waiting_1": "**Tidak Bisa** Kamu tidak bisa membuat ruang tunggu ketika channel kamu disembunyikan.",
     "voice_waiting_2": "**Tidak Bisa** Kamu tidak bisa menyembunyikan channel kamu ketika kamu mempunyai ruang tunggu.",
@@ -103,7 +102,7 @@
     "voice_thread_3": "**Dihapus!** Thread telah di hapus.",
     "voice_thread_4": "**Tidak Mungkin** Tidak ada thread yang bisa dihapus.",
     "voice_close_1": "**Ditutup!** Voice channel sementara kamu telah ditutup.",
-    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "**Yakin?** Voice channel sementara kamu akan dihapus. Harap konfirmasi dengan menggunakan tombol di bawah ini.",
     "voice_password_1": "**Diperbarui!** Pengguna sekarang dapat bergabung dengan channel suara sementara kamu dengan menggunakan password ||`{val1}`|| dengan perintah </join:1060564928529956985>.",
     "voice_password_2": "**Diperbarui!** Password untuk channel suara sementara kamu telah dihapus.",
 
@@ -113,7 +112,7 @@
     "join_4": "**Password salah** Password yang kamu masukkan salah. Coba lagi.",
     "join_5": "**Password benar** Kamu sekarang bisa join {val1}",
 
-    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command **/voice**.",
+    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz/id).",
     "interface_footer": "Interface ini dapat digunakan dengan menekan tombol di bawah.",
 
     "privacy_menu_placehoder": "Pilih menu privasi",
