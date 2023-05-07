@@ -35,7 +35,7 @@
     "cmd_help_description": "Dapatkan bantuan Bot Discord TempVoice",
 
     "info_setup": "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice channel sementara__ di server discord kamu.",
-    "info_setup2": "**Setup Selesai [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
+    "info_setup2": "**Setup Selesai** [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord kamu.",
     "info_reset": "**Reset.** Konfigurasi telah diatur ulang ke default.",
 
     "error_validated": "**Tidak Valid.** Mohon hubungi admin. Creator channel ini sudah tidak valid karena paket premium telah di downgrade atau dibatalkan.",
@@ -112,7 +112,7 @@
     "join_4": "**Password salah** Password yang kamu masukkan salah. Coba lagi.",
     "join_5": "**Password benar** Kamu sekarang bisa join {val1}",
 
-    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui command [</voice:921416747687489568>](https://tempvoice.xyz/id).",
+    "interface_description": "**interface** ini dapat digunakan untuk mengatur __voice channel sementara__ kamu. Opsi lainnya tersedia melalui **'/Voice'**.",
     "interface_footer": "Interface ini dapat digunakan dengan menekan tombol di bawah.",
 
     "privacy_menu_placehoder": "Pilih menu privasi",
