@@ -24,7 +24,7 @@
     "cmd_voice_users_description": "Показать список всех довереных и заблокированых пользователей этого канала",
     "cmd_voice_password_description": "Установить пароль на вход для временного канала",
     "cmd_voice_reset_description": "Сбросить настройки временного канала",
-    "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
+    "cmd_voice_lfp_description": "Отправить ссылку на ваш временный канал в данный чат",
 
     "cmd_join_description": "Зайти в канал, используя пароль",
 
@@ -32,7 +32,7 @@
     "cmd_setup_interface_description": "Создать интерфейс для настройки временных каналов",
     "cmd_setup_tempvoice_description": "Быстро настроить TempVoice",
 
-    "cmd_help_description": "Get help with the TempVoice Discord Bot",
+    "cmd_help_description": "Получить поддеркжу с Discord ботом TempVoice",
 
     "info_setup": "**Настройка завершена.** {val1} теперь вы можете создававать временные каналы на вашем Discord сервере.",
     "info_setup2": "**Настройка завершена.** Этот [интерфейс]({val1}) вы можете использовать для управления личными каналами на вашем Discord сервере.",
@@ -54,7 +54,7 @@
     "error_ratelimit": "**Помедленнее!** Эта команда может быть использована снова **{val1}**.",
     "error_creation": "**Помедленнее!** Вы можете создать новый канал **{val1}**.",
     "error_max": "**Ошибка.** Был достигнут лимит временных каналов в **{val1}**. Попробуйте снова позже.",
-    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Ошибка.** Вы пытайтесь использовать [TempVoice Custom Branding](https://tempvoice.xyz/) бота, который не активирован для данного Discord сервера. Если вы владелец данного Custom Branding бота, активируйте его в [Профиле](https://tempvoice.xyz/profile) > **Custom Branding** > **Активировать Custom Branding**.",
 
     "voice_waiting_1": "**Ошибка.** Нельзя создать комнату ожидания, если ваш канал скрыт.",
     "voice_waiting_2": "**Ошибка.** Нельзя скрыть свой канал, если у вас есть комната ожидания.",
@@ -86,7 +86,7 @@
     "voice_privacy_1": "**Успех!** {val1} теперь **закрыт**.",
     "voice_privacy_2": "**Успех!** {val1} теперь **открыт**.",
     "voice_privacy_3": "**Успех!** {val1} теперь **невидимый**.",
-    "voice_privacy_4": "**Успех!** {val1} теперь **пубвременный**.",
+    "voice_privacy_4": "**Успех!** {val1} теперь **публичный**.",
     "voice_region_1": "**Успех!** {val1} теперь имеет регион **{val2}**.",
     "voice_transfer_1": "**Ошибка.** Нельзя передать обычный голосовой канал.",
     "voice_transfer_2": "**Ошибка.** Вы можете передать права владельца на свой канал только подключённым пользователям.",
@@ -102,7 +102,7 @@
     "voice_thread_3": "**Успех!** Ветка этого канала была удалена.",
     "voice_thread_4": "**Ошибка.** Ветки для этого канала не существует. Невозможно удалить.",
     "voice_close_1": "**Успех!** Ваш временный канал был закрыт.",
-    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "**Вы уверенны?** Ваш временный канал будет удалён. Пожалуйста, подтвердите это, используя кнопкой ниже.",
     "voice_password_1": "**Успех!** Пользователи теперь могут присоединяться к вашему каналу, используя пароль ||`{val1}`||, командой </join:1060564928529956985>.",
     "voice_password_2": "**Успех!** Пароль для временного канала был отключён.",
 
@@ -122,7 +122,7 @@
     "privacy_menu_description_2": "Каждый может зайти в временный канал",
     "privacy_menu_label_3": "Невидимый",
     "privacy_menu_description_3": "Только доверенные пользователи видят временный канал",
-    "privacy_menu_label_4": "Пубвременный",
+    "privacy_menu_label_4": "Публичный",
     "privacy_menu_description_4": "Каждый видит временный канал",
     "privacy_menu_label_5": "Закрытый чат",
     "privacy_menu_description_5": "Только доверенные пользователи могут писать в чат временного канала",

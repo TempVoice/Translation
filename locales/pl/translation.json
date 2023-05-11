@@ -24,7 +24,7 @@
     "cmd_voice_users_description": "Pokazuje listę wszystkich zaufanych i zablokowanych z Twojego tymczasowego kanału głosowego",
     "cmd_voice_password_description": "Ustaw hasło dla innych, żeby mogli dołączyć do Twojego tymczasowego kanału głosowego",
     "cmd_voice_reset_description": "Zresetuj konfigurację Twojego tymczasowego kanału głosowego",
-    "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
+    "cmd_voice_lfp_description": "Wyślij link z zaproszeniem do Twojego tymczasowego kanału na tym czacie",
 
     "cmd_join_description": "Dołącz do tymczasowego kanału głosowego z użyciem hasła",
 
@@ -32,7 +32,7 @@
     "cmd_setup_interface_description": "Stwórz interfejs dla tymczasowych kanałów głosowych",
     "cmd_setup_tempvoice_description": "Ustaw TempVoice łatwo z pomocą asystenta",
 
-    "cmd_help_description": "Get help with the TempVoice Discord Bot",
+    "cmd_help_description": "Uzyskaj pomoc z botem TempVoice",
 
     "info_setup": "**Konfiguracja zakończona**. {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",
     "info_setup2": "**Konfiguracja zakończona**. Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
@@ -48,13 +48,13 @@
     "error_target": "**Niemożliwe**. Nie możesz użyć tego polecenia na tym użytkowniku.",
     "error_ownership": "**Niemożliwe**. Tylko właściciel kanału głosowego może użyć tego polecenia. Spróbuj przejąć kanał używając:  </voice claim:921416747687489568>.",
     "error_permissions": "**Brakujące uprawnienia**. Brakuje następujących uprawnień: {val1}.",
-    "error_permissions_sync": "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions_sync": "**Brakujące uprawnienia**. Proszę skontaktuj się z Adminem. Podane permisje są **odmówione** w **ustawieniach** roli dla TempVoice: {val1} w celu zsynchronizowania permisji.",
     "error_deactivated": "**Dezaktywowane**. To polecenie jest wyłączone dla wszystkich tymczasowych kanałów głosowych {val1}.",
     "error_limit": "**Niemożliwe** Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
     "error_creation": "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
     "error_max": "**Osiągnięto Limit** Limit tymczasowych kanałów **{val1}** w tym samym czasie został osiągnięty. Spróbuj ponownie później.",
-    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Niemożliwe.** Próbujesz użyć [Własnego Brandingu TempVoice](https://tempvoice.xyz/), który nie jest aktywowany na tym serwerze Discord. Jeżeli jesteś właścicielem tego Bota z własnym Brandingiem, aktywuj go w swoim [Profilu](https://tempvoice.xyz/profile) > **Własny Branding** > **Aktywuj Własny Branding**.",
 
     "voice_waiting_1": "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
     "voice_waiting_2": "**Niemożliwe** Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
@@ -102,7 +102,7 @@
     "voice_thread_3": "**Usunięto!** Wątek został usunięty.",
     "voice_thread_4": "**Niemożliwe** Nie ma wątku do usunięcia.",
     "voice_close_1": "**Zamknięto!** Twój tymczasowy kanał głosowy został zamknięty.",
-    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "**Jesteś pewny?** Twój tymczasowy kanał głosowy zostanie usunięty. Proszę potwierdź za pomocą przycisku poniżej.",
     "voice_password_1": "**Zaktualizowano!** Użytkownicy mogą teraz dołączyć na Twój tymczasowy kanał głosowy z użyciem hasła ||`{val1}`|| za pomocą komendy </join:1060564928529956985>.",
     "voice_password_2": "**Zaktualizowano!** Hasło do Twojego tymczasowego kanału głosowego zostało usunięte.",
 
