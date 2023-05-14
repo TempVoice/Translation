@@ -54,7 +54,7 @@
 		"error_ratelimit": "**速度を落としてください！** このコマンドは **{val1}** 後に再度使用できます。",
 		"error_creation": "**速度を落としてください！** 新しいチャンネルは **{val1}** 後に作成できます。",
 		"error_max": "**制限に達しました。** 同時に使用できる**{val1}**の一時的な音声チャネルの制限に達しました。後で再試行してください。",
-		"error_cb": "**不可能です。** このDiscordサーバーでは有効化されていない [TempVoice Custom Branding](https://tempvoice.xyz/) ボットを使用しようとしています。 もし、このカスタムブランディングボットのオーナーである場合は、[プロフィール](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding** で有効にしてください。",
+		"error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **Activate Premium**.",
 
 		"voice_waiting_1": "**不可能です。** チャンネルを非表示にすると、待機室を作ることができません。",
 		"voice_waiting_2": "**不可能です。** 待機室がある場合、チャンネルを非表示にすることはできません。",
