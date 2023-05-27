@@ -54,7 +54,7 @@
     "error_ratelimit": "**Rallenta!** Questo comando può essere usato nuovamente **{val1}**.",
     "error_creation": "**Rallenta!** Potrai creare un nuovo canale **{val1}**.",
     "error_max": "**Limite raggiunto.** Il limite di canali vocali temporanei di **{val1}** nello stesso momento è stato raggiunto. Riprova più tardi.",
-    "error_cb": "**Errore.** Stai cercando di usare un bot [TempVoice Personalizzato](https://tempvoice.xyz/) che non è stato attivato per questo server. Se sei il proprietario di questo bot personalizzato, attivalo così: [Profilo](https://tempvoice.xyz/profile) > **TempVoice Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**Errore.** Stai cercando di usare un bot [TempVoice Custom Branding](<https://tempvoice.xyz>) in un server in cui il proprietario del bot non ha abilitato TempVoice Premium. Se sei il proprietario di questo bot personalizzato attiva il Premium per questo server su [Profilo](<https://tempvoice.xyz/profile>) > **TempVoice Premium** > **Activate Premium**.",
 
     "voice_waiting_1": "**Errore.** Non puoi creare una sala d'attesa mentre il tuo canale è nascosto.",
     "voice_waiting_2": "**Errore.** Non puoi nascondere il tuo canale mentre ha una sala d'attesa collegata.",
