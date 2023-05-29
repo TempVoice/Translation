@@ -120,10 +120,10 @@
   "component_29_2_description": "Custom Branding memungkinkan pengguna mengubah nama dan avatar bot TempVoice. Dengan memasukkan token bot Discord, pengguna dapat membuat bot custom branding baru yang akan di-hosting di server terpisah",
   "component_30": "Kostomisasi Status Bot",
   "component_30_description": "Ubah status Discord pada bot Custom Branding.",
-  "component_31_description": "Default name when the user has no discord activity",
-  "component_32_description": "Default name when the activity of the user has no details",
-  "component_33_description": "Default name when the activity of the user has no state",
-  "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_31_description": "Nama default saat pengguna tidak memiliki aktvitas Discord",
+  "component_32_description": "Nama default saat aktivitas pengguna tidak memiliki detail",
+  "component_33_description": "Nama default saat aktivitas pengguna tidak memiliki status",
+  "component_34_description": "Nama default saat aktivitas pengguna tidak memiliki emoji",
 
   "placeholder_1_description": "Placeholder {PRIVACY} akan diperbarui setiap 5 menit ketika mengubah privasi kanal",
   "placeholder_2_description": "Nama role akan terlihat bahkan jika terpisah dalam daftar anggota daring.",
@@ -141,7 +141,7 @@
   "login_button": "Masuk pakai Discord",
   "vote_button": "Berikan suara untuk TempVoice di Top.gg",
   "cancel_button": "Berhenti berlangganan",
-  "subscribe_button": "Checkout with Stripe",
+  "subscribe_button": "Bayar pakai Stripe",
   "legacy_button": "Anda masih menggunakan Patreon",
 
   "premium_feature_1": "Interaksi tanpa batas",
