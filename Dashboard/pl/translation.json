@@ -94,6 +94,7 @@
     "component_22_1_description": "To sprawi, że osoba, która stworzyła kanał nie będzie mogła nim zarządzać. Przydaje się, gdy używasz kanałów tymczasowych jako kanały publiczne",
     "component_22_2_description": "Jeśli opcja jest odznaczona, powiązana komenda nie może zostać już użyta i poprzednie zmiany również przestaną działać. Np. jeśli użytkownik zablokował swój kanał, ale ta opcja jest teraz wyłączona, jego kanał nie może już zostać zablokowany.",
     "component_23": "Kategoria Tymczasowego Kanału (Zapasowa)",
+    "component_23_menu": "Select Categories",
     "component_23_description": "Zapasowa kategoria, gdy podstawowa osiągnęła swój limit 50 kanałów",
     "component_24": "Kolor Motywu",
     "component_24_menu_1": "Fioletowy",

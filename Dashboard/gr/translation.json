@@ -94,6 +94,7 @@
   "component_22_1_description": "Ο χρήστης μπορεί να αλλάξει το κανάλι που δημιούργησε. Είναι χρήσιμο αν είναι ανοιχτά στο κοινό τα κανάλια.",
   "component_22_2_description": "Αν είναι επιλεγμένο δεν μπορεί κανείς να αλλάξει τις ρυθμίσεις.",
   "component_23": "Προσωρινή κατηγορία καναλιών (Fallback)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Η κατηγορία Fallback έχει μέγιστο 50 κανάλια",
   "component_24": "Άλλαξε χρώμα",
   "component_24_menu_1": "Μωβ",

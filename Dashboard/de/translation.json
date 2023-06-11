@@ -94,6 +94,7 @@
   "component_22_1_description": "Damit können temporäre Kanäle nicht von dem Benutzer verwaltet werden, der den Kanal erstellt hat. Dies kann nützlich sein, wenn temporäre Kanäle als öffentliche Kanäle verwenden",
   "component_22_2_description": "Wenn eine Option nicht aktiviert ist, kann der zugehörige Befehl nicht mehr verwendet werden und frühere Änderungen des Benutzers funktionieren ebenfalls nicht mehr. Wenn ein Benutzer zum Beispiel seinen Kanal gesperrt hat, diese Option aber nun deaktiviert ist, kann sein Channel nicht mehr gesperrt werden.",
   "component_23": "Kategorie der temporären Kanäle (Fallback)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Fallback-Kategorie, wenn die Primärkategorie ihr Limit von 50 Kanälen erreicht hat",
   "component_24": "Farbthema",
   "component_24_menu_1": "Purple",

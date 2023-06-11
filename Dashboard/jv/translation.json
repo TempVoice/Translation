@@ -94,6 +94,7 @@
   "component_22_1_description": "Iki bakal nggawe kanal sauntara ora bisa diatur dening panyipta kanal. Migunani yen kanal sementara digunakake minangka kanal umum",
   "component_22_2_description": "Mbusak centhang, prentah sing gegandhengan ora bisa digunakake lan owah-owahan sing ditindakake pangguna ora bakal ditrapake. Contone, yen pangguna wis ngunci kanal nanging pilihan iki dipateni, kanal kasebut ora bisa dikunci maneh.",
   "component_23": "Kategori mundur kanal sementara",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Swara dipindhah menyang kategori mundur nalika kategori utama tekan wates 50 kanal",
   "component_24": "Warna Tema",
   "component_24_menu_1": "Ungu",

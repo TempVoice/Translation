@@ -94,6 +94,7 @@
     "component_22_1_description": "Điều này sẽ khiến người dùng đã tạo kênh không thể quản lý các kênh tạm thời. Điều này có thể hữu ích nếu bạn sử dụng các kênh tạm thời làm kênh công cộng",
     "component_22_2_description": "Nếu một tùy chọn không được chọn, lệnh được liên kết sẽ không còn được sử dụng và những thay đổi trước đây do người dùng thực hiện cũng sẽ không còn hiệu quả. Ví dụ: nếu người dùng đã khóa kênh của mình nhưng tùy chọn này hiện đã bị tắt, kênh của anh ấy không thể bị khóa nữa.",
     "component_23": "Danh mục kênh tạm thời (Dự phòng)",
+    "component_23_menu": "Select Categories",
     "component_23_description": "Danh mục dự phòng khi kênh chính đạt đến giới hạn 50 kênh",
     "component_24": "Chủ đề màu",
     "component_24_menu_1": "Tím",

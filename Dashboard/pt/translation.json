@@ -94,6 +94,7 @@
   "component_22_1_description": "Isso fará com que os canais temporários não sejam gerenciáveis ​​pelo usuário que criou o canal. Isso pode ser útil se você usar canais temporários como canais públicos",
   "component_22_2_description": "Se uma opção estiver desmarcada, o comando associado não poderá mais ser usado e as alterações anteriores feitas pelo usuário também não funcionarão mais. Por exemplo, se um usuário bloqueou seu canal, mas esta opção agora está desativada, seu canal não pode mais ser bloqueado.",
   "component_23": "Categoria de canal temporário (Fallback)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Categoria de fallback quando o primário atingiu seu limite de 50 canais",
   "component_24": "Cor do tema",
   "component_24_menu_1": "Roxo",

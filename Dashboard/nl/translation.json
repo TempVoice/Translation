@@ -94,6 +94,7 @@
   "component_22_1_description": "Hierdoor worden tijdelijke kanalen niet meer beheerbaar door de gebruiker die het kanaal heeft gemaakt. Dit kan handig zijn als u tijdelijke zenders als openbare zenders gebruikt",
   "component_22_2_description": "Als een optie niet is aangevinkt, kan het bijbehorende commando niet meer worden gebruikt en zullen eerdere wijzigingen die door de gebruiker zijn aangebracht ook niet meer werken. Als een gebruiker bijvoorbeeld zijn kanaal heeft vergrendeld, maar deze optie nu is uitgeschakeld, kan zijn kanaal niet langer worden vergrendeld.",
   "component_23": "Tijdelijke kanaalcategorie (terugval)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Terugvalcategorie wanneer de primaire de limiet van 50 kanalen heeft bereikt",
   "component_24": "Kleur Thema",
   "component_24_menu_1": "Purple",

@@ -94,6 +94,7 @@
   "component_22_1_description": "Cela rendra les salons temporaires non gérables par l'utilisateur qui a créé le salon. Cela peut être utile si vous utilisez des salons temporaires comme salons publics",
   "component_22_2_description": "Si une option est décochée, la commande associée ne pourra plus être utilisée et les modifications passées effectuées par l'utilisateur ne fonctionneront plus non plus. Par exemple, si un utilisateur a verrouillé son salon, mais que cette option est maintenant désactivée, son salon ne peut plus être verrouillé.",
   "component_23": "Catégorie de salon temporaire (Secours)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Catégorie de secours lorsque le principal a atteint sa limite de 50 salons",
   "component_24": "Couleur du thème",
   "component_24_menu_1": "Violet",

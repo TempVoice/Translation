@@ -94,6 +94,7 @@
     "component_22_1_description": "Dette vil gøre midlertidige kanaler ikke håndterbare af den bruger, der oprettede kanalen. Dette kan være nyttigt, hvis du bruger midlertidige kanaler som offentlige kanaler",
     "component_22_2_description": "Hvis en indstilling ikke er markeret, kan den tilknyttede kommando ikke længere bruges, og tidligere ændringer foretaget af brugeren vil heller ikke længere virke. For eksempel, hvis en bruger har låst deres kanal, og denne mulighed nu er deaktiveret, kan deres kanal ikke længere låses.",
     "component_23": "Midlertidig Kanalkategori (Tilbagefald)",
+    "component_23_menu": "Select Categories",
     "component_23_description": "Tilbagefald-kategori, når den primære nåede sin grænse på 50 kanaler",
     "component_24": "Farvetema",
     "component_24_menu_1": "Lilla",

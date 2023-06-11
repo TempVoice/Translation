@@ -94,6 +94,7 @@
   "component_22_1_description": "Questo impedirà al creatore del canale temporaneo di apportarvi modifiche. Può essere utile in caso si vogliano usare i canali temporanei come canali pubblici.",
   "component_22_2_description": "Se un'opzione non è spuntata, il comando ad essa associato non potrà più essere utilizzato e le modifiche apportate in passato verranno ripristinate. Per esempio, se un utente ha bloccato il proprio canale in passato e questa opzione viene disabilitata, il suo canale verrà sbloccato e non potrà più essere bloccato nuovamente.",
   "component_23": "Categoria dei canali temporanei (riserva)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Categoria di riserva per quando quella principale ha raggiunto il limite di 50 canali",
   "component_24": "Colore tema",
   "component_24_menu_1": "Viola",

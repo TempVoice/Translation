@@ -94,6 +94,7 @@
   "component_22_1_description": "Dočasné kanály tak nebude moci spravovat uživatel, který je vytvořil. To může být užitečné, pokud dočasné kanály používáte jako veřejné kanály.",
   "component_22_2_description": "Pokud je zaškrtnutí některé možnosti zrušeno, nelze již přidružený příkaz použít a dřívější změny provedené uživatelem již nebudou fungovat. Pokud například uživatel uzamkl svůj kanál, ale tato možnost je nyní vypnutá, jeho kanál již nelze uzamknout.",
   "component_23": "Kategorie dočasných kanálů (Náhradní kategorie)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Náhradní kategorie, když primární dosáhne limitu 50 kanálů",
   "component_24": "Téma barev",
   "component_24_menu_1": "Fialová",

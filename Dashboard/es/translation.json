@@ -95,6 +95,7 @@
   "component_22_1_description": "Esto hará que los Canales de Voz Temporal no puedan ser gestionados por el usuario que los creó. Esto puede ser útil si utiizas Canales de Voz Temporal como canales públicos",
   "component_22_2_description": "Si una opción está desmarcada, el comando asociado ya no podrá ser utilizado y los cambios pasados hechos por el dueño dejarán de funcionar. Por ejemplo, si un usuario ha bloqueado su canal pero esta opción es desmarcada, el canal ya no podrá seguir bloqueado.",
   "component_23": "Categoría del Canal de Voz Temporal (Respaldo)",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Categoría de respaldo para cuando la principal haya alcanzado su límite de 50 canales",
   "component_24": "Paleta de Color",
   "component_24_menu_1": "Morado",

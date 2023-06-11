@@ -94,6 +94,7 @@
   "component_22_1_description": "Ini akan membuat kanal sementara tidak dapat dikelola oleh pembuat kanal. Berguna jika kanal sementara digunakan sebagai kanal publik",
   "component_22_2_description": "Jika opsi tidak dicentang, perintah yang terkait tidak dapat digunakan dan perubahan yang telah dilakukan oleh pengguna tidak akan berfungsi. Misalnya, jika pengguna telah mengunci kanal-nya tetapi opsi ini dimatikan, kanal-nya tidak dapat dikunci lagi",
   "component_23": "Kategori fallback kanal Sementara",
+  "component_23_menu": "Select Categories",
   "component_23_description": "Voice dipindahkan ke kategori fallback saat kategori utama mencapai batas 50 kanal",
   "component_24": "Tema Warna",
   "component_24_menu_1": "Ungu",
