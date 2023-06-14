@@ -53,7 +53,8 @@
     "error_limit": "**Неможливо!** Ліміт каналів створення на одному сервері становить {val1}. Спробуйте видалити один з них або збільшити ліміт за допомогою вищого рівня [преміумпідписки](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Не так швидко!** Цю команду можна буде використати ще раз **{val1}**.",
     "error_creation": "**Не так швидко!** Ви можете створити новий канал **{val1}**.",
-    "error_max": "**Ліміт перевищено!** Ліміт тимчасових голосових каналів, **{val1}** одночасно, досягнено. Спробуйте пізніше.",
+    "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
+    "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
     "error_cb": "**Неможливо!** Ви намагаєтеся використати [Індивідуальний брендинг TempVoice](https://tempvoice.xyz/) на сервері Discord, де власник не ввімкнув TempVoice Premium. Якщо ж ви власник Індивідуального брендингу, активуйте його в [Профілі](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **Активувати Premium**.",
 
     "voice_waiting_1": "**Неможливо!** Ви не можете створити кімнату очікування, коли ваш канал приховано.",

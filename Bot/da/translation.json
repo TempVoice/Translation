@@ -53,7 +53,8 @@
     "error_limit": "**Ikke muligt!** Grænsen for skaberkanaler på en enkelt server er {val1}. Prøv at slette en eller øg grænsen med en højere [premium](<https://tempvoice.xyz/premium>) tier.",
     "error_ratelimit": "**Sænk farten!** Denne kommando kan bruges igen **{val1}**.",
     "error_creation": "**Sænk farten!** Du kan oprette en ny kanal **{val1}**.",
-    "error_max": "**Grænsen er nået!** Grænsen for midlertidige stemmekanaler på **{val1}** på samme tid er nået. Prøv igen senere.",
+    "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
+    "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
     "error_cb": "**Ikke muligt!** Du forsøger at bruge en [TempVoice Brugerdefineret branding](https://tempvoice.xyz/) bot på en Discord-server, hvor ejeren af ​​botten ikke har aktiveret TempVoice Premium. Hvis du er ejeren af ​​denne Brugerdefineret branding bot, skal du aktivere den her på [Profil](https://tempvoice.xyz/profile) > **TempVoice Premium-fanen** > **Aktiver Premium**.",
 
     "voice_waiting_1": "**Ikke muligt!** Du kan ikke oprette et venterum, når din kanal er skjult.",
