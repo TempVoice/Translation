@@ -53,8 +53,8 @@
     "error_limit": "**Errore.** Il limite massimo di Canali Creatore in questo server è di {val1}. Cancellane uno, oppure aumenta il limite con l'abbonamento [Premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Rallenta!** Questo comando può essere usato nuovamente **{val1}**.",
     "error_creation": "**Rallenta!** Potrai creare un nuovo canale **{val1}**.",
-    "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
-    "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
+    "error_totallimit": "**Limite raggiunto.** Il limite di **{val1}** canali vocali temporanei attivi, scelto dagli admin di questo server, è stato raggiunto. Riprova più tardi.",
+    "error_discordlimit": "**Limite raggiunto.** Tutte le categorie utilizzabili dal bot hanno raggiunto il loro limite di 50 canali ciascuno. Se sei un amministratore puoi configurare altre **categorie di riserva** nella dashboard, in caso contrario prova a creare un canale temporaneo più tardi.",
     "error_cb": "**Errore.** Stai cercando di usare un bot [TempVoice Custom Branding](<https://tempvoice.xyz>) in un server in cui il proprietario del bot non ha abilitato TempVoice Premium. Se sei il proprietario di questo bot personalizzato attiva il Premium per questo server su [Profilo](<https://tempvoice.xyz/profile>) > **TempVoice Premium** > **Activate Premium**.",
 
     "voice_waiting_1": "**Errore.** Non puoi creare una sala d'attesa mentre il tuo canale è nascosto.",
