@@ -1,8 +1,8 @@
 {
   "headline_1": "Тимчасовий",
-  "headline_1_1": "замість постійного.",
+  "headline_1_1": "замість постійного",
   "headline_1_description": "TempVoice - потужний бот Discord для тимчасових голосових каналів. Простий у використанні та повністю налаштовується для будь-яких цілей.",
-  "headline_2": "Довірено Discord",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "TempVoice використовується тисячами серверів Discord і сотнями тисяч користувачів.",
   "headline_3": "Що таке тимчасовий канал?",
   "headline_3_description": "Тимчасовий голосовий канал буде створено після приєднання до каналу створення й видалено коли всі від'єднаються.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Оберіть канал створення для редагування налаштувань TempVoice. Налаштуйте новий канал створення за допомогою '/setup creator' та видаліть попередній, видаливши канал у Discord.",
   "headline_18": "Більше налаштувань. Більше свободи.",
   "headline_18_description": "Розкрийте весь потенціал вашого сервера, отримавши необмежений доступ до всіх функцій. Можна скасувати у будь-який час.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
   "component_1": "На якому кластері мій сервер?",
   "component_1_description": "Введіть ID вашого сервера тут",
@@ -107,6 +108,7 @@
   "component_24_description": "Використовується для кольору емодзі у повідомленнях бота",
   "component_25": "Цензура назв каналів",
   "component_25_description": "Цензуруйте до 30 слів, які не можуть бути використані в назвах тимчасового каналу",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Основна категорія тимчасових каналів",
   "component_26_menu": "Жодної категорії не обрано",
   "component_26_description": "Основна категорія для тимчасових каналів",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "При використанні заповнювача {PRIVACY} назва каналу оновлюється після зміни конфіденційності. Це можливо лише кожні 5 хвилин через обмеження Discord.",
   "placeholder_2_description": "Показує назву ролі незалежно від того чи відокремлена вона у списку учасників онлайн.",
@@ -143,7 +148,9 @@
   "vote_button": "Голосувати за TempVoice на Top.gg",
   "cancel_button": "Скасувати підписку",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Ви все ще на Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Повністю налаштовуваний інтерфейс",
   "premium_feature_2": "Необмежена к-сть каналів створення",
@@ -154,6 +161,7 @@
   "statistics_3": "Усього серверів",
   "statistics_4": "Усього учасників",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Ніколи не поширюйте свій токен! (Бережіть його як пароль)",
   "alert_premium_activate": "Ваш Premium готовий до використання!",
   "alert_premium_inactivate": "Якщо ви нещодавно підписалися на TempVoice Premium, можливо, доведеться чекати кілька хвилин, щоб отримати підтвердження і мати можливість активувати Premium на будь-якому сервері Discord.",

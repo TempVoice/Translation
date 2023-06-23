@@ -2,7 +2,7 @@
     "headline_1": "مؤقت",
     "headline_1_1":"بديل عن الدائم",
     "headline_1_description": "TempVoice هو بوت دسكورد متخصص في كل مايتعلق باالقنوات الصوتية المؤقتة , انه سهل الاستخدام وقابل للتعديل بالكامل لأي سبب",
-    "headline_2": "البوت موثوق من قبل سيرفرات دسكورد الضخمة",
+    "headline_2": "Trusted By Your Favorites",
     "headline_2_description": "TempVoice يتم استخدامه من قبل الالاف من سيرفرات الدسكورد و مئات الالاف من المستخدمين",
     "headline_3": "ماهي القناة الصوتية المؤقتة؟",
     "headline_3_description": "سيتم إنشاء قناة صوتية مؤقتة عن طريق الانضمام الى قناة منشئ المحتوى وسيتم حذفها عند مغادرة الجميع",
@@ -30,6 +30,7 @@
     "headline_17_description": "حدد قناة منشئ محتوى لتعديل اعدادات TempVoice. قم بإعداد منشئ محتوى جديد عبر'/setup creator' واحذف واحدا عن طريق حذف القناة في دسكورد",
     "headline_18": "المزيد من التخصيص. المزيد من الحرية.",
     "headline_18_description": "أطلق العنان للإمكانات الكاملة لخادمك من خلال الوصول غير المقيد إلى جميع الميزات. يمكنك الإلغاء في أي وقت",
+    "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
     "component_1": "على أي نظام مجموعة هو الخادم الخاص بي؟",
     "component_1_description": "أدخل معرف الخادم الخاص بك هنا",
@@ -107,6 +108,7 @@
     "component_24_description": "يستخدم للون الرموز التعبيرية في رسائل البوت",
     "component_25": "الرقابة على أسماء القنوات",
     "component_25_description": "فرض رقابة على ما يصل إلى 30 كلمة لا يمكن استخدامها كأسماء قنوات مؤقتة",
+    "component_25_input": "Enter a word and press enter",
     "component_26": "فئة القناة المؤقتة (الأساسية)",
     "component_26_menu": "لم يتم تحديد فئة",
     "component_26_description": "الفئة الأساسية للقنوات المؤقتة",
@@ -125,6 +127,9 @@
     "component_32_description": "Default name when the activity of the user has no details",
     "component_33_description": "Default name when the activity of the user has no state",
     "component_34_description": "Default name when the activity of the user has no emoji",
+    "component_35": "Activate Premium On A Discord",
+    "component_36": "Manage Premium",
+    "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
     "placeholder_1_description": "عند استخدام العنصر النائب {PRIVACY}، يتم تحديث اسم القناة عند تغيير الخصوصية. هذا ممكن فقط كل 5 دقائق بسبب قيود Discord.",
     "placeholder_2_description": "إظهار اسم الرتبة بغض النظر عن وقت فصل الرتبة في قائمة الأعضاء المتصلين.",
@@ -143,7 +148,9 @@
     "vote_button": "صوت لصالح TempVoice على Top.gg",
     "cancel_button": "إلغاء الاشتراك",
     "subscribe_button": "Checkout with Stripe",
-    "legacy_button": "أنت لا تزال على Patreon",
+    "join_button": "Join now",
+    "manage_button": "Manage Premium",
+    "upgrade_button": "Upgrade Premium",
 
     "premium_feature_1": "واجهات قابلة للتخصيص بالكامل",
     "premium_feature_2": "قنوات منشئي محتوى غير محدودة",
@@ -154,6 +161,7 @@
     "statistics_3": "إجمالي الخوادم",
     "statistics_4": "مجموع الأعضاء",
 
+    "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
     "alert_custom_branding_token": "لا تشارك الرمز المميز الخاص بك أبدا! (تعامل معها ككلمة مرور)",
     "alert_premium_activate": "بريميوم الخاص بك جاهز للاستخدام!",
     "alert_premium_inactivate": "إذا اشتركت مؤخرا في TempVoice Premium ، فقد تضطر إلى الانتظار بضع دقائق للتحقق من صحتها وتكون قادرا على تنشيط بريميوم على أي خادم دسكورد.",

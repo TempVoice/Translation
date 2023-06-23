@@ -1,8 +1,8 @@
 {
   "headline_1": "Sementara",
-  "headline_1_1": "bukan permanen.",
+  "headline_1_1": "bukan permanen",
   "headline_1_description": "TempVoice, bot Discord untuk kanal voice Sementara yang hebat dan mudah disesuaikan.",
-  "headline_2": "Dipercaya server offcial",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "Telah digunakan oleh ribuan server dan ratusan ribu pengguna.",
   "headline_3": "Apa itu kanal Sementara?",
   "headline_3_description": "Kanal sementara dibuat ketika seseorang masuk ke Creator kanal, dan dihapus setelah semua orang meninggalkannya.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Atur TempVoice dengan memilih creator kanal yang diinginkan. Tambahkan creator kanal baru melalui perintah '/setup creator' dan hapus yang lama melalui Discord.",
   "headline_18": "Kustomisasi Lebih. Kebebasan Lebih.",
   "headline_18_description": "Akses Tanpa Batas, Potensi Maksimal. Bisa Dibatalkan Kapan Saja.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
   "component_1": "Di bagian mana server Saya?",
   "component_1_description": "Masukkan ID Server Anda di sini",
@@ -107,6 +108,7 @@
   "component_24_description": "Digunakan untuk warna interface dalam pesan Bot",
   "component_25": "Sensor kata dalam Nama kanal",
   "component_25_description": "Sensor hingga 30 kata untuk memblokir pengguanaan kata tersebut dalam nama kanal sementara",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Kategori utama kanal Sementara",
   "component_26_menu": "Tidak ada kategori terpilih",
   "component_26_description": "Kategori utama untuk kanal sementara",
@@ -125,6 +127,9 @@
   "component_32_description": "Nama default saat aktivitas pengguna tidak memiliki detail",
   "component_33_description": "Nama default saat aktivitas pengguna tidak memiliki status",
   "component_34_description": "Nama default saat aktivitas pengguna tidak memiliki emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "Placeholder {PRIVACY} akan diperbarui setiap 5 menit ketika mengubah privasi kanal",
   "placeholder_2_description": "Nama role akan terlihat bahkan jika terpisah dalam daftar anggota daring.",
@@ -143,7 +148,9 @@
   "vote_button": "Berikan suara untuk TempVoice di Top.gg",
   "cancel_button": "Berhenti berlangganan",
   "subscribe_button": "Bayar pakai Stripe",
-  "legacy_button": "Anda masih menggunakan Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Interaksi tanpa batas",
   "premium_feature_2": "Creator kanal unlimited",
@@ -154,6 +161,7 @@
   "statistics_3": "Total Server Discord",
   "statistics_4": "Total Pengguna",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Jangan bagikan token bot kepada siapapun!",
   "alert_premium_activate": "Premium Anda siap digunakan!",
   "alert_premium_inactivate": "Setelah berlangganan TempVoice Premium, Anda perlu tunggu sebentar untuk divalidasi sebelum mengaktifkannya.",

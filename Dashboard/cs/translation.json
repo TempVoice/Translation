@@ -1,8 +1,8 @@
 {
   "headline_1": "Dočasný",
-  "headline_1_1": "místo trvalého.",
+  "headline_1_1": "místo trvalého",
   "headline_1_description": "TempVoice je výkonný Discord Bot o všem, co se týká Dočasných Hlasových Kanálov. Snadno se používá a je plně přizpůsobitelný pro jakýkoli účel.",
-  "headline_2": "Servery, o kterých víte, že používají TempVoice",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "TempVoice používají tisíce serverů Discord a stovky tisíc uživatelů.",
   "headline_3": "Co je to dočasný kanál?",
   "headline_3_description": "Dočasný hlasový kanál se vytvoří připojením tvůrce a odstraní se, jakmile jej všichni opustí.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Výběrem kanálu Creator Channel upravte konfiguraci TempVoice. Nastavte nového tvůrce pomocí příkazu '/setup creator' a odstraňte jej odstraněním kanálu v aplikaci Discord.",
   "headline_18": "Další přizpůsobení. Více svobody.",
   "headline_18_description": "Odemkněte plný potenciál svého serveru a získejte neomezený přístup ke všem funkcím. Službu můžete kdykoli zrušit.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
   
   "component_1": "Ve kterém clusteru se nachází můj server?",
   "component_1_description": "Zde zadejte své ID serveru",
@@ -107,6 +108,7 @@
   "component_24_description": "Používá se pro barvu emotikonů ve zprávách Bot",
   "component_25": "Cenzura Název kanálu",
   "component_25_description": "Cenzura až 30 slov, která již nelze použít jako dočasné názvy kanálů.",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Kategorie dočasných kanálů (Primární)",
   "component_26_menu": "Žádná vybraná kategorie",
   "component_26_description": "Primární kategorie pro dočasné kanály",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "Při použití {PRIVACY} zástupný symbol se název kanálu aktualizuje při změně soukromí. To je možné pouze každých 5 minut duo Discord omezení.",
   "placeholder_2_description": "Zobrazení názvu role bez ohledu na to, kdy je role v seznamu online členů oddělena.",
@@ -143,7 +148,9 @@
   "vote_button": "Hlasovat pro TempVoice na Top.gg",
   "cancel_button": "Zrušit předplatné",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Stále jste na Patreonu",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Plně přizpůsobitelná rozhraní",
   "premium_feature_2": "Neomezený počet kanálů tvůrce",
@@ -154,6 +161,7 @@
   "statistics_3": "Celkový počet serverů",
   "statistics_4": "Celkový počet členů",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "V žádném případě nesdílejte token Discord Bota s nikým jiným!",
   "alert_premium_activate": "Vaše Premium je připraveno k použití!",
   "alert_premium_inactivate": "Pokud jste si nedávno předplatili službu TempVoice Premium, možná budete muset pár minut počkat, než se potvrdí její platnost a bude možné ji aktivovat na jakémkoli serveru Discord.",

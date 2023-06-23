@@ -1,8 +1,8 @@
 {
   "headline_1": "Temporaire",
-  "headline_1_1": "Au lieu de permanent.",
+  "headline_1_1": "Au lieu de permanent",
   "headline_1_description": "TempVoice est un puissant bot Discord sur les salons vocaux temporaires. Facile à utiliser et entièrement personnalisable pour n'importe quel usage.",
-  "headline_2": "Les serveurs officiels qui font confiance à TempVoice",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "TempVoice est utilisé par des milliers de serveurs Discord et des centaines de milliers d'utilisateurs.",
   "headline_3": "Qu'est-ce qu'un salon temporaire ?",
   "headline_3_description": "Un salon vocal temporaire sera créé en rejoignant un salon de créateur et supprimé lorsque tout le monde sera parti.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Sélectionnez un salon de créateur pour modifier la configuration de TempVoice. Configurez un nouveau salon de créateur via '/setup creator' et supprimez-en un en supprimant le salon dans Discord.",
   "headline_18": "Plus de personnalisation. Plus de liberté.",
   "headline_18_description": "Libérez le plein potentiel de votre serveur en obtenant un accès illimité à toutes les fonctionnalités. Annulez à tout moment.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
   "component_1": "Sur quel cluster est mon serveur ?",
   "component_1_description": "Entrez votre Identifiant de serveur ici",
@@ -107,6 +108,7 @@
   "component_24_description": "Utilisé pour la couleur des emojis dans les messages Bot",
   "component_25": "Nom du salon de censure",
   "component_25_description": "Censure jusqu'à 30 mots qui ne peuvent pas être utilisés comme noms de salons temporaires",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Catégorie de salon temporaire (primaire)",
   "component_26_menu": "Pas de catégorie sélectionné",
   "component_26_description": "Catégorie principale pour les salons temporaires",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "Lorsque vous utilisez l'espace réservé {PRIVACY}, le nom du salon est mis à jour lors de la modification de la confidentialité. Ceci n'est possible que toutes les 5 minutes en raison des limitations de Discord.",
   "placeholder_2_description": "Affiche le nom du rôle, peu importe quand le rôle est séparé dans la liste des membres en ligne.",
@@ -143,7 +148,9 @@
   "vote_button": "Votez pour TempVoice sur Top.gg",
   "cancel_button": "Annuler l'abonnement",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Vous êtes toujours abonné sur Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Interface entièrement personnalisable",
   "premium_feature_2": "Salons de créateurs illimitées",
@@ -154,6 +161,7 @@
   "statistics_3": "Total de serveurs",
   "statistics_4": "Total de membres",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Ne partagez en aucun cas le jeton Discord Bot avec qui que ce soit !",
   "alert_premium_activate": "Votre Premium est prêt à être utilisé !",
   "alert_premium_inactivate": "Si vous vous êtes récemment abonné à TempVoice Premium, vous devrez peut-être attendre quelques minutes pour être validé et pouvoir activer le Premium sur n'importe quel serveur Discord.",

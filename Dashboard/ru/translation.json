@@ -1,8 +1,8 @@
 {
   "headline_1": "Временный",
-  "headline_1_1": "вместо статичного.",
+  "headline_1_1": "вместо статичного",
   "headline_1_description": "TempVoice - мощный Discord бот специализированный на Временных Голосовых Каналах. Гибкий в использовании и полностью настраиваемый для любых нужд.",
-  "headline_2": "Сервера использующие TempVoice",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "TempVoice используют тысяче серверов и сотни тысяч пользователей.",
   "headline_3": "Что такое Временные Каналы?",
   "headline_3_description": "Временные Голосовые Каналы создаются заходом в Creator-канал и удаляются, когда все покидают его.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Выберите Creator-канал, чтобы изменить настройки TempVoice. Настройте новый creator-канал командой '/setup creator' и уберите старый простым удалением канала в Discord.",
   "headline_18": "Больше Кастомизации. Больше Свободы.",
   "headline_18_description": "Раскройте весь потенциал своего сервера, получив неограниченный доступ ко всем функциям. Отменить можно в любое время.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
   "component_1": "На каком кластере мой сервер?",
   "component_1_description": "Введите ID сервера сюда",
@@ -107,6 +108,7 @@
   "component_24_description": "Используется для цвета эмодзи в сообщениях бота",
   "component_25": "Цензура названий каналов",
   "component_25_description": "Цензурируйте до 30 слов, которые не могут быть использованы в названии временного канала",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Основная категория для каналов",
   "component_26_menu": "Категория Не Выбрана",
   "component_26_description": "Основная категория для временных каналов",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "При использовании placeholder-а {PRIVACY}, название канала обновляется при смене настройки приватности. Это возможно только раз в 5 минут в виду лимитов.",
   "placeholder_2_description": "Показывать название роли независимо от разделения в списке участников.",
@@ -143,7 +148,9 @@
   "vote_button": "Проголосовать за TempVoice на Top.gg",
   "cancel_button": "Отменить подписку",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Вы до сих на Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Полностью настраиваемые интерфейсы",
   "premium_feature_2": "Неограниченное количество creator-каналов",
@@ -154,6 +161,7 @@
   "statistics_3": "Итого Серверов",
   "statistics_4": "Итого Участников",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Ни при каких обстоятельствах не делитесь токеном Discord Bot с кем-либо еще!",
   "alert_premium_activate": "Ваш премиум готов к использованию!",
   "alert_premium_inactivate": "Если вы недавно подписались на TempVoice Premium, вам, возможно, придется подождать пару минут, чтобы пройти проверку и активировать Premium на любом Discord сервере.",

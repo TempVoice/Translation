@@ -1,8 +1,8 @@
 {
     "headline_1": "Midlertidigt",
-    "headline_1_1": "i stedet for permanent.",
+    "headline_1_1": "i stedet for permanent",
     "headline_1_description": "TempVoice er en kraftfuld Discord Bot, der handler om midlertidige stemmekanaler. Nem at bruge og fuldt tilpasselig til ethvert formål.",
-    "headline_2": "Betroet Af Discord Officials",
+    "headline_2": "Trusted By Your Favorites",
     "headline_2_description": "TempVoice bruges af tusindvis af Discord servere og hundredtusindvis af brugere.",
     "headline_3": "Hvad er en Midlertidig Kanal?",
     "headline_3_description": "En Midlertidig Stemmekanal oprettes ved at tilslutte sig en Skaberkanal og slettes, når alle er gået.",
@@ -30,6 +30,7 @@
     "headline_17_description": "Vælg en Skaberkanal for at redigere TempVoices konfiguration. Opsæt en ny skaber via '/setup creator' og slet en ved at slette kanalen i Discord.",
     "headline_18": "Mere tilpasning. Mere frihed.",
     "headline_18_description": "Lås op for det fulde potentiale af din server ved at få ubegrænset adgang til alle funktioner. Annuller når som helst.",
+    "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
   
     "component_1": "På hvilken Cluster er min server?",
     "component_1_description": "Indtast dit Server ID her",
@@ -107,6 +108,7 @@
     "component_24_description": "Bruges til farven på emojis i Bot meddelelser",
     "component_25": "Censurere Kanalnavne",
     "component_25_description": "Censurere op til 30 ord, som ikke kan bruges som midlertidige kanalnavne",
+    "component_25_input": "Enter a word and press enter",
     "component_26": "Midlertidig Kanalkategori (Primær)",
     "component_26_menu": "Ingen Kategori Valgt",
     "component_26_description": "Primær kategori for midlertidige kanaler",
@@ -125,6 +127,9 @@
     "component_32_description": "Default name when the activity of the user has no details",
     "component_33_description": "Default name when the activity of the user has no state",
     "component_34_description": "Default name when the activity of the user has no emoji",
+    "component_35": "Activate Premium On A Discord",
+    "component_36": "Manage Premium",
+    "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
   
     "placeholder_1_description": "Når du bruger pladsholderen {PRIVACY}, opdateres kanalnavnet, når pricacy ændres. Dette er kun muligt hvert 5. minut på grund af Discord begrænsninger.",
     "placeholder_2_description": "Vis rollenavnet, uanset hvornår rollen er adskilt på listen over onlinemedlemmer.",
@@ -143,7 +148,9 @@
     "vote_button": "Stem på TempVoice ved Top.gg",
     "cancel_button": "Annuller Sbonnement",
     "subscribe_button": "Checkout with Stripe",
-    "legacy_button": "Du er stadig på Patreon",
+    "join_button": "Join now",
+    "manage_button": "Manage Premium",
+    "upgrade_button": "Upgrade Premium",
   
     "premium_feature_1": "Fuldt tilpasselige grænseflader",
     "premium_feature_2": "Ubegrænsede Skaberkanaler",
@@ -154,6 +161,7 @@
     "statistics_3": "Total Servers",
     "statistics_4": "Total Medlemmer",
   
+    "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
     "alert_custom_branding_token": "Del aldrig dit token! (Behandle det som en adgangskode)",
     "alert_premium_activate": "Din Premium er klar til at blive brugt!",
     "alert_premium_inactivate": "Hvis du for nylig har abonneret på TempVoice Premium, skal du muligvis vente et par minutter for at blive valideret og være i stand til at aktivere Premium på enhver Discord-server.",

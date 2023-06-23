@@ -1,8 +1,8 @@
 {
   "headline_1": "Temporaneo",
-  "headline_1_1": "anziché permanente.",
+  "headline_1_1": "anziché permanente",
   "headline_1_description": "TempVoice è un potente bot di Discord completamente incentrato sui canali vocali temporanei. Facile da usare e interamente personalizzabile per qualsiasi scopo.",
-  "headline_2": "I server che conosci usano TempVoice",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "TempVoice è usato da migliaia di server Discord e da centinaia di migliaia di utenti.",
   "headline_3": "Cos'è un canale temporaneo?",
   "headline_3_description": "Un canale vocale temporaneo viene creato con l'ingresso di un utente nel Canale Creatore e viene eliminato quando tutti gli utenti al suo interno lo hanno abbandonato.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Scegli di quale Canale Creatore vuoi modificare le impostazioni. Crea un nuovo Canale Creatore utilizzando il comando '/setup tempvoice', rimuovine uno semplicemente eliminando il canale nel tuo server Discord.",
   "headline_18": "Più Personalizzazione. Più Libertà.",
   "headline_18_description": "Sblocca tutto il potenziale di TempVoice sul tuo server ottenendo l'accesso illimitato a tutte le funzionalità. Annulla l'abbonamento in qualsiasi momento.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
   
   "component_1": "Su che cluster si trova il mio server?",
   "component_1_description": "Inserisci l'ID del tuo server qui",
@@ -107,6 +108,7 @@
   "component_24_description": "Colore delle emoji usate dal bot nei suoi messaggi",
   "component_25": "Censura nomi dei canali temporanei",
   "component_25_description": "Censura fino a 30 parole che non possono più essere utilizzate come nomi di canali temporanei",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Categoria dei canali temporanei (principale)",
   "component_26_menu": "Nessuna categoria",
   "component_26_description": "Categoria nella quale verranno aggiunti i canali temporanei creati",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "Quando si usa il placeholder {PRIVACY} il nome del canale viene aggiornato quando vengono cambiate le impostazioni di privacy. Questo è possibile solo ogni 5 minuti per via di limitazioni imposte da Discord.",
   "placeholder_2_description": "Mostra il nome del ruolo più alto dell'utente, a prescindere dal fatto che questo sia separato nell'elenco dei membri online.",
@@ -143,7 +148,9 @@
   "vote_button": "Vota per TempVoice su Top.gg",
   "cancel_button": "Annulla abbonamento",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Sei ancora abbonato su Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
   
   "premium_feature_1": "Interfacce completamente personalizzabili",
   "premium_feature_2": "Canali Creatore illimitati",
@@ -154,6 +161,7 @@
   "statistics_3": "Numero di server",
   "statistics_4": "Numero di utenti",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Non condividere mai il token del tuo bot di Discord con nessuno per alcuna ragione!",
   "alert_premium_activate": "Il tuo Premium è pronto per essere usato!",
   "alert_premium_inactivate": "Se ti sei appena abbonato a TempVoice Premium potresti dover aspettare qualche minuto per ottenere i vantaggi del tuo piano.",

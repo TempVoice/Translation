@@ -1,8 +1,8 @@
 {
   "headline_1": "Προσωρινό",
-  "headline_1_1": "αντί για μόνιμο.",
+  "headline_1_1": "αντί για μόνιμο",
   "headline_1_description": "Το TempVoice είναι ένα πανίσχυρο μποτάκι που δημιουργεί αυτόματα κανάλια. Πανεύκολο στην χρήση!",
-  "headline_2": "Οι Servers που γνωρίζεις έχουν το TempVoice",
+  "headline_2": "Trusted By Your Favorites",
   "headline_2_description": "Το TempVoice χρησιμοποιείται από χιλιάδες Discord servers και εκατοντάδες χιλιάδες χρήστες παγκοσμίως.",
   "headline_3": "Τι είναι ένα προσωρινό κανάλι;",
   "headline_3_description": "Ένα προσωρινό κανάλι δημιουργείται αφού μπει κάποιος στο Creator Channel και διαγράφεται αυτόματα μόλις βγει από αυτό.",
@@ -30,6 +30,7 @@
   "headline_17_description": "Επέλεξε ένα Creator Channel για να κάνεις αλλαγές στο μποτάκι. Χτύπα την εντολή '/setup creator' για να φτιάξεις ένα νέο.",
   "headline_18": "Περισσότερες επιλογές, περισσότερη ελευθερία.",
   "headline_18_description": "Ξεκλειδώστε όλα τις δυνατότητες του μποτ για να δώσετε τα μέγιστα στον σερβερ σας και να έχετε φουλ προσβαση σε ολες τις λειτουργίες. Ακυρώστε όποτε θέλετε.",
+  "headline_19": "Thank you for your interest in TempVoice, a bot which will change the way how you use Discord. We have focused on the needs and wishes of the community to provide the best possible experience.",
 
   "component_1": "Σε ποιον Cluster είμαι;",
   "component_1_description": "Βάλε το Server ID εδώ",
@@ -107,6 +108,7 @@
   "component_24_description": "Χρήσιμοποίησε το χρώμα των emojis",
   "component_25": "Μπλόκαρε βρισιές στα ονόματα των καναλιών",
   "component_25_description": "Μπλόκαρε μέχρι 30 βρισιές",
+  "component_25_input": "Enter a word and press enter",
   "component_26": "Κατηγορία καναλιών (Primary)",
   "component_26_menu": "Επέλεξε κατηγορία πρωτα",
   "component_26_description": "Κύρια κατηγορία",
@@ -125,6 +127,9 @@
   "component_32_description": "Default name when the activity of the user has no details",
   "component_33_description": "Default name when the activity of the user has no state",
   "component_34_description": "Default name when the activity of the user has no emoji",
+  "component_35": "Activate Premium On A Discord",
+  "component_36": "Manage Premium",
+  "component_36_description": "Manage your TempVoice Premium subscription. View your invoices, change your payment method, pause or cancel your subscription.",
 
   "placeholder_1_description": "Όταν αλλάζεις τις {PRIVACY} αλλάζει και το όνομα του placeholder. Αυτό είναι εφικτό μόνο κάθε 5 λεπτά.",
   "placeholder_2_description": "Εμφάνισε τον ρόλο ξεχωριστά.",
@@ -143,7 +148,9 @@
   "vote_button": "Ψήφισε εδώ για το TempVoice στο Top.gg",
   "cancel_button": "Ακύρωση Συνδρομής",
   "subscribe_button": "Checkout with Stripe",
-  "legacy_button": "Είσαι ακόμα Patreon",
+  "join_button": "Join now",
+  "manage_button": "Manage Premium",
+  "upgrade_button": "Upgrade Premium",
 
   "premium_feature_1": "Πλήρης τροποποίηση των Interfaces",
   "premium_feature_2": "Περιορισμένα Creator Channels",
@@ -154,6 +161,7 @@
   "statistics_3": "Servers σύνολο",
   "statistics_4": "Members σύνολο",
 
+  "alert_join_support_discord": "Stay up to date and join our verified TempVoice Discord server",
   "alert_custom_branding_token": "Μην δωσετε το Discord Bot token σε ΚΑΝΕΝΑΝ αλλο, σε ΚΑΜΙΑ ΠΕΡΙΠΤΩΣΗ!",
   "alert_premium_activate": "Είσαι Premium πλεον",
   "alert_premium_inactivate": "Αν επέλεξες Premium θα πρέπει να περιμένεις λίγα λεπτά για να επιβεβαιωθεί η συνδρομή.",
