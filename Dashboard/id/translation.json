@@ -148,7 +148,7 @@
   "vote_button": "Berikan suara untuk TempVoice di Top.gg",
   "cancel_button": "Berhenti berlangganan",
   "subscribe_button": "Bayar pakai Stripe",
-  "join_button": "Gabung Sekarang",
+  "join_button": "Gbng Skrng",
   "manage_button": "Atur Premium",
   "upgrade_button": "Upgrade Premium",
 
@@ -161,7 +161,7 @@
   "statistics_3": "Total Server Discord",
   "statistics_4": "Total Pengguna",
 
-  "alert_join_support_discord": "Bergabunglah dengan server Discord TempVoice yang terverifikasi untuk tetap up to date.",
+  "alert_join_support_discord": "Ikuti terus perkembangan kami dengan bergabung ke server Discord TempVoice.",
   "alert_custom_branding_token": "Jangan bagikan token-mu kepada siapapun (Ini seperti sandi pribadi)!",
   "alert_premium_activate": "Premium kamu siap digunakan!",
   "alert_premium_inactivate": "Setelah berlangganan TempVoice Premium, Kamu perlu tunggu sebentar untuk divalidasi sebelum mengaktifkannya.",
