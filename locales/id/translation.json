@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Kirim tautan undangan ke saluran sementara ini di obrolan ini",
 
     "cmd_join_description": "Bergabung dengan kanal sementara dengan menggunakan kata sandi",
-
-    "cmd_setup_creator_description": "Siapkan creator kanal baru untuk membuat kanal sementara",
-    "cmd_setup_interface_description": "Siapkan control interface untuk kanal sementara",
     "cmd_setup_tempvoice_description": "Siapkan TempVoice dengan mudah dengan asisten",
-
     "cmd_help_description": "Dapatkan bantuan Bot Discord TempVoice",
 
     "info_setup": "**Setup Selesai!** {val1} sekarang dapat digunakan untuk membuat __voice kanal sementara__ di server discord ini.",
@@ -42,7 +38,7 @@
     "error_ownerless": "**Tidak Bisa** Kanal sementara dari {val1} tidak punya pemilik dan tidak bisa dikelola.",
     "error_empty": "**Tidak Bisa** Tidak ada pengguna yang bisa kamu pilih.",
     "error_invalid": "**Tidak Bisa** Kamu tidak berada di kanal sementara apapun. join salah satu **Creator Kanal** untuk melanjutkan: {val1}",
-    "error_setup": "**Sepetinya Ada Yang Salah** Bot ini belum disetup. Jika kamu admin, gunakan </setup tempvoice:921000495877877762> atau </setup creator:921000495877877762>.",
+    "error_setup": "**Sepetinya Ada Yang Salah** Bot ini belum disetup. Jika kamu admin, gunakan </setup:921000495877877762>.",
     "error_manage": "**Tidak Diizinkan.** Kamu butuh izin **Manage Server** untuk menggunakan command ini.",
     "error_vote": "**Fitur Ini Terbatas!** Command ini bisa digunakan sementara dengan melakukan [vote](<https://top.gg/bot/762217899355013120/vote>) atau secara permanen dengan membeli [premium](<https://tempvoice.xyz/id/premium>).",
     "error_target": "**Tidak Boleh** Kamu tidak bisa menggunakan command ini untuk pengguna ini.",

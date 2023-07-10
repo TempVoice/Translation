@@ -11,7 +11,7 @@
     "error_ownerless": "**Not Possible.** Temporary voice channels from {val1} are ownerless and cannot be managed.",
     "error_empty": "**לא אפשרי**. לא ניתן לבחור שום משתמש מכיוון שאין משתמשים לבחור מהם.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**לא מורשה**. אתם צריכים את הגישה **Manage Server** כדי להשתמש בפקודה הזאת.",
     "error_vote": "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://tempvoice.xyz/premium>).",
     "error_target": "**לא אפשרי**. אתם לא יכולים להשתמש בפקודה הזאת עם המשתמש הזה.",

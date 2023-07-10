@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "Join a temporary voice channel by using a password",
-
-    "cmd_setup_creator_description": "Geçici ses kanalları oluşturmak için yeni bir oluşturucu kanalı kurun.",
-    "cmd_setup_interface_description": "Geçici ses kanalları için bir kontrol arayüzü oluşturun.",
     "cmd_setup_tempvoice_description": "TempVoice'ı bir asistanla saniyeler içinde kolayca kurun.",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Kurulum Tamamlandı!** {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
@@ -42,7 +38,7 @@
     "error_ownerless": "**Mümkün değil!** {val1} oluşturucusundan gelen geçici ses kanalları sahipsizdir ve yönetilemez.",
     "error_empty": "**Mümkün değil!** Seçim yapabileceğiniz kullanıcı yok.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**İzin verilmedi!** Bu komutu kullanmak için **Sunucuyu Yönet** iznine ihtiyacınız var.",
     "error_vote": "**Henüz mümkün değil!** Bu komut; bir [oy](<https://top.gg/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
     "error_target": "**Mümkün değil!** Seçilen kullanıcı üzerinde bu komutu kullanamazsınız.",
