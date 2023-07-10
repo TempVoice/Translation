@@ -38,7 +38,7 @@
     "error_ownerless": "**No es posible.** Los canales de voz temporales de {val1} no tienen dueño y no se pueden gestionar.",
     "error_empty": "**No es posible**. No hay usuarios a los que puedas seleccionar.",
     "error_invalid": "**No es válido** No estas en un canal de voz temporal válido. Entra a un canal creador primero: {val1}",
-    "error_setup": "**No se encontraron creadores** Este bot aún no se ha configurado. Si eres un administrador, usa </setup tempvoice:921000495877877762> o </setup creator:921000495877877762>.",
+    "error_setup": "**No se encontraron creadores** Este bot aún no se ha configurado. Si eres un administrador, usa </setup:921000495877877762>.",
     "error_manage": "**No permitido**. Necesitas el permiso **Gestionar servidor** para usar este comando.",
     "error_vote": "**Todavía no es posible**. Este comando puede ser temporalmente desbloqueado [votando](<https://top.gg/bot/762217899355013120/vote>) o permanentemente desbloqueado con la suscripción [prémium](<https://tempvoice.xyz/premium>).",
     "error_target": "**No es posible**. No puedes usar este comando con este usuario.",

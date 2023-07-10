@@ -38,7 +38,7 @@
     "error_ownerless": "**Není možné** Dočasné hlasové kanály z {val1} jsou bez vlastníka a nelze je spravovat.",
     "error_empty": "**Není možné** Neexistují žádní uživatelé, ze kterých byste mohli vybírat.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**Není povoleno** Potřebujete **Spravovat server** oprávnění používat tento příkaz.",
     "error_vote": "**Zatím není možné** Tento příkaz lze dočasně odblokovat pomocí [hlasovaním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčené pomocí [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Není možné** You cannot use this command for the selected user.",

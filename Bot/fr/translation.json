@@ -38,7 +38,7 @@
     "error_ownerless": "**Pas possible!** Salons vocaux temporaires de {val1} sont sans propriétaire et ne peuvent pas être gérés.",
     "error_empty": "**Pas possible!**. Il n'y a pas d'utilisateur parmis lesquels vous pouvez choisir.",
     "error_invalid": "**Invalide!** Vous n'êtes pas dans un salon vocal temporaire valide. Rejoignez un salon **Creator Channel** en premier lieu: {val1}",
-    "error_setup": "**Pas de créateur trouvé!** Ce Bot n'a pas encore été configuré. Si vous êtes administrateur, utilisez </setup tempvoice:921000495877877762> ou </setup creator:921000495877877762>.",
+    "error_setup": "**Pas de créateur trouvé!** Ce Bot n'a pas encore été configuré. Si vous êtes administrateur, utilisez </setup:921000495877877762>.",
     "error_manage": "**Non autorisé!**. Vous devez avoir les permissions de **Gérer le serveur** pour utiliser cette commande.",
     "error_vote": "**Pas possible!**. Cette commande peut être utilisée de façon temporaire avec un [vote](<https://top.gg/bot/762217899355013120/vote>) ou permanent avec un [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Pas possible!**. Vous ne pouvez pas utiliser cette commande sur cet utilisateur.",

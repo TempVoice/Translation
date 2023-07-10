@@ -38,7 +38,7 @@
       "error_ownerless": "**Không Thể** Kênh thoại tạm thời từ {val1} không có chủ sở hữu và không thể quản lý.",
       "error_empty": "**Không Thể** Chẳng có ai để cậu có thể chọn cả.",
       "error_invalid": "**Không có kênh nào hợp lệ!** Cậu không có ở trong 1 kênh voice tạm thời hợp lệ. Vào 1 **Kênh sáng tạo** trước: {val1}",
-      "error_setup": "**Không tìm thấy Creators** Bot này chưa được thiết lập. Nếu cậu là một quản trị viên, hãy sử dụng </setup tempvoice:921000495877877762> hoặc </setup creator:921000495877877762>.",
+      "error_setup": "**Không tìm thấy Creators** Bot này chưa được thiết lập. Nếu cậu là một quản trị viên, hãy sử dụng </setup:921000495877877762>.",
       "error_manage": "**Không Có Quyền** Cậu cần quyền **Quản lý máy chủ** để dùng lệnh này.",
       "error_vote": "**Chưa Thể** Lệnh này có thể được mở khóa bởi [bỏ phiếu cho bot](<https://top.gg/bot/762217899355013120/vote>), hoặc mở khóa với [gói premium](<https://tempvoice.xyz/premium>).",
       "error_target": "**Chưa Thể** Cậu không thể dùng lệnh này cho người mà cậu đã chọn.",

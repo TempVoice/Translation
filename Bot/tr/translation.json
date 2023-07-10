@@ -38,7 +38,7 @@
     "error_ownerless": "**Mümkün değil!** {val1} oluşturucusundan gelen geçici ses kanalları sahipsizdir ve yönetilemez.",
     "error_empty": "**Mümkün değil!** Seçim yapabileceğiniz kullanıcı yok.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**İzin verilmedi!** Bu komutu kullanmak için **Sunucuyu Yönet** iznine ihtiyacınız var.",
     "error_vote": "**Henüz mümkün değil!** Bu komut; bir [oy](<https://top.gg/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
     "error_target": "**Mümkün değil!** Seçilen kullanıcı üzerinde bu komutu kullanamazsınız.",

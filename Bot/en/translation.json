@@ -38,7 +38,7 @@
     "error_ownerless": "**Not Possible!** The temporary voice channels from {val1} cannot be managed, because they have no owner.",
     "error_empty": "**Not Possible!** There are no users that you can select from.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found!** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found!** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**Not Permitted!** You need the **Manage Server** permission to use this command.",
     "error_vote": "**Not Possible Yet!** This command can be temporary unlocked by [voting](<https://top.gg/bot/762217899355013120/vote>), or permanently unlocked with [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Not Possible!** You cannot use this command for the selected user(s).",

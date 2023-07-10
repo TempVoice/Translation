@@ -38,7 +38,7 @@
     "error_ownerless": "**Inte möjligt** Tillfälliga röstkanaler från {val1} saknar ägare och kan inte hanteras.",
     "error_empty": "**Inte möjligt** Det finns inga användare som du kan välja mellan.",
     "error_invalid": "**No Valid Channel!** You are not in a valid temporary voice channel. Join a **Creator Channel** first: {val1}",
-    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup tempvoice:921000495877877762> or </setup creator:921000495877877762>.",
+    "error_setup": "**No Creators Found** This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "**Inte tillåtet** Du behöver behörigheten **Hantera Server** för att använda det här kommandot.",
     "error_vote": "**Inte möjligt ännu** Det här kommandot kan låsas upp tillfälligt genom att [rösta](<https://top.gg/bot/762217899355013120/vote>), eller permanent låsas upp med [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Inte möjligt** Du kan inte använda det här kommandot för den valda användaren.",

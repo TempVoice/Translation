@@ -38,7 +38,7 @@
     "error_ownerless": "**Niet mogelijk.** Tijdelijke spraakkanalen van {val1} hebben geen eigenaar en kunnen niet worden beheerd.",
     "error_empty": "**Niet mogelijk.** Er zijn geen gebruikers waaruit u kunt kiezen.",
     "error_invalid": "**Ongeldig.** U bevindt zich niet in een geldig tijdelijk spraakkanaal. Word eerst lid van een **Creator-kanaal**: {val1}",
-    "error_setup": "**Geen makers gevonden.** Deze bot is nog niet ingesteld. Als u een beheerder bent, gebruikt u </setup tempvoice:921000495877877762> of </setup creator:921000495877877762>.",
+    "error_setup": "**Geen makers gevonden.** Deze bot is nog niet ingesteld. Als u een beheerder bent, gebruikt u </setup:921000495877877762>.",
     "error_manage": "**Not Permitted.** U hebt de machtiging **Server beheren** nodig om deze opdracht te gebruiken.",
     "error_vote": "**Nog niet mogelijk.** Deze opdracht kan tijdelijk worden ontgrendeld door [voting](<https://top.gg/bot/762217899355013120/vote>), of permanent ontgrendeld met [premium](<https://tempvoice.xyz/premium>) .",
     "error_target": "**Niet mogelijk.** U kunt deze opdracht niet gebruiken voor de geselecteerde gebruiker.",

@@ -38,7 +38,7 @@
     "error_ownerless": "**Nicht möglich!** Temporären Kanäle von {val1} sind Besitzerlos und können nicht bearbeitet werden.",
     "error_empty": "**Nicht möglich!** Es gibt keine Nutzer, welche du auswählen kannst.",
     "error_invalid": "**Ungültig!** Du befindest dich nicht in einem gültigen temporären Kanal. Trete zuerst einem **Creator Channel** bei: {val1}",
-    "error_setup": "**Keine Creator gefunden!** Dieser Bot wurde noch nicht eingerichtet. Wenn du ein Administrator bist, verwende </setup tempvoice:921000495877877762> oder </setup creator:921000495877877762>.",
+    "error_setup": "**Keine Creator gefunden!** Dieser Bot wurde noch nicht eingerichtet. Wenn du ein Administrator bist, verwende </setup:921000495877877762>.",
     "error_manage": "**Nicht erlaubt!** Du benötigst die Berechtigung **Server verwalten**, um diesen Command zu verwenden.",
     "error_vote": "**Noch nicht möglich!** Dieser Command kann temporär mit einem [Vote](<https://top.gg/bot/762217899355013120/vote>) oder permanent mit [Premium](<https://tempvoice.xyz/premium>) verwendet werden.",
     "error_target": "**Nicht möglich!** Du kannst diesen Command für diesen Nutzer nicht verwenden.",

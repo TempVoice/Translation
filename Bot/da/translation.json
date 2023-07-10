@@ -38,7 +38,7 @@
     "error_ownerless": "**Ikke muligt!** Den midlertidige stemmekanaler fra {val1} kan ikke administreres, fordi de ikke har nogen ejer.",
     "error_empty": "**Ikke muligt!** Der er ingen brugere du kan vælge imellem.",
     "error_invalid": "**Ingen gyldig kanal!** Du er ikke i en gyldig midlertidig stemmekanal. Tilmeld dig en **Skaberkanal** først: {val1}",
-    "error_setup": "**Ingen skabere fundet!** Denne bot er ikke blevet opsat endnu. Hvis du er administrator, så brug </setup tempvoice:921000495877877762> eller </setup creator:921000495877877762>.",
+    "error_setup": "**Ingen skabere fundet!** Denne bot er ikke blevet opsat endnu. Hvis du er administrator, så brug </setup:921000495877877762>.",
     "error_manage": "**Ikke tilladt!** Du skal bruge tilladelsen **Administrer server** for at bruge denne kommando.",
     "error_vote": "**Ikke muligt endnu!** Denne kommando kan midlertidigt låses op af [voting](<https://top.gg/bot/762217899355013120/vote>), eller permanent låst op med [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Ikke muligt!** Du kan ikke bruge denne kommando til den valgte bruger.",

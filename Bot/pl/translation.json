@@ -38,7 +38,7 @@
     "error_ownerless": "**Niemożliwe.** Tymczasowe kanały głosowe od {val1} nie mają właściciela i nie mogą być zarządzane.",
     "error_empty": "**Niemożliwe**. Nie ma użytkowników, których można wybrać.",
     "error_invalid": "**Błąd** Nie jesteś na prawidłowym kanale tymczasowym. Dołącz najpierw na **Kanał tworzenia**: {val1}",
-    "error_setup": "**Brak Kanału Tworzenia** Ten bot nie został jeszcze skonfigurowany. Jeśli jesteś administratorem, użyj </setup tempvoice:921000495877877762> lub </setup creator:921000495877877762>.",
+    "error_setup": "**Brak Kanału Tworzenia** Ten bot nie został jeszcze skonfigurowany. Jeśli jesteś administratorem, użyj </setup:921000495877877762>.",
     "error_manage": "**Niedozwolone**. Musisz mieć uprawnienie **Zarządzaj serwerem**, aby użyć tego polecenia.",
     "error_vote": "**Jeszczcze Niemożliwe**. To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://top.gg/bot/762217899355013120/vote>) lub permanentnie po zakupie [Premium](<https://tempvoice.xyz/premium>).",
     "error_target": "**Niemożliwe**. Nie możesz użyć tego polecenia na tym użytkowniku.",
