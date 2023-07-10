@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Envoyer un lien d'invitation à votre salon temporaire dans ce chat",
 
     "cmd_join_description": "Rejoindre un salon vocal temporaire en utilisant un mot de passe",
-
-    "cmd_setup_creator_description": "Configurer un nouveau salon de créateur pour créer des salons vocaux temporaires",
-    "cmd_setup_interface_description": "Créer une interface de contrôle pour les salons vocaux temporaires",
     "cmd_setup_tempvoice_description": "Configurer TempVoice facilement avec un assistant en quelques secondes",
-
     "cmd_help_description": "Obtenez de l'aide avec le Bot Discord TempVoice",
 
     "info_setup": "**Mise en place réussie!**. {val1} peut maintenant être utilisé pour créer les salons temporaires dans votre serveur Discord !",

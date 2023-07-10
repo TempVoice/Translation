@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "Join a temporary voice channel by using a password",
-
-    "cmd_setup_creator_description": "Nastavení nového kanálu tvůrce pro vytváření dočasných hlasových kanálů",
-    "cmd_setup_interface_description": "Vytvoření ovládacího rozhraní pro dočasné hlasové kanály",
     "cmd_setup_tempvoice_description": "Snadné nastavení TempVoice pomocí asistenta během několika sekund",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Nastavení dokončeno!** {val1} lze nyní použít k vytvoření dočasných hlasových kanálů na serveru Discord.",

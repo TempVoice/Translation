@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "Join a temporary voice channel by using a password",
-
-    "cmd_setup_creator_description": "Ställ in en ny skaparkanal för att skapa tillfälliga röstkanaler",
-    "cmd_setup_interface_description": "Skapa ett kontrollgränssnitt för tillfälliga röstkanaler",
     "cmd_setup_tempvoice_description": "Ställ in TempVoice enkelt med en assistent inom några sekunder",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Installationen är klar!** {val1} kan nu användas för att skapa tillfälliga röstkanaler på din Discord server.",

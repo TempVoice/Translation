@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "使用密碼加入臨時語音頻道",
-
-    "cmd_setup_creator_description": "設定一個新的臨時頻道創造器",
-    "cmd_setup_interface_description": "為臨時頻道創立一個快速設定介面頻道",
     "cmd_setup_tempvoice_description": "通過助手快速設定TempVoice",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**設定完成!** {val1} 現在可以在您的伺服器創建臨時語音頻道",

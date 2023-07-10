@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "Join a temporary voice channel by using a password",
-
-    "cmd_setup_creator_description": "Geçici ses kanalları oluşturmak için yeni bir oluşturucu kanalı kurun.",
-    "cmd_setup_interface_description": "Geçici ses kanalları için bir kontrol arayüzü oluşturun.",
     "cmd_setup_tempvoice_description": "TempVoice'ı bir asistanla saniyeler içinde kolayca kurun.",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Kurulum Tamamlandı!** {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",

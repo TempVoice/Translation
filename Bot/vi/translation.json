@@ -27,11 +27,7 @@
       "cmd_voice_lfp_description": "Gửi liên kết mời đến kênh tạm thời của cậu trong cuộc trò chuyện này",
   
       "cmd_join_description": "Tham gia kênh thoại tạm thời bằng cách sử dụng mật khẩu",
-  
-      "cmd_setup_creator_description": "Thiết lập trình tạo kênh tạm thời mới",
-      "cmd_setup_interface_description": "Tạo giao diện bảng điều khiển cho kênh thoại tạm thời",
       "cmd_setup_tempvoice_description": "Thiết lập TempVoice dễ dàng hơn với trợ lý chỉ trong vài giây",
-  
       "cmd_help_description": "Nhận trợ giúp với TempVoice Discord Bot",
   
       "info_setup": "**Quá Trình Thiết Lập Thành công!** {val1} có thể dùng để tạo kênh thoại tạm thời ngay bây giờ.",

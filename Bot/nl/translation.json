@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Stuur in deze chat een uitnodigingslink naar je tijdelijke kanaal",
 
     "cmd_join_description": "Word lid van een tijdelijk kanaal door een wachtwoord te gebruiken",
-
-    "cmd_setup_creator_description": "Stel een nieuw makerskanaal in voor het maken van tijdelijke kanalen",
-    "cmd_setup_interface_description": "Maak een besturingsinterface voor tijdelijke kanalen",
     "cmd_setup_tempvoice_description": "Stel TempVoice eenvoudig in met een assistent binnen enkele seconden",
-
     "cmd_help_description": "Krijg hulp met de TempVoice Discord Bot",
 
     "info_setup": "**Installatie voltooid!** {val1} kan nu worden gebruikt om tijdelijke spraakkanalen in uw Discord-server te maken.",

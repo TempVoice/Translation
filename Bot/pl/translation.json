@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Wyślij link z zaproszeniem do Twojego tymczasowego kanału na tym czacie",
 
     "cmd_join_description": "Dołącz do tymczasowego kanału głosowego z użyciem hasła",
-
-    "cmd_setup_creator_description": "Stwórz nowy kanał twórcy",
-    "cmd_setup_interface_description": "Stwórz interfejs dla tymczasowych kanałów głosowych",
     "cmd_setup_tempvoice_description": "Ustaw TempVoice łatwo z pomocą asystenta",
-
     "cmd_help_description": "Uzyskaj pomoc z botem TempVoice",
 
     "info_setup": "**Konfiguracja zakończona**. {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",

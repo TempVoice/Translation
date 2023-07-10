@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
 
     "cmd_join_description": "Prisijunkite prie laikino balso kanalo naudodami slaptažodį",
-
-    "cmd_setup_creator_description": "Sukurti naują kūrėjo kanalą, kad kurti naujus laikinuosius balso kanalus",
-    "cmd_setup_interface_description": "Sukurti laikinųjų balso kanalų valdymo skydą",
     "cmd_setup_tempvoice_description": "Lengvai paruošti TempVoice su asistento pagalba",
-
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Konfiguracija baigta**. {val1} dabar galima kurti balso kanalus jūsų Discord serveryje!",

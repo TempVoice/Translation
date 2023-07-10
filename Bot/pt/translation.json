@@ -27,11 +27,7 @@
     "cmd_voice_lfp_description": "Envie um link de convite para seu canal temporário neste chat",
 
     "cmd_join_description": "Entre um canal de voz temporário usando uma senha",
-
-    "cmd_setup_creator_description": "Configure um novo canal de criador para criar canais de voz temporários",
-    "cmd_setup_interface_description": "Crie uma interface de controle para canais de voz temporários",
     "cmd_setup_tempvoice_description": "Configure o TempVoice facilmente com um assistente em segundos",
-
     "cmd_help_description": "Obtenha ajuda com o TempVoice de Bot do Discord",
 
     "info_setup": "**Configuração concluída!** {val1} agora pode ser usado para criar canais de voz temporários em seu servidor do Discord.",

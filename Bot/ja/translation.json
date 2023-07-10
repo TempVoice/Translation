@@ -27,11 +27,7 @@
 		"cmd_voice_lfp_description": "このチャットで一時的なチャンネルへの招待リンクを送信してください",
 
 		"cmd_join_description": "パスワードを使って一時的なチャンネルに参加する",
-
-		"cmd_setup_creator_description": "一時的なチャンネルを作成するための新しいクリエーターチャンネルを設定する",
-		"cmd_setup_interface_description": "一時的なチャンネルの制御インターフェースを作成する",
 		"cmd_setup_tempvoice_description": "数秒で簡単にTempvoiceを設定する",
-
 		"cmd_help_description": "TempVoice Discordボットのヘルプを表示します",
 
 		"info_setup": "**セットアップ完了！** {val1} は今後サーバーで一時的な音声チャンネルを作成できます",
