@@ -87,7 +87,6 @@
   "component_20": "一時的なチャンネルのユーザー制限",
   "component_20_description": "一時的なチャンネルのデフォルトのユーザー制限",
   "component_21": "言語",
-  "component_21_description": "ボットは選択された言語でのみ応答するようにする",
   "component_21_1_description": "TempVoiceのグローバル言語を変更する",
   "component_22": "所有者設定を管理する",
   "component_22_menu": "設定を管理する",

@@ -87,7 +87,6 @@
   "component_20": "Limite d'utilisateurs de salon temporaire",
   "component_20_description": "Limite d'utilisateurs par défaut pour les salons temporaires",
   "component_21": "Langue",
-  "component_21_description": "Le bot ne doit répondre que dans la langue sélectionnée",
   "component_21_1_description": "Changer la langue globale de TempVoice",
   "component_22": "Gérer les paramètres du propriétaire",
   "component_22_menu": "Gérer les paramètres",

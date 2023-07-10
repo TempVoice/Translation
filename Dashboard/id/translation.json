@@ -87,7 +87,6 @@
   "component_20": "Batas Pengguna kanal Sementara",
   "component_20_description": "Batas pengguna default untuk kanal sementara",
   "component_21": "Bahasa",
-  "component_21_description": "Bot hanya akan merespon dalam bahasa yang dipilih",
   "component_21_1_description": "Ubah bahasa global TempVoice",
   "component_22": "Kelola Perizinan Pemilik",
   "component_22_menu": "Atur perizinan",

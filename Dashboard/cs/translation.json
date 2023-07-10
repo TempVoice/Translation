@@ -87,7 +87,6 @@
   "component_20": "Dočasný limit uživatelů kanálu",
   "component_20_description": "Výchozí uživatelský limit pro dočasné kanály",
   "component_21": "Jazyk",
-  "component_21_description": "Bot by měl odpovídat pouze ve vybraném jazyce",
   "component_21_1_description": "Změnit globální jazyk TempVoice",
   "component_22": "Správa nastavení vlastníka",
   "component_22_menu": "Správa nastavení",

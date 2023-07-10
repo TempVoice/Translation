@@ -87,7 +87,6 @@
   "component_20": "Limite utenti del canale temporaneo",
   "component_20_description": "Limite di default degli utenti per un canale temporaneo",
   "component_21": "Lingua",
-  "component_21_description": "Il bot deve rispondere solo nella lingua selezionata",
   "component_21_1_description": "Cambia la lingua dei messaggi di TempVoice nel tuo server",
   "component_22": "Gestisci permessi proprietario (TempVoice)",
   "component_22_menu": "Gestisci permessi",

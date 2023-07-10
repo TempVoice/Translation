@@ -87,7 +87,6 @@
   "component_20": "Temporary Channel User Limit",
   "component_20_description": "Default user limit for temporary channels",
   "component_21": "Language",
-  "component_21_description": "Bot should only respond in the selected language",
   "component_21_1_description": "Change the global language of TempVoice",
   "component_22": "Manage Owner Settings",
   "component_22_menu": "Manage Settings",

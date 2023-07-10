@@ -87,7 +87,6 @@
   "component_20": "Tijdelijke kanaalgebruikerslimiet",
   "component_20_description": "Standaard gebruikerslimiet voor tijdelijke kanalen",
   "component_21": "Taal",
-  "component_21_description": "Bot zou alleen in de geselecteerde taal moeten reageren",
   "component_21_1_description": "Verander de globale taal van TempVoice",
   "component_22": "Eigenaarsinstellingen beheren",
   "component_22_menu": "Manage Settings",
