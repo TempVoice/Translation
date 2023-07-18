@@ -49,6 +49,7 @@
     "error_limit": "**Impossível** O limite de canais de criadores em um único servidor é {val1}. Tente excluir um ou aumentar o limite com [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Tempo de espera!** Este comando pode ser usado novamente em **{val1}**.",
     "error_creation": "**Tempo de espera!** Você pode criar um novo canal em **{val1}**.",
+    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Impossível!** O limite de **{val1}** canais de voz temporários ao mesmo tempo foi atingido, porque este servidor do Discord os limitou. Por favor, tente novamente mais tarde.",
     "error_discordlimit": "**Impossível!** Todas as categorias disponíveis atingiram o limite de 50 canais cada. Se você for um administrador, pode configurar mais **Categorias alternativas** no painel, caso contrário, tente novamente mais tarde.",
     "error_cb": "**Impossível!** Você está tentando usar um bot [Marca personalizada TempVoice](https://tempvoice.xyz/) em um servidor Discord, onde o proprietário do bot não habilitou o TempVoice Premium. Se você é o proprietário deste bot de Custom Branding, ative-o aqui em [Perfil](https://tempvoice.xyz/profile) > **Aba TempVoice Premium** > **Ativar Premium**.",

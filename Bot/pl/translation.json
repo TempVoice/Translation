@@ -49,6 +49,7 @@
     "error_limit": "**Niemożliwe** Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
     "error_creation": "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
+    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
     "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
     "error_cb": "**Niemożliwe!** Próbujesz użyć bota [TempVoice Custom Branding](https://tempvoice.xyz/) na serwerze Discord, na którym właściciel bota nie aktywował TempVoice Premium. Jeżeli jesteś właścicielem tego bota, aktywuj Premium na swoim [Profilu](https://tempvoice.xyz/profile) > **Zakładka TempVoice Premium** > **Aktywuj Premium**.",

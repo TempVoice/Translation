@@ -49,6 +49,7 @@
     "error_limit": "**Pas possible!** La limite des salons créateurs sur un même serveur est {val1}. Essayez d'en supprimer un ou augmentez la limite avec un [Premium](<https://tempvoice.xyz/premium>) plus élevé",
     "error_ratelimit": "**Pas possible!**. Cette commande peut être utilsée **{val1}**.",
     "error_creation": "**Ralentissez!** Vous pouvez créer un nouveau salon **{val1}**.",
+    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Pas possible!** La limite de **{val1}** canaux vocaux temporaires en même temps a été atteinte, car ce serveur Discord les a limités. Veuillez réessayer plus tard.",
     "error_discordlimit": "**Pas possible!** Toutes les catégories disponibles ont atteint leur limite de 50 chaînes chacune. Si vous êtes un administrateur, vous pouvez configurer d'autres **Catégories de remplacement** dans le tableau de bord, sinon veuillez réessayer plus tard.",
     "error_cb": "**Pas possible!** Vous essayez d'utiliser un bot [TempVoice Custom Branding](https://tempvoice.xyz/) sur un serveur Discord, où le propriétaire du bot n'a pas activé TempVoice Premium . Si vous êtes le propriétaire de ce bot Image de marque personnalisée, activez-le ici sur votre [Profil](https://tempvoice.xyz/profile) > **Onglet TempVoice Premium** > **Activer Le Premium**.",

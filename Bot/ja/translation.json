@@ -49,6 +49,7 @@
 		"error_limit": "**不可能です。** サーバー内のクリエーターチャンネルの制限は{val1}です。 1つ削除するか、[プレミアム](<https://tempvoice.xyz/premium>) ティアで制限を増やしてみてください。",
 		"error_ratelimit": "**速度を落としてください！** このコマンドは **{val1}** 後に再度使用できます。",
 		"error_creation": "**速度を落としてください！** 新しいチャンネルは **{val1}** 後に作成できます。",
+		"error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
 		"error_totallimit": "**不可能です！** 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。なぜなら、このDiscordサーバーで制限がされているからです。後ほど再試行してください。",
 		"error_discordlimit": "**不可能です！** 利用可能な全てのカテゴリーがそれぞれ50チャンネルの限界に達しました。もしあなたが管理者であれば、ダッシュボードでより多くの**フォールバックカテゴリー**を設定することができます。",
 		"error_cb": "**Not Possible!** あなたはDiscordサーバー上で [TempVoice Custom Branding](https://tempvoice.xyz/) botを使用しようとしていますが、botのオーナーがTempVoice Premiumを有効にしていません。もしあなたがこのカスタムブランディングbotのオーナーであれば、こちらの [プロフィール](https://tempvoice.xyz/profile) > **TempVoice Premium タブ** > **Activate Premium** でそれを有効化してください。",

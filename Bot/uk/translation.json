@@ -49,6 +49,7 @@
     "error_limit": "**Неможливо!** Ліміт каналів створення на одному сервері становить {val1}. Спробуйте видалити один з них або збільшити ліміт за допомогою вищого рівня [преміумпідписки](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Не так швидко!** Цю команду можна буде використати ще раз **{val1}**.",
     "error_creation": "**Не так швидко!** Ви можете створити новий канал **{val1}**.",
+    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Неможливо!** Ліміт **{val1}** тимчасових голосових каналів одночасно досягнуто, тому що цей сервер Discord обмежив їх. Будь ласка, спробуйте пізніше.",
     "error_discordlimit": "**Неможливо!** Усі доступні категорії досягнули їхній ліміт 50 каналів кожен. Якщо ви адміністратор, ви можете налаштувати більше **Додаткових категорій** на панелі керування, в іншому випадку спробуйте пізніше.",
     "error_cb": "**Неможливо!** Ви намагаєтеся використати [Індивідуальний брендинг TempVoice](https://tempvoice.xyz/) на сервері Discord, де власник не ввімкнув TempVoice Premium. Якщо ж ви власник Індивідуального брендингу, активуйте його в [Профілі](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **Активувати Premium**.",
