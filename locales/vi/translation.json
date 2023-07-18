@@ -49,6 +49,7 @@
       "error_limit": "**Không Thể** Giới hạn số lượng kênh của người sáng tạo trong một máy chủ là {val1}. Hãy thử xóa kênh hoặc tăng [gói premium](<https://tempvoice.xyz/premium>) lên cao hơn.",
       "error_ratelimit": "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể sử dụng lại lệnh này.",
       "error_creation": "**Chậm Lại!** Cậu cần đợi **{val1}** nữa mới có thể tạo lại một kênh mới.",
+      "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
       "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
       "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
       "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **Activate Premium**.",
