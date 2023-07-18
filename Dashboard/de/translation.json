@@ -134,7 +134,7 @@
   "vote_button": "Vote für TempVoice auf Top.gg",
   "cancel_button": "Premium kündigen",
   "subscribe_button": "Mit Stripe bezahlen",
-  "join_button": "Jetzt beigetreten",
+  "join_button": "Beitreten",
   "manage_button": "Premium verwalten",
   "upgrade_button": "Premium upgraden",
 
@@ -147,10 +147,10 @@
   "statistics_3": "Anzahl aller Server",
   "statistics_4": "Anzahl aller Mitglieder",
 
-  "alert_join_support_discord": "Bleibe auf dem Laufenden und trete unserem verifizierten TempVoice Discord-Server bei!",
+  "alert_join_support_discord": "Bleibe auf dem Laufenden und trete unserem verifizierten TempVoice Discord Server bei!",
   "alert_custom_branding_token": "Gib den Discord Bot Token unter keinen Umständen an andere Personen weiter!",
   "alert_premium_activate": "Dein Premium kann nun verwendet werden!",
-  "alert_premium_inactivate": "Wenn du kürzlich TempVoice Premium abonniert hast, müssst du möglicherweise ein paar Minuten warten, bis du validiert wurdest und Premium auf einem beliebigen Discord-Server aktivieren kannst.",
+  "alert_premium_inactivate": "Wenn du kürzlich TempVoice Premium abonniert hast, müssst du möglicherweise ein paar Minuten warten, bis du validiert wurdest und Premium auf einem beliebigen Discord Server aktivieren kannst.",
   "alert_please_login": "Bitte logge dich mit deinem Discord Account ein.",
   "alert_no_servers": "Du besitzt oder moderierst keinen Discord Server. Du benötigst die Berechtigung 'Server verwalten'.",
   "alert_no_creators": "Dieser Discord Server hat noch keine Creator Channels. Richte einen neuen Creator Channel mit '/setup' ein und alde die Seite neu.",
