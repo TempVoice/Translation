@@ -49,9 +49,9 @@
     "error_limit": "**Niemożliwe** Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**Zwolnij!**. Komenda może być użyta ponownie **{val1}**.",
     "error_creation": "**Zwolnij!** Możesz stworzyć nowy kanał **{val1}**.",
-    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
-    "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
-    "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
+    "error_webhook": "**Niemożliwe!** Nie można stworzyć webhooka, ponieważ inny bot blokuje mi tą możliwość. Sprawdź czy boty od bezpieczeństwa typu *Wick*, *Beemo* itd. nie są temu winne.",
+    "error_totallimit": "**Niemożliwe!** Limit **{val1}** tymczasowych kanałów głosowych został osięgnięty, ponieważ ten serwer Discord ustawił ich limit. Proszę spróbuj ponownie później.",
+    "error_discordlimit": "**Niemożliwe!** Wszystkie dostępne kategorie osiągnęły swój limit po 50 kanałów. Jeżeli jesteś adminem, możesz ustawić więcej **Zapasowych Kategorii** w panelu, w innym przypadku proszę spróbuj ponownie później.",
     "error_cb": "**Niemożliwe!** Próbujesz użyć bota [TempVoice Custom Branding](https://tempvoice.xyz/) na serwerze Discord, na którym właściciel bota nie aktywował TempVoice Premium. Jeżeli jesteś właścicielem tego bota, aktywuj Premium na swoim [Profilu](https://tempvoice.xyz/profile) > **Zakładka TempVoice Premium** > **Aktywuj Premium**.",
 
     "voice_waiting_1": "**Niemożliwe** Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
