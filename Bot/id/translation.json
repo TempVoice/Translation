@@ -49,7 +49,7 @@
     "error_limit": "**Tidak Memungkinan.** Batas untuk creator kanal dalam 1 server adalah: {val1}. Coba hapus salah satu atau dengan cara: [premium](<https://tempvoice.xyz/id/premium>) untuk menambahkan lebih banyak.",
     "error_ratelimit": "**Pelan Pelan** Kamu baru saja menggunakan perintah ini pada **{val1}**.",
     "error_creation": "**Pelan-Pelan** Kamu baru saja membuat kanal baru pada **{val1}**.",
-    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
+    "error_webhook": "**Gagal** Sepertinya ada bot lain yang menghalangiku untuk membuat Webhook, Sepeti bot keamanan atau lainnya. Harap periksa lagi",
     "error_totallimit": "**Gagal** Batas maksimum kanal sementara sebanyak **{val1}** telah tercapai di server Discord ini karena terbatas. Silakan coba nanti.",
     "error_discordlimit": "**Tidak bisa** Semua kategori yang tersedia telah mencapai batas maksimal 50 kanal setiap kategori. Jika kamu seorang admin, kamu bisa menambahkan kategori **Fallback** lebih banyak di panel, jika tidak, mohon coba lagi nanti.",
     "error_cb": "**Tidak boleh!** Kamu mencoba untuk menggunakan bot [TempVoice Custom Branding](https://tempvoice.xyz/id) di sini, yang dimana pemilik dari bot ini belum mengaktifkan TempVoice Premium. jika kamu adalah pemilik bot ini, aktifkan itu di [Profile](https://tempvoice.xyz/id/profile) > **TempVoice Premium Tab** > **Activate Premium**.",
