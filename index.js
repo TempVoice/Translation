@@ -24,6 +24,7 @@ let arr = [
 	'uk',
 	'vi',
 	'zh-TW',
+	'zh-CH',
 	'ja',
 	'da',
 ]
