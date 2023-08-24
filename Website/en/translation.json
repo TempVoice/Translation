@@ -185,7 +185,7 @@
   "component_ownerpermissions_option_lfp": "Look for people (lfp)",
   "component_ownerpermissions_option_users": "Trust/block users",
   "component_ownerpermissions_option_chat": "Use in-voice chat",
-  "component_ownerpermissions_option_close": "Force Close Channel",
+  "component_ownerpermissions_option_close": "Force close channel",
 
   "component_category_title": "Temporary Channel Category (Primary)",
   "component_category_menu_lable": "No Category Selected",
