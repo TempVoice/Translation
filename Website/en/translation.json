@@ -18,7 +18,7 @@
   "status_statistics_2": "Total Number Of Shards",
   "status_statistics_3": "Total Number Of Servers",
   "status_statistics_4": "Total Number Of Users",
-  "status_alert_offline": "TempVoice is currently only partially available. Please be patient.",
+  "status_alert_offline": "TempVoice is currently partially unavailable. We apologize for the inconvenience.",
   "status_alert_online": "TempVoice is fully operational",
 
   "server_selection": "Select a Discord server to edit TempVoice's configuration or to invite the bot to a different server.",
@@ -154,7 +154,7 @@
   "component_placeholder_activity_1_description": "Default name for when the user has no Discord activity (Playing no game)",
   "component_placeholder_activity_2_description": "Default name for when the user's activity has no details",
   "component_placeholder_activity_3_description": "Default name for when the user's activity has no state",
-  "component_placeholder_activity_4_description": "Default name for when the user's activity does not have an emoji",
+  "component_placeholder_activity_4_description": "Default name for when the user's status does not have an emoji",
 
   "component_name_title": "Temporary Channel Name",
   "component_name_button_lable": "Available Placeholders ✨",
@@ -163,9 +163,9 @@
   "component_limit_title": "Temporary Channel User Limit",
   "component_limit_description": "Default user limit for temporary channels",
 
-  "component_ownerpermissions_title": "Manage Settings for Temporary Channels",
+  "component_ownerpermissions_title": "Available Temporary Channels Commands",
   "component_ownerpermissions_menu_lable": "Manage Settings",
-  "component_ownerpermissions_description": "Choose which TempVoice settings can be used by temporary channel owners",
+  "component_ownerpermissions_description": "Select which TempVoice commands can be used by temporary channel owners",
   "component_ownerpermissions_modal_description_1": "This makes temporary channels unmanageable by the user who created the channel. This can be useful if you use temporary channels as public channels.",
   "component_ownerpermissions_modal_description_2": "Unchecking an option will disable the '/voice' command and the interface button associated with it; in addition, any changes previously made related to that option will be reverted.",
   "component_ownerpermissions_option_ownerless": "Ownerless Mode",
