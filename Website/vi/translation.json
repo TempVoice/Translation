@@ -185,6 +185,7 @@
   "component_ownerpermissions_option_lfp": "Tìm kiếm người (lfp)",
   "component_ownerpermissions_option_users": " tin cậy/chặn người dùng",
   "component_ownerpermissions_option_chat": "Sử dụng trò chuyện thoại",
+  "component_ownerpermissions_option_close": "Force Close Channel",
   
   "component_category_title": "Danh mục kênh tạm thời (Cấp chính)",
   "component_category_menu_lable": "Không có danh mục nào được chọn",

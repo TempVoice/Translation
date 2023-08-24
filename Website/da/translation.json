@@ -185,6 +185,7 @@
   "component_ownerpermissions_option_lfp": "Se efter mennesker",
   "component_ownerpermissions_option_users": "Betro/bloker brugere",
   "component_ownerpermissions_option_chat": "Brug stemmekanal chatten",
+  "component_ownerpermissions_option_close": "Force Close Channel",
 
   "component_category_title": "Midlertidig Kanalkategori (Primær)",
   "component_category_menu_lable": "Ingen Kategori Valgt",
