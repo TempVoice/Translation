@@ -1,16 +1,16 @@
 {
   "slogan_title_part_1": "Временный",
   "slogan_title_part_2": "вместо статичного",
-  "slogan_description": "TempVoice делает ваш сервер более аккуратным, добавляя временные голосовые каналы. Пустые каналы удаляются немедленно, а создание новых можно одним кликом.",
+  "slogan_description": "TempVoice делает ваш сервер более аккуратным, добавляя временные голосовые каналы. Пустые каналы удаляются немедленно, а создать новый можно одним кликом.",
   
   "featured_title": "Нам доверяют Ваши фавориты",
   "featured_description": "TempVoice используют тысяче серверов и сотни тысяч пользователей.",
   
-  "introduction_title": "Что такое Временные Каналы?",
+  "introduction_title": "Что такое временные каналы?",
   "introduction_description": "Временные голосовые каналы создаются заходом в канал-создатель и удаляются, когда все покидают его.",
 
   "setup_title": "Как настроить TempVoice?",
-  "setup_description": "Начни пользоваться TempVoice, использовав команду /setup в вашшем Discord сервере. TempVoice настроит базовые каналы, которые нужны для создания и управления временными каналами!",
+  "setup_description": "Начни пользоваться TempVoice, написав команду /setup в вашем Discord сервере. TempVoice настроит базовые каналы, которые нужны для создания и управления временными каналами!",
   
   "status_title": "Бот работает как следует?",
   "status_description": "TempVoice разделён на шарды и кластеры для лучшей производительности. Каждый кластер хранит в себе до 5 шардов, которые отвечают примерно за 5000 Discord серверов.",
@@ -32,7 +32,7 @@
   "creators_description": "Укажите как временные голосовые каналы создаются. Обозначьте название по умолчанию, ограничения, права и так далее.",
 
   "interface_title": "Интерфейс",
-  "interface_description": "Используется пользователями для управления време.",
+  "interface_description": "Используется пользователями для управления временными каналами.",
 
   "config_tab_1": "Общие",
   "config_tab_2": "Права",
@@ -79,7 +79,7 @@
   "button_lable_join_continue": "Да, пожалуйста",
 
   "join_support": "Хотели бы вступить в наш Discord?",
-  "excordo_quote": "Благодарю за интерес в сторону TempVoice, бота, который изменит то, как вы используете Discord. Я годами сфокусирован на нуждах и желаниях сообщества, дабы сделать ваши Discord сервера лучпе!",
+  "excordo_quote": "Благодарю за интерес в сторону TempVoice, бота, который изменит то, как вы используете Discord. Я годами сфокусирован на нуждах и желаниях сообщества, дабы сделать ваши Discord сервера лучше!",
 
   "component_status_title": "На каком кластере мой сервер?",
   "component_status_description_1": "Введите ID сервера в поисковую строку",
@@ -130,13 +130,13 @@
   "component_permissionsowner_option_vad": "Режим активации по голосу",
   "component_permissionsowner_option_speaker": "Приоритетный режим",
   "component_permissionsowner_option_move": "Перемещение участников",
-  "component_permissionsowner_information": "Данная опция требует право Администратора у Tempvoice.",
+  "component_permissionsowner_information": "Данная опция требует право Администратора у TempVoice.",
 
   "component_syncpermissions_title": "Синхронизация прав",
   "component_syncpermissions_menu_option_1": "Синхронизация с категорией",
-  "component_syncpermissions_menu_option_2": "Синхронизация с каналомом-создателем",
+  "component_syncpermissions_menu_option_2": "Синхронизация с каналом-создателем",
   "component_syncpermissions_menu_option_3": "Без синхронизации",
-  "component_syncpermissions_description": "Синхронизируйте права временных каналов с категорией или с каналом-создателем.",
+  "component_syncpermissions_description": "Синхронизируйте права временных каналов с категорией или с каналом-создателем",
 
   "component_namewaiting_title": "Название прихожой",
   "component_namewaiting_description": "Название для прихожой (По умолчанию: Join Me)",
@@ -166,7 +166,7 @@
   "component_ownerpermissions_title": "Доступные команды временных каналов",
   "component_ownerpermissions_menu_lable": "Управление настройками",
   "component_ownerpermissions_description": "Выберите какие команды доступны владельцам временных каналов",
-  "component_ownerpermissions_modal_description_1": "Это сделает временные каналы неуправляемыми их создателями. Это полезно, если вы используйте временные каналы, как публичные.",
+  "component_ownerpermissions_modal_description_1": "Это сделает временные каналы неуправляемыми для их создателей. Это полезно, если вы используете временные каналы, как публичные.",
   "component_ownerpermissions_modal_description_2": "При отключении опции, команда '/voice' и связанная с ней кнопка интерфейса станут недоступными; кроме того, любые изменения, внесенные ранее будут сброшены.",
   "component_ownerpermissions_option_ownerless": "Режим без владельца",
   "component_ownerpermissions_option_name": "Редактирование названия канала",
@@ -175,7 +175,7 @@
   "component_ownerpermissions_option_bitrate": "Редактирование битрейта канала",
   "component_ownerpermissions_option_thread": "Создание временных веток",
   "component_ownerpermissions_option_wait": "Создание прихожой",
-  "component_ownerpermissions_option_lock_chat": "Закрытые внутреканального чата",
+  "component_ownerpermissions_option_lock_chat": "Закрытие внутреканального чата",
   "component_ownerpermissions_option_lock": "Закрывать канал",
   "component_ownerpermissions_option_hide": "Скрывать канал",
   "component_ownerpermissions_option_claim": "Забирать канал",
@@ -183,7 +183,7 @@
   "component_ownerpermissions_option_kick": "Исключать из канала",
   "component_ownerpermissions_option_invite": "Приглашать в канал",
   "component_ownerpermissions_option_lfp": "Поиск людей (lfp)",
-  "component_ownerpermissions_option_users": "Доверие/блокировка пользовтелей",
+  "component_ownerpermissions_option_users": "Доверие/блокировка пользователей",
   "component_ownerpermissions_option_chat": "Использование внутреканального чата",
   "component_ownerpermissions_option_close": "Принудительно закрывать канал",
 
