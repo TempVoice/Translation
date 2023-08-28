@@ -1,6 +1,7 @@
 [
   {
-    "lang": "pl"
+    "lang": "pl",
+    "discord_lang": "pl"
   },
   {
     "cmd_voice_waiting_description": "Stwórz poczekalnię dla próśb do dołączenia na Twój tymczasowy kanał",

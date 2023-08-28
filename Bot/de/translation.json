@@ -1,6 +1,7 @@
 [
   {
-    "lang": "de"
+    "lang": "de",
+    "discord_lang": "de"
   },
   {
     "cmd_voice_waiting_description": "Erstelle einen Warteraum für Beitrittsanfragen zu deinem temporären Kanal",

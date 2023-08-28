@@ -1,37 +1,11 @@
 [
   {
-    "lang": "de_berlin",
+    "lang": "de_berlin"
   },
   {
-    "cmd_voice_waiting_description": "Erstell wa für Beitrittsanfragen zu de'm temporären Kanal",
-    "cmd_voice_bitrate_description": "Änder die Audio-Qualität vom temporären Kanal",
-    "cmd_voice_block_description": "Blockier Nutza, damit die de'n temporären Kanal nich mehr sehn könn",
-    "cmd_voice_claim_description": "Beanspruch nen temporären Kanal, wenn der Besitza den verlass'n hat",
-    "cmd_voice_close_description": "Lösch nen temporären Kanal, bevo alle Nutza den verlass'n hab'n",
-    "cmd_voice_info_description": "Bekomm Infos über de Konfigurazion von 'nem temporären Kanal",
-    "cmd_voice_invite_description": "La'de nen Nutza in de'n temporären Kanal ein",
-    "cmd_voice_kick_description": "Kick nen Nutza aus de'm temporären Kanal",
-    "cmd_voice_limit_description": "Änder de Nutza-Limit von de'm temporären Kanal",
-    "cmd_voice_name_description": "Änder de Namen von de'm temporären Kanal",
-    "cmd_voice_privacy_description": "Änder de Datenschutz vom temporären Kanal, um den zu Sperren oda zu Versteck'n",
-    "cmd_voice_region_description": "Änder de Region von de'm temporären Kanal",
-    "cmd_voice_thread_description": "Erstell nen temporären Thread für de'n temporären Kanal",
-    "cmd_voice_transfer_description": "Übertrag' de Kontrolle von de'm temporären Kanal auf nen annan Nutza",
-    "cmd_voice_trust_description": "Befreund' Nutza, damit die de'm temporären Kanal jederzei beitretn kön'n",
-    "cmd_voice_unblock_description": "Entblockier Nutza von de'm temporären Kanal",
-    "cmd_voice_untrust_description": "Entfreund Nutza von de'm temporären Kanal",
-    "cmd_voice_Nutzers_description": "Bekomm ne Liste mit allen befreundeten und blockierten Nutza von de'm temporären Kanal",
-    "cmd_voice_password_description": "Leg nen Passwort fest, damit anna Nutza's Passwo't angeben muss'n, um de'm temporären Kanal beitzitrete'",
-    "cmd_voice_reset_description": "Setz de Konfigurazion von de'm temporären Kanal zurück",
-    "cmd_voice_lfp_description": "Schick den Einladungslink von de'm temporären Kanal in den Chat",
-
-    "cmd_join_description": "Tritt 'nem temporären Kanal mit 'nem Passwort bei",
-    "cmd_setup_tempvoice_description": "Richt TempVoice mit 'nem Assistenten in Sekundeschnelle ei'n",
-    "cmd_help_description": "Bekomm Hilf' fü'n TempVoice Discord Bot",
-
     "info_setup": "**Eirichtung abgeschlossn!**. {val1} kann jezzz verwendet wer'n, um temporäre Kanäle auf detn Discord Serva zu erstelln!",
     "info_setup2": "**Eirichtung abgeschlossn!**. Dieses [Interface]({val1}) kann jezzz verwendet wer'n, um temporäre Kanäle auf detn Discord Serva zu veddwalten!",
-    "info_reset": "**Zurückjesetzt!** Die Konfigurazion is wieda auf de Standadeinstellungen.";
+    "info_reset": "**Zurückjesetzt!** Die Konfigurazion is wieda auf de Standadeinstellungen.",
 
     "error_validated": "**Nisch gültich!** {val1} Bitte kontaktiere ne Admina. Diesa Creator Channel is nich mehr jültich, weil det Premium-Level je'aschtuffed oda det Abonnement jekündigt wurde.",
     "error_ownerless": "**Nich möglich!** Temporäre Kanäle von {val1} habn ke'n Besitza und könn nich bearedit werd'n.",

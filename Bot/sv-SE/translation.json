@@ -1,6 +1,7 @@
 [
   {
-    "lang": "sv-SE"
+    "lang": "sv-SE",
+    "discord_lang": "sv-SE"
   },
   {
     "cmd_voice_waiting_description": "Skapa ett väntrum för anslutningsbegäran till din tillfälliga kanal",

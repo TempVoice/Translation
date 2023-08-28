@@ -1,6 +1,7 @@
 [
   {
-    "lang": "pt"
+    "lang": "pt",
+    "discord_lang": "pt-BR"
   },
   {
     "cmd_voice_waiting_description": "Crie uma sala de espera para solicitação ao seu canal temporário",

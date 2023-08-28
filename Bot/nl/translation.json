@@ -1,6 +1,7 @@
 [
   {
-    "lang": "nl"
+    "lang": "nl",
+    "discord_lang": "nl"
   },
   {
     "cmd_voice_waiting_description": "Creëer een wachtkamer voor een verzoek om lid te worden van je tijdelijke kanaal",

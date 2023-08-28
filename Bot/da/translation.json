@@ -1,6 +1,7 @@
 [
   {
-    "lang": "da"
+    "lang": "da",
+    "discord_lang": "da"
   },
   {
     "cmd_voice_waiting_description": "Opret et venteværelse for tilmeldingsanmodning til din midlertidige kanal",

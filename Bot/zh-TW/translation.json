@@ -1,6 +1,7 @@
 [
   {
-    "lang": "zh-TW"
+    "lang": "zh-TW",
+    "discord_lang": "zh-TW"
   },
   {
     "cmd_voice_waiting_description": "為您的臨時頻道創建等待室，需要經過請求才能加入",

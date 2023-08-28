@@ -1,6 +1,7 @@
 [
   {
-    "lang": "en"
+    "lang": "en",
+    "discord_lang": "en-US"
   },
   {
     "cmd_voice_waiting_description": "Create a waiting room for join request to your temporary channel",
