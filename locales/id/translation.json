@@ -1,6 +1,7 @@
 [
   {
-    "lang": "id"
+    "lang": "id",
+    "discord_lang": "id"
   },
   {
     "cmd_voice_waiting_description": "Buat ruang tunggu for join request ke Kanal sementara ini",

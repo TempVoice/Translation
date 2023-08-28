@@ -1,6 +1,7 @@
 [
   {
-    "lang": "hu"
+    "lang": "hu",
+    "discord_lang": "hu"
   },
   {
     "cmd_voice_waiting_description": "Hozzon létre egy várótermet az ideiglenes csatornához való csatlakozási kérelemre",
