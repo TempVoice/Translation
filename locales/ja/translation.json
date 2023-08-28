@@ -1,7 +1,6 @@
 [
 	{
-		"lang": "ja",
-		"discord_lang": "ja"
+		"lang": "ja"
 	},
 	{
 		"cmd_voice_waiting_description": "あなたの一時的なチャンネルへの参加リクエストのための待機室を作成します",

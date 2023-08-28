@@ -1,7 +1,6 @@
 [
   {
-    "lang": "fr",
-    "discord_lang": "fr"
+    "lang": "fr"
   },
   {
     "cmd_voice_waiting_description": "Créer une salle d'attente pour la demande d'adhésion à votre salon temporaire",

@@ -1,7 +1,6 @@
 [
     {
-      "lang": "vi",
-      "discord_lang": "vi"
+      "lang": "vi"
     },
     {
       "cmd_voice_waiting_description": "Tạo phòng chờ cho yêu cầu tham gia vào kênh thoại tạm thời của cậu",
