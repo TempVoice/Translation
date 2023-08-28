@@ -1,7 +1,7 @@
 [
   {
     "lang": "de_berlin",
-    "discord_lang": null // Berlin DE is only with a accent its not a own language
+    "discord_lang": null
   },
   {
     "cmd_voice_waiting_description": "Erstell wa für Beitrittsanfragen zu de'm temporären Kanal",
