@@ -1,7 +1,6 @@
 [
   {
-    "lang": "zh",
-    "discord_lang": "zh-CN"
+    "lang": "zh-CN"
   },
   {
     "cmd_voice_waiting_description": "为您的临时频道创建一个等候室，以便用户请求加入",

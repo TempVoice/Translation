@@ -1,7 +1,6 @@
 [
   {
-    "lang": "it",
-    "discord_lang": "it"
+    "lang": "it"
   },
   {
     "cmd_voice_waiting_description": "Crea una sala d'attesa per le richieste di entrare nel tuo canale temporaneo",

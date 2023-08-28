@@ -1,7 +1,6 @@
 [
   {
-    "lang": "cs",
-    "discord_lang": "cs"
+    "lang": "cs"
   },
   {
     "cmd_voice_waiting_description": "Vytvoření čekárny pro žádosti o připojení k dočasnému kanálu",

@@ -1,7 +1,6 @@
 [
   {
-    "lang": "tr",
-    "discord_lang": "tr"
+    "lang": "tr"
   },
   {
     "cmd_voice_waiting_description": "Geçici kanalınıza, katılma isteği atılması için bir bekleme odası oluşturun.",

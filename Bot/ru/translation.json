@@ -1,7 +1,6 @@
 [
   {
-    "lang": "ru",
-    "discord_lang": "ru"
+    "lang": "ru"
   },
   {
     "cmd_voice_waiting_description": "Создать комнату ожидания для запроса на присоединение к временному каналу",

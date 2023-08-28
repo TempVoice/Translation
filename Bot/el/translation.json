@@ -1,7 +1,6 @@
 [
   {
-    "lang": "el",
-    "discord_lang": "el"
+    "lang": "el"
   },
   {
     "cmd_voice_waiting_description": "Δημιουργία waiting room ως αναμονή μέχρι να σας τραβήξουν στο κανάλι",
