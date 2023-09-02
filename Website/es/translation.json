@@ -24,15 +24,15 @@
   "server_selection": "Elige un Servidor de Discord para editar la configuration de TempVoice o invita al bot a un servidor diferente.",
   
   "appearance_title": "Apariencia",
-  "appearance_description": "Customize TempVoice to match the style of your Discord server and change the language and color theme of the interface.",
+  "appearance_description": "Personaliza TempVoice para adaptarse al estilo de tu Servidor de Discord, elige un lenguaje y cambia la temática de color de la Interfaz.",
   "appearance_language_title": "Lenguaje",
   "appearance_colortheme_title": "Temática de Color",
 
   "creators_title": "Creadores",
-  "creators_description": "Define how temporary voice channels are created. Specify a default name, limit, permissions and more.",
+  "creators_description": "Define como los 'Canales de Voz Temporal' son creados. Especifica un nombre por defecto, limitaciones, permisos y más.",
 
   "interface_title": "Interfaz",
-  "interface_description": "Allows users to control their temporary voice channels.",
+  "interface_description": "Permite a los usuarios controlar su propio 'Canal de Voz Temporal'",
 
   "config_tab_1": "Vista General",
   "config_tab_2": "Permisos",
@@ -44,22 +44,22 @@
   "navbar_support": "Soporte",
   
   "premium_slogan_title": "Tu propio plan Premium",
-  "premium_slogan_description": "Unlock the full potential of your server by getting unrestricted access to all features. Cancel at any time.",
-  "premium_title": "More Customization. More Freedom.",
-  "premium_description": "Make TempVoice your own and enjoy the freedom to customize the bot the way you want it, with no limits.",
-  "premium_feature_1": "Fully Customizable Interfaces",
-  "premium_feature_2": "Unlimited Creator Channels",
-  "premium_feature_3": "No Voting Requirements",
-  "premium_feature_4": "Your Own Discord Bot",
-  "premium_feature_5": "Discord Servers",
-  "premium_cycle_monthly": "monthly",
-  "premium_cycle_yearly": "yearly",
+  "premium_slogan_description": "Desbloquea todo el potencial de tu servidor al conseguir acceso ilimitado a todas las funcionalidades. Cancela cuando gustes.",
+  "premium_title": "Mayor personalización. Mayor libertad.",
+  "premium_description": "Haz de TempVoice tuyo y disfruta de la libertad de personalizarlo como desees, sin limitaciones.",
+  "premium_feature_1": "Interfaces Completamente Personalizables",
+  "premium_feature_2": "Ilimitados 'Creator Channels'",
+  "premium_feature_3": "Sin requerimientos de voto",
+  "premium_feature_4": "Tu propio Bot de Discord",
+  "premium_feature_5": "Servidores de Discord",
+  "premium_cycle_monthly": "mensual",
+  "premium_cycle_yearly": "anual",
   "premium_highlighed_title_1": "Tu propio bot",
-  "premium_highlighed_description_1": "Customizable profile picture, name, status, about me, and the ability to show the current playing game as temporary channel name",
-  "premium_highlighed_title_2": "Yearly Subscription",
-  "premium_highlighed_description_2": "Save 16% with a yearly billing cycle",
-  "premium_upgrade_disclaimer": "When you upgrade your Premium subscription, you will immediately be charged the difference in the monthly price you have already paid. You can only upgrade your subscription once a month.",
-  "premium_custombranding_description": "Custom Branding allows you to change the TempVoice's appearance by customizing its avatar, name, status, and about me. Remember to activate Premium on the Discord server you want to use the bot on.",
+  "premium_highlighed_description_1": "Avatar personalizable, nombre, estado, biografía, y la habilidad de mostrar el juego en curso como nombre del 'Canal de Voz Tempooral'",
+  "premium_highlighed_title_2": "Suscripción Anual",
+  "premium_highlighed_description_2": "Ahorra 16% con una suscripción anual",
+  "premium_upgrade_disclaimer": "Cuando mejores tu suscripción Premium, inmediatamente se te cobrará la diferencia en el mes actual que ya pagaste. Solo puedes mejorar tu suscripción una vez al mes.",
+  "premium_custombranding_description": "Una marca personalizada te permite cambiar la apariencia de TempVoice al personalizar su avatar, nombre, estado y biografía. Recuerda activar el Premium en el servidor en el que quieras usarlo.",
 
   "placeholder_description_1": "If you use the {PRIVACY} placeholder, the channel name will be updated when you change the channel's privacy settings. This is only possible every 5 minutes due to Discord's limitations.",
   "placeholder_description_2": "Displays the name of the owner's highest role, regardless of whether the role is separated in the online member list.",
@@ -215,8 +215,8 @@
   "component_sendinterface_menu_option": "No Channel Selected",
   "component_sendinterface_description": "Select a text channel to send the interface to",
 
-  "save_changes_title": "Careful – you have unsaved changes!",
-  "save_changes_button_lable_1": "Reset",
-  "save_changes_button_lable_2": "Save Changes"
+  "save_changes_title": "Cuidado – ¡Tienes cambios sin guardar!",
+  "save_changes_button_lable_1": "Resetear",
+  "save_changes_button_lable_2": "Guardar cambios"
 }
 
