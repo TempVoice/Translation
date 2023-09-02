@@ -1,1 +1,222 @@
+{
+  "slogan_title_part_1": "Temporal",
+  "slogan_title_part_2": "mejor que permanente",
+  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporal'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
+  
+  "featured_title": "Respaldado por tus Servidores Favoritos",
+  "featured_description": "Miles de Servidores de Discord y más de un millón de personas eligen TempVoice.",
+  
+  "introduction_title": "¿Qué es un 'Canal Temporal'?",
+  "introduction_description": "Un canal de voz temporal es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
+
+  "setup_title": "¿Cómo configuro TempVoice?",
+  "setup_description": "Empieza a usar TempVoice con el comando /setup en tu Servidor de Discord. ¡TempVoice creará los canales necesarios para crear y gestionar 'Canales de Voz Temporal'!",
+  
+  "status_title": "¿El bot está funcionando adecuadamente?",
+  "status_description": "TempVoice está dividido en particiones y nodos para un mejor rendimiento. Cada nodo tiene hasta 5 particiones y soporta al rededor de 5000 Servidores de Discord.",
+  "status_statistics_1": "Número total de Nodos",
+  "status_statistics_2": "Número total de Particiones",
+  "status_statistics_3": "Número total de Servidores",
+  "status_statistics_4": "Número total de Usuarios",
+  "status_alert_offline": "TempVoice está ahora mismo parcialmente no disponible. Nos disculpamos por el inconveniente.",
+  "status_alert_online": "TempVoice está completamente operativo",
+
+  "server_selection": "Elige un Servidor de Discord para editar la configuration de TempVoice o invita al bot a un servidor diferente.",
+  
+  "appearance_title": "Apariencia",
+  "appearance_description": "Customize TempVoice to match the style of your Discord server and change the language and color theme of the interface.",
+  "appearance_language_title": "Lenguaje",
+  "appearance_colortheme_title": "Temática de Color",
+
+  "creators_title": "Creadores",
+  "creators_description": "Define how temporary voice channels are created. Specify a default name, limit, permissions and more.",
+
+  "interface_title": "Interfaz",
+  "interface_description": "Allows users to control their temporary voice channels.",
+
+  "config_tab_1": "Vista General",
+  "config_tab_2": "Permisos",
+  "config_tab_3": "Misceláneo",
+
+  "navbar_home": "Inicio",
+  "navbar_setup": "Configuración",
+  "navbar_premium": "Premium",
+  "navbar_support": "Soporte",
+  
+  "premium_slogan_title": "Tu propio plan Premium",
+  "premium_slogan_description": "Unlock the full potential of your server by getting unrestricted access to all features. Cancel at any time.",
+  "premium_title": "More Customization. More Freedom.",
+  "premium_description": "Make TempVoice your own and enjoy the freedom to customize the bot the way you want it, with no limits.",
+  "premium_feature_1": "Fully Customizable Interfaces",
+  "premium_feature_2": "Unlimited Creator Channels",
+  "premium_feature_3": "No Voting Requirements",
+  "premium_feature_4": "Your Own Discord Bot",
+  "premium_feature_5": "Discord Servers",
+  "premium_cycle_monthly": "monthly",
+  "premium_cycle_yearly": "yearly",
+  "premium_highlighed_title_1": "Tu propio bot",
+  "premium_highlighed_description_1": "Customizable profile picture, name, status, about me, and the ability to show the current playing game as temporary channel name",
+  "premium_highlighed_title_2": "Yearly Subscription",
+  "premium_highlighed_description_2": "Save 16% with a yearly billing cycle",
+  "premium_upgrade_disclaimer": "When you upgrade your Premium subscription, you will immediately be charged the difference in the monthly price you have already paid. You can only upgrade your subscription once a month.",
+  "premium_custombranding_description": "Custom Branding allows you to change the TempVoice's appearance by customizing its avatar, name, status, and about me. Remember to activate Premium on the Discord server you want to use the bot on.",
+
+  "placeholder_description_1": "If you use the {PRIVACY} placeholder, the channel name will be updated when you change the channel's privacy settings. This is only possible every 5 minutes due to Discord's limitations.",
+  "placeholder_description_2": "Displays the name of the owner's highest role, regardless of whether the role is separated in the online member list.",
+  "placeholder_description_3": "Displays the name of the owner's highest role, which is separated in the online member list.",
+  "placeholder_description_4": "This placeholder will be replaced with the name that the owner has chosen for their channel using the '/voice name' command. When the owner chooses a new name, only the part of the placeholder is changed, the rest remains untouched.",
+
+  "button_lable_invite": "Invitar TempVoice",
+  "button_lable_dashboard": "Open Dashboard",
+  "button_lable_login": "Login with Discord",
+  "button_lable_logout": "Logout",
+  "button_lable_subscribe": "Checkout with Stripe",
+  "button_lable_premium": "Manage Subscription",
+  "button_lable_upgrade": "Upgrade Premium",
+  "button_lable_upgrade_cancel": "No, I changed my mind",
+  "button_lable_upgrade_continue": "Yes, please upgrade",
+  "button_lable_join_cancel": "No, just login",
+  "button_lable_join_continue": "Yes, please",
+
+  "join_support": "Would you like to join our Discord?",
+  "excordo_quote": "Thank you for your interest in TempVoice, a bot that will change the way how you use Discord. Over the years, I have focused on the needs and wishes of the community to make your Discord server a better place!",
+
+  "component_status_title": "What cluster is my server on?",
+  "component_status_description_1": "Enter your Server ID in the search box",
+  "component_status_description_2": "Your server is on:",
+
+  "component_bitrate_title": "Temporary Channel Bitrate",
+  "component_bitrate_menu_lable": "Highest Possible",
+  "component_bitrate_description": "Default temporary channels bitrate",
+
+  "component_totallimit_title": "Total Limit of Temporary Channels",
+  "component_totallimit_description": "The total number of temporary channels that can exist at the same time",
+
+  "component_premium_menu_lable": "Activate Premium",
+  "component_premium_menu_description": "Available Discord Servers:",
+
+  "component_sendmessage_title": "Send Welcome Message",
+  "component_sendmessage_description": "Send a welcome message to a temporary channel after creating it",
+
+  "component_roleparticipant_title": "In-Voice Role",
+  "component_roleparticipant_menu_lable": "No Role Selected",
+  "component_roleparticipant_description": "Assigns a role to users in a temporary channel, removes the role when they disconnect",
+
+  "component_roleseveryone_title": "Member Role",
+  "component_roleseveryone_menu_lable": "Select Multiple Roles",
+  "component_roleseveryone_description": "Role that is required to be able to view temporary channels",
+
+  "component_restore_title": "Restore Owner Settings",
+  "component_restore_menu_lable": "Manage Restore Options",
+  "component_restore_menu_option_1": "Personalized Name",
+  "component_restore_menu_option_2": "Personalized User Limit",
+  "component_restore_menu_option_3": "Trusted & Blocked Users",
+  "component_restore_menu_option_4": "Privacy Preferences",
+  "component_restore_description": "Restore the properties of temporary channels as they were before they were deleted",
+
+  "component_position_title": "Temporary Channel Position",
+  "component_position_menu_option_1": "Below the Creator",
+  "component_position_menu_option_2": "Above the Creator",
+  "component_position_description": "Position of temporary channels when created (Default: Below)",
+
+  "component_permissionsowner_title": "Additional Discord Permissions for Owners",
+  "component_permissionsowner_menu_lable": "Manage Permissions",
+  "component_permissionsowner_description": "Additional Discord permissions for the owner of a temporary channel",
+  "component_permissionsowner_option_invite": "Create Invite",
+  "component_permissionsowner_option_channel": "Manage Channel",
+  "component_permissionsowner_option_permissions": "Manage Permissions",
+  "component_permissionsowner_option_messages": "Manage Messages",
+  "component_permissionsowner_option_stream": "Video (Screenshare & Webcam)",
+  "component_permissionsowner_option_vad": "Use Voice Activity",
+  "component_permissionsowner_option_speaker": "Priority Speaker",
+  "component_permissionsowner_option_move": "Move Members",
+  "component_permissionsowner_information": "This option requires TempVoice to have Administrator permission.",
+
+  "component_syncpermissions_title": "Synchronize Permissions",
+  "component_syncpermissions_menu_option_1": "Sync from Category",
+  "component_syncpermissions_menu_option_2": "Sync from Creator",
+  "component_syncpermissions_menu_option_3": "Don't sync",
+  "component_syncpermissions_description": "Synchronize temporary channel permissions with category or Creator permissions",
+
+  "component_namewaiting_title": "Waiting Room Name",
+  "component_namewaiting_description": "Name for waiting rooms (Default: Join Me)",
+
+  "component_placeholder_title": "Default Name for Placeholders",
+  "component_placeholder_menu_lable": "Manage Default Names",
+  "component_placeholder_description": "Default name for placeholders when they have no value to display",
+
+  "component_placeholder_role_description": "Default name for when the user has no roles (Default: Username)",
+  "component_placeholder_custom_description": "Default name for when the user leaves the channel name field blank (Default: Username)",
+  "component_placeholder_random_description": "List of words that will be randomly selected to replace this placeholder",
+  "component_placeholder_privacy_1_description": "Default name for when the temporary channel is locked (Default: 🔒)",
+  "component_placeholder_privacy_2_description": "Default name for when the temporary channel is unlocked and visible (Default: 🔓)",
+  "component_placeholder_privacy_3_description": "Default name for when the temporary channel is hidden (Default: 😎)",
+  "component_placeholder_activity_1_description": "Default name for when the user has no Discord activity (Playing no game)",
+  "component_placeholder_activity_2_description": "Default name for when the user's activity has no details",
+  "component_placeholder_activity_3_description": "Default name for when the user's activity has no state",
+  "component_placeholder_activity_4_description": "Default name for when the user's status does not have an emoji",
+
+  "component_name_title": "Temporary Channel Name",
+  "component_name_button_lable": "Available Placeholders ✨",
+  "component_name_description": "Default name for temporary channels",
+
+  "component_limit_title": "Temporary Channel User Limit",
+  "component_limit_description": "Default user limit for temporary channels",
+
+  "component_ownerpermissions_title": "Available Temporary Channels Commands",
+  "component_ownerpermissions_menu_lable": "Manage Settings",
+  "component_ownerpermissions_description": "Select which TempVoice commands can be used by temporary channel owners",
+  "component_ownerpermissions_modal_description_1": "This makes temporary channels unmanageable by the user who created the channel. This can be useful if you use temporary channels as public channels.",
+  "component_ownerpermissions_modal_description_2": "Unchecking an option will disable the '/voice' command and the interface button associated with it; in addition, any changes previously made related to that option will be reverted.",
+  "component_ownerpermissions_option_ownerless": "Ownerless Mode",
+  "component_ownerpermissions_option_name": "Edit channel name",
+  "component_ownerpermissions_option_limit": "Edit channel user limit",
+  "component_ownerpermissions_option_region": "Edit channel region",
+  "component_ownerpermissions_option_bitrate": "Edit channel bitrate",
+  "component_ownerpermissions_option_thread": "Create temporary threads",
+  "component_ownerpermissions_option_wait": "Create waiting rooms",
+  "component_ownerpermissions_option_lock_chat": "Lock in-voice chat",
+  "component_ownerpermissions_option_lock": "Lock channel",
+  "component_ownerpermissions_option_hide": "Hide channel",
+  "component_ownerpermissions_option_claim": "Claim channels",
+  "component_ownerpermissions_option_transfer": "Transfer channels",
+  "component_ownerpermissions_option_kick": "Kick users from channel",
+  "component_ownerpermissions_option_invite": "Invite users to channel",
+  "component_ownerpermissions_option_lfp": "Look for people (lfp)",
+  "component_ownerpermissions_option_users": "Trust/block users",
+  "component_ownerpermissions_option_chat": "Use in-voice chat",
+  "component_ownerpermissions_option_close": "Forcibly close channel",
+
+  "component_category_title": "Temporary Channel Category (Primary)",
+  "component_category_menu_lable": "No Category Selected",
+  "component_category_description": "Primary category for temporary channels",
+
+  "component_fallback_title": "Temporary Channel Category (Fallbacks)",
+  "component_fallback_menu_lable": "Select Categories",
+  "component_fallback_description": "Fallback categories for when the primary reaches its 50 channel limit",
+
+  "component_censor_title": "Censor Channel Names",
+  "component_censor_placeholder": "Type a word and press Enter",
+  "component_censor_description": "Censor up to 30 words that cannot be used as temporary channel names",
+
+  "component_matchmaking_title": "Temporary Channel Fillup",
+  "component_matchmaking_menu_option_1": "Enabled",
+  "component_matchmaking_menu_option_2": "Disabled",
+  "component_matchmaking_description": "Move users into existing temporary channels before creating new ones (Requires: User Limit 1-99)",
+
+  "component_custombranding_title": "Bot Token",
+  "component_custombranding_button_lable": "How do I get a bot token?",
+  "component_custombranding_description": "Enter a Discord bot token to allow us to set up a separate server for your bot. Do not use this token anywhere else or share it with anyone. Treat it like a password!",
+
+  "component_custombrandingactivity_title": "Bot Activity (Status)",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot.",
+
+  "component_sendinterface_menu_lable": "Select a Text Channel",
+  "component_sendinterface_menu_option": "No Channel Selected",
+  "component_sendinterface_description": "Select a text channel to send the interface to",
+
+  "save_changes_title": "Careful – you have unsaved changes!",
+  "save_changes_button_lable_1": "Reset",
+  "save_changes_button_lable_2": "Save Changes"
+}
 
