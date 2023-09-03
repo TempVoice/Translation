@@ -52,7 +52,8 @@
     "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Pas possible!** La limite de **{val1}** canaux vocaux temporaires en même temps a été atteinte, car ce serveur Discord les a limités. Veuillez réessayer plus tard.",
     "error_discordlimit": "**Pas possible!** Toutes les catégories disponibles ont atteint leur limite de 50 chaînes chacune. Si vous êtes un administrateur, vous pouvez configurer d'autres **Catégories de remplacement** dans le tableau de bord, sinon veuillez réessayer plus tard.",
-    "error_cb": "**Pas possible!** Vous essayez d'utiliser un bot [TempVoice Custom Branding](https://tempvoice.xyz/) sur un serveur Discord, où le propriétaire du bot n'a pas activé TempVoice Premium . Si vous êtes le propriétaire de ce bot Image de marque personnalisée, activez-le ici sur votre [Profil](https://tempvoice.xyz/profile) > **Onglet TempVoice Premium** > **Activer Le Premium**.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**Pas possible!** Vous ne pouvez pas créer de salle d'attente lorsque votre salon est masqué.",
     "voice_waiting_2": "**Pas possible!** Vous ne pouvez pas masquer votre salon lorsque vous avez une salle d'attente.",

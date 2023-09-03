@@ -52,7 +52,8 @@
 		"error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
 		"error_totallimit": "**不可能です！** 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。なぜなら、このDiscordサーバーで制限がされているからです。後ほど再試行してください。",
 		"error_discordlimit": "**不可能です！** 利用可能な全てのカテゴリーがそれぞれ50チャンネルの限界に達しました。もしあなたが管理者であれば、ダッシュボードでより多くの**フォールバックカテゴリー**を設定することができます。",
-		"error_cb": "**Not Possible!** あなたはDiscordサーバー上で [TempVoice Custom Branding](https://tempvoice.xyz/) botを使用しようとしていますが、botのオーナーがTempVoice Premiumを有効にしていません。もしあなたがこのカスタムブランディングbotのオーナーであれば、こちらの [プロフィール](https://tempvoice.xyz/profile) > **TempVoice Premium タブ** > **Activate Premium** でそれを有効化してください。",
+		"error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+		"error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
 		"voice_waiting_1": "**不可能です。** チャンネルを非表示にすると、待機室を作ることができません。",
 		"voice_waiting_2": "**不可能です。** 待機室がある場合、チャンネルを非表示にすることはできません。",

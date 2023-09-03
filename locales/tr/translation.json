@@ -52,7 +52,8 @@
     "error_webhook": "**Mümkün değil!** Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "**Mümkün değil!** Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",
     "error_discordlimit": "**Mümkün değil!** Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
-    "error_cb": "**Mümkün değil!** Bir Discord sunucusunda [TempVoice Özel Markalamasının](https://tempvoice.xyz/) bir botunu kullanmaya çalışıyorsunuz, bot sahibinin TempVoice Premium'u etkinleştirmediği yerde. Bu Özel Markalama robotunun sahibiyseniz, [Profiliniz](https://tempvoice.xyz/profile) kısmından > **TempVoice Premium Sekmesi** > **Premium'u Etkinleştir** bölümünden etkinleştirin.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**Mümkün değil!** Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
     "voice_waiting_2": "**Mümkün değil!** Bekleme odanız varken, kanalınızı gizleyemezsiniz.",

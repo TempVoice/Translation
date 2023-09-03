@@ -52,7 +52,8 @@
     "error_webhook": "**不可用！** 无法创建 Webhook，因为另一个 Discord 机器人正在阻止我这样做。请查看是否有像 *Wick*、*Beemo* 等安全机器人在起作用。",
     "error_totallimit": "**不可用！** 在同一时间内，可以创建的临时语音频道数量已达到 **{val1}** 个，因为此 Discord 服务器对其进行了限制。请稍后重试。",
     "error_discordlimit": "**不可用！** 所有可用的类别已达到每个类别 50 个频道的限制。如果你是管理员，可以在仪表板中设置更多的 **备用类别**；否则，请稍后重试。",
-    "error_cb": "**不可用！** 你正在尝试在一个 Discord 服务器上使用 [TempVoice 自定义品牌](https://tempvoice.xyz/) 机器人，但机器人的所有者尚未启用 TempVoice 高级会员。如果你是此自定义品牌机器人的所有者，请在此处激活：[个人资料](https://tempvoice.xyz/profile) > **TempVoice 高级会员选项卡** > **激活高级会员**。",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**不可用！** 当你的频道处于隐藏状态时，无法创建等待室。",
     "voice_waiting_2": "**不可用！** 当你有等待室时，无法隐藏你的频道。",

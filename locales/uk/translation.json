@@ -52,7 +52,8 @@
     "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "**Неможливо!** Ліміт **{val1}** тимчасових голосових каналів одночасно досягнуто, тому що цей сервер Discord обмежив їх. Будь ласка, спробуйте пізніше.",
     "error_discordlimit": "**Неможливо!** Усі доступні категорії досягнули їхній ліміт 50 каналів кожен. Якщо ви адміністратор, ви можете налаштувати більше **Додаткових категорій** на панелі керування, в іншому випадку спробуйте пізніше.",
-    "error_cb": "**Неможливо!** Ви намагаєтеся використати [Індивідуальний брендинг TempVoice](https://tempvoice.xyz/) на сервері Discord, де власник не ввімкнув TempVoice Premium. Якщо ж ви власник Індивідуального брендингу, активуйте його в [Профілі](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **Активувати Premium**.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**Неможливо!** Ви не можете створити кімнату очікування, коли ваш канал приховано.",
     "voice_waiting_2": "**Неможливо!** Ви не можете приховати свій канал, коли у вас є кімната очікування.",
