@@ -26,13 +26,9 @@
     "cmd_voice_reset_description": "Nulstil konfigurationen af ​​din midlertidige kanal",
     "cmd_voice_lfp_description": "Send et invitationslink til din midlertidige kanal i denne chat",
 
-    "cmd_join_description": "Tilmeld dig en midlertidig kanal ved at bruge en adgangskode",
-
-    "cmd_setup_creator_description": "Konfigurer en ny skaberkanal til oprettelse af midlertidige kanaler",
-    "cmd_setup_interface_description": "Opret en strepanel til midlertidige kanaler",
-    "cmd_setup_tempvoice_description": "Indstil TempVoice nemt med en assistent inden for få sekunder",
-
-    "cmd_help_description": "Få hjælp med TempVoice Discord Bot",
+    "cmd_join_description": "Join a temporary channel by using a password",
+    "cmd_setup_tempvoice_description": "Setup TempVoice easily with an assistant within seconds",
+    "cmd_help_description": "Get help with the TempVoice Discord Bot",
 
     "info_setup": "**Opsætning fuldført!** {val1} kan nu bruges til at oprette midlertidige stemmekanaler på din Discord server.",
     "info_setup2": "**Opsætning fuldført!** Denne [strepanel]({val1}) kan nu bruges til at administrere midlertidige stemmekanaler på din Discord server.",
@@ -53,8 +49,11 @@
     "error_limit": "**Ikke muligt!** Grænsen for skaberkanaler på en enkelt server er {val1}. Prøv at slette en eller øg grænsen med en højere [premium](<https://tempvoice.xyz/premium>) tier.",
     "error_ratelimit": "**Sænk farten!** Denne kommando kan bruges igen **{val1}**.",
     "error_creation": "**Sænk farten!** Du kan oprette en ny kanal **{val1}**.",
-    "error_max": "**Grænsen er nået!** Grænsen for midlertidige stemmekanaler på **{val1}** på samme tid er nået. Prøv igen senere.",
-    "error_cb": "**Ikke muligt!** Du forsøger at bruge en [TempVoice Brugerdefineret branding](https://tempvoice.xyz/) bot på en Discord-server, hvor ejeren af ​​botten ikke har aktiveret TempVoice Premium. Hvis du er ejeren af ​​denne Brugerdefineret branding bot, skal du aktivere den her på [Profil](https://tempvoice.xyz/profile) > **TempVoice Premium-fanen** > **Aktiver Premium**.",
+    "error_webhook": "**Not Possible!** It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
+    "error_totallimit": "**Not Possible!** The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
+    "error_discordlimit": "**Not Possible!** All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**Ikke muligt!** Du kan ikke oprette et venterum, når din kanal er skjult.",
     "voice_waiting_2": "**Ikke muligt!** Du kan ikke skjule din kanal, når du har et venterum.",

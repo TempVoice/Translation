@@ -25,7 +25,8 @@
     "error_webhook": "**בלתי אפשרי!** אין אפשרות ליצור וובהוק כי שרת אחר כבר משתמש בו. אנא תבדוק עם בוטים אחרים כמו *Wick*, *Beemo* וכדומה אחראים על הבעיה.",
     "error_totallimit": "**בלתי אפשרי!** ההגבלה של **{val1}** ערוצי דיבור זמניים באותו הזמן הגיעה להגבלה, מכיוון ששרת הדיסקורד הזה הגדיר כך. אנא נסה שוב במועד מאוחר יותר..",
     "error_discordlimit": "**בלתי אפשרי!** כל הקטגוריות הגיעו להגבלה של 50 ערוצים עבור כל אחת מהן. אם אתה אדמין, אתה יכול להגדיר עוד **Fallback Categories** במערכת הניהול הזו, אחרת נסה שוב מאוחר יותר.",
-    "error_cb": "**בלתי אפשרי!** אתה מנסה להשתמש ב- [TempVoice Custom Branding](https://tempvoice.xyz/) בוט בשרת דיסקורד, כאשר מנהל השרת לא איפשר גירסת פרימיום של הבוט. אם אתה הבעלים של המיתוג המותאם שלנו, תפעיל אותו פה - [Profile](https://tempvoice.xyz/profile) > **TempVoice Premium Tab** > **הפעלת פרימיום**.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "**בלתי אפשרי** לא ניתן ליצור חדר המתנה כשהערוץ שלך מוסתר.",
     "voice_waiting_2": "**בלתי אפשרי** לא ניתן להסתיר את החדר כאשר קיים חדר המתנה",

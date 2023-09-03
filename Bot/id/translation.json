@@ -52,7 +52,8 @@
     "error_webhook": "**Gagal Banget** Kayaknya ada bot lain yang ngeblokir aku buat bikin Webhook, macem bot keamanan atau yang lain. Cek lagi deh ya.",
     "error_totallimit": "**Gagal Banget** Batas maksimal {val1} channel sementara udah kepake di server Discord ini, soalnya terbatas. Coba lagi nanti aja yaa.",
     "error_discordlimit": "**Nggak Bisa Deh** Semua kategori yang ada udah penuh, cuma bisa 50 channel aja buat setiap kategori. Kalo kamu admin, bisa tambahin kategori **Fallback** lebih banyak di panel. Kalo nggak, ya sabar aja, ujung ujung coba lagi.",
-    "error_cb": "**Dilarang!** Mau pake bot [TempVoice Kustom Bot](https://tempvoice.xyz/id) disini?, tapi pemilik botnya belom nyalain TempVoice Premium. Kalo kamu punya botnya, nyalain dulu di [Profile](https://tempvoice.xyz/id/profile) > **TempVoice Premium Tab** > **Activate Premium** cobain deh.",
+    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
     
     "voice_waiting_1": "**Nggak Bisa Deh** Kamu gak bisa bikin ruang tunggu kalo Channelmu lagi dihidden.",
     "voice_waiting_2": "**Gak Bisa Deh** Kamu gak bisa nyembunyiin Channelmu kalo lagi ada ruang tunggunya.",
