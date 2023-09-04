@@ -119,7 +119,7 @@
   "component_position_menu_option_2": "Über dem Erstellungs-Kanal",
   "component_position_description": "Position der temporären Kanäle beim Erstellen (Standard: unter)",
 
-  "component_permissionsowner_title": "AZusätzliche Discord-Berechtigungen für Besitzer",
+  "component_permissionsowner_title": "Zusätzliche Discord-Berechtigungen für Besitzer",
   "component_permissionsowner_menu_lable": "Berechtigungen verwalten",
   "component_permissionsowner_description": "Zusätzliche Discord-Berechtigungen für den Besitzer eines temporären Channels",
   "component_permissionsowner_option_invite": "Einladungen erstellen",
