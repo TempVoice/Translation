@@ -1,13 +1,13 @@
 {
   "slogan_title_part_1": "一時的なもの",
   "slogan_title_part_2": "永遠ではない",
-  "slogan_description": "TempVoiceは一時的な音声チャンネルを作ることで、サーバーをきれいに保ちます。 使われていない音声チャンネルはすぐに消えて、新しいチャンネルはクリックひとつで作れます。",
+  "slogan_description": "TempVoiceは一時的なボイスチャンネルを作ることで、サーバーをきれいに保ちます。 使われていないボイスチャンネルはすぐに消えて、新しいチャンネルはクリックひとつで作れます。",
 
   "featured_title": "みんなの好きなサーバーで使われています",
   "featured_description": "TempVoiceは、何千ものDiscordサーバーと100万人以上のユーザーに利用されています。",
 
   "introduction_title": "「一時的なチャンネル」とは？",
-  "introduction_description": "一時的な音声チャンネルは、ユーザーがクリエイターチャンネルに参加すると作成され、そのチャンネルに誰もいなくなると消えるチャンネルです。",
+  "introduction_description": "一時的なボイスチャンネルは、ユーザーがクリエイターチャンネルに参加すると作成され、そのチャンネルに誰もいなくなると消えるチャンネルです。",
 
   "setup_title": "TempVoiceの設定方法は？",
   "setup_description": "Discordサーバーで「/setup」というコマンドを使ってTempVoiceを始められます。 TempVoiceは一時的なチャンネルを作ったり管理したりするための基本的なチャンネルを設定します！",
@@ -29,10 +29,10 @@
   "appearance_colortheme_title": "色のテーマ",
 
   "creators_title": "クリエイター",
-  "creators_description": "一時的な音声チャンネルがどのように作られるかを決めます。デフォルトの名前、制限、権限などを指定してください。",
+  "creators_description": "一時的なボイスチャンネルがどのように作られるかを決めます。デフォルトの名前、制限、権限などを指定してください。",
 
   "interface_title": "設定パネル",
-  "interface_description": "ユーザーが簡単に自分の一時的な音声チャンネルの設定を変更できるようにします。",
+  "interface_description": "ユーザーが簡単に自分の一時的なボイスチャンネルの設定を変更できるようにします。",
 
   "config_tab_1": "概要",
   "config_tab_2": "権限",
@@ -103,8 +103,8 @@
   "component_roleparticipant_description": "一時的なチャンネルにいるユーザにロールを割り当て、ユーザが切断するとロールを削除します",
 
   "component_roleseveryone_title": "メンバーロール",
-  "component_roleseveryone_menu_lable": "複数の役職を選択可能",
-  "component_roleseveryone_description": "一時的なチャンネルを閲覧するために必要な役職",
+  "component_roleseveryone_menu_lable": "複数のロールを選択可能",
+  "component_roleseveryone_description": "一時的なチャンネルを閲覧するために必要なロール",
 
   "component_restore_title": "過去の設定を復元",
   "component_restore_menu_lable": "復元の設定",
@@ -136,7 +136,7 @@
   "component_syncpermissions_menu_option_1": "カテゴリーから同期",
   "component_syncpermissions_menu_option_2": "クリエイターVCから同期",
   "component_syncpermissions_menu_option_3": "同期しない",
-  "component_syncpermissions_description": "一時的なチャンネル権限をカテゴリまたはクリエイターVCの権限と同期する",
+  "component_syncpermissions_description": "一時的なチャンネル権限をカテゴリーまたはクリエイターVCの権限と同期する",
 
   "component_namewaiting_title": "待機VCの名前",
   "component_namewaiting_description": "待機VCの名前（デフォルト：Join Me）",
@@ -191,7 +191,7 @@
   "component_category_menu_lable": "カテゴリー未選択",
   "component_category_description": "一時的なチャンネルの主なカテゴリー",
 
-  "component_fallback_title": "一時的なチャンネルの分類（予備）",
+  "component_fallback_title": "一時的なチャンネルのカテゴリー（予備）",
   "component_fallback_menu_lable": "カテゴリーを選択：オプション",
   "component_fallback_description": "メインカテゴリーが50チャンネル制限に達した場合に使用する予備カテゴリー",
 
