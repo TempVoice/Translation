@@ -13,7 +13,7 @@
   "setup_description": "Starten mit der Nutzung von TempVoice, indem Sie den Befehl /setup auf Ihrem Discord-Server ausführen. TempVoice wird die grundlegenden Kanäle einrichten, die zum Erstellen und Verwalten von temporären Kanälen benötigt werden!",
   
   "status_title": "Funktioniert der Bot wie beabsichtigt?",
-  "status_description": "Um eine bessere Leistung zu erzielen, ist TempVoice in Shards und Cluster unterteilt. Jeder Cluster enthält bis zu 5 Shards und betreut etwa 5000 Discord-Server.",
+  "status_description": "Um eine bessere Leistung zu erzielen, ist TempVoice in Shards und Cluster unterteilt. Jeder Cluster enthält bis zu 5 Shards und ist für etwa 5000 Discord-Server verantwortlich.",
   "status_statistics_1": "Gesamtanzahl der Clustern",
   "status_statistics_2": "Gesamtzahl der Shards",
   "status_statistics_3": "Anzahl aller Server",
@@ -199,7 +199,7 @@
   "component_censor_placeholder": "Geben Sie ein Wort ein und drücken Sie Enter",
   "component_censor_description": "Zensieren Sie bis zu 30 Wörter, die nicht als temporäre Kanalnamen verwendet werden können",
 
-  "component_matchmaking_title": "Aufffüllung des temporären Kanals",
+  "component_matchmaking_title": "Aufffüllung der temporären Kanäle",
   "component_matchmaking_menu_option_1": "Aktiviert",
   "component_matchmaking_menu_option_2": "Deaktiviert",
   "component_matchmaking_description": "Verschieben Sie Benutzer in bestehende temporäre Kanäle, bevor Sie neue erstellen (Erfordert: Benutzerlimit 1-99)",
