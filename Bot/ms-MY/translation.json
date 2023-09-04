@@ -1,6 +1,6 @@
 [
   {
-    "lang": "ms-my"
+    "lang": "ms-MY"
   },
   {
     "info_setup": "**Siap Sudah!** {val1} boleh digunakan untuk cipta saluran suara sementara dalam server Discord anda.",
@@ -25,9 +25,9 @@
     "error_webhook": "**Tidak Mungkin!** Tidak mungkin untuk mencipta webhook kerana bot Discord lain menghalang saya daripada berbuat demikian. Lihat sama ada bot keselamatan seperti *Wick*, *Beemo* dan sebagainya adalah punca.",
     "error_totallimit": "**Tidak Mungkin!** Had **{val1}** saluran suara sementara pada masa yang sama telah dicapai, kerana pelayan Discord ini telah mengehadkannya. Sila cuba lagi kemudian.",
     "error_discordlimit": "**Tidak Mungkin!** Semua kategori yang ada telah mencapai had 50 saluran masing-masing. Jika anda seorang admin, anda boleh menetapkan lebih banyak **Kategori Alternatif** dalam papan pemuka, jika tidak, sila cuba lagi kemudian.",
-    "error_cb": "**Not Possible!** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "**Unexpected Conflict.** TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
-
+    "error_cb": "**Tidak Mungkin!** Anda cuba menggunakan bot [TempVoice Custom Branding](https://tempvoice.xyz/) pada pelayan Discord, di mana pemilik bot tidak mengaktifkan TempVoice Premium. Jika anda adalah pemilik bot Custom Branding ini, aktifkan di sini: **https://tempvoice.xyz/premium** > **Aktifkan Premium**.",
+    "error_conflict": "**Konflik Tak Terduga.** TempVoice mengalami konflik dengan API Discord. Laporkan mesej ini di sini https://discord.gg/tempvoice. \n### Ralat: `{val1}`",
+    
     "voice_waiting_1": "**Tidak Mungkin!** Anda tidak boleh cipta bilik tunggu apabila saluran anda tersembunyi.",
     "voice_waiting_2": "**Tidak Mungkin!** Anda tidak boleh menyembunyikan saluran anda apabila anda mempunyai bilik tunggu.",
     "voice_waiting_3": "**Tidak Mungkin!** Bilik tunggu telah pun dicipta untuk saluran suara sementara ini.",
