@@ -4,16 +4,16 @@
   "slogan_description": "TempVoice macht deenen Server sauberer, indem temporäre Sprachkanäle implementiert werden. Leere Kanäle werden sofort gelöscht; das Erstellen neuer Kanäle ist nur einen Klick entfernt.",
   
   "featured_title": "Vertraut von deenen Lieblings-Servern",
-  "featured_description": "Tausende von Discord-Servern und über eine Million Benutzer wählen TempVoice.",
+  "featured_description": "Tausende von Discord Servern und über eine Million Benutzer wählen TempVoice.",
   
   "introduction_title": "Wat is'n Temporärer Kanal?",
   "introduction_description": "Een temporärer Sprachkanal wird erstellt, wenn jemand een Creator-Kanal betritt, und wird jelöscht, wenn keener mehr drinne is.",
 
   "setup_title": "Wie stelle ick TempVoice ein?",
-  "setup_description": "Mach mal, TempVoice zu benutzen, indem du den Befehl /setup auf deinem Discord-Server ausführst. TempVoice richtet die grundlegenden Kanäle ein, die zum Erstellen und Verwalten temporärer Kanäle braucht.",
+  "setup_description": "Mach mal, TempVoice zu benutzen, indem du den Befehl /setup auf deinem Discord <<<<<<<<<<<<<<<<Server ausführst. TempVoice richtet die grundlegenden Kanäle ein, die zum Erstellen und Verwalten temporärer Kanäle braucht.",
   
   "status_title": "Funktioniert der Bot wie jewollt?",
-  "status_description": "TempVoice is in Shards und Cluster uffjeteilt, um ne bessere Performance zu erreichen. Jedes Cluster hat bis zu 5 Shards und kümmert sich um so um die 5000 Discord-Server.",
+  "status_description": "TempVoice is in Shards und Cluster uffjeteilt, um ne bessere Performance zu erreichen. Jedes Cluster hat bis zu 5 Shards und kümmert sich um so um die 5000 Discord Server.",
   "status_statistics_1": "Gesamdzahl der Cluster",
   "status_statistics_2": "Gesamdzahl der Shards",
   "status_statistics_3": "Gesamdzahl der Server",
@@ -21,10 +21,10 @@
   "status_alert_offline": "TempVoice is zurzeit teilweise nich' verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.",
   "status_alert_online": "TempVoice is voll funktionsfähig",
 
-  "server_selection": "Wähl ma'n Discord-Server aus, um die Einstellungen von TempVoice zu bearbeiten oder den Bot auf'n anderen Server einzuladen.",
+  "server_selection": "Wähl ma'n Discord Server aus, um die Einstellungen von TempVoice zu bearbeiten oder den Bot auf'n anderen Server einzuladen.",
   
   "appearance_title": "Erscheinungsbild",
-  "appearance_description": "Mach TempVoice janz jemütlich und pass dit janze an deinen Discord-Server an. Änder die Sprache und die Farbschemen von die Benutzeroberfläche.",
+  "appearance_description": "Mach TempVoice janz jemütlich und pass dit janze an deinen Discord Server an. Änder die Sprache und die Farbschemen von die Benutzeroberfläche.",
   "appearance_language_title": "Sprache",
   "appearance_colortheme_title": "Farbschema",
 
@@ -51,7 +51,7 @@
   "premium_feature_2": "Unbegrenzte Ersteller-Kanäle",
   "premium_feature_3": "Keene Abstimmungsanforderungen",
   "premium_feature_4": "Deen janz eijene Discord-Bot",
-  "premium_feature_5": "Discord-Server",
+  "premium_feature_5": "Discord Server",
   "premium_cycle_monthly": "monatlich",
   "premium_cycle_yearly": "jährlich",
   "premium_highlighed_title_1": "Deina eijena Bot",
@@ -59,7 +59,7 @@
   "premium_highlighed_title_2": "Jährliches Abonnement",
   "premium_highlighed_description_2": "16% sparen mit einem jährlichen Abrechnungszyklus",
   "premium_upgrade_disclaimer": "Wenn du dein Premium-Abonnement aktualisierst, wird dir sofort der Unterschied im bereits gezahlten monatlichen Preis in Rechnung gestellt. Du kannst dein Abonnement nur einmal im Monat aktualisieren.",
-  "premium_custombranding_description": "Mit der benutzerdefinierten Branding-Funktion kannst du das Aussehen von TempVoice ändern, indem du das Avatarbild, den Namen, den Status und Über mich anpasst. Denke daran, Premium auf dem Discord-Server zu aktivieren, auf dem du den Bot verwenden möchtest.",
+  "premium_custombranding_description": "Mit der benutzerdefinierten Branding-Funktion kannst du das Aussehen von TempVoice ändern, indem du das Avatarbild, den Namen, den Status und Über mich anpasst. Denke daran, Premium auf dem Discord Server zu aktivieren, auf dem du den Bot verwenden möchtest.",
 
   "placeholder_description_1": "Wenn du den Platzhalter {PRIVACY} verwendest, wird der Kanalname aktualisiert, wenn du die Datenschutzeinstellungen des Kanals änderst. Dies ist aufgrund der Beschränkungen von Discord nur alle 5 Minuten möglich.",
   "placeholder_description_2": "Zeigt den Namen der höchsten Rolle des Besitzers an, unabhängig davon, ob die Rolle in der Online-Mitgliederliste getrennt ist.",
@@ -79,7 +79,7 @@
   "button_lable_join_continue": "Ja, bitte",
 
   "join_support": "Möchtest du unserem Discord beitreten?",
-  "excordo_quote": "Danke für dein Interesse an TempVoice, einem Bot, der ditte Art und Weise, wie de Discord benutzt, verändert. Im Laufe der Jahre hab ick mir uff die Bedürfnisse und Wünsche der Community konzentriert, um deinen Discord-Server zu einem besseren Ort zu machen",
+  "excordo_quote": "Danke für dein Interesse an TempVoice, einem Bot, der ditte Art und Weise, wie de Discord benutzt, verändert. Im Laufe der Jahre hab ick mir uff die Bedürfnisse und Wünsche der Community konzentriert, um deinen Discord Server zu einem besseren Ort zu machen",
 
   "component_status_title": "Auf welchem Cluster ist mein Server?",
   "component_status_description_1": "Gib deine Server-ID in das Suchfeld ein",
@@ -93,7 +93,7 @@
   "component_totallimit_description": "Die Gesamtzahl der temporären Kanäle, die gleichzeitig existieren können",
 
   "component_premium_menu_lable": "Premium aktivieren",
-  "component_premium_menu_description": "Verfügbare Discord-Server:",
+  "component_premium_menu_description": "Verfügbare Discord Server:",
 
   "component_sendmessage_title": "Willkommensnachricht senden",
   "component_sendmessage_description": "Sende eine Willkommensnachricht an einen temporären Kanal, nachdem er erstellt wurde",
