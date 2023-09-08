@@ -28,6 +28,8 @@ let arr = [
 	'zh-CN',
 	'ja',
 	'da',
+	'de-B',
+	'ms-MY',
 ]
 
 for (let i = 0; i < arr.length; i++) {
