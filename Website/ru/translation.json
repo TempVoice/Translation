@@ -4,7 +4,7 @@
   "slogan_description": "TempVoice делает ваш сервер более аккуратным, добавляя временные голосовые каналы. Пустые каналы удаляются немедленно, а создать новый можно одним кликом.",
   
   "featured_title": "Нам доверяют Ваши фавориты",
-  "featured_description": "TempVoice используют тысяче серверов и сотни тысяч пользователей.",
+  "featured_description": "TempVoice используют тысячи серверов и сотни тысяч пользователей.",
   
   "introduction_title": "Что такое временные каналы?",
   "introduction_description": "Временные голосовые каналы создаются заходом в канал-создатель и удаляются, когда все покидают его.",
@@ -63,8 +63,8 @@
 
   "placeholder_description_1": "Если вы используете переменную {PRIVACY}, название канала будет обновлено каждый раз при смене настроек приватности канала. Действует ограничение в 5 минут в виду лимитов Discord.",
   "placeholder_description_2": "Отображает название высшей роли владельца, независимо от того, выделена ли эта роль в списке участников или нет.",
-  "placeholder_description_3": "Отображает название высшей роли владельца, которая выделена в списке участниокв.",
-  "placeholder_description_4": "Данная переменная будет заменена на название канала, который был выбран пользователем через интерфейс или '/voice name' команду. Когда владелец выбиреает новое название, меняется только часть с переменной, остальное. untouched.",
+  "placeholder_description_3": "Отображает название высшей роли владельца, которая выделена в списке участников.",
+  "placeholder_description_4": "Данная переменная будет заменена на название канала, который был выбран пользователем через интерфейс или '/voice name' команду. Когда владелец выбирает новое название, меняется только часть с переменной.",
 
   "button_lable_invite": "Пригласить TempVoice",
   "button_lable_dashboard": "Панель управления",
@@ -121,8 +121,8 @@
 
   "component_permissionsowner_title": "Дополнительные права владельца",
   "component_permissionsowner_menu_lable": "Настройка прав",
-  "component_permissionsowner_description": "Дополнительные права в Discord для владельца временного  канала",
-  "component_permissionsowner_option_invite": "Создание шриглашений",
+  "component_permissionsowner_description": "Дополнительные права в Discord для владельца временного канала",
+  "component_permissionsowner_option_invite": "Создание приглашений",
   "component_permissionsowner_option_channel": "Управление каналом",
   "component_permissionsowner_option_permissions": "Управление правами",
   "component_permissionsowner_option_messages": "Управление сообщениями",
@@ -138,8 +138,8 @@
   "component_syncpermissions_menu_option_3": "Без синхронизации",
   "component_syncpermissions_description": "Синхронизируйте права временных каналов с категорией или с каналом-создателем",
 
-  "component_namewaiting_title": "Название прихожой",
-  "component_namewaiting_description": "Название для прихожой (По умолчанию: Join Me)",
+  "component_namewaiting_title": "Название прихожей",
+  "component_namewaiting_description": "Название для прихожей (По умолчанию: Join Me)",
 
   "component_placeholder_title": "Названия переменных по умолчанию",
   "component_placeholder_menu_lable": "Упраление названиями по умолчанию",
@@ -166,16 +166,16 @@
   "component_ownerpermissions_title": "Доступные команды временных каналов",
   "component_ownerpermissions_menu_lable": "Управление настройками",
   "component_ownerpermissions_description": "Выберите какие команды доступны владельцам временных каналов",
-  "component_ownerpermissions_modal_description_1": "Это сделает временные каналы неуправляемыми для их создателей. Это полезно, если вы используете временные каналы, как публичные.",
-  "component_ownerpermissions_modal_description_2": "При отключении опции, команда '/voice' и связанная с ней кнопка интерфейса станут недоступными; кроме того, любые изменения, внесенные ранее будут сброшены.",
+  "component_ownerpermissions_modal_description_1": "Это сделает временные каналы неуправляемыми для их создателей. Это полезно, если вы используете временные каналы как публичные.",
+  "component_ownerpermissions_modal_description_2": "При отключении опции команда '/voice' и связанная с ней кнопка интерфейса станут недоступными. Кроме того, любые изменения, внесённые ранее, будут сброшены.",
   "component_ownerpermissions_option_ownerless": "Режим без владельца",
   "component_ownerpermissions_option_name": "Редактирование названия канала",
   "component_ownerpermissions_option_limit": "Редактирование лимита пользователей",
   "component_ownerpermissions_option_region": "Редактирование региона канала",
   "component_ownerpermissions_option_bitrate": "Редактирование битрейта канала",
   "component_ownerpermissions_option_thread": "Создание временных веток",
-  "component_ownerpermissions_option_wait": "Создание прихожой",
-  "component_ownerpermissions_option_lock_chat": "Закрытие внутреканального чата",
+  "component_ownerpermissions_option_wait": "Создание прихожей",
+  "component_ownerpermissions_option_lock_chat": "Закрытие внутриканального чата",
   "component_ownerpermissions_option_lock": "Закрывать канал",
   "component_ownerpermissions_option_hide": "Скрывать канал",
   "component_ownerpermissions_option_claim": "Забирать канал",
@@ -184,7 +184,7 @@
   "component_ownerpermissions_option_invite": "Приглашать в канал",
   "component_ownerpermissions_option_lfp": "Поиск людей (lfp)",
   "component_ownerpermissions_option_users": "Доверие/блокировка пользователей",
-  "component_ownerpermissions_option_chat": "Использование внутреканального чата",
+  "component_ownerpermissions_option_chat": "Использование внутриканального чата",
   "component_ownerpermissions_option_close": "Принудительно закрывать канал",
 
   "component_category_title": "Основная категория для каналов",
@@ -206,7 +206,7 @@
 
   "component_custombranding_title": "Токен бота",
   "component_custombranding_button_lable": "Как получить токен своего бота?",
-  "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет захосчен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
+  "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
 
   "component_custombrandingactivity_title": "Активность бота (Статус)",
   "component_custombrandingactivity_description": "Меняете Discord статус вашего брендированного бота.",
