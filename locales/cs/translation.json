@@ -112,8 +112,8 @@
     "join_4": "## **Wrong Password**\n The password you entered is incorrect. Try again.",
     "join_5": "## **Correct Password**\n Your are now able to join {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Tenhle **interface** lze použít ke správě dočasných hlasových kanálů. Další možnosti jsou k dispozici s **/voice** příkazy.",
     "interface_footer": "Pro použití rozhraní stiskněte níže uvedená tlačítka",

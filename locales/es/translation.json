@@ -112,8 +112,8 @@
     "join_4": "## **Contraseña incorrecta.**\n La contraseña ingresada es incorrecta. Intenta de nuevo.",
     "join_5": "## **Contraseña correcta.**\n Ahora tienes permitido entrar a {val1}.",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Esta **interfaz**\n puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos **/voice**.",
     "interface_footer": "Esta interfaz se puede utilizar pulsando los botones de abajo.",

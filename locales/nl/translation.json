@@ -112,8 +112,8 @@
     "join_4": "## **Verkeerd wachtwoord.**\n Het ingevoerde wachtwoord is onjuist. Probeer het nog eens.",
     "join_5": "## **Juist wachtwoord.**\n Je kunt nu lid worden van {val1}.",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Deze **interface** kan worden gebruikt om tijdelijke spraakkanalen te beheren. Meer opties zijn beschikbaar met **/voice** commando's.",
     "interface_footer": "Druk op de onderstaande knoppen om de interface te gebruiken",

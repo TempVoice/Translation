@@ -112,8 +112,8 @@
     "join_4": "## **Neteisingas Slaptažodis**\n Įvestas slaptažodis yra neteisingas. Bandyk iš naujo.",
     "join_5": "## **Teisingas Slaptažodis**\n Dabar galite prisijungti į {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant **/voice** komandas.",
     "interface_footer": "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",

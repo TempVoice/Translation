@@ -112,8 +112,8 @@
     "join_4": "## **Wrong Password**\n The password you entered is incorrect. Try again.",
     "join_5": "## **Correct Password**\n Your are now able to join {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "**인터페이스** 는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음**/voice** 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
     "interface_footer": "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다",

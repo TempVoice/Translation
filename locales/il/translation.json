@@ -84,8 +84,8 @@
     "join_4": "**סיסמא שגויה** הסיסמא שהזנת שגויה. אנא נסה שוב.",
     "join_5": "**סיסמא נכונה** אתה רשאי להיכנס עכשיו לערוץ {val1}",
 
-    "find_1": "**Founded!** The user {val1} you're looking for is here: {val2}",
-    "find_2": "**Not Founded.** The user you're looking for isn't in a public voice channel",
+    "find_1": "**Found!** The user {val1} you're looking for is here: {val2}",
+    "find_2": "**Not Found.** The user you're looking for isn't in a public voice channel",
 
     "interface_description": "ניתן להשתמש ב **ממשק** זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות **/voice**.",
     "interface_footer": "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה",
