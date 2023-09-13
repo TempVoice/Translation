@@ -29,6 +29,7 @@
     "cmd_join_description": "使用密码加入临时频道",
     "cmd_setup_tempvoice_description": "使用助手在几秒钟内轻松设置 TempVoice",
     "cmd_help_description": "获取有关 TempVoice Discord 机器人的帮助",
+    "cmd_find_description": "Find out which voice channel a user is in",
 
     "info_setup": "## **设置完成！**\n 现在可以使用 {val1} 来在您的 Discord 服务器中创建临时语音频道。",
     "info_setup2": "## **设置完成！**\n 现在可以使用此[界面]({val1}) 来管理您的 Discord 服务器中的临时语音频道。",
@@ -111,6 +112,9 @@
     "join_4": "## **密码错误！**\n 您输入的密码不正确。请重试。",
     "join_5": "## **密码正确！**\n 您现在可以加入 {val1}",
 
+    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+
     "interface_description": "此**界面**可用于管理临时语音频道。使用**/voice** 命令可获得更多选项。",
     "interface_footer": "按下面的按钮使用界面",
 
@@ -132,6 +136,14 @@
     "waiting_menu_label_1": "接受",
     "waiting_menu_description_1": "用户将被移动到您的语音频道",
     "waiting_menu_label_2": "拒绝",
-    "waiting_menu_description_2": "用户将被踢出并阻止"
+    "waiting_menu_description_2": "用户将被踢出并阻止",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]

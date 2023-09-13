@@ -29,6 +29,7 @@
     "cmd_join_description": "Join a temporary voice channel by using a password",
     "cmd_setup_tempvoice_description": "몇 초 안에 Tempvoice를 쉽게 설정",
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
+    "cmd_find_description": "Find out which voice channel a user is in",
 
     "info_setup": "## **설치완료.**\n {val1} 이제 서버에서 임시 음성채널을 생성할 수 있습니다.",
     "info_setup2": "## **설치완료.**\n 이제 [Interface]({val1}) 기능을 활용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",
@@ -111,6 +112,9 @@
     "join_4": "## **Wrong Password**\n The password you entered is incorrect. Try again.",
     "join_5": "## **Correct Password**\n Your are now able to join {val1}",
 
+    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+
     "interface_description": "**인터페이스** 는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음**/voice** 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
     "interface_footer": "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다",
 
@@ -132,6 +136,14 @@
     "waiting_menu_label_1": "Accept",
     "waiting_menu_description_1": "User will be moved into your voice channel",
     "waiting_menu_label_2": "Deny",
-    "waiting_menu_description_2": "User will be kicked and blocked"
+    "waiting_menu_description_2": "User will be kicked and blocked",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]

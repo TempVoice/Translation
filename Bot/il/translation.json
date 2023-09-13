@@ -84,6 +84,9 @@
     "join_4": "**סיסמא שגויה** הסיסמא שהזנת שגויה. אנא נסה שוב.",
     "join_5": "**סיסמא נכונה** אתה רשאי להיכנס עכשיו לערוץ {val1}",
 
+    "find_1": "**Founded!** The user {val1} you're looking for is here: {val2}",
+    "find_2": "**Not Founded.** The user you're looking for isn't in a public voice channel",
+
     "interface_description": "ניתן להשתמש ב **ממשק** זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות **/voice**.",
     "interface_footer": "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה",
 
@@ -105,6 +108,14 @@
     "waiting_menu_label_1": "אשר",
     "waiting_menu_description_1": "המשתמש יועבר לערוץ שלך",
     "waiting_menu_label_2": "דחה",
-    "waiting_menu_description_2": "המשתמש יסולק וייחסם מהערוץ שלך"
+    "waiting_menu_description_2": "המשתמש יסולק וייחסם מהערוץ שלך",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]
