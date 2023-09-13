@@ -84,8 +84,8 @@
     "join_4": "## **Falsches Passwot!**\n Det ejegene Passwo't is falsch. Vesuch s mit nem annanen.",
     "join_5": "## **Korräktes Passwot!**\n Kannste jetze {val1} beitretn",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Det **Interface** kann verwendet wer'n, um deinen dafürn temporär'n Kanal zu bearet'n. Weitere Optionen stehen mit'n Command **/voice** bis avantade.",
     "interface_footer": "Det Interface kann mit den untanen Buttons verwendet wer'n.",

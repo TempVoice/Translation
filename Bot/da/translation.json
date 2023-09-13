@@ -112,8 +112,8 @@
     "join_4": "## **Forkert adgangskode!**\n Den adgangskode du indtastede er forkert. Prøv igen.",
     "join_5": "## **Korrekt adgangskode!**\n Du kan nu deltage i {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Denne **styrepanel** kan bruges til at administrere midlertidige stemmekanaler. Flere muligheder er tilgængelige med **/voice** kommandoer.",
     "interface_footer": "Tryk på knapperne nedenfor for at bruge styrepanelet",

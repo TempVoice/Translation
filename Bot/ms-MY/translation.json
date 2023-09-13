@@ -84,8 +84,8 @@
     "join_4": "## **Kata Laluan Salah!**\n Kata laluan yang anda masukkan adalah salah. Cuba lagi.",
     "join_5": "## **Kata Laluan Betul!**\n Anda kini boleh menyertai {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Antaramuka ini boleh digunakan untuk menguruskan saluran suara sementara. Lebih banyak pilihan tersedia dengan arahan **/voice**.",
     "interface_footer": "Tekan butang di bawah untuk menggunakan antaramuka",

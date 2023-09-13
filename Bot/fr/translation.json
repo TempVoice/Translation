@@ -112,8 +112,8 @@
     "join_4": "## **Mot de passe incorrect**\n Le mot de passe que vous avez entré est incorrect. Essayer à nouveau.",
     "join_5": "## **Mot de passe correct**\n Vous pouvez maintenant rejoindre {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Cette **interface** peut être utilisée pour éditer votre salon vocal temporaire. Plus d'options sont disponible avec les commandes **/voice**.",
     "interface_footer": "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous",

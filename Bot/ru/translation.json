@@ -112,8 +112,8 @@
     "join_4": "## **Ошибка.**\n Ведённый вами пароль неверный. Попробуйте снова позже.",
     "join_5": "## **Успех!**\n Вы теперь можете подключиться к {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "Этот **интерфейс** можно использовать для управления личными каналами. Дополнительные возможности доступны через **/voice** команды.",
     "interface_footer": "Чтобы использовать функции интерфейса, воспользуйтесь кнопками ниже.",

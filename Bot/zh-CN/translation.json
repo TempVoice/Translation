@@ -112,8 +112,8 @@
     "join_4": "## **密码错误！**\n 您输入的密码不正确。请重试。",
     "join_5": "## **密码正确！**\n 您现在可以加入 {val1}",
 
-    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
 
     "interface_description": "此**界面**可用于管理临时语音频道。使用**/voice** 命令可获得更多选项。",
     "interface_footer": "按下面的按钮使用界面",

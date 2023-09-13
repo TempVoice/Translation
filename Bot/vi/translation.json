@@ -112,8 +112,8 @@
       "join_4": "## **Sai mật khẩu**\n Mật khẩu cậu đã nhập không chính xác. Hãy thử lại.",
       "join_5": "## **Mật khẩu chính xác**\n cậu hiện có thể tham gia {val1}",
   
-      "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
-      "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+      "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
+      "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
   
       "interface_description": "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh **/voice** commands.",
       "interface_footer": "Nhấn các nút bên dưới để sử dụng giao diện",

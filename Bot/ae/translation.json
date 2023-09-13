@@ -84,8 +84,8 @@
     "join_4": "رقم سري خاطئ** -> الرقم السري المدخل غير صحيح. حاول مرة أخرى**",
     "join_5": "{val1} رقم سري صحيح** ->  بإمكان الآن الدخل إلى**",
 
-    "find_1": "**Founded!** The user {val1} you're looking for is here: {val2}",
-    "find_2": "**Not Founded.** The user you're looking for isn't in a public voice channel",
+    "find_1": "**Found!** The user {val1} you're looking for is here: {val2}",
+    "find_2": "**Not Found.** The user you're looking for isn't in a public voice channel",
 
     "interface_description": " .أوامر **/voice** لوحه التحكم يمكن استخدامها للتحكم في قناة الصوت المؤقتة الخاصة بك. المزيد من الخيارات المتاحة عبر هذه",
     "interface_footer": "يمكن استخدام هذه الواجهة بالضغط على الأزرار أدناه",
