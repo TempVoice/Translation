@@ -1,6 +1,6 @@
 [
   {
-    "lang": "de-b"
+    "lang": "de-B"
   },
   {
     "info_setup": "## **Eirichtung abgeschlossn!.**\n {val1} kann jezzz verwendet wer'n, um temporäre Kanäle auf detn Discord Serva zu erstelln!",
@@ -84,6 +84,9 @@
     "join_4": "## **Falsches Passwot!**\n Det ejegene Passwo't is falsch. Vesuch s mit nem annanen.",
     "join_5": "## **Korräktes Passwot!**\n Kannste jetze {val1} beitretn",
 
+    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+
     "interface_description": "Det **Interface** kann verwendet wer'n, um deinen dafürn temporär'n Kanal zu bearet'n. Weitere Optionen stehen mit'n Command **/voice** bis avantade.",
     "interface_footer": "Det Interface kann mit den untanen Buttons verwendet wer'n.",
 
@@ -105,6 +108,14 @@
     "waiting_menu_label_1": "Akzeptier'n",
     "waiting_menu_description_1": "Der Nutza wird in de'm Kanal jeschob'n",
     "waiting_menu_label_2": "Ableh'n",
-    "waiting_menu_description_2": "Der Nutza wird jejkickt und jesperrt"
+    "waiting_menu_description_2": "Der Nutza wird jejkickt und jesperrt",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]

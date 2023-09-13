@@ -84,6 +84,9 @@
     "join_4": "## **Kata Laluan Salah!**\n Kata laluan yang anda masukkan adalah salah. Cuba lagi.",
     "join_5": "## **Kata Laluan Betul!**\n Anda kini boleh menyertai {val1}",
 
+    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+
     "interface_description": "Antaramuka ini boleh digunakan untuk menguruskan saluran suara sementara. Lebih banyak pilihan tersedia dengan arahan **/voice**.",
     "interface_footer": "Tekan butang di bawah untuk menggunakan antaramuka",
 
@@ -105,6 +108,14 @@
     "waiting_menu_label_1": "Terima",
     "waiting_menu_description_1": "Pengguna akan dipindahkan ke dalam saluran suara anda",
     "waiting_menu_label_2": "Tolak",
-    "waiting_menu_description_2": "Pengguna akan ditendang dan disekat"
+    "waiting_menu_description_2": "Pengguna akan ditendang dan disekat",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]

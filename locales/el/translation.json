@@ -29,6 +29,7 @@
     "cmd_join_description": "Join a temporary voice channel by using a password",
     "cmd_setup_tempvoice_description": "Έναρξη αυτόματου σεταρίσματος του TempVoice",
     "cmd_help_description": "Get help with the TempVoice Discord Bot",
+    "cmd_find_description": "Find out which voice channel a user is in",
 
     "info_setup": "## **Το Setup Ολοκληρώθηκε!!**\n {val1} μπορεί να χρησιμοποιηθεί για την δημιουργία νέων καναλιών.",
     "info_setup2": "## **Το Setup Ολοκληρώθηκε!**\n Αυτό το [interface]({val1}) μπορεί να χρησιμοποιηθεί για να ελέγχει τα κανάλια.",
@@ -111,6 +112,9 @@
     "join_4": "## **Λάθος password**\n Λάθος κωδικός πρόσβασης. Δοκίμασε ξανά.",
     "join_5": "## **Σωστό Password**\n Τώρα μπορείς να μπείς {val1}",
 
+    "find_1": "## **Founded!**\n The user {val1} you're looking for is here: {val2}",
+    "find_2": "## **Not Founded.**\n The user you're looking for isn't in a public voice channel",
+
     "interface_description": "Το περιβάλλον χρήσης **interface** μπορεί να χρησιμοποιηθεί για να αλλάξετε τα voice κανάλια. Περισσότερες επιλογές και εντολές εδώ: **/voice**.",
     "interface_footer": "Χρησιμοποίησε τα κουμπιά για να πλοηγηθείς",
 
@@ -132,6 +136,14 @@
     "waiting_menu_label_1": "ΑΠΟΔΟΧΗ",
     "waiting_menu_description_1": "Ο χρήστης θα μεταφερθεί στο κανάλι σου",
     "waiting_menu_label_2": "ΑΠΟΡΡΙΨΗ",
-    "waiting_menu_description_2": "Ο χρήστης θα πεταχτεί εκτός καναλιού και θα φάει μπλοκ στην μάπα"
+    "waiting_menu_description_2": "Ο χρήστης θα πεταχτεί εκτός καναλιού και θα φάει μπλοκ στην μάπα",
+
+    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]
