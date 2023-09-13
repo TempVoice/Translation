@@ -138,7 +138,7 @@
 		"waiting_menu_label_2": "拒否",
 		"waiting_menu_description_2": "ユーザーはキックされ、ブロックされます",
 
-		"did_you_know_1": "'/voice password'を使ってあなたのVCにパスワードをかけることができます。",
+		"did_you_know_1": "'/voice password'を使ってあなたのVCにパスワードを設定することができます。",
 		"did_you_know_2": "'/find'を使って指定したユーザーがどのVCに参加しているか探し出せます。",
 		"did_you_know_3": "'/voice lfp' の'lfp'は人探しの略称です。(Looking For People)",
 		"did_you_know_4": "'/voice trust'を使って最大25人まで信頼ユーザーを追加できます。",
