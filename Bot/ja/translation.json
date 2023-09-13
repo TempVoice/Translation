@@ -29,7 +29,7 @@
 		"cmd_join_description": "パスワードを使用して一時的なチャンネルに参加します",
 		"cmd_setup_tempvoice_description": "TempVoiceの設定が簡単にできます",
 		"cmd_help_description": "TempVoice Discord Botの使用方法に関するヘルプを送信します",
-		"cmd_find_description": "Find out which voice channel a user is in",
+		"cmd_find_description": "指定したユーザーがどのチャンネルにいるか探します",
 
 		"info_setup": "## **設定完了！**\n {val1} は今後サーバーであなたのボイスチャンネルを作成できます。",
 		"info_setup2": "## **設定完了！**\n この [設定パネル]({val1}) を使用してあなたのボイスチャンネルを設定できます。",
@@ -112,8 +112,8 @@
 		"join_4": "## **パスワードが違います。**\n 入力したパスワードが間違っています。もう一度お試しください。",
 		"join_5": "## **正しいパスワードです。**\n {val1} に参加できるようになりました。",
 
-		"find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-		"find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+		"find_1": "## **見つけました！**\n {val1} はこのVCに参加しています→ {val2}",
+		"find_2": "## **見つけられませんでした**\n 指定したユーザーは公開されているVCで見つけることができませんでした",
 	
 		"interface_description": "この **設定パネル** は、あなたのボイスチャンネルの管理に使用できます。 **/voice** コマンドでさらに多くの設定が利用可能です。",
 		"interface_footer": "以下のボタンを押すと、設定を変更できます。",
@@ -138,12 +138,12 @@
 		"waiting_menu_label_2": "拒否",
 		"waiting_menu_description_2": "ユーザーはキックされ、ブロックされます",
 
-		"did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-		"did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-		"did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-		"did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-		"did_you_know_5": "You can block up to 25 users with '/voice block'.",
-		"did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-		"did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+		"did_you_know_1": "'/voice password'を使ってあなたのVCにパスワードをかけることができます。",
+		"did_you_know_2": "'/find'を使って指定したユーザーがどのVCに参加しているか探し出せます。",
+		"did_you_know_3": "'/voice lfp' の'lfp'は人探しの略称です。(Looking For People)",
+		"did_you_know_4": "'/voice trust'を使って最大25人まで信頼ユーザーを追加できます。",
+		"did_you_know_5": "'/voice block'を使って最大25人までユーザーをブロックできます。",
+		"did_you_know_6": "'/voice thread'を使ってあなたのVC専用のチャットスレッドを作成できます。",
+		"did_you_know_7": "'/voice waiting'これを使ってあなたがVCをロックしていた場合参加リクエスト用の待機VCを作成することができます。"
 	}
 ]
