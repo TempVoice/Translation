@@ -138,12 +138,12 @@
     "waiting_menu_label_2": "Negar",
     "waiting_menu_description_2": "O usuário será expulso e bloqueado",
 
-    "did_you_know_1": "Did you know?\nYou can set a password for your temporary channel using '/voice password'.",
-    "did_you_know_2": "Did you know?\nIf you cannot find your friend, you can use '/find' to find their voice channel.",
-    "did_you_know_3": "Did you know?\nlfp in '/voice lfp' stands for Looking For People.",
-    "did_you_know_4": "Did you know?\nYou can trust up to 25 users with '/voice trust'.",
-    "did_you_know_5": "Did you know?\nYou can block up to 25 users with '/voice block'.",
-    "did_you_know_6": "Did you know?\nTo text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-    "did_you_know_7": "Did you know?\nTo accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+    "did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
+    "did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
+    "did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
+    "did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
+    "did_you_know_5": "You can block up to 25 users with '/voice block'.",
+    "did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
+    "did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
   }
 ]
