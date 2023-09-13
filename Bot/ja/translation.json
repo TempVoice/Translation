@@ -144,6 +144,6 @@
 		"did_you_know_4": "'/voice trust'を使って最大25人まで信頼ユーザーを追加できます。",
 		"did_you_know_5": "'/voice block'を使って最大25人までユーザーをブロックできます。",
 		"did_you_know_6": "'/voice thread'を使ってあなたのVC専用のチャットスレッドを作成できます。",
-		"did_you_know_7": "'/voice waiting'これを使ってあなたがVCをロックしていた場合参加リクエスト用の待機VCを作成することができます。"
+		"did_you_know_7": "'/voice waiting'これを使ってあなたのVCに参加リクエストをする為の待機VCを作成することができます。"
 	}
 ]
