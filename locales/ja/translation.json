@@ -29,7 +29,7 @@
 		"cmd_join_description": "パスワードを使用して一時的なチャンネルに参加します",
 		"cmd_setup_tempvoice_description": "TempVoiceの設定が簡単にできます",
 		"cmd_help_description": "TempVoice Discord Botの使用方法に関するヘルプを送信します",
-		"cmd_find_description": "Find out which voice channel a user is in",
+		"cmd_find_description": "指定したユーザーがどのチャンネルにいるか探します",
 
 		"info_setup": "## **設定完了！**\n {val1} は今後サーバーであなたのボイスチャンネルを作成できます。",
 		"info_setup2": "## **設定完了！**\n この [設定パネル]({val1}) を使用してあなたのボイスチャンネルを設定できます。",
@@ -43,7 +43,7 @@
 		"error_manage": "## **許可されていません。**\n このコマンドを使用するには、**サーバー管理**権限が必要です。",
 		"error_vote": "## **まだ不可能です。**\n このコマンドは [投票](<https://top.gg/bot/762217899355013120/vote>) をして一時的にロック解除するか、 [プレミアム](<https://tempvoice.xyz/premium>) に登録して永久的にロック解除できます。",
 		"error_target": "## **不可能です。**\n 選択したユーザーに対してこのコマンドを使用することはできません。",
-		"error_ownership": "## **不可能です。**このコマンドは、音声チャンネルのオーナーのみが使用できます。 現在のオーナーが退出した場合は、 </voice claim:921416747687489568> を使用して音声チャンネルの権限を取得してください。",
+		"error_ownership": "## **不可能です。**\nこのコマンドは、音声チャンネルのオーナーのみが使用できます。 現在のオーナーが退出した場合は、 </voice claim:921416747687489568> を使用して音声チャンネルの権限を取得してください。",
 		"error_permissions": "## **権限が不足しています。**\n  次の権限が不足しています: {val1}",
 		"error_permissions_sync": "## **権限が不足しています。**\n サーバーの管理者に連絡してください。以下の権限が**サーバー設定**のTempVoiceロールに**不足**しています：{val1}、権限を同期するために必要です。",
 		"error_deactivated": "## **不可能です。**\n このコマンドは、{val1}のすべての一時的なボイスチャンネルで無効になっています。",
@@ -112,8 +112,11 @@
 		"join_4": "## **パスワードが違います。**\n 入力したパスワードが間違っています。もう一度お試しください。",
 		"join_5": "## **正しいパスワードです。**\n {val1} に参加できるようになりました。",
 
-		"find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-		"find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+		"find_1": "## **見つけました！**\n {val1} はこのVCに参加しています→ {val2}",
+		"find_2": "## **見つけられませんでした**\n 指定したユーザーを公開されているVCで見つけることができませんでした",
+
+		"help_1": "## > Thank You For Using TempVoice\n### <:settings:585767366743293952> Setup & Configure TempVoice\nSetup <@762217899355013120> by using the <:Setup:1128667742887755899> **Setup TempVoice** button to create all essential channels such as a \n**<:voice:585783907673440266> Creator Channel** & **<:channel:585783907841212418> Interface**. \n\nConfigure and customize the bot by logging into our modern [Dashboard](https://tempvoice.xyz/dashboard).\n### <:TempVoice_Color_Red:1063907096711667712> Create Your First Temporary Channel\nCreate a temporary voice channel by joining a **<:voice:585783907673440266> Creator Channel**, which creates new voice channel and move you.\n### <:TempVoice_Color_Red:1063907096711667712> Manage Your Temporary Channel\nManage the channel by using the **<:channel:585783907841212418> Interface** or\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568> etc...",
+		"help_2": "## > Setup Your Custom Branding Bot\n### 1. Activated Premium!\nThis Custom Branding bot will work for all Discord Server where you as Custom Branding subscriber activated TempVoice Premium. You can manage your premium subscription on https://tempvoice.xyz/premium.\n### 2. Kick The Public Bot!\nThis Custom Branding bot will completely replace the public bot and will not start working until the public <@762217899355013120> bot got kicked. All existing Creator Channels will continue to function. Only existing Interfaces will have to be replaced with **/setup**.",
 	
 		"interface_description": "この **設定パネル** は、あなたのボイスチャンネルの管理に使用できます。 **/voice** コマンドでさらに多くの設定が利用可能です。",
 		"interface_footer": "以下のボタンを押すと、設定を変更できます。",
@@ -138,12 +141,12 @@
 		"waiting_menu_label_2": "拒否",
 		"waiting_menu_description_2": "ユーザーはキックされ、ブロックされます",
 
-		"did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-		"did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-		"did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-		"did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-		"did_you_know_5": "You can block up to 25 users with '/voice block'.",
-		"did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-		"did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+		"did_you_know_1": "'/voice password'を使ってあなたのVCにパスワードを設定することができます。",
+		"did_you_know_2": "'/find'を使って指定したユーザーがどのVCに参加しているか探し出せます。",
+		"did_you_know_3": "'/voice lfp' の'lfp'は人探しの略称です。(Looking For People)",
+		"did_you_know_4": "'/voice trust'を使って最大25人まで信頼ユーザーを追加できます。",
+		"did_you_know_5": "'/voice block'を使って最大25人までユーザーをブロックできます。",
+		"did_you_know_6": "'/voice thread'を使ってあなたのVC専用のチャットスレッドを作成できます。",
+		"did_you_know_7": "'/voice waiting'これを使ってあなたのVCに参加リクエストをする為の待機VCを作成することができます。"
 	}
 ]
