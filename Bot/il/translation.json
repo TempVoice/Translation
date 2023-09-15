@@ -16,8 +16,8 @@
     "error_vote": "**לא אפשר כעת**. הפקודה הזאת יכול להיות משומשת זמנית עם [הצבעה](<https://top.gg/bot/762217899355013120/vote>) או עם [פרימיום](<https://tempvoice.xyz/premium>).",
     "error_target": "**לא אפשרי**. אתם לא יכולים להשתמש בפקודה הזאת עם המשתמש הזה.",
     "error_ownership": "**לא אפשרי**. רק מנהלי הערוץ יכול להשתמש בפקודה זאת. נשו לתבוע את הערוץ: </voice claim:921416747687489568>.",
-    "error_permissions": "**גישות חסרות**. הגישות הבאות חסרות: {val1}.",
-    "error_permissions_sync": "**הרשאות חסרות.** אנא צור קשר עם האדמין. ההרשאות הנל **חסרות בהגדרות של השרת** עבור הרול של הבוט: {val1} על מנת לסנכרן את ההרשאות.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "**מושבת**. הפקודה הזאת מושבתת לכל ערוצי הדיבור הזמניים של {val1}.",
     "error_limit": "**בלתי אפשרי** ההגבלה של יוצרי ערוצי דיבור זמניים בשרת היא {val1}. תנסה למחוק אחד קיים או לשדרג לגירסת פרימיום על מנת להעלות את ההגבלה - [premium](<https://tempvoice.xyz/premium>) tier.",
     "error_ratelimit": "**לא אפשרי כעת**. הפקודה יכולה להשתמש **{val1}**.",
@@ -86,6 +86,9 @@
 
     "find_1": "**Found!** The user {val1} you're looking for is here: {val2}",
     "find_2": "**Not Found.** The user you're looking for isn't in a public voice channel",
+
+    "help_1": "## Getting Started with TempVoice\n### <:settings:585767366743293952> Setup & Configure TempVoice\nSetup <@762217899355013120> by using the <:setup:1128667742887755899> **Setup TempVoice** button to create all the necessary channels such as a \n**<:voice:585783907673440266> Creator Channel** & **<:channel:585783907841212418> Interface**. \n\nConfigure and customize the bot by logging into our fancy [Dashboard](https://tempvoice.xyz/dashboard).\n### <:TempVoice_Color_Red:1063907096711667712> Create Your First Temporary Channel\nJoin a **<:voice:585783907673440266> Creator Channel** and you will be moved to your own temporary voice channel. \n### <:TempVoice_Color_Red:1063907096711667712> Manage Your Temporary Channel\nUse **/voice** commands such as </voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, etc... or the **<:channel:585783907841212418> interface**.",
+    "help_2": "## > Setup Your Custom Branding Bot\n### 1. Activated Premium!\nThis Custom Branding bot works for all Discord Servers where you as Custom Branding subscriber activated TempVoice Premium. You can manage your premium subscription on https://tempvoice.xyz/premium.\n### 2. Kick The Public Bot!\nThis Custom Branding bot completely replaces the public bot and will not start working until the public <@762217899355013120> bot got kicked. All existing Creator Channels will continue to function. Only existing Interfaces have to be replaced with **/setup**.",
 
     "interface_description": "ניתן להשתמש ב **ממשק** זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות **/voice**.",
     "interface_footer": "ניתן להשתמש בממשק זה על ידי לחיצה על הכפתורים למטה",

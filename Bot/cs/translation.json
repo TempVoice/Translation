@@ -44,8 +44,8 @@
     "error_vote": "## **Zatím není možné**\n Tento příkaz lze dočasně odblokovat pomocí [hlasovaním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčené pomocí [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Není možné**\n You cannot use this command for the selected user.",
     "error_ownership": "## **Není možné**\n Tento příkaz může použít pouze vlastník hlasového kanálu. Pokud aktuální vlastník odešel, požádejte o hlasový kanál pomocí příkazu: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Missing Permissions.**\n The following permissions are missing: {val1}",
-    "error_permissions_sync": "## **Missing Permissions.**\n Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Není možné**\n Tento příkaz je deaktivován pro všechny dočasné hlasové kanály. {val1}.",
     "error_limit": "## **Není možné**\n Limit kanálů tvůrce na jednom serveru je {val1}. Zkuste jednu z nich odstranit nebo zvýšit limit pomocí vyššího limitu. [premium](<https://tempvoice.xyz/premium>) úroveň.",
     "error_ratelimit": "## **Zpomalte!**\n Tento příkaz lze použít znovu **{val1}**.",
@@ -114,6 +114,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help_1": "## Getting Started with TempVoice\n### <:settings:585767366743293952> Setup & Configure TempVoice\nSetup <@762217899355013120> by using the <:setup:1128667742887755899> **Setup TempVoice** button to create all the necessary channels such as a \n**<:voice:585783907673440266> Creator Channel** & **<:channel:585783907841212418> Interface**. \n\nConfigure and customize the bot by logging into our fancy [Dashboard](https://tempvoice.xyz/dashboard).\n### <:TempVoice_Color_Red:1063907096711667712> Create Your First Temporary Channel\nJoin a **<:voice:585783907673440266> Creator Channel** and you will be moved to your own temporary voice channel. \n### <:TempVoice_Color_Red:1063907096711667712> Manage Your Temporary Channel\nUse **/voice** commands such as </voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, etc... or the **<:channel:585783907841212418> interface**.",
+    "help_2": "## > Setup Your Custom Branding Bot\n### 1. Activated Premium!\nThis Custom Branding bot works for all Discord Servers where you as Custom Branding subscriber activated TempVoice Premium. You can manage your premium subscription on https://tempvoice.xyz/premium.\n### 2. Kick The Public Bot!\nThis Custom Branding bot completely replaces the public bot and will not start working until the public <@762217899355013120> bot got kicked. All existing Creator Channels will continue to function. Only existing Interfaces have to be replaced with **/setup**.",
 
     "interface_description": "Tenhle **interface** lze použít ke správě dočasných hlasových kanálů. Další možnosti jsou k dispozici s **/voice** příkazy.",
     "interface_footer": "Pro použití rozhraní stiskněte níže uvedená tlačítka",

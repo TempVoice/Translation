@@ -44,8 +44,8 @@
     "error_vote": "## **Impossível**\n Este comando pode ser temporariamente desbloqueado por [votação](<https://top.gg/bot/762217899355013120/vote>) ou sendo [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Impossível**\n Você não pode usar este comando para o usuário selecionado.",
     "error_ownership": "## **Impossível**\n Somente o proprietário do canal de voz pode usar este comando. Se o proprietário atual saiu, reivindique o canal de voz usando: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Permissões ausentes**\n As seguintes permissões estão ausentes: {val1}",
-    "error_permissions_sync": "## **Permissões ausentes.**\n Entre em contato com um administrador. As seguintes permissões estão **faltando** na função **configurações do servidor** para TempVoice: {val1} para sincronizar as permissões.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Impossível**\n Este comando está desativado para todos os canais de voz temporários de {val1}.",
     "error_limit": "## **Impossível**\n O limite de canais de criadores em um único servidor é {val1}. Tente excluir um ou aumentar o limite com [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Tempo de espera!**\n Este comando pode ser usado novamente em **{val1}**.",
@@ -114,6 +114,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help_1": "## Getting Started with TempVoice\n### <:settings:585767366743293952> Setup & Configure TempVoice\nSetup <@762217899355013120> by using the <:setup:1128667742887755899> **Setup TempVoice** button to create all the necessary channels such as a \n**<:voice:585783907673440266> Creator Channel** & **<:channel:585783907841212418> Interface**. \n\nConfigure and customize the bot by logging into our fancy [Dashboard](https://tempvoice.xyz/dashboard).\n### <:TempVoice_Color_Red:1063907096711667712> Create Your First Temporary Channel\nJoin a **<:voice:585783907673440266> Creator Channel** and you will be moved to your own temporary voice channel. \n### <:TempVoice_Color_Red:1063907096711667712> Manage Your Temporary Channel\nUse **/voice** commands such as </voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, etc... or the **<:channel:585783907841212418> interface**.",
+    "help_2": "## > Setup Your Custom Branding Bot\n### 1. Activated Premium!\nThis Custom Branding bot works for all Discord Servers where you as Custom Branding subscriber activated TempVoice Premium. You can manage your premium subscription on https://tempvoice.xyz/premium.\n### 2. Kick The Public Bot!\nThis Custom Branding bot completely replaces the public bot and will not start working until the public <@762217899355013120> bot got kicked. All existing Creator Channels will continue to function. Only existing Interfaces have to be replaced with **/setup**.",
 
     "interface_description": "Essa **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos **/voice**",
     "interface_footer": "Pressione os botões abaixo para usar a interface",

@@ -44,8 +44,8 @@
     "error_vote": "## **현재 사용 불가능**\n 해당 명령은 투표를 통해 임시 잠금 해제될 수 있으며, [투표](<https://top.gg/bot/762217899355013120/vote>), 또는 프리미엄을 구독하여 자유롭게 사용가능 [프리미엄](<https://tempvoice.xyz/premium>).",
     "error_target": "## **사용불가능.**\n 해당 유저에게 이 명령을 사용할 수 없습니다.",
     "error_ownership": "## **사용불가능.**\n 이 음성방의 소유권자만이 해당 명령어를 사용할 수 있습니다. 음성방의 소유권을 넘겨 받기: </voice claim:921416747687489568>.",
-    "error_permissions": "## **사용 권한 누락됨.**\n 다음 권한이 없습니다 : {val1}.",
-    "error_permissions_sync": "## **Missing Permissions.**\n Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my bot role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **비활성화됨.**\n 해당 명령은 {val1}의 모든 음성방에서 비활성화 되었습니다. ",
     "error_limit": "## **Not Possible**\n The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://tempvoice.xyz/premium>) tier.",
     "error_ratelimit": "## **아직은 허용되지않음.**\n 해당 명령은 **{val1}**에 다시 이용이 가능합니다. 남은 타이머가 표시되므로 수시로 해당메세지를 확인해주세요.",
@@ -114,6 +114,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help_1": "## Getting Started with TempVoice\n### <:settings:585767366743293952> Setup & Configure TempVoice\nSetup <@762217899355013120> by using the <:setup:1128667742887755899> **Setup TempVoice** button to create all the necessary channels such as a \n**<:voice:585783907673440266> Creator Channel** & **<:channel:585783907841212418> Interface**. \n\nConfigure and customize the bot by logging into our fancy [Dashboard](https://tempvoice.xyz/dashboard).\n### <:TempVoice_Color_Red:1063907096711667712> Create Your First Temporary Channel\nJoin a **<:voice:585783907673440266> Creator Channel** and you will be moved to your own temporary voice channel. \n### <:TempVoice_Color_Red:1063907096711667712> Manage Your Temporary Channel\nUse **/voice** commands such as </voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, etc... or the **<:channel:585783907841212418> interface**.",
+    "help_2": "## > Setup Your Custom Branding Bot\n### 1. Activated Premium!\nThis Custom Branding bot works for all Discord Servers where you as Custom Branding subscriber activated TempVoice Premium. You can manage your premium subscription on https://tempvoice.xyz/premium.\n### 2. Kick The Public Bot!\nThis Custom Branding bot completely replaces the public bot and will not start working until the public <@762217899355013120> bot got kicked. All existing Creator Channels will continue to function. Only existing Interfaces have to be replaced with **/setup**.",
 
     "interface_description": "**인터페이스** 는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들었습니다. 다음**/voice** 명령어를 사용하여 더 많은 옵션을 선택하고 변경할 수 있습니다.",
     "interface_footer": "인터페이스는 아래 버튼을 눌러 사용할 수 있습니다",
