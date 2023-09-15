@@ -44,7 +44,7 @@
     "error_vote": "## **Not Possible Yet!**\n This command can be temporary unlocked by [voting](<https://top.gg/bot/762217899355013120/vote>), or permanently unlocked with [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Not Possible!**\n You cannot use this command for the selected user(s).",
     "error_ownership": "## **Not Possible!**\n Only the temporary voice channel owner can use this command. If the current owner has left, claim the voice channel by using: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Missing Permissions!**\n The following permissions are missing: {val1}",
+    "error_permissions": "## **Missing Permissions!**\n The following permissions in your server settings and category for temporary channels are missing: {val1}",
     "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
     "error_deactivated": "## **Not Possible!**\n This command is deactivated for all temporary voice channels of {val1}.",
     "error_limit": "## **Not Possible!**\n The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://tempvoice.xyz/premium>) tier.",
