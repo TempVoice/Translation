@@ -53,7 +53,7 @@
     "error_webhook": "## **無法執行！**\n 由於其他Discord機器人的阻止，無法創建Webhook。請檢查是否有安全機器人如*Wick*、*Beemo*等。",
     "error_totallimit": "## **無法執行！**\n 同時存在的臨時語音頻道數量已達到上限，上限為 **{val1}**，因為這個Discord伺服器有限制。請稍後再試。",
     "error_discordlimit": "## **無法執行！**\n 所有可用的類別已達到每個類別50個頻道的上限。如果您是管理員，您可以在儀表板中設定更多的**備用類別**，否則請稍後再試。",
-    "error_cb": "## **無法執行！**\n 您正在嘗試在一個尚未啟用TempVoice高級的Discord伺服器上使用[TempVoice自訂品牌](https://tempvoice.xyz/)機器人。如果您是此自訂品牌機器人的擁有者，請在此處啟用它：**https://tempvoice.xyz/premium** > **啟用高級**。",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **意外的衝突。**\n TempVoice與Discord的API發生了衝突。請在此處報告此訊息 https://discord.gg/tempvoice。\n### 錯誤：`{val1}`",
     
     "voice_waiting_1": "## **無法完成**\n 當您的頻道隱藏時，無法設定等待室",
@@ -109,8 +109,8 @@
     "find_1": "## 找到了！\n 你要找的用戶 {val1} 在：{val2}",
     "find_2": "## 找不到。\n 你要找的用戶不在任何公開語音頻道",
 
-    "help_1": "## TempVoice 入門\n### <:settings:585767366743293952> 設定和配置 TempVoice\n使用 <:setup:1128667742887755899> **Setup TempVoice** 按鈕設定 <@762217899355013120>，創建所有必需的頻道，例如\n**<:voice:585783907673440266> 創建者頻道** 和 **<:channel:585783907841212418> 界面**。\n\n通過登錄我們的漂亮的 儀表板: https://tempvoice.xyz/dashboard 來配置和自定義機器人。\n### <:TempVoice_Color_Red:1063907096711667712> 創建您的第一個臨時頻道\n加入 **<:voice:585783907673440266> 創建者頻道** 並將您移至您自己的臨時語音頻道。\n### <:TempVoice_Color_Red:1063907096711667712> 管理您的臨時頻道\n使用 **/voice** 命令，例如 </voice name:921416747687489568>、</voice limit:921416747687489568>、</voice privacy:921416747687489568> 等，或使用 **<:channel:585783907841212418> 界面**。",
-    "help_2": "## > 自定義品牌機器人的設置\n### 1. 已激活高級版！\n此自定義品牌機器人適用於所有 Discord 伺服器，您作為自定義品牌訂閱者已在 TempVoice 中啟用高級版。您可以通過 https://tempvoice.xyz/premium 管理您的高級訂閱。\n### 2. 踢掉公共機器人！\n此自定義品牌機器人完全取代了公共機器人，在公共 <@762217899355013120> 機器人被踢掉之前將不會開始工作。所有現有的創建者頻道將繼續運行。只有現有的界面需要使用 **/setup** 替換。",
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "此 **設定介面** 可以管理臨時語音頻道. 更多選項可使用 **/voice** 開頭的命令",
     "interface_footer": "請按下面的按鈕使用此介面",
