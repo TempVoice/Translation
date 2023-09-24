@@ -55,7 +55,7 @@
 		"error_webhook": "## **不可能です！**\n discordセキュリティボットが邪魔をして、webhookを作成できません。*Wick*、*Beemo*などのボットが原因かどうか確認してください。",
 		"error_totallimit": "## **不可能です！**\n 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。Discordサーバー側で制限がされています。少し待って再試行してください。",
 		"error_discordlimit": "## **不可能です！**\n ボットが使用できるすべてのカテゴリーが、それぞれ50チャンネルの上限に達しています。あなたが管理者の場合はダッシュボード内にある**一時的なチャンネルのカテゴリー（予備）**でカテゴリーを増やしてください。",
-		"error_cb": "## **不可能です！**\n [TempVoice Custom Branding](https://tempvoice.xyz/premium) botがサーバーにおり、BOTのオーナーがプレミアムを有効化していません。 もし、あなたがプレミアムBOTのオーナーの場合は<@762217899355013120> bot をキックし、ここで**https://tempvoice.xyz/premium**このDiscordサーバーでプレミアムを有効化してください。",
+		"error_cb": "## **不可能です！**\n [TempVoice Custom Branding](https://tempvoice.xyz/premium) botがサーバーにおり、BOTのオーナーがプレミアムを有効化していません。 もし、あなたがプレミアムBOTのオーナーの場合は<@762217899355013120> botをキックし、ここで**https://tempvoice.xyz/premium**このDiscordサーバーでプレミアムを有効化してください。",
 		"error_conflict": "## **予期しない問題が発生しました。**\n TempVoiceとDiscord APIの間で問題がありました。エラーメッセージはこちらで報告してください：https://discord.gg/tempvoice\n### エラー：`{val1}`",
 
 		"voice_waiting_1": "## **不可能です。**\n ボイスチャンネル(VC)を非表示にすると、待機VCを作ることができません。",
