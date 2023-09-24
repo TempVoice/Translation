@@ -118,7 +118,7 @@
 		"find_2": "## **見つけられませんでした**\n 指定したユーザーを公開されているVCで見つけることができませんでした",
 
 		"help": "## TempVoiceの設定をしよう\nBOTの[dashboard](https://tempvoice.xyz/dashboard)はこちらで、TempVoiceの設定ができます。</setup:921000495877877762> を使用することで、\n**`➕` Creator Channel** & **`✨` Interface Message**を作成することができます。\n## あなたのボイスチャンネルを作成しよう\n**`➕` Creator Channel** (voice channel)に参加して、自分だけのVCを作成しよう。 \n## あなたのVCの設定をしよう\n**/voice** コマンドか **`✨` Interface Message**を使用しよう\n\n参考コマンド：</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-		"setup": "## `➕` Creator Channel\nに参加して、あなたのVCを作成しよう\n## `✨` Interface Message\nを使うか**/voice** コマンドを使用することで、VCの設定が可能です。",
+		"setup": "## `➕` Creator Channel\nに参加してあなたのVCを作成しよう\n## `✨` Interface Message\nを使うか**/voice** コマンドを使用することで、VCの設定が可能です。",
 
 		"interface_description": "この **設定パネル** は、あなたのボイスチャンネルの管理に使用できます。 **/voice** コマンドでさらに多くの設定が利用可能です。",
 		"interface_footer": "以下のボタンを押すと、設定を変更できます。",
