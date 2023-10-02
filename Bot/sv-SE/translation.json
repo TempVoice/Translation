@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Skapad!**\n En tillfällig tråd har skapats för den här kanalen.",
     "voice_thread_3": "## **Raderad!**\n Tråden har tagits bort.",
     "voice_thread_4": "## **Inte möjligt**\n Det finns ingen tråd att ta bort.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Borttagen!**\n Din tillfälliga röstkanal har tagits bort.",
     "voice_close_2": "## **Är du säker?**\n Din tillfälliga röstkanal kommer att raderas. Bekräfta genom att använda knappen nedan.",
     "voice_password_1": "## **Uppdaterad!**\n Användare kan nu gå med i din tillfälliga röstkanal med lösenordet ||`{val1}`|| med kommandot </join:1060564928529956985>.",

@@ -101,6 +101,7 @@
     "voice_thread_2": "## **¡Creado!**\n Se ha creado un hilo temporal para este canal.",
     "voice_thread_3": "## **¡Borrado!**\n El hilo ha sido eliminado.",
     "voice_thread_4": "## **No es posible.**\n No existe un hilo para borrar.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **¡Cerrado!**\n Tu canal de voz temporal ha sido cerrado.",
     "voice_close_2": "## **¿Estás seguro?**\n Tu Canal de Voz Temporal será borrado. Por favor confírmalo usando el botón de abajo.",
     "voice_password_1": "## **¡Actualizado!**\n Ahora pueden entrar a tu Canal de Voz Temporal usando la contraseña ||`{val1}`|| con el comando </join:1060564928529956985>.",

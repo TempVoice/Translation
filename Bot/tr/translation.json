@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Oluşturudu!**\n Bu kanal için bir alt başlık oluşturuldu.",
     "voice_thread_3": "## **Silindi!**\n Alt başlık silindi.",
     "voice_thread_4": "## **Mümkün değil!**\n Silinecek bir alt başlık bulanamadı.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Kapatıldı!**\n Geçici ses kanalınız kapatıldı.",
     "voice_close_2": "## **Emin misiniz?**\n Geçici sesli kanalınız silinecek. Kabul etmek için lütfen aşağıdaki tuşa basınız.",
     "voice_password_1": "## **Güncellendi!**\n Kullanıcılar artık ||`{val1}`||  şifresini kullanarak geçici odanıza katılacak, </join:1060564928529956985> komutu ile.",

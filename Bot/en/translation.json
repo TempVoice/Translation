@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Created!**\n A temporary thread has been created for this channel.",
     "voice_thread_3": "## **Deleted!**\n The thread has been deleted.",
     "voice_thread_4": "## **Not Possible!**\n There is no thread to delete.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Closed!**\n Your temporary voice channel has been closed.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Updated!**\n Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",

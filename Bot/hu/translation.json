@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Létrehozva!**\n Egy ideiglenes gondolatmenetet hoztunk létre ehhez a csatornához.",
     "voice_thread_3": "## **Törölve!**\n A gondolatmenet törölve.",
     "voice_thread_4": "## **Nem lehetséges**\n Nincs törölni való gondolatmenet.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Bezárva!**\n Az ideiglenes hangcsatornádat bezártuk.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Frissítve!**\n A felhasználók mostantól a jelszó használatával csatlakozhatnak az ideiglenes hangcsatornához. ||`{val1}`|| A </join:1060564928529956985> paranccsal.",

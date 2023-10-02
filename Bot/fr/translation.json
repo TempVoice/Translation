@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Création!.**\n Un fil temporaire a été créé.",
     "voice_thread_3": "## **Suppression!**\n Le fil a été supprimé.",
     "voice_thread_4": "## **Pas possible!**\n Il n'y a pas de fil à supprimer.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Fermeture!**\n Votre salon vocal temporaire a été fermé.",
     "voice_close_2": "## **Vous êtes sûr?**\n Votre salon vocal temporaire sera supprimé. Veuillez confirmer en utilisant le bouton ci-dessous.",
     "voice_password_1": "## **Mise à jour!**\n Les utilisateurs peuvent désormais rejoindre votre salon vocal temporaire en utilisant le mot de passe ||`{val1}`|| avec la commande </join:1060564928529956985>.",

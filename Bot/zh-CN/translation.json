@@ -101,6 +101,7 @@
     "voice_thread_2": "## **已创建！**\n 为此频道创建了临时线程。",
     "voice_thread_3": "## **已删除！**\n 线程已被删除。",
     "voice_thread_4": "## **不可能！**\n 没有线程可供删除。",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **已关闭！**\n 您的临时语音频道已关闭。",
     "voice_close_2": "## **确定吗？**\n 您的临时语音频道将被删除。请使用下面的按钮确认。",
     "voice_password_1": "## **已更新！**\n 用户现在可以使用密码 ||`{val1}`|| 使用</join:1060564928529956985> 命令加入您的临时语音频道。",

@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Gemaakt.**\n Er is een tijdelijke draad gemaakt voor dit kanaal.",
     "voice_thread_3": "## **Verwijderd.**\n De draad is verwijderd.",
     "voice_thread_4": "## **Niet mogelijk.**\n Er is geen draad om te verwijderen.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Gesloten.**\n Je tijdelijke spraakkanaal is gesloten.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Bijgewerkt.**\n Gebruikers kunnen nu lid worden van uw tijdelijke spraakkanaal door het wachtwoord ||`{val1}`|| met de opdracht </join:1060564928529956985>.",

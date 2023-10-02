@@ -99,6 +99,13 @@
     "voice_untrust_2": "## **解除信任**\n 您的臨時頻道已解除信任此位使用者",
     "voice_thread_1": "## **無法完成**\n 此臨時頻道已經建立子文字討論串",
     "voice_thread_2": "## **已完成！**\n 一個臨時子文字討論串已建",
+    "voice_thread_3": "## **Deleted!**\n The thread has been deleted.",
+    "voice_thread_4": "## **Not Possible!**\n There is no thread to delete.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_close_1": "## **Closed!**\n Your temporary voice channel has been closed.",
+    "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_password_1": "## **Updated!**\n Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
+    "voice_password_2": "## **Updated!**\n The password for your temporary voice channel has been removed.",
 
     "join_1": "## **無法完成**\n 您選擇了無效的臨時頻道",
     "join_2": "## **無法完成**\n 您不被允許加入此臨時頻道",

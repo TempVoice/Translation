@@ -73,6 +73,7 @@
     "voice_thread_2": "## **Dicipta!**\n Satu benang sementara telah dicipta untuk saluran ini.",
     "voice_thread_3": "## **Dihapus!**\n Benang telah dihapuskan.",
     "voice_thread_4": "## **Tidak Mungkin!**\n Tiada benang untuk dihapuskan.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Ditutup!**\n Saluran suara sementara anda telah ditutup.",
     "voice_close_2": "## **Adakah Anda Pasti?**\n Saluran suara sementara anda akan dihapuskan. Sila sahkan dengan menggunakan butang di bawah.",
     "voice_password_1": "## **Dikemaskini!**\n Pengguna kini boleh menyertai saluran suara sementara anda dengan menggunakan kata laluan ||`{val1}`|| dengan arahan </join:1060564928529956985>.",

@@ -73,6 +73,7 @@
     "voice_thread_2": "## **Erstellt!**\n Eener temporärer Thread is erstellt.",
     "voice_thread_3": "## **Jelöscht!**\n Der Thread is jetze jelöscht.",
     "voice_thread_4": "## **Nich möglich!**\n Det gibt ke'n Thread, we'che jelöscht werd'n kann.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Jeschloss'n!**\n Hast deinen dafürn temporären Kanal vorzeitig jeschlossen.",
     "voice_close_2": "## **Biste jischert?**\n Dein dafürn temporären Kanal wird jelöscht. Bestädige unten mit 'em Button.",
     "voice_password_1": "## **J'ändert!**\n Nutza sin jetze in der Lage deinem dafürn temporären Kanal beizutreten, indem die 'n Passwo't ||`{val1}`|| mit </join:1060564928529956985> Command benutz'n.",

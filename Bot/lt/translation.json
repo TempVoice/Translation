@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Sukurta.**\n Sukurta laikina gija.",
     "voice_thread_3": "## **Ištrinta!**\n Tema ištrinta.",
     "voice_thread_4": "## **Negalima**\n Nėra temos, kurią galima būtų ištrinti.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Uždaryta!**\n Jūsų laikinas balso kanalas buvo uždarytas.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Atnaujinta!**\n Dabar vartotojai gali prisijungti prie jūsų laikinojo balso kanalo naudodami slaptažodį ||`{val1}`|| su </join:1060564928529956985> komanda.",

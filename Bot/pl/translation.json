@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Stworzono.**\n Utworzony został tymczasowy wątek.",
     "voice_thread_3": "## **Usunięto!**\n Wątek został usunięty.",
     "voice_thread_4": "## **Niemożliwe**\n Nie ma wątku do usunięcia.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Zamknięto!**\n Twój tymczasowy kanał głosowy został zamknięty.",
     "voice_close_2": "## **Jesteś pewny?**\n Twój tymczasowy kanał głosowy zostanie usunięty. Proszę potwierdź za pomocą przycisku poniżej.",
     "voice_password_1": "## **Zaktualizowano!**\n Użytkownicy mogą teraz dołączyć na Twój tymczasowy kanał głosowy z użyciem hasła ||`{val1}`|| za pomocą komendy </join:1060564928529956985>.",

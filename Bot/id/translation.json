@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Utasan Dibuat!**\n Utasan sementara sudah dibikin.",
     "voice_thread_3": "## **Utasan Dihapus**\n Utasan sudah dihapus.",
     "voice_thread_4": "## **Gada Utasan Disini**\n Gak ada utasan yang bisa dihapus.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Voice Ditutup**\n Voice channel sementara sudah ditutup.",
     "voice_close_2": "## **Apa kamu yakin?**\n Voice channel sementara bakal dihapus. Tolong konfirmasi pakai tombol di bawah.",
     "voice_password_1": "## **Sandi Dipasang!**\n User sekarang bisa gabung ke voice channel sementara pakai sandi ||`{val1}`|| lewat perintah </join:1060564928529956985>.",

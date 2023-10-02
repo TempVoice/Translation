@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Vytvořeno!**\n Pro tento kanál bylo vytvořeno dočasné vlákno.",
     "voice_thread_3": "## **Smazáno!**\n Vlákno bylo smazáno.",
     "voice_thread_4": "## **Není možné**\n Neexistuje žádné vlákno, které by bylo možné smazat.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Uzavřeno!**\n Váš dočasný hlasový kanál byl uzavřen.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Updated!**\n Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",

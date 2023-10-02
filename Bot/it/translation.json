@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Creato.**\n Un thread temporaneo è stato creato per questo canale.",
     "voice_thread_3": "## **Eliminato.**\n Il thread temporaneo è stato eliminato.",
     "voice_thread_4": "## **Errore.**\n Non c'è alcun thread da eliminare.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Eliminato.**\n Il tuo canale vocale temporaneo è stato eliminato.",
     "voice_close_2": "## **Sei sicuro/a?**\n Il tuo canale vocale temporaneo verrà eliminato. Si prega di confermare usando il bottone sottostante.",
     "voice_password_1": "## **Aggiornato.**\n Ora gli utenti possono entrare nel canale vocale solo utilizzando la password ||`{val1}`|| dopo aver eseguito il comando </join:1060564928529956985>.",

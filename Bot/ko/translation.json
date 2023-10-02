@@ -101,6 +101,7 @@
     "voice_thread_2": "## **스레드 생성됨**\n 임시 스레드가 생성되었습니다.",
     "voice_thread_3": "## **삭제됨**\n 스레드가 삭제되었습니다.",
     "voice_thread_4": "## **불가능**\n 삭제할 스레드가 없습니다.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **닫힘**\n 당신의 임시 음성 채널이 닫혔습니다.",
     "voice_close_2": "## **확인하시겠습니까?**\n 임시 음성 채널이 삭제됩니다. 아래 버튼을 사용하여 확인하세요.",
     "voice_password_1": "## **업데이트됨**\n 사용자들은 이제 **{val1}** 명령어를 사용하여 임시 음성 채널에 가입할 수 있습니다. 비밀번호는 ||`{val1}`||입니다.",

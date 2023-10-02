@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Erstellt!**\nEin temporärer Thread wurde erstellt.",
     "voice_thread_3": "## **Gelöscht!**\nDer Thread wurde gelöscht.",
     "voice_thread_4": "## **Nicht möglich!**\nEs existiert kein Thread, der gelöscht werden kann.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Geschlossen!**\nDu hast deinen temporären Kanal vorzeitig geschlossen.",
     "voice_close_2": "## **Bist du sicher?**\nDein temporärer Kanal wird gelöscht. Bestätige unten mit dem Button.",
     "voice_password_1": "## **Geändert!**\nNutzer können jetzt deinem temporären Kanal beitreten, indem sie das Passwort ||`{val1}`|| mit dem </join:1060564928529956985>-Befehl verwenden.",
