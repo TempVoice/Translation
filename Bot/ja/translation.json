@@ -55,7 +55,7 @@
 		"error_webhook": "## **不可能です！**\n discordセキュリティボットが邪魔をして、webhookを作成できません。*Wick*、*Beemo*などのボットが原因かどうか確認してください。",
 		"error_totallimit": "## **不可能です！**\n 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。Discordサーバー側で制限がされています。少し待って再試行してください。",
 		"error_discordlimit": "## **不可能です！**\n ボットが使用できるすべてのカテゴリーが、それぞれ50チャンネルの上限に達しています。あなたが管理者の場合はダッシュボード内にある**一時的なチャンネルのカテゴリー（予備）**でカテゴリーを増やしてください。",
-		"error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+		"error_cb": "## **不可能です。**\n BOTのオーナーが[TempVoice Custom Branding](https://tempvoice.xyz/premium)を有効化していません。 もしカスタムブランディングBOTのオーナーの場合は、<@762217899355013120> パブリックBOTをキックしてから、プレミアムBOTを**https://tempvoice.xyz/premium** > で**Activate Premium**してください。",
 		"error_conflict": "## **予期しない問題が発生しました。**\n TempVoiceとDiscord APIの間で問題がありました。エラーメッセージはこちらで報告してください：https://discord.gg/tempvoice\n### エラー：`{val1}`",
 
 		"voice_waiting_1": "## **不可能です。**\n ボイスチャンネル(VC)を非表示にすると、待機VCを作ることができません。",
@@ -103,7 +103,7 @@
 		"voice_thread_2": "## **作成しました。**\n このボイスチャンネルのための一時的なスレッドが作成されました。",
 		"voice_thread_3": "## **削除しました。**\n スレッドが削除されました。",
 		"voice_thread_4": "## **不可能です。**\n 削除するスレッドがありません。",
-		"voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+		"voice_thread_5": "## **不可能です！**\n 聞き専スレッドはテキストチャンネルでのみ作成できます。",
 		"voice_close_1": "## **閉じました。**\n あなたのボイスチャンネルは閉じられました。",
 		"voice_close_2": "## **本当によろしいですか？**\n 一時的なボイスチャンネルが削除されます。**下のボタン**を使用して確認してください。",
 		"voice_password_1": "## **更新しました。**\n ユーザーはパスワード ||{val1}|| を使って、</join:1060564928529956985> コマンドであなたの一ボイスチャンネルに参加できるようになりました。",
@@ -118,8 +118,8 @@
 		"find_1": "## **見つけました！**\n {val1} はこのVCに参加しています→ {val2}",
 		"find_2": "## **見つけられませんでした**\n 指定したユーザーを公開されているVCで見つけることができませんでした",
 
-		"help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-		"setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+		"help": "## 最初の設定をしよう。\nBOTの[ダッシュボード](https://tempvoice.xyz/dashboard)で細かい設定が行えます。</setup:921000495877877762>を使うことで簡単な設定を行えます。\n**`➕` Creator Channel** & **`✨` 設定パネル**\n## \n**`➕` Creator Channel** (ボイスチャンネル) に参加して、あなただけのVCを作成しましょう。\n## あなたのVCを設定する\n**/voice** コマンドを使用するか、**`✨` 設定パネル**を使って設定ができます。\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+		"setup": "## `➕` Creator Channel\nこのVCに参加すると、自分だけのVCを作成できます\n## `✨` 設定パネル\n**/voice** コマンドか、この設定パネルでVCの設定ができます。",
 
 		"interface_description": "この **設定パネル** は、あなたのボイスチャンネルの管理に使用できます。 **/voice** コマンドでさらに多くの設定が利用可能です。",
 		"interface_footer": "以下のボタンを押すと、設定を変更できます。",
