@@ -53,7 +53,7 @@
     "error_webhook": "## **不可能！**\n 由于另一个 Discord 机器人阻止我创建 Webhook，因此无法创建 Webhook。查看是否有安全机器人如 *Wick*、*Beemo* 等。",
     "error_totallimit": "## **不可能！**\n 同一时间在同一 Discord 服务器中已达到 **{val1}** 个临时语音频道的限制，因为此 Discord 服务器对其进行了限制。请稍后再试。",
     "error_discordlimit": "## **不可能！**\n 所有可用的分类已达到每个分类最多 50 个频道的限制。如果您是管理员，可以在仪表板中设置更多的 **备用分类**，否则请稍后再试。",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **无法完成!**\n 您正尝试在未启用 TempVoice Premium 的 Discord 服务器上使用 [TempVoice Custom Branding](https://tempvoice.xyz/premium) 机器人。如果您是此自定义品牌机器人的所有者，请确保公共 <@762217899355013120> 机器人已被移除，并在此 Discord 服务器上激活了高级服务：[https://tempvoice.xyz/premium](https://tempvoice.xyz/premium) > **激活高级服务**。",
     "error_conflict": "## **意外冲突。**\n TempVoice 与 Discord 的 API 发生冲突。请在此处报告此消息 https://discord.gg/tempvoice。\n### 错误：`{val1}`",
 
     "voice_waiting_1": "## **不可能！**\n 当您的频道隐藏时，您无法创建等待室。",
@@ -101,7 +101,7 @@
     "voice_thread_2": "## **已创建！**\n 为此频道创建了临时线程。",
     "voice_thread_3": "## **已删除！**\n 线程已被删除。",
     "voice_thread_4": "## **不可能！**\n 没有线程可供删除。",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_thread_5": "## **无法完成!**\n 临时线程只能创建在文本频道中。",
     "voice_close_1": "## **已关闭！**\n 您的临时语音频道已关闭。",
     "voice_close_2": "## **确定吗？**\n 您的临时语音频道将被删除。请使用下面的按钮确认。",
     "voice_password_1": "## **已更新！**\n 用户现在可以使用密码 ||`{val1}`|| 使用</join:1060564928529956985> 命令加入您的临时语音频道。",
@@ -115,9 +115,9 @@
 
     "find_1": "## 找到了！\n 您正在寻找的用户 {val1} 在这里：{val2}",
     "find_2": "## 未找到。\n 您正在寻找的用户不在公共语音频道中",
-
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    
+    "help": "## 设置和配置 TempVoice\n访问机器人的 [控制面板](https://tempvoice.xyz/dashboard) 来配置 TempVoice，并使用 </setup:921000495877877762> 来创建所有必需的频道，如\n**`➕` 创建者频道** 和 **`✨` 交互信息**。\n## 创建您的第一个临时频道\n加入 **`➕` 创建者频道**（语音频道）以创建新的临时语音频道。\n## 管理您的临时频道\n使用 **/voice** 聊天命令或 **`✨` 交互信息**。\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> 等 ...",
+    "setup": "## `➕` 创建者频道\n加入此频道以创建新的临时语音频道。\n## `✨` 交互信息\n作为 **/voice** 聊天命令的替代。使用此频道来管理您的临时语音频道。",
 
     "interface_description": "此**界面**可用于管理临时语音频道。使用**/voice** 命令可获得更多选项。",
     "interface_footer": "按下面的按钮使用界面",
