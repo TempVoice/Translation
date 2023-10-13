@@ -53,7 +53,7 @@
     "error_webhook": "## **Akses Dibatasi!**\n Sepertinya ada bot lain yang membatasiku membuat Webhook, seperti bot keamanan atau yang lain. Coba silahkan cek lagi.",
     "error_totallimit": "## **Terbatas**\n Batas maksimal {val1} channel sementara sudah kepake di server Discord ini, soalnya terbatas. Coba lagi nanti aja yaa.",
     "error_discordlimit": "## **Kategori Penuh**\n Semua kategori yang ada sudah penuh, hanya 50 channel saja yang dapat dibuat di setiap kategori. Jika kamu admin, kamu bisa menambahkan kategori **Fallback** lebih banyak di panel. Kalo kamu bukan Admin, ya sabar aja, ujung ujungnya nunggu kalo mau coba lagi.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **Bot Kustom rusak**\n Kamu mencoba pakai [Bot Kustom TempVoice](https://tempvoice.xyz/id/premium) di server Discord ini, yang dimana pemilik belum mengaktifkan TempVoice Premium untuk bot ini. Jika kamu pemilik dari kustom bot ini, pastikan bot umum '<@762217899355013120>' dikeluarkan dan juga kamu telah mengaktifkan premium untuk server ini disini: **https://tempvoice.xyz/id/premium** > **Aktifkan Premium**.",
     "error_conflict": "## **Kesalahan Terjadi...**\n TempVoice memilik konfilik dengan 'Discord API'. Siliahkan laporkan kesalahan ini ke https://discord.gg/tempvoice. \n### Kesalahan: `{val1}`",
 
     "voice_waiting_1": "## **Channel Tersembunyi**\n Kamu gak bisa bikin ruang tunggu kalo Channelmu lagi disembunyikan.",
@@ -101,7 +101,7 @@
     "voice_thread_2": "## **Utasan Dibuat!**\n Utasan sementara sudah dibikin.",
     "voice_thread_3": "## **Utasan Dihapus**\n Utasan sudah dihapus.",
     "voice_thread_4": "## **Gada Utasan Disini**\n Gak ada utasan yang bisa dihapus.",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_thread_5": "## **Utasan Gagal Dibuat**\n Utas sementara cuma bisa dibuat dalam channel teks",
     "voice_close_1": "## **Voice Ditutup**\n Voice channel sementara sudah ditutup.",
     "voice_close_2": "## **Apa kamu yakin?**\n Voice channel sementara bakal dihapus. Tolong konfirmasi pakai tombol di bawah.",
     "voice_password_1": "## **Sandi Dipasang!**\n User sekarang bisa gabung ke voice channel sementara pakai sandi ||`{val1}`|| lewat perintah </join:1060564928529956985>.",
@@ -116,10 +116,10 @@
     "find_1": "## **Ketemu**\n User {val1} dia ada disini: {val2}",
     "find_2": "## **Gak Ketemu**\n User yang kamu cari gak ada di voice umum",
 
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "help": "## Setup & Atur TempVoice\nKunjungi [panel](https://tempvoice.xyz/id/dashboard) untuk mengkonfigurasi TempVoice dan gunnakan </setup:921000495877877762> untuk membuat semua saluran yang diperlukan seperti\n**`➕` Creator Channel** & **`✨` Antarmuka Pengendali**.\n## Buat channel sementara pertamamu!\nJoin **`➕` Creator Channel** (voice channel) untuk membuat channel sementara baru. \n## Kendalikan channel sementaramu\nPakai perintah **/voice** atau pakai **`✨` Antarmuka Pengendali**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> dll ...",
+    "setup": "## `➕` Creator Channel\nJoin channel ini untuk membuat voice channel sementara.\n## `✨` Antarmuka Pengendali\nAtau gunnakan perintah ini **/voice**. Gunnakan channel ini untuk mengendalikan channel sementaramu",
     
-    "interface_description": "## **Antarmuka**\n ini dapat digunakan untuk mengatur __Voice channel sementara__ kamu. Opsi lainnya tersedia melalui **'/voice'**.",
+    "interface_description": "## **Antarmuka Pengendali**\n **Antarmuka** ini digunakan untuk mengatur __Voice channel sementara__ kamu. Opsi lainnya tersedia melalui **'/voice'**.",
     "interface_footer": "Antarmuka ini dapat digunakan dengan menekan tombol di bawah.",
 
     "privacy_menu_placehoder": "Pilih menu privasi",
@@ -142,12 +142,12 @@
     "waiting_menu_label_2": "Tolak",
     "waiting_menu_description_2": "User telah di keluarkan dan di blokir",
 
-    "discord_lang" : "Apa Kamu tahu?: Kamu bisa mengatur kata sandi untuk kanal sementara kamu menggunakan '/voice password'.",
-    "did_you_know_2": "Apa Kamu tahu?: Jika Kamu tidak dapat menemukan temanmu, Kamu dapat menggunakan '/find' untuk menemukan mereka.",
-    "did_you_know_3": "Apa Kamu tahu?: 'lfp' dalam '/voice lfp' adalah singkatan dari Looking For People.",
-    "did_you_know_4": "Apa Kamu tahu?: Kamu dapat mempercayai hingga 25 user dengan '/voice trust'.",
-    "did_you_know_5": "Apa Kamu tahu?: Kamu dapat memblokir hingga 25 user dengan '/voice block'.",
-    "did_you_know_6": "Apa Kamu tahu?: Untuk mengirim pesan teks kepada user di kanal sementara, Kamu dapat membuat utas sementara menggunakan '/voice thread'.",
-    "did_you_know_7": "Apa Kamu tahu?: Untuk menerima atau menolak permintaan bergabung ke kanal Kamu yang terkunci, Kamu dapat membuat ruang tunggu dengan '/voice waiting'."
+    "did_you_know_1": "Kamu bisa mengatur kata sandi untuk kanal sementara kamu menggunakan '/voice password'.",
+    "did_you_know_2": "Jika Kamu tidak dapat menemukan temanmu, Kamu dapat menggunakan '/find' untuk menemukan mereka.",
+    "did_you_know_3": "'lfp' dalam '/voice lfp' adalah singkatan dari Looking For People (Cari sesorang).",
+    "did_you_know_4": "Kamu dapat mempercayai hingga 25 user dengan '/voice trust'.",
+    "did_you_know_5": "Kamu dapat memblokir hingga 25 user dengan '/voice block'.",
+    "did_you_know_6": "Untuk mengirim pesan teks kepada user di kanal sementara, Kamu dapat membuat utas sementara menggunakan '/voice thread'.",
+    "did_you_know_7": "Untuk menerima atau menolak permintaan bergabung ke kanal Kamu yang terkunci, Kamu dapat membuat ruang tunggu dengan '/voice waiting'."
   }
 ]
