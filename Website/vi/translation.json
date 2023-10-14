@@ -50,8 +50,7 @@
   "premium_feature_1": "Giao Diện Tùy Chỉnh Hoàn Toàn",
   "premium_feature_2": "Không Giới Hạn Kênh Người Tạo",
   "premium_feature_3": "Không Yêu Cầu Bình Chọn",
-  "premium_feature_4": "Bot Discord Riêng Của Bạn",
-  "premium_feature_5": "Máy Chủ Discord",
+  "premium_feature_4": "Máy Chủ Discord",
   "premium_cycle_monthly": "hàng tháng",
   "premium_cycle_yearly": "hàng năm",
   "premium_highlighed_title_1": "Bot Riêng Của Bạn",
@@ -115,8 +114,9 @@
   "component_restore_description": "Khôi phục các thuộc tính của các kênh tạm thời như trước khi chúng bị xóa",
 
   "component_position_title": "Vị Trí Kênh Tạm Thời",
-  "component_position_menu_option_1": "Dưới Kênh Người Tạo",
-  "component_position_menu_option_2": "Trên Kênh Người Tạo",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Vị trí của các kênh tạm thời khi được tạo ra (Mặc định: Dưới)",
 
   "component_permissionsowner_title": "Quyền Discord Bổ Sung Cho Chủ Sở Hữu",

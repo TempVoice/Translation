@@ -50,8 +50,7 @@
   "premium_feature_1": "完全可定制的界面",
   "premium_feature_2": "无限的创作者频道",
   "premium_feature_3": "无需投票要求",
-  "premium_feature_4": "您自己的Discord机器人",
-  "premium_feature_5": "Discord服务器",
+  "premium_feature_4": "Discord服务器",
   "premium_cycle_monthly": "每月",
   "premium_cycle_yearly": "每年",
   "premium_highlighed_title_1": "您自己的机器人",
@@ -115,8 +114,9 @@
   "component_restore_description": "恢复删除之前的临时频道的属性",
   
   "component_position_title": "临时频道位置",
-  "component_position_menu_option_1": "在创建者下方",
-  "component_position_menu_option_2": "在创建者上方",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "创建临时频道时的位置（默认：下方）",
   
   "component_permissionsowner_title": "所有者的额外Discord权限",

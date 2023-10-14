@@ -50,8 +50,7 @@
   "premium_feature_1": "Interfaces Completamente Personalizables",
   "premium_feature_2": "Ilimitados 'Creator Channels'",
   "premium_feature_3": "Sin requerimientos de voto",
-  "premium_feature_4": "Tu propio Bot de Discord",
-  "premium_feature_5": "Servidores de Discord",
+  "premium_feature_4": "Servidores de Discord",
   "premium_cycle_monthly": "mensual",
   "premium_cycle_yearly": "anual",
   "premium_highlighed_title_1": "Tu propio bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Restaura las propiedades de un Canal de Voz Temporal a como estaban antes de ser borrados",
 
   "component_position_title": "Posición del Canal de Voz Temporal",
-  "component_position_menu_option_1": "Debajo del 'Creator Channel'",
-  "component_position_menu_option_2": "Encima del 'Creator Channel'",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Posición de los Canales Temporales al crearse (Predeterminado: Debajo)",
 
   "component_permissionsowner_title": "Permisos Adicionales de Discord para Dueños",

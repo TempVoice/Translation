@@ -50,8 +50,7 @@
   "premium_feature_1": "W pełni dostosowywalne Interfejsy",
   "premium_feature_2": "Nieskończona Liczba Kanałów do Tworzenia",
   "premium_feature_3": "Brak wymagań głosowania",
-  "premium_feature_4": "Własny Bot Discord",
-  "premium_feature_5": "Serwery Discord",
+  "premium_feature_4": "Serwery Discord",
   "premium_cycle_monthly": "miesięcznie",
   "premium_cycle_yearly": "rocznie",
   "premium_highlighed_title_1": "Twój Własny Bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Przywróć właściwości tymczasowych kanałów, tak jak wyglądały przed usunięciem",
 
   "component_position_title": "Położenie Tymczasowego Kanału",
-  "component_position_menu_option_1": "Pod Tworzeniem",
-  "component_position_menu_option_2": "Nad Tworzeniem",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Położenie tymczasowych kanałów po stworzeniu (Domyślnie: Poniżej)",
 
   "component_permissionsowner_title": "Dodatkowe permisje na Discordzie dla Właścicieli",

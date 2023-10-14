@@ -50,8 +50,7 @@
   "premium_feature_1": "Interfacce completamente personalizzabili",
   "premium_feature_2": "Canali Creatore illimitati",
   "premium_feature_3": "Niente più votazioni",
-  "premium_feature_4": "Il tuo bot personale",
-  "premium_feature_5": "server Discord",
+  "premium_feature_4": "server Discord",
   "premium_cycle_monthly": "al mese",
   "premium_cycle_yearly": "all'anno",
   "premium_highlighed_title_1": "Bot personale",
@@ -115,8 +114,9 @@
   "component_restore_description": "Quali proprietà del canale devono essere salvate per essere riproposte la prossima volta che viene creato",
 
   "component_position_title": "Posizione del canale temporaneo",
-  "component_position_menu_option_1": "Sotto al Canale Creatore",
-  "component_position_menu_option_2": "Sopra al Canale Creatore",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Posizione del canale temporaneo alla creazione (Default: Sotto al Canale Creatore)",
 
   "component_permissionsowner_title": "Permessi di Discord aggiuntivi per i proprietari",

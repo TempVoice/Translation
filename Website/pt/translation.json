@@ -50,8 +50,7 @@
   "premium_feature_1": "Interfaces totalmente personalizáveis",
   "premium_feature_2": "Canais de criadores ilimitados",
   "premium_feature_3": "Nenhum requisitos de votação",
-  "premium_feature_4": "Seu próprio bot do Discord",
-  "premium_feature_5": "Servidores do Discord",
+  "premium_feature_4": "Servidores do Discord",
   "premium_cycle_monthly": "Mensal",
   "premium_cycle_yearly": "Anual",
   "premium_highlighed_title_1": "Seu próprio Bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Restore the properties of temporary channels as they were before they were deleted",
 
   "component_position_title": "Temporary Channel Position",
-  "component_position_menu_option_1": "Below the Creator",
-  "component_position_menu_option_2": "Above the Creator",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Position of temporary channels when created (Default: Below)",
 
   "component_permissionsowner_title": "Additional Discord Permissions for Owners",

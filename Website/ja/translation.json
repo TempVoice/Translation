@@ -50,8 +50,7 @@
   "premium_feature_1": "完全にカスタマイズ可能な設定パネル",
   "premium_feature_2": "無制限のクリエイターチャンネル",
   "premium_feature_3": "投票の必要なし",
-  "premium_feature_4": "自分だけのDiscordボット",
-  "premium_feature_5": "Discordサーバー",
+  "premium_feature_4": "Discordサーバー",
   "premium_cycle_monthly": "月額",
   "premium_cycle_yearly": "年額",
   "premium_highlighed_title_1": "自分だけのボット",
@@ -115,8 +114,9 @@
   "component_restore_description": "削除される前の一時的なチャンネルの設定を復元します",
 
   "component_position_title": "一時的なチャンネルの位置",
-  "component_position_menu_option_1": "クリエイターVCの下",
-  "component_position_menu_option_2": "クリエイターVCの上",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "一時的なチャンネルの作成時の位置（デフォルト：下）",
 
   "component_permissionsowner_title": "VCオーナーの追加Discord権限",

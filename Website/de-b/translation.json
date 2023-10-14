@@ -50,8 +50,7 @@
   "premium_feature_1": "Vollständig anpassbare Benutzeroberflächen",
   "premium_feature_2": "Unbegrenzte Ersteller-Kanäle",
   "premium_feature_3": "Keene Abstimmungsanforderungen",
-  "premium_feature_4": "Deen janz eijene Discord-Bot",
-  "premium_feature_5": "Discord Serva",
+  "premium_feature_4": "Discord Serva",
   "premium_cycle_monthly": "monatlich",
   "premium_cycle_yearly": "jährlich",
   "premium_highlighed_title_1": "Deina eijena Bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Stellt die Eigenschaften temporärer Kanäle wieder her, wie sie vor dem Löschen waren",
 
   "component_position_title": "Position temporärer Kanäle",
-  "component_position_menu_option_1": "Unterhalb des Erstellers",
-  "component_position_menu_option_2": "Über dem Ersteller",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Position der temporären Kanäle bei der Erstellung (Standard: Unten)",
 
   "component_permissionsowner_title": "Zusätzliche Discord-Berechtigungen für Besitzer",

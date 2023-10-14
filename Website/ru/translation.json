@@ -50,8 +50,7 @@
   "premium_feature_1": "Полностью настраиваемые интерфейсы",
   "premium_feature_2": "Неограниченное количество каналов-создателей",
   "premium_feature_3": "Нет требований к голосованию",
-  "premium_feature_4": "Ваш собственный Discord бот",
-  "premium_feature_5": "Discord сервера",
+  "premium_feature_4": "Discord сервера",
   "premium_cycle_monthly": "ежемесячно",
   "premium_cycle_yearly": "ежегодно",
   "premium_highlighed_title_1": "Ваш собственный бот",
@@ -115,8 +114,9 @@
   "component_restore_description": "Восстанавливает настройки временного канала, какими они были до удаления",
 
   "component_position_title": "Позиция временного канала",
-  "component_position_menu_option_1": "Ниже канала-создателя",
-  "component_position_menu_option_2": "Выше канала-создателя",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Позиция создания временных каналов (По умолчанию: Снизу)",
 
   "component_permissionsowner_title": "Дополнительные права владельца",

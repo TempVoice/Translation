@@ -50,8 +50,7 @@
   "premium_feature_1": "Vollständig anpassbare Benutzeroberflächen",
   "premium_feature_2": "Unbegrenzte Erstellungs-Kanäle",
   "premium_feature_3": "Keine Vote Bedingungen mehr",
-  "premium_feature_4": "Dein eigener Discord-Bot",
-  "premium_feature_5": "Discord Server",
+  "premium_feature_4": "Discord Server",
   "premium_cycle_monthly": "Monat",
   "premium_cycle_yearly": "Jahr",
   "premium_highlighed_title_1": "Dein eigener Bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Wiederherstellen der Einstellungen von temporären Kanälen, bevor der Kanal gelöscht wurde",
 
   "component_position_title": "Position des temporären Kanals",
-  "component_position_menu_option_1": "Unterhalb des Erstellungs-Kanal",
-  "component_position_menu_option_2": "Über dem Erstellungs-Kanal",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Position der temporären Kanäle beim Erstellen (Standard: unter)",
 
   "component_permissionsowner_title": "Zusätzliche Discord-Berechtigungen für Besitzer",

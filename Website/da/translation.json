@@ -50,8 +50,7 @@
   "premium_feature_1": "Fuldt Tilpasselige Styrepaneler",
   "premium_feature_2": "Ubegrænsede Skaberkanaler",
   "premium_feature_3": "Ingen Stemmekrav",
-  "premium_feature_4": "Din Egen Discord Bot",
-  "premium_feature_5": "Discord Servers",
+  "premium_feature_4": "Discord Servers",
   "premium_cycle_monthly": "månedligt",
   "premium_cycle_yearly": "årligt",
   "premium_highlighed_title_1": "Din Egen Discord Bot",
@@ -115,8 +114,9 @@
   "component_restore_description": "Gendan egenskaberne for midlertidige kanaler, som de var før de blev slettet",
 
   "component_position_title": "Midlertidig Kanalposition",
-  "component_position_menu_option_1": "Under Skaberen",
-  "component_position_menu_option_2": "Over Skaberen",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Placering af midlertidige kanaler, når de er oprettet (Standard: Nedenfor)",
 
   "component_permissionsowner_title": "Yderligere Discord Tilladelser for Ejere",

@@ -50,8 +50,7 @@
   "premium_feature_1": "Antara Muka Boleh Disesuaikan Sepenuhnya",
   "premium_feature_2": "Saluran Pencipta Tanpa Had",
   "premium_feature_3": "Tiada Keperluan Undi",
-  "premium_feature_4": "Bot Discord Anda Sendiri",
-  "premium_feature_5": "Pelayan Discord",
+  "premium_feature_4": "Pelayan Discord",
   "premium_cycle_monthly": "bulanan",
   "premium_cycle_yearly": "tahunan",
   "premium_highlighed_title_1": "Bot Anda Sendiri",
@@ -115,8 +114,9 @@
   "component_restore_description": "Pulihkan sifat-sifat saluran sementara sebagaimana yang mereka sebelum mereka dipadamkan",
   
   "component_position_title": "Kedudukan Saluran Sementara",
-  "component_position_menu_option_1": "Di Bawah Pencipta",
-  "component_position_menu_option_2": "Di Atas Pencipta",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Di Bawah)",
   
   "component_permissionsowner_title": "Kebenaran Discord Tambahan untuk Pemilik",

@@ -50,8 +50,7 @@
   "premium_feature_1": "Visiškai Pritaikomi Valdymo Skydai",
   "premium_feature_2": "Neriboti Laikinieji Kanalai",
   "premium_feature_3": "Jokių Būtinų Balsavimų",
-  "premium_feature_4": "Jūsų Nuosavas Discord Botas",
-  "premium_feature_5": "Discord Serveriai",
+  "premium_feature_4": "Discord Serveriai",
   "premium_cycle_monthly": "mėnesinis",
   "premium_cycle_yearly": "metinis",
   "premium_highlighed_title_1": "Jūsų Nuosavas Botas",
@@ -115,8 +114,9 @@
   "component_restore_description": "Atkurkite laikinųjų kanalų nustatymus, kurie buvo prieš juos ištrinant",
 
   "component_position_title": "Laikinojo Kanalo Pozicija",
-  "component_position_menu_option_1": "Žemiau po Kūrėju",
-  "component_position_menu_option_2": "Virš Kūrėjo",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Laikinų kanalų padėtis juos sukūrus (numatytasis: Žemiau)",
 
   "component_permissionsowner_title": "Papildomi Discord Leidimai Savininkams",

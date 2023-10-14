@@ -50,8 +50,7 @@
   "premium_feature_1": "Antarmuka Full Kustom",
   "premium_feature_2": "Creator Channel Unlimited ",
   "premium_feature_3": "Gak perlu voting lagi",
-  "premium_feature_4": "Bot Discord Kustom",
-  "premium_feature_5": "Server Discord",
+  "premium_feature_4": "Server Discord",
   "premium_cycle_monthly": "perbulan",
   "premium_cycle_yearly": "pertahun",
   "premium_highlighed_title_1": "Bot Kustommu",
@@ -115,8 +114,9 @@
   "component_restore_description": "Pulihkan setelan channel sementara sesuai dengan setelan sebelum dihapus",
 
   "component_position_title": "Posisi Channel Sementara",
-  "component_position_menu_option_1": "Dibawah Creator",
-  "component_position_menu_option_2": "Diatas Creator",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Posisi channel sementara untuk dibuat (Bawaan: Dibawah creator)",
 
   "component_permissionsowner_title": "Izin Tambahan untuk Pemilik",

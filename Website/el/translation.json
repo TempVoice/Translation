@@ -50,8 +50,7 @@
   "premium_feature_1": "Όλα καστομαρισμένα",
   "premium_feature_2": "Απεριόριστα κανάλια",
   "premium_feature_3": "Χωρις ψηφοφοριες και σαχλαμάρες",
-  "premium_feature_4": "Προσωποποίηση του μποτ",
-  "premium_feature_5": "Discord Servers",
+  "premium_feature_4": "Discord Servers",
   "premium_cycle_monthly": "μηνιαία",
   "premium_cycle_yearly": "ετήσια",
   "premium_highlighed_title_1": "Το δικό σου μποτάκι",
@@ -115,8 +114,9 @@
   "component_restore_description": "Επαφορά ρυθμίσεων όπως ήταν πριν την δημιουργια καναλιών",
 
   "component_position_title": "Προσωρινή θέση καναλιών",
-  "component_position_menu_option_1": "Κάτω από τον Creator",
-  "component_position_menu_option_2": "Πάνω από τον Creator",
+  "component_position_menu_option_1": "At the top",
+  "component_position_menu_option_2": "Right under the Creator",
+  "component_position_menu_option_3": "At the bottom",
   "component_position_description": "Θέση (Default: Κάτω)",
 
   "component_permissionsowner_title": "Επιπλέον ρυθμίσεις ιδιοκτήτη",
