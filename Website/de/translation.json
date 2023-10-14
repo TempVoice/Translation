@@ -10,7 +10,7 @@
   "introduction_description": "Ein temporärer Sprachkanal wird erstellt, wenn jemand einen Erstellungs-Kanal betritt, und wird gelöscht, sobald der temporäre Kanal leer ist.",
 
   "setup_title": "Wie richte ich TempVoice ein?",
-  "setup_description": "Starte mit der Nutzung von TempVoice, indem du den Befehl /setup auf deinem Discord Server ausführen. TempVoice wird die grundlegenden Kanäle einrichten, die zum Erstellen und Verwalten von temporären Kanälen benötigt werden!",
+  "setup_description": "Starte mit der Nutzung von TempVoice, indem du den Befehl /setup auf deinem Discord Server benutzt. TempVoice wird die grundlegenden Kanäle einrichten, die zum Erstellen und Verwalten von temporären Kanälen benötigt werden!",
   
   "status_title": "Funktioniert der Bot wie beabsichtigt?",
   "status_description": "Um eine bessere Leistung zu erzielen, ist TempVoice in Shards und Cluster unterteilt. Jeder Cluster enthält bis zu 5 Shards und ist für etwa 5000 Discord Server verantwortlich.",
@@ -78,7 +78,7 @@
   "button_lable_join_continue": "Ja, bitte",
 
   "join_support": "Möchtest du unserem Discord Server beitreten?",
-  "excordo_quote": "Vielen Dank für dein Interesse an TempVoice, einem Bot, der die Art und Weise, wie du Sprachkanäle nutzt verändern wird. Im Laufe der Jahre habe ich mich auf die Bedürfnisse und Wünsche der Community konzentriert, um deinen Discord Server zu einem besseren Ort zu machen!",
+  "excordo_quote": "Vielen Dank für dein Interesse an TempVoice, einem Bot, der die Art und Weise, wie du Sprachkanäle nutzt, verändern wird. Im Laufe der Jahre habe ich mich auf die Bedürfnisse und Wünsche der Community konzentriert, um deinen Discord Server zu einem besseren Ort zu machen!",
 
   "component_status_title": "In welchem Cluster befindet sich mein Server?",
   "component_status_description_1": "Gib deine Server ID in das Suchfeld ein",
