@@ -1,9 +1,9 @@
 {
   "slogan_title_part_1": "Sementara",
-  "slogan_title_part_2": "bukan permanen!",
-  "slogan_description": "Bikin server lo lebih rapih, voice channel otomatis, dan tertata baik dengan TempVoice.",
+  "slogan_title_part_2": "bukan permanen",
+  "slogan_description": "Bikin server-mu lebih rapih, voice channel otomatis, dan tertata baik dengan TempVoice.",
   
-  "featured_title": "Dipercaya server andalan lo",
+  "featured_title": "Dipercaya server andalan-mu",
   "featured_description": "TempVoice dipercaya ribuan server dan jutaan user.",
   
   "introduction_title": "Apa itu Channel sementara?",
@@ -74,10 +74,10 @@
   "button_lable_upgrade": "Upgrade Premium",
   "button_lable_upgrade_cancel": "Gak Jadi",
   "button_lable_upgrade_continue": "Iya Upgrade",
-  "button_lable_join_cancel": "Gak cuma login",
-  "button_lable_join_continue": "Iya Sekalian",
+  "button_lable_join_cancel": "Gak, cuma login",
+  "button_lable_join_continue": "Iya, Sekalian",
 
-  "join_support": "Apakah kamu ingin sekalian join ke server kami?",
+  "join_support": "Apakah kamu pengen sekalian join ke server kami?",
   "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
 
   "component_status_title": "Di klaster mana serverku?",
@@ -114,10 +114,10 @@
   "component_restore_description": "Pulihkan setelan channel sementara sesuai dengan setelan sebelum dihapus",
 
   "component_position_title": "Posisi Channel Sementara",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Posisi channel sementara untuk dibuat (Bawaan: Dibawah creator)",
+  "component_position_menu_option_1": "Diatas",
+  "component_position_menu_option_2": "Tepat dibawah creator",
+  "component_position_menu_option_3": "Dibawah",
+  "component_position_description": "Posisi channel sementara untuk dibuat (Bawaan: Dibawah)",
 
   "component_permissionsowner_title": "Izin Tambahan untuk Pemilik",
   "component_permissionsowner_menu_lable": "Atur izin",
@@ -126,7 +126,7 @@
   "component_permissionsowner_option_channel": "Atur Channel",
   "component_permissionsowner_option_permissions": "Atur izin",
   "component_permissionsowner_option_messages": "Atur Pesan",
-  "component_permissionsowner_option_stream": "Video (Sharescreen dan Webcam)",
+  "component_permissionsowner_option_stream": "Video (Berbagi layar dan Webcam)",
   "component_permissionsowner_option_vad": "Gunnakan Aktifitas Voice",
   "component_permissionsowner_option_speaker": "Pembicara Prioritas",
   "component_permissionsowner_option_move": "Pindahkan Member",
@@ -182,7 +182,7 @@
   "component_ownerpermissions_option_transfer": "Alihkan Kepemilikan channel",
   "component_ownerpermissions_option_kick": "Keluarkan user dari channel",
   "component_ownerpermissions_option_invite": "Undang user ke channel",
-  "component_ownerpermissions_option_lfp": "Look for people (lfp)",
+  "component_ownerpermissions_option_lfp": "Cari sesorang (lfp/looking for people)",
   "component_ownerpermissions_option_users": "User Terpercaya/Diblokir",
   "component_ownerpermissions_option_chat": "Gunnakan chat in-voice",
   "component_ownerpermissions_option_close": "Paksa Tutup Channel",
@@ -199,7 +199,7 @@
   "component_censor_placeholder": "Ketik kata lalu klik enter",
   "component_censor_description": "Sensor hingga 30 kata untuk memblokir pengguanaan kata itu dalam nama channel sementara",
 
-  "component_matchmaking_title": "Penuhi kanal Sementara",
+  "component_matchmaking_title": "Penuhi channel Sementara",
   "component_matchmaking_menu_option_1": "Nyala",
   "component_matchmaking_menu_option_2": "Mati",
   "component_matchmaking_description": "Penuhi channel sementara itu sebelum membuat yg baru (Dibatasi hingga 99 user)",
@@ -215,7 +215,7 @@
   "component_sendinterface_menu_option": "Gak Ada Channel Terpilih",
   "component_sendinterface_description": "Pilih channel teks yg ingin dijadiin antarmuka",
 
-  "save_changes_title": "Hei – Kamu memiliki perubhn yg belum disimpn!",
-  "save_changes_button_lable_1": "Batalkan",
+  "save_changes_title": "Hei – Kamu memiliki hal yang belum disimpan!",
+  "save_changes_button_lable_1": "Batal",
   "save_changes_button_lable_2": "Simpan"
 }
