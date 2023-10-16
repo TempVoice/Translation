@@ -1,9 +1,9 @@
 {
   "slogan_title_part_1": "Sementara",
-  "slogan_title_part_2": "bukan permanen!",
-  "slogan_description": "Bikin server lo lebih rapih, voice channel otomatis, dan tertata baik dengan TempVoice.",
+  "slogan_title_part_2": "bukan permanen",
+  "slogan_description": "Bikin server-mu lebih rapih, voice channel otomatis, dan tertata baik dengan TempVoice.",
   
-  "featured_title": "Dipercaya server andalan lo",
+  "featured_title": "Dipercaya server andalan-mu",
   "featured_description": "TempVoice dipercaya ribuan server dan jutaan user.",
   
   "introduction_title": "Apa itu Channel sementara?",
@@ -215,7 +215,7 @@
   "component_sendinterface_menu_option": "Gak Ada Channel Terpilih",
   "component_sendinterface_description": "Pilih channel teks yg ingin dijadiin antarmuka",
 
-  "save_changes_title": "Hei – Kamu memiliki hal yang belum disimpn!",
+  "save_changes_title": "Hei – Kamu memiliki hal yang belum disimpan!",
   "save_changes_button_lable_1": "Batal",
   "save_changes_button_lable_2": "Simpan"
 }
