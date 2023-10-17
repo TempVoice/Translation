@@ -53,7 +53,7 @@
     "error_webhook": "## **Neįmanoma!**\n Neįmanoma sukurti 'webhook', nes kitas 'Discord' botas to neleidžia. Patikrinkite, ar saugumo botai, tokiu kaip *Wick*, *Beemo* ir kt., nesukuria šios problemos.",
     "error_totallimit": "## **Neįmanoma!**\n Pasiektas maksimalus **{val1}** laikinų balso kanalų ribojimas tuo pačiu metu, nes šis 'Discord' serveris juos riboja. Bandykite dar kartą vėliau.",
     "error_discordlimit": "## **Neįmanoma!**\n Visos turimos kategorijos pasiekė maksimalų ribojimą - 50 kanalai kiekvienoje. Jei esate administratorius, galite nustatyti daugiau **Atsarginių Kategorijų** valdymo skyde, kitu atveju bandykite dar kartą vėliau.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **Neįmanoma!**\n Jūs bandote naudoti [TempVoice Custom Branding](https://tempvoice.xyz/premium) botą Discord serveryje, kuriama savininkas neįgalinęs TempVoice Premium. Jei jūs esate savininkas šio Custom Branding boto, įsitikinkite, jog <@762217899355013120> yra išmestas ir suaktyvavote Premium čia: **https://tempvoice.xyz/premium** > **Aktyvuoti Premium**.",
     "error_conflict": "## **Netikėta Konfliktas.**\n TempVoice susidūrė su 'Discord' API konfliktu. Praneškite apie šį pranešimą čia https://discord.gg/tempvoice. \n### Klaida: `{val1}`",
 
     "voice_waiting_1": "## **Negalima**\n Jūs negalite sukurti laukiamojo, kai jūsų kanalas paslėptas.",
@@ -62,7 +62,7 @@
     "voice_waiting_4": "## **Sukurta!**\n Laukiamasis sėkmingai sukurtas.",
     "voice_waiting_5": "## **Ištrinta!**\n Šio kanalo laukiamasis ištrintas.",
     "voice_waiting_6": "## **Negalima**\n Nėra laukiamojo, kurį būtų galima ištrinti.",
-    "voice_waiting_7": "## **Not Possible**\n You cannot unlock your channel when you have a waiting room.",
+    "voice_waiting_7": "## **Neįmanoma**\n Jūs negalite atrakinti savo kanalo, kol turite laukiamąjį.",
     "voice_bitrate_1": "## **Limitas.**\n Bitų sparta negali būti > **{val1}**.",
     "voice_bitrate_2": "## **Pakeista.**\n Jūsų bitų sparta dabar yra **{val1} kbps**.",
     "voice_block_1": "## **Negalima.**\n Jūs galite blokuoti iki **{val1}** naudotojų. Padidinkite limitą su [premium](<https://tempvoice.xyz/premium>).",
@@ -101,9 +101,9 @@
     "voice_thread_2": "## **Sukurta.**\n Sukurta laikina gija.",
     "voice_thread_3": "## **Ištrinta!**\n Tema ištrinta.",
     "voice_thread_4": "## **Negalima**\n Nėra temos, kurią galima būtų ištrinti.",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_thread_5": "## **Neįmanoma!**\n Laikiną giją galima sukurti tik teksto kanalams.",
     "voice_close_1": "## **Uždaryta!**\n Jūsų laikinas balso kanalas buvo uždarytas.",
-    "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "## **Ar tikrai?**\n Jūsų laikinas balso kanalas bus ištrintas. Prašome patvirtinti su mygtuku apačioje.",
     "voice_password_1": "## **Atnaujinta!**\n Dabar vartotojai gali prisijungti prie jūsų laikinojo balso kanalo naudodami slaptažodį ||`{val1}`|| su </join:1060564928529956985> komanda.",
     "voice_password_2": "## **Atnaujinta!**\n Laikinojo balso kanalo slaptažodis pašalintas.",
 
@@ -116,8 +116,8 @@
     "find_1": "## **Rasta!**\n Naudotojas {val1}, kurį ieškote, yra čia: {val2}",
     "find_2": "## **Nerasta.**\n Naudotojo, kurį ieškote, nėra viešame balso kanale",
   
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "help": "## Tvarkykite ir Konfiguruokite TempVoice\nAplankykite boto [valdymo skydą](https://tempvoice.xyz/dashboard) norint konfiguruoti TempVoice ir naudokite </setup:921000495877877762> norint sukurti visus būtinus kanalus kaip\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Sukurkite savo pirmąjį kanalą\nPrisijunkite į **`➕` Creator Channel** (balso kanalas) norint sukurti naują balso kanalą. \n## Tvarkykite savo Laikinąjį kanalą\nNaudokite **/voice** teksto komandas arba **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nPrisijunkite į šį kanalą norint sukurti naują laikinąjį balso kanalą.\n## `✨` Interface Message\nAlternatyva **/voice** teksto komandoms. Naudokite šį kanalą norėdami tvarkyti laikinuosius balso kanalus.",
 
     "interface_description": "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant **/voice** komandas.",
     "interface_footer": "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",
