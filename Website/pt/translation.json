@@ -65,7 +65,7 @@
   "placeholder_description_3": "Exibe o nome do cargo mais elevada do proprietário, que é separado na lista de membros on-line.",
   "placeholder_description_4": "Este espaço reservado será substituído pelo nome que o proprietário escolheu para seu canal usando o comando '/voice name'.  Quando o proprietário escolhe um novo nome, apenas parte do espaço reservado é alterada, o restante permanece intacto.",
 
-  "button_lableSubscriptio": "Convidar TempVoice",
+  "button_lable_invite": "Convidar TempVoice",
   "button_lable_dashboard": "Abrir Dashboard",
   "button_lable_login": "Logar com Discord",
   "button_lable_logout": "Sair",
