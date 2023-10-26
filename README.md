@@ -1,6 +1,6 @@
 # How to add a new language to TempVoice?
 
-Download a translation.json file, replace the text and send it back to @excordo on the [Discord server](https://tempvoice.xyz/redirect/support) or make a pull request.
+Download a translation.json file, replace the text and send it back to @excordo on the [Discord server](https://discord.gg/tempvoice) or make a pull request.
 
 # How to translate the language.json file?
 
@@ -20,6 +20,6 @@ Only edit the blue part:
 
 # What else do I have to consider?
 
-- Do not use any internet translators without proofreading it twice!
+- Do not use any internet translators!
 - Do not change the structure of the file!
 - Use a suitable software to edit the file! (VS Code, Nodepad++)
