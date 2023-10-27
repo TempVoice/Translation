@@ -10,7 +10,7 @@
     "cmd_voice_claim_description": "Claim a temporary channel and gain ownership of it",
     "cmd_voice_close_description": "Delete your temporary channel",
     "cmd_voice_info_description": "Get information about a temporary channel",
-    "cmd_voice_invite_description": "Send a DM invite to join your temporary channel",
+    "cmd_voice_invite_description": "Invite a user to your temporary channel",
     "cmd_voice_kick_description": "Kick a user from your temporary channel",
     "cmd_voice_limit_description": "Change the user limit of your temporary channel",
     "cmd_voice_name_description": "Change the name of your temporary channel",
