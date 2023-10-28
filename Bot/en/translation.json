@@ -6,7 +6,7 @@
   {
     "cmd_voice_waiting_description": "Create a waiting room for join request to your temporary channel",
     "cmd_voice_bitrate_description": "Change the bitrate of your temporary channel",
-    "cmd_voice_block_description": "Block users from your temporary channel so they cannot join anymore",
+    "cmd_voice_block_description": "Block users access from your temporary channel",
     "cmd_voice_claim_description": "Claim a temporary channel and gain ownership of it",
     "cmd_voice_close_description": "Delete your temporary channel",
     "cmd_voice_info_description": "Get information about a temporary channel",
@@ -18,7 +18,7 @@
     "cmd_voice_region_description": "Change the region of your temporary channel",
     "cmd_voice_thread_description": "Create a temporary thread for your temporary channel",
     "cmd_voice_transfer_description": "Transfer the ownership of your temporary channel to another user",
-    "cmd_voice_trust_description": "Trust users to your temporary channel so they can always join",
+    "cmd_voice_trust_description": "Trust users with permanent access to your temporary channel",
     "cmd_voice_unblock_description": "Unblock users from your temporary channel",
     "cmd_voice_untrust_description": "Untrust users from your temporary channel",
     "cmd_voice_users_description": "Shows you a list of all trusted and blocked users of your temporary channel",
