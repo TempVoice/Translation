@@ -112,15 +112,15 @@
     "join_3": "## **Αδύνατον**\n Το κανάλι δεν έχει ορισμένο κωδικό πρόσβασης.",
     "join_4": "## **Λανθασμένος Κωδικός**\n Ο κωδικός πρόσβασης που δώσατε είναι εσφαλμένος. Παρακαλώ δοκιμάστε ξανά.",
     "join_5": "## **Σωστός Κωδικός**\n Μπορείτε τώρα να εισέλθετε στο {val1}",
-    
+      
     "find_1": "## **Βρέθηκε!**\n Ο χρήστης {val1} που ψάχνετε βρίσκεται εδώ: {val2}",
     "find_2": "## **Δεν Βρέθηκε.**\n Ο χρήστης που ψάχνετε δεν βρίσκεται σε δημόσιο φωνητικό κανάλι",    
-
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
-
+  
+    "help": "## Ρύθμιση και διαμόρφωση TempVoice\nΕπισκεφθείτε το [ταμπλό ελέγχου](https://tempvoice.xyz/dashboard) του bot για να ρυθμίσετε το TempVoice και χρησιμοποιήστε το </setup:921000495877877762> για τη δημιουργία όλων των απαραίτητων καναλιών, όπως\n**`➕` Κανάλι Δημιουργού** & **`✨` Μήνυμα Διεπαφής**.\n## Δημιουργήστε τον Πρώτο Σας Προσωρινό Κανάλι\nΣυμμετάσχετε σε ένα **`➕` Κανάλι Δημιουργού** (φωνητικό κανάλι) για να δημιουργήσετε ένα νέο προσωρινό φωνητικό κανάλι.\n## Διαχείριση του Προσωρινού Σας Καναλιού\nΧρησιμοποιήστε τις εντολές συνομιλίας **/voice** ή ένα **`✨` Μήνυμα Διεπαφής**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> κλπ ...",
+    "setup": "## `➕` Κανάλι Δημιουργού\nΣυμμετάσχετε σε αυτό το κανάλι για να δημιουργήσετε ένα νέο προσωρινό φωνητικό κανάλι.\n## `✨` Μήνυμα Διεπαφής\nΕναλλακτικά προς τις εντολές συνομιλίας **/voice**. Χρησιμοποιήστε αυτό το κανάλι για να διαχειριστείτε το προσωρινό φωνητικό κανάλι σας.",
+  
     "interface_description": "Το περιβάλλον χρήσης **interface** μπορεί να χρησιμοποιηθεί για να αλλάξετε τα voice κανάλια. Περισσότερες επιλογές και εντολές εδώ: **/voice**.",
-    "interface_footer": "Χρησιμοποίησε τα κουμπιά για να πλοηγηθείς",
+    "interface_footer": "Χρησιμοποιήστε τα κουμπιά για να πλοηγηθείτε",
 
     "privacy_menu_placehoder": "Αλλαγή Ιδιωτικότητας",
     "privacy_menu_label_1": "Κλείδωμα",
