@@ -119,7 +119,7 @@
     "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
     "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
-    "interface_description": "Esta **interfaz**\n puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos **/voice**.",
+    "interface_description": "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos **/voice**.",
     "interface_footer": "Esta interfaz se puede utilizar pulsando los botones de abajo.",
 
     "privacy_menu_placehoder": "Elige una opción de privacidad",
