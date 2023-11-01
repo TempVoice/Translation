@@ -114,9 +114,9 @@
   "component_restore_description": "Quali proprietà del canale devono essere salvate per essere riproposte la prossima volta che viene creato",
 
   "component_position_title": "Posizione del canale temporaneo",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
+  "component_position_menu_option_1": "All'inizio della categoria",
+  "component_position_menu_option_2": "Sotto il Canale Creatore",
+  "component_position_menu_option_3": "Sul fondo della categoria",
   "component_position_description": "Posizione del canale temporaneo alla creazione (Default: Sotto al Canale Creatore)",
 
   "component_permissionsowner_title": "Permessi di Discord aggiuntivi per i proprietari",
