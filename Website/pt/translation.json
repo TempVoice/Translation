@@ -35,10 +35,11 @@
   "interface_description": "Permite ao usuários controlem seus canais de voz temporários.",
 
   "config_tab_1": "Visão geral",
-  "confnavbar_home": "Permissões",
+  "config_tab_2": "Permissões",
   "config_tab_3": "Diversos",
 
   "navbar_home": "Principal",
+  "navbar_help": "Help",
   "navbar_setup": "Configuração",
   "navbar_premium": "Premium",
   "navbar_support": "Suporte",
