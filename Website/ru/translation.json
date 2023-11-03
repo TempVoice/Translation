@@ -39,7 +39,7 @@
   "config_tab_3": "Другое",
 
   "navbar_home": "Главная",
-  "navbar_help": "Help",
+  "navbar_help": "Помощь",
   "navbar_setup": "Настройка",
   "navbar_premium": "Premium",
   "navbar_support": "Поддержка",
@@ -115,9 +115,9 @@
   "component_restore_description": "Восстанавливает настройки временного канала, какими они были до удаления",
 
   "component_position_title": "Позиция временного канала",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
+  "component_position_menu_option_1": "Вверху",
+  "component_position_menu_option_2": "Под каналом-создателем",
+  "component_position_menu_option_3": "Снизу",
   "component_position_description": "Позиция создания временных каналов (По умолчанию: Снизу)",
 
   "component_permissionsowner_title": "Дополнительные права владельца",
@@ -153,7 +153,7 @@
   "component_placeholder_privacy_2_description": "Название по умолчанию, когда канал открыт и публичен (По умолчанию: 🔓)",
   "component_placeholder_privacy_3_description": "Название по умолчанию, когда канал скрыт (По умолчанию: 😎)",
   "component_placeholder_activity_1_description": "Название по умолчанию, когда у пользователя нет Discord активности",
-  "component_placeholder_activity_2_description": "Название по умолчанию, когда у Discord активности пользователя нет деталей",
+  "component_placeholder_activity_2_description": "Название по умолчанию, когда у Discord активности пользователя нет подробностей",
   "component_placeholder_activity_3_description": "Название по умолчанию, когда у Discord активности пользователя нет статуса",
   "component_placeholder_activity_4_description": "Название по умолчанию, когда статус пользователя не содержит эмодзи",
 
@@ -210,7 +210,7 @@
   "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
 
   "component_custombrandingactivity_title": "Активность бота (Статус)",
-  "component_custombrandingactivity_description": "Меняете Discord статус вашего брендированного бота.",
+  "component_custombrandingactivity_description": "Измените Discord статус вашего брендированного бота.",
 
   "component_sendinterface_menu_lable": "Выберите текстовый канал",
   "component_sendinterface_menu_option": "Канал не выбран",
