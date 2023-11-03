@@ -28,8 +28,8 @@
 	"appearance_language_title": "Мова",
 	"appearance_colortheme_title": "Кольорова тема",
 
-	"creators_title": "Творці",
-	"creators_description": "Вкажіть, як тимчасові голосові канали створюються. Вкажіть назву за замовчуванням, обмеження, права та інше.",
+	"creators_title": "Створювачі",
+	"creators_description": "Визначте як створюються тимчасові голосові канали. Вкажіть назву за замовчуванням, обмеження, права та інше.",
 
 	"interface_title": "Інтерфейс",
 	"interface_description": "Використовується користувачами для управління тимчасовими каналами.",
@@ -51,7 +51,7 @@
 	"premium_feature_1": "Повністю налаштовувані інтерфейси",
 	"premium_feature_2": "Необмежена кількість каналів-створювачів",
 	"premium_feature_3": "Немає вимог до голосування",
-	"premium_feature_4": "Discord сервери",
+	"premium_feature_4": "Discord сервер",
 	"premium_cycle_monthly": "щомісячно",
 	"premium_cycle_yearly": "щорічно",
 	"premium_highlighed_title_1": "Ваш власний бот",
@@ -139,8 +139,8 @@
 	"component_syncpermissions_menu_option_3": "Без синхронізації",
 	"component_syncpermissions_description": "Синхронізуйте права тимчасових каналів з категорією або з каналом-створювачем",
 	
-	"component_name waiting_title": "Назва прихожої",
-	"component_name waiting description": "Назва для прихожої (За замовчуванням: Join Me)",
+	"component_namewaiting_title": "Назва прихожої",
+	"component_namewaiting description": "Назва для прихожої (За замовчуванням: Join Me)",
 	
 	"component_placeholder_title": "Назви змінних за замовчуванням",
 	"component_placeholder_menu_lable": "Управління назвами за замовчуванням",
