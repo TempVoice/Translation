@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Oo, paki-upgrade",
   "button_lable_join_cancel": "Hindi, mag-lologin lang",
   "button_lable_join_continue": "Oo, pakituloy",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Gusto mo bang sumali sa aming Discord?",
   "excordo_quote": "Maraming salamat sa iyong interes sa TempVoice, ang bot na magpapabago sa iyong paggamit ng Discord. Sa mga nakaraang taon, nakatuon ako sa mga pangangailangan at kagustuhan ng komunidad upang gawing mas mabuting lugar ang iyong server sa Discord!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Saang cluster ang server ko?",
   "component_status_description_1": "Ilagay ang iyong Server na ID sa loob ng search box",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Maaring magamit na mga server sa Discord:",
 
   "component_sendmessage_title": "Magpadala ng Pagbati na Mensahe",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Magpadala ng pagbati sa paraan na mensahe sa loob ng temporaryong channel pagkatapos itong malikha",
 
   "component_roleparticipant_title": "In-Voice na Role",

@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Tak, proszę ulepsz",
   "button_lable_join_cancel": "Nie, po prostu zaloguj",
   "button_lable_join_continue": "Tak, proszę",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Czy chciałbyś dołączyć do naszego serwera Discord?",
   "excordo_quote": "Dziękujemy za zainteresowanie TempVoice, botem, który zmieni sposób, w jaki używasz Discorda. Przez lata, skupiałem się na potrzebach i życzeniach społeczności, by zrobić lepsze miejsce z Twojego serwera!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Na którym klastrze jest mój serwer?",
   "component_status_description_1": "Wprowadź ID swojego serwera w polu wyszukiwania",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Dostępne Serwery Discord:",
 
   "component_sendmessage_title": "Wyślij Wiadomość Powitalną",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Wyślij wiadomość powitalną na kanale tymczasowym po jego stworzeniu",
 
   "component_roleparticipant_title": "Rola Kanału",

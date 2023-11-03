@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Yes, please upgrade",
   "button_lable_join_cancel": "No, just login",
   "button_lable_join_continue": "Yes, please",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Would you like to join our Discord?",
   "excordo_quote": "Thank you for your interest in TempVoice, a bot that will change the way how you use Discord. Over the years, I have focused on the needs and wishes of the community to make your Discord server a better place!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "What cluster is my server on?",
   "component_status_description_1": "Enter your Server ID in the search box",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Available Discord Servers:",
 
   "component_sendmessage_title": "Send Welcome Message",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Send a welcome message to a temporary channel after creating it",
 
   "component_roleparticipant_title": "In-Voice Role",

@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Sí, por favor mejóralo",
   "button_lable_join_cancel": "No, solo inicia sesión",
   "button_lable_join_continue": "Sí, por favor",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "¿Te gustaría entrar a nuestro Discord Oficial?",
   "excordo_quote": "Gracias por tu interés en TempVoice, un bot que cambiará la forma en la que usas Discord. ¡Sobre los años, me he enfocado en las necesidades y los deseos de la comunidad para hacer de Discord un mejor lugar!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "¿En qué nodo está mi servidor?",
   "component_status_description_1": "Ingresa el ID de tu Servidor en el buscador",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Servidores de Discord Disponibles:",
 
   "component_sendmessage_title": "Envía un Mensaje de Bienvenida",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Envía un mensaje de bienvenida a un Canal de Voz Temporal después de crearlo",
 
   "component_roleparticipant_title": "Rol In-Voice",

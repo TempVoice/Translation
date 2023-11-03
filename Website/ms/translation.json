@@ -77,10 +77,14 @@
   "button_lable_upgrade_continue": "Ya, Sila Naik Taraf",
   "button_lable_join_cancel": "Tidak, Saya Hanya Nak Log Masuk",
   "button_lable_join_continue": "Ya, Sila",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
   
   "join_support": "Adakah anda ingin menyertai Discord kami?",
   "excordo_quote": "Terima kasih atas minat anda terhadap TempVoice, sebot yang akan mengubah cara anda menggunakan Discord. Selama bertahun-tahun, saya telah memberi tumpuan kepada keperluan dan keinginan komuniti untuk menjadikan pelayan Discord anda tempat yang lebih baik!",
   
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
   "component_status_title": "Gugus Mana Pelayan Saya?",
   "component_status_description_1": "Masukkan ID Pelayan anda dalam kotak carian",
   "component_status_description_2": "Pelayan Anda berada di:",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Pelayan Discord yang tersedia:",
   
   "component_sendmessage_title": "Hantar Pesanan Selamat Datang",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Hantar pesanan selamat datang ke saluran sementara selepas dicipta",
   
   "component_roleparticipant_title": "Peranan Dalam Saluran Suara",

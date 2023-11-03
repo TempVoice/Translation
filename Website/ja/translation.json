@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "はい、アップグレードしてください",
   "button_lable_join_cancel": "ログインのみ",
   "button_lable_join_continue": "はい、参加してください",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "私たちのDiscordに参加しますか？",
   "excordo_quote": "Discordの利用方法を変えるボット、TempVoiceに興味を持っていただきありがとうございます。 私は年月をかけて、コミュニティのニーズや願いに焦点を当て、あなたのDiscordサーバーをより良い場所にするために努力してきました！",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "私のサーバーはどのクラスターにありますか？",
   "component_status_description_1": "検索ボックスにサーバーIDを入力してください",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "利用可能なDiscordサーバー：",
 
   "component_sendmessage_title": "ウェルカムメッセージを送る",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "一時的なチャンネルを作成後、そのチャンネルに指定したメッセージを送信します",
 
   "component_roleparticipant_title": "ボイス内のロール",

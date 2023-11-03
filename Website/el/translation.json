@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Ναι, γουστάρω να αναβαθμιστώ!",
   "button_lable_join_cancel": "Όχι, απλά μπες στο site",
   "button_lable_join_continue": "Ναι",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Θέλεις να μπεις στο κανάλι μας;",
   "excordo_quote": "Ευχαριστούμε για το ενδιαφέρον σου",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Σε τι κλαστερ βρισκομαι?",
   "component_status_description_1": "Βάλε το server ID",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Διαθέσιμο σε:",
 
   "component_sendmessage_title": "Στείλε μήνυμα καλωσορίσματος",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Στείλε μήνυμα καλωσορίσματος μόλις μπει κάποιος",
 
   "component_roleparticipant_title": "In-Voice ρόλος",

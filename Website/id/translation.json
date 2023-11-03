@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Iya Upgrade",
   "button_lable_join_cancel": "Gak, cuma login",
   "button_lable_join_continue": "Iya, Sekalian",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Apakah kamu pengen sekalian join ke server kami?",
   "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Di klaster mana serverku?",
   "component_status_description_1": "Masukan ID Servermu di box pencarian",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Server Discord yg Tersedia:",
 
   "component_sendmessage_title": "Pesan Selamat Datang",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Kirim pesan selamat datang ke channel sementara setelah channel dibuat",
 
   "component_roleparticipant_title": "Role in-voice",

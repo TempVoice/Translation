@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Ja, bitte aktualisieren",
   "button_lable_join_cancel": "Nein, nur einloggen",
   "button_lable_join_continue": "Ja, bitte",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Möchtest du unserem Discord beitreten?",
   "excordo_quote": "Danke für dein Interesse an TempVoice, einem Bot, der ditte Art und Weise, wie de Discord benutzt, verändert. Im Laufe der Jahre hab ick mir uff die Bedürfnisse und Wünsche der Community konzentriert, um deinen Discord Serva zu einem besseren Ort zu machen",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Auf welchem Cluster ist mein Serva?",
   "component_status_description_1": "Gib deine Serva-ID in das Suchfeld ein",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Verfügbare Discord Serva:",
 
   "component_sendmessage_title": "Willkommensnachricht senden",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Sende eine Willkommensnachricht an einen temporären Kanal, nachdem er erstellt wurde",
 
   "component_roleparticipant_title": "Rolle im Sprachkanal",

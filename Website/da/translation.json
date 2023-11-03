@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Ja, opgrader venligst",
   "button_lable_join_cancel": "Nej, bare log ind",
   "button_lable_join_continue": "Ja tak",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Vil du joine vores Discord?",
   "excordo_quote": "Tak for din interesse i TempVoice. En bot der vil ændre den måde, du bruger Discord på. Gennem årene har jeg fokuseret på fællesskabets behov og ønsker for at gøre din Discord server til et bedre sted!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Hvilken klynge er min server på?",
   "component_status_description_1": "Indtast dit server ID i søgefeltet",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Tilgængelige Discord Servere:",
 
   "component_sendmessage_title": "Send Velkommen Beskeder",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Send en velkomstbesked til en midlertidig kanal efter oprettelse af den",
 
   "component_roleparticipant_title": "Stemmerolle",

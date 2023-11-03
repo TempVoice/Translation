@@ -77,9 +77,13 @@
   "button_lable_upgrade_continue": "Taip, noriu atnaujinti",
   "button_lable_join_cancel": "Ne, tik prisijungti",
   "button_lable_join_continue": "Taip",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
 
   "join_support": "Ar norėtumete prisijungti prie mūsų Discord?",
   "excordo_quote": "Ačiū, jog susidomėjote TempVoice, botas, kuris pakeis kaip naudositės Discord. Bėgant metams aš sutelkiau dėmesį į bendruomenės poreikius ir norus, kad jūsų Discord serveris taptų geresne vieta!",
+
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
   "component_status_title": "Kokiame klusteryje yra mano serveris?",
   "component_status_description_1": "Įveskite savo Serverio ID į paiešką",
@@ -96,6 +100,7 @@
   "component_premium_menu_description": "Galimi Discord Serveriai:",
 
   "component_sendmessage_title": "Siųsti Pasisveikinimo Pranešimą",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Sukūrę laikinąjį kanalą, išsiųskite sveikinimo pranešimą",
 
   "component_roleparticipant_title": "Balso-Kanale Rolė",
