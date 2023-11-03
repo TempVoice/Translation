@@ -28,7 +28,7 @@ let arr = [
 	'zh-CN',
 	'ja',
 	'da',
-	'de-B',
+	'tl',
 	'ms-MY',
 ]
 
