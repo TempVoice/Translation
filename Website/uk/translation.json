@@ -77,13 +77,13 @@
 	"button_lable_upgrade_continue": "Так, оновлюйте",
 	"button_lable_join_cancel": "Ні, просто авторизуватися",
 	"button_lable_join_continue": "Так, будь ласка",
-	"button_lable_manage_custom_branding": "Manage Custom Branding",
+	"button_lable_manage_custom_branding": "Управління брендуванням",
 
 	"join_support": "Бажаєте приєднатися до нашого Discord серверу?",
 	"excordo_quote": "Дякую за інтерес до TempVoice, бота, який змінить те, як ви використовуєте Discord. Я роками фокусувався на потребах та бажаннях спільноти, щоб зробити ваші сервери Discord кращими!",
 
-	"premium_status_description_1": "All premium customizations are unlocked ✌️",
-	"premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+	"premium_status_description_1": "Усі преміум налаштування розблоковано ✌️",
+	"premium_status_description_2": "Використовуйте власний вбудований аватар, ім’я, колір і зображення з Premium 🤩",
 
 	"component_status_title": "На якому кластері знаходиться мій сервер?",
 	"component_status_description_1": "Введіть ID сервера у рядок пошуку",
@@ -100,7 +100,7 @@
 	"component_premium_menu_description": "Доступні сервери Discord:",
 
 	"component_sendmessage_title": "Привітальне повідомлення",
-	"component_sendmessage_button_lable": "Customize Message",
+	"component_sendmessage_button_lable": "Налаштувати повідомлення",
 	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні",
 
 	"component_roleparticipant_title": "Голосова роль",
@@ -145,7 +145,7 @@
 	"component_syncpermissions_description": "Синхронізуйте права тимчасових каналів з категорією або з каналом-створювачем",
 	
 	"component_namewaiting_title": "Назва прихожої",
-	"component_namewaiting description": "Назва для прихожої (За замовчуванням: Join Me)",
+	"component_namewaiting_description": "Назва для прихожої (За замовчуванням: Join Me)",
 	
 	"component_placeholder_title": "Назви змінних за замовчуванням",
 	"component_placeholder_menu_lable": "Управління назвами за замовчуванням",
