@@ -19,7 +19,7 @@
 	"status_statistics_3": "Всього кластерів",
 	"status_statistics_4": "Всього користувачів",
 	"status_alert_offline": "TempVoice зараз частково недоступний. Приносимо вибачення за незручності.",
-	"status_alert_online": "TempVoice повністю працює"
+	"status_alert_online": "TempVoice повністю працює",
 
 	"server_selection": "Виберіть Discord сервер для редагування налаштувань TempVoice або запросіть його на інший.",
 
@@ -32,7 +32,7 @@
 	"creators_description": "Вкажіть, як тимчасові голосові канали створюються. Вкажіть назву за замовчуванням, обмеження, права та інше.",
 
 	"interface_title": "Інтерфейс",
-	"interface_description": "Використовується користувачами для управління тимчасовими каналами."
+	"interface_description": "Використовується користувачами для управління тимчасовими каналами.",
 
 	"config_tab_1": "Загальні",
 	"config_tab_2": "Права",
@@ -59,12 +59,12 @@
 	"premium_highlighed_title_2": "Річна підписка",
 	"premium_highlighed_description_2": "Зекономте 16% з річною підпискою",
 	"premium_upgrade_disclaimer": "При оновленні Преміум підписки з вас відразу ж буде списана різниця з уже сплаченою вами сумою. Ви можете оновлювати підписку лише раз на місяць.",
-	"premium_custombranding_description": "Custom Branding дозволяє змінювати зовнішній вигляд TempVoice, змінивши його назву, аватар, статус і 'про мене'. Не забудьте активувати Premium на сервері, де хочете його використовувати."
+	"premium_custombranding_description": "Custom Branding дозволяє змінювати зовнішній вигляд TempVoice, змінивши його назву, аватар, статус і 'про мене'. Не забудьте активувати Premium на сервері, де хочете його використовувати.",
 	
 	"placeholder_description_1": "Якщо ви використовуєте змінну {PRIVACY}, назву каналу буде оновлено щоразу при зміні налаштувань приватності каналу. Діє обмеження в 5 хвилин через обмеження Discord.",
 	"placeholder_description_2": "Відображає назву найвищої ролі власника, незалежно від того, чи виділена ця роль у списку учасників чи ні.",
 	"placeholder_description_3": "Відображає назву найвищої ролі власника, яка виділена у списку учасників.",
-	"placeholder_description_4": "Ця змінна буде замінена на назву каналу, яка була обрана користувачем через інтерфейс або команду '/voice name'. Коли власник обирає нову назву, змінюється лише частина зі змінною."
+	"placeholder_description_4": "Ця змінна буде замінена на назву каналу, яка була обрана користувачем через інтерфейс або команду '/voice name'. Коли власник обирає нову назву, змінюється лише частина зі змінною.",
 
 	"button_lable_invite": "Запросити TempVoice",
 	"button_lable_dashboard": "Панель управління",
@@ -76,35 +76,35 @@
 	"button_lable_upgrade_cancel": "Ні, я передумав",
 	"button_lable_upgrade_continue": "Так, оновлюйте",
 	"button_lable_join_cancel": "Ні, просто авторизуватися",
-	"button_lable_join_continue": "Так, будь ласка"
+	"button_lable_join_continue": "Так, будь ласка",
 
 	"join_support": "Бажаєте приєднатися до нашого Discord серверу?",
-	"excordo_quote": "Дякую за інтерес до TempVoice, бота, який змінить те, як ви використовуєте Discord. Я роками фокусувався на потребах та бажаннях спільноти, щоб зробити ваші сервери Discord кращими!"
+	"excordo_quote": "Дякую за інтерес до TempVoice, бота, який змінить те, як ви використовуєте Discord. Я роками фокусувався на потребах та бажаннях спільноти, щоб зробити ваші сервери Discord кращими!",
 
 	"component_status_title": "На якому кластері знаходиться мій сервер?",
 	"component_status_description_1": "Введіть ID сервера у рядок пошуку",
-	"component_status_description_2": "Ваш сервер в"
+	"component_status_description_2": "Ваш сервер в",
 
 	"component_bitrate_title": "Бітрейт тимчасових каналів",
 	"component_bitrate_menu_lable": "Максимально можливий",
-	"component_bitrate_description": "Бітрейт тимчасових каналів за замовчуванням"
+	"component_bitrate_description": "Бітрейт тимчасових каналів за замовчуванням",
 
 	"component_totallimit_title": "Загальний ліміт тимчасових каналів",
-	"component_totallimit_description": "Загальний ліміт тимчасових каналів, які можуть співіснувати"
+	"component_totallimit_description": "Загальний ліміт тимчасових каналів, які можуть співіснувати",
 
 	"component_premium_menu_lable": "Активувати Premium",
-	"component_premium_menu_description": "Доступні сервери Discord:"
+	"component_premium_menu_description": "Доступні сервери Discord:",
 
 	"component_sendmessage_title": "Привітальне повідомлення",
-	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні"
+	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні",
 
 	"component_roleparticipant_title": "Голосова роль",
 	"component_roleparticipant_menu_lable": "Роль не вибрана",
-	"component_roleparticipant_description": "Призначає ролі при вході/виході з тимчасового каналу"
+	"component_roleparticipant_description": "Призначає ролі при вході/виході з тимчасового каналу",
 
 	"component_roleseveryone_title": "Роль учасника",
 	"component_roleseveryone_menu_lable": "Виберіть декілька ролей",
-	"component_roleseveryone_description": "Необхідна для перегляду тимчасових каналів"
+	"component_roleseveryone_description": "Необхідна для перегляду тимчасових каналів",
 
 	"component_restore_title": "Відновлення налаштувань власника",
 	"component_restore_menu_lable": "Управління опціями відновлення",
@@ -112,7 +112,7 @@
 	"component_restore_menu_option_2": "Персональний ліміт учасників",
 	"component_restore_menu_option_3": "Довірені та заблоковані учасники",
 	"component_restore_menu_option_4": "Налаштування приватності",
-	"component_restore_description": "Відновлює налаштування тимчасового каналу, такі, які вони були до видалення"
+	"component_restore_description": "Відновлює налаштування тимчасового каналу, такі, які вони були до видалення",
 
 	"component_position_title": "Позиція тимчасового каналу",
 	"component_position_menu_option_1": "Вгорі",
