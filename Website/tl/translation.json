@@ -4,16 +4,16 @@
   "slogan_description": "Mas pinapalinis ng TempVoice ang iyong server sa pamamagitan ng pagpapatupad ng mga temporaryong boses na channel. Mga walang laman na mga channel ay agad na binubura; paglilikha ng baguhan ay isang pag-click lamang.",
   
   "featured_title": "Pinagkakatiwalaan ng Iyong mga Paboritong Server",
-  "featured_description": "Pinipili ng libu-libong mga server sa Discord at mahigit isang milyong mga tagagamit ang TempVoice.",
+  "featured_description": "Pinipili ng libu-libong mga Discord na Server at mahigit isang milyong mga tagagamit ang TempVoice.",
   
   "introduction_title": "Ano ang Temporaryong Channel?",
   "introduction_description": "Ang temporaryong boses na channel ay nililikha kapag may sumali sa isang Creator na Channel, at ito'y binubura kapag wala nang natira rito.",
 
   "setup_title": "Paano ko ise-setup ang TempVoice?",
-  "setup_description": "Simulan ang paggamit ng TempVoice sa pamamagitan ng pagpapatakbo ng /setup na command sa iyong server sa Discord. Ise-setup ng TempVoice ang mga pangunahing channel na kinakailangan upang lumikha at pamahalaan ang mga temporaryong channel!",
+  "setup_description": "Simulan ang paggamit ng TempVoice sa pamamagitan ng pagpapatakbo ng /setup na command sa iyong Discord na Server. Ise-setup ng TempVoice ang mga pangunahing channel na kinakailangan upang lumikha at pamahalaan ang mga temporaryong channel!",
   
   "status_title": "Gumagana Ba Ang Bot Ayon Sa Layunin Nito?",
-  "status_description": "Nakahati ang TempVoice sa iba't-ibang shards at clusters para sa mas mahusay na paggaganap. Bawat cluster ay naglalaman ng hanggang limang (5) mga shard at humahawak ng humigit-kumulang na limang-libong (5000) mga server sa Discord.",
+  "status_description": "Nakahati ang TempVoice sa iba't-ibang mga shard at cluster para sa mas mahusay na paggaganap. Bawat cluster ay naglalaman ng hanggang limang (5) mga shard at humahawak ng humigit-kumulang na limang-libong (5000) mga Discord na Server.",
   "status_statistics_1": "Kabuuang Bilang ng mga Cluster",
   "status_statistics_2": "Kabuuang Bilang ng mga Shard",
   "status_statistics_3": "Kabuuang Bilang ng mga Server",
@@ -21,10 +21,10 @@
   "status_alert_offline": "Kasalukuyang bahagyang hindi magagamit ang TempVoice. Kami'y humihingi ng paumanhin sa abala.",
   "status_alert_online": "Lubos na gumagana na ang TempVoice",
 
-  "server_selection": "Pumili ng isang server sa Discord upang palitin ang kompigurasyon ng TempVoice o para imbitahan ang bot sa ibang server.",
+  "server_selection": "Pumili ng isang Discord na Server upang palitin ang kompigurasyon ng TempVoice o para imbitahan ang bot sa ibang server.",
   
   "appearance_title": "Hitsura",
-  "appearance_description": "I-angkop ang TempVoice upang tumugma sa estilo ng iyong server sa Discord at baguhin ang wika at tema ng kulay ng interface.",
+  "appearance_description": "I-angkop ang TempVoice upang tumugma sa estilo ng iyong Discord na Server at baguhin ang wika at tema ng kulay ng interface.",
   "appearance_language_title": "Wika",
   "appearance_colortheme_title": "Tema ng Kulay",
 
@@ -51,7 +51,7 @@
   "premium_feature_1": "Lubos na napapasadyang Mga Interface",
   "premium_feature_2": "Walang limitasyon sa paggawa ng mga Creator na Channel",
   "premium_feature_3": "Walang Kinakailangang Pag-boto",
-  "premium_feature_4": "Mga Server sa Discord",
+  "premium_feature_4": "Mga Discord na Server",
   "premium_cycle_monthly": "buwanan",
   "premium_cycle_yearly": "taunan",
   "premium_highlighed_title_1": "Iyong Sariling Bot",
@@ -59,7 +59,7 @@
   "premium_highlighed_title_2": "Taunang Subskripsyon",
   "premium_highlighed_description_2": "Makatipid ng labing-anim na porsiyento (16%) kasama ng taunang bayarin na cycle",
   "premium_upgrade_disclaimer": "Kapag itinaas mo ang iyong Prima na subskripsyon, agad kang sisingilin ng pagkakaiba sa buwanang presyo na iyong nabayaran na. Maaari mo lamang itaas ang iyong subskripsyon ng isang beses bawat buwan.",
-  "premium_custombranding_description": "Nagbibigay-daan sa iyo ang Pasadyang Tatak na baguhin ang hitsura ng TempVoice sa pamamagitan ng pag-angkop ng kanyang avatar, pangalan, katayuan, at talambuhay. Tandaan na i-aktibohin ang Prima sa iyong server sa Discord na gusto mong gamitin ang bot.",
+  "premium_custombranding_description": "Nagbibigay-daan sa iyo ang Pasadyang Tatak na baguhin ang hitsura ng TempVoice sa pamamagitan ng pag-angkop ng kanyang avatar, pangalan, katayuan, at talambuhay. Tandaan na i-aktibohin ang Prima sa iyong Discord na Server na gusto mong gamitin ang bot.",
 
   "placeholder_description_1": "Kung gagamitin mo ang {PRIVACY} na placeholder, ang pangalan ng channel ay mababago kapag binago mo ang pribisidad na mga setting ng channel. Ito ay posible lamang magamit bawat limang (5) mga minuto dahil sa mga limitasyon ng Discord.",
   "placeholder_description_2": "Ipinapakita ang pangalan ng pinakamataas na role ng may-ari, kahit na kung ang role ay hiwalay sa online na listahan ng mga miyembro o hindi.",
@@ -80,7 +80,7 @@
   "button_lable_manage_custom_branding": "Pamahalaan ang Pasadyang Tatak",
 
   "join_support": "Gusto mo bang sumali sa aming Discord?",
-  "excordo_quote": "Maraming salamat sa iyong interes sa TempVoice, ang bot na magpapabago sa paraan ng iyong paggamit ng Discord. Sa mga nakaraang taon, nakatuon ako sa mga pangangailangan at kagustuhan ng komunidad upang gawing mas mabuting lugar ang iyong server sa Discord!",
+  "excordo_quote": "Maraming salamat sa iyong interes sa TempVoice, ang bot na magpapabago sa paraan ng iyong paggamit ng Discord. Sa mga nakaraang taon, nakatuon ako sa mga pangangailangan at kagustuhan ng komunidad upang gawing mas mabuting lugar ang iyong Discord na Server!",
 
   "premium_status_description_1": "Lahat ng mga primang pagpapasadya ay naka-bukas ✌️",
   "premium_status_description_2": "Gamitin ang iyong sariling embed na avatar, pangalan, kulay, at imahe gamit ang Prima 🤩",
@@ -97,7 +97,7 @@
   "component_totallimit_description": "Ang kabuuang bilang ng mga temporaryong channel na maaaring umiiral ng sabay-sabay",
 
   "component_premium_menu_lable": "I-aktibohin ang Prima",
-  "component_premium_menu_description": "Maaring magamit na mga server sa Discord:",
+  "component_premium_menu_description": "Maaring magamit na mga Discord na Server:",
 
   "component_sendmessage_title": "Magpadala ng Pagbati na Mensahe",
   "component_sendmessage_button_lable": "Ipasadyang Mensahe",
@@ -212,7 +212,7 @@
 
   "component_custombranding_title": "Bot na Token",
   "component_custombranding_button_lable": "Paano ako makakakuha ng bot na token?",
-  "component_custombranding_description": "Magpasok ng bot na token galing sa Discord upang payagan kami na mag-setup ng hiwalay na server para sa iyong bot. Huwag gamitin ang token na ito sa ibang lugar o ibahagi ito kay sinuman. Ituring ito tulad ng isang password!",
+  "component_custombranding_description": "Magpasok ng Discord na bot na token upang payagan kami na mag-setup ng hiwalay na server para sa iyong bot. Huwag gamitin ang token na ito sa ibang lugar o ibahagi ito kay sinuman. Ituring ito tulad ng isang password!",
 
   "component_custombrandingactivity_title": "Aktibidad ng Bot (Katayuan)",
   "component_custombrandingactivity_description": "Baguhin ang katayuan ng pasadyang tatak na bot sa Discord.",

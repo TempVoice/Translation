@@ -3,7 +3,7 @@
       "lang": "tl"
     },
     {
-      "info_setup": "## **Kumpleto na ang Set-up!**\n Ang {val1} ay maaari nang gamitin upang lumikha ng mga temporaryong boses na channel sa iyong server dito sa Discord.",
+      "info_setup": "## **Kumpleto na ang Set-up!**\n Ang {val1} ay maaari nang gamitin upang lumikha ng mga temporaryong boses na channel sa iyong Discord na server.",
       "info_setup2": "## **Kumpleto na ang Set-up!**\n Ang [interface]({val1}) na ito ay maaari nang gamitin upang pamahalaan ang mga temporaryong boses na channel sa iyong server dito sa Discord.",
       "info_reset": "## **Muling Na-set!**\n Lahat ng iyong mga setting ay muling na-set sa default.",
   
@@ -22,10 +22,10 @@
       "error_limit": "## **Hindi Posible!**\n Ang limitasyon ng mga creator na channel sa isang server ay {val1}. Subukang bumura nang isa o dagdagan ang limitasyon gamit ang mas mataas na [prima](<https://tempvoice.xyz/premium>) na hanay.",
       "error_ratelimit": "## **Bagalin Mo Nga!**\n Ang command na ito ay maaaring gamitin muli pagkatapos ng **{val1}**.",
       "error_creation": "## **Bagalin Mo Nga!**\n Maaari kang lumikha ng bagong channel **{val1}**.",
-      "error_webhook": "## **Hindi Posible!**\n Hindi posibleng lumikha ng webhook dahil may ibang discord na bot na pumipigil sa akin na gawin ito. Tingnan kung ang mga seguridad na bot tulad ng *Wick*, *Beemo* at iba pa ang may kasalanan nito.",
-      "error_totallimit": "## **Hindi Posible!**\n Ang limitasyon ng **{val1}** na mga temporaryong boses na channel nang sabay-sabay ay naabot na, dahil may limitasyon ang Discord server na ito. Subukan muli mamaya.",
+      "error_webhook": "## **Hindi Posible!**\n Hindi posibleng lumikha ng webhook dahil may ibang Discord na bot na pumipigil sa akin na gawin ito. Tingnan kung ang mga seguridad na bot tulad ng *Wick*, *Beemo* at iba pa ang may kasalanan nito.",
+      "error_totallimit": "## **Hindi Posible!**\n Ang limitasyon ng **{val1}** na mga temporaryong boses na channel nang sabay-sabay ay naabot na, dahil may limitasyon ang Discord na server na ito. Subukan muli mamaya.",
       "error_discordlimit": "## **Hindi Posible!**\n Lahat ng mga maaring gamitin na kategorya ay naabot na ang kanilang limitasyon na limang-pu (50) na mga channel bawat isa. Kung ikaw ay isang tagapangasiwa, maaari kang mag-setup ng karagdagang **Fallback Categories** sa loob ng dashboard, kung hindi, subukan muli mamaya.",
-      "error_cb": "## **Hindi Posible!**\n Sinusubukan mong gamitin ang [TempVoice na Pasadyang Tatak](https://tempvoice.xyz/premium) na bot sa isang server dito sa Discord, kung saan hindi pinagana ng may-ari ng bot ang Primang TempVoice. Kung ikaw ang may-ari ng Pasadyang Tatak na bot na ito, siguraduhin na ang pampublikong <@762217899355013120> bot ay na-kick at pinagana mo ang prima para sa server dito sa Discord na ito dito: **https://tempvoice.xyz/premium** > **Aktibohin ang Prima**.",
+      "error_cb": "## **Hindi Posible!**\n Sinusubukan mong gamitin ang [TempVoice na Pasadyang Tatak](https://tempvoice.xyz/premium) na bot sa isang Discord na server, kung saan hindi pinagana ng may-ari ng bot ang Primang TempVoice. Kung ikaw ang may-ari ng Pasadyang Tatak na bot na ito, siguraduhin na ang pampublikong <@762217899355013120> bot ay na-kick at pinagana mo ang prima para sa Discord na server na ito dito: **https://tempvoice.xyz/premium** > **Aktibohin ang Prima**.",
       "error_conflict": "## **Di-inaasahang Pagbabaka.**\n May naganap na pagbabaka ang TempVoice sa Discord API. I-ulat ang mensaheng ito dito https://discord.gg/tempvoice. \n### Error: `{val1}`",
   
       "voice_waiting_1": "## **Hindi Posible!**\n Hindi ka makakagawa ng silid-antayan kapag nakatago ang iyong channel.",
