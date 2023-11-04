@@ -39,7 +39,7 @@
   "config_tab_3": "Lainnya",
 
   "navbar_home": "Beranda",
-  "navbar_help": "Help",
+  "navbar_help": "Bantuan",
   "navbar_setup": "Setup",
   "navbar_premium": "Premium",
   "navbar_support": "Dukungan",
@@ -68,7 +68,7 @@
 
   "button_lable_invite": "Undang TempVoice",
   "button_lable_dashboard": "Buka Panel",
-  "button_lable_login": "Login dgn Discord",
+  "button_lable_login": "Login - Discord",
   "button_lable_logout": "Logout",
   "button_lable_subscribe": "Bayar pakai Stripe",
   "button_lable_premium": "Atur Langganan",
@@ -77,13 +77,13 @@
   "button_lable_upgrade_continue": "Iya Upgrade",
   "button_lable_join_cancel": "Gak, cuma login",
   "button_lable_join_continue": "Iya, Sekalian",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_lable_manage_custom_branding": "Atur bot kustommu",
 
   "join_support": "Apakah kamu pengen sekalian join ke server kami?",
   "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
 
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "Semua fitur premium terbuka 🥳",
+  "premium_status_description_2": "Pakai Avatar, Nama, Warna, dan Antarmuka-mu sendiri dengan Premium 🤩",
 
   "component_status_title": "Di klaster mana serverku?",
   "component_status_description_1": "Masukan ID Servermu di box pencarian",
@@ -100,10 +100,10 @@
   "component_premium_menu_description": "Server Discord yg Tersedia:",
 
   "component_sendmessage_title": "Pesan Selamat Datang",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Atur pesan",
   "component_sendmessage_description": "Kirim pesan selamat datang ke channel sementara setelah channel dibuat",
 
-  "component_roleparticipant_title": "Role in-voice",
+  "component_roleparticipant_title": "Role di-voice",
   "component_roleparticipant_menu_lable": "Gak ada role terpilih",
   "component_roleparticipant_description": "Tetapkan role saat bergabung/meninggalkan kanal sementara",
 
@@ -221,7 +221,7 @@
   "component_sendinterface_menu_option": "Gak Ada Channel Terpilih",
   "component_sendinterface_description": "Pilih channel teks yg ingin dijadiin antarmuka",
 
-  "save_changes_title": "Hei – Kamu memiliki hal yang belum disimpan!",
+  "save_changes_title": "Hei – Kamu memiliki sesuatu yang belum disimpan!",
   "save_changes_button_lable_1": "Batal",
   "save_changes_button_lable_2": "Simpan"
 }
