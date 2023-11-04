@@ -46,20 +46,20 @@
   
   "premium_slogan_title": "Iyong Sariling Prima Na Plano",
   "premium_slogan_description": "Buksan ang buong potensyal ng iyong server sa pamamagitan ng pagkakaroon ng walang limitasyong access sa lahat ng mga tampok. Kanselahin ng anumang oras.",
-  "premium_title": "Mas Maraming Kustomisasyon. Mas Malaya.",
+  "premium_title": "Mas Maraming Pagpapasadya. Mas Maraming Kalayaan.",
   "premium_description": "Gawin ang TempVoice na iyong sarili at tamasahin ang kalayaan na i-angkop ang bot sa paraang gusto mo, ng walang limitasyon.",
-  "premium_feature_1": "Lubos na naku-kustomise na mga Interface",
+  "premium_feature_1": "Lubos na napapasadyang Mga Interface",
   "premium_feature_2": "Walang limitasyon sa paggawa ng mga Creator na Channel",
   "premium_feature_3": "Walang Kinakailangang Pag-boto",
   "premium_feature_4": "Mga Server sa Discord",
   "premium_cycle_monthly": "buwanan",
   "premium_cycle_yearly": "taunan",
   "premium_highlighed_title_1": "Iyong Sariling Bot",
-  "premium_highlighed_description_1": "Lubos na naku-kustomise na profile, pangalan, katayuan, talambuhay, at ang kakayahang ipakita ang kasalukuyang nilalarong laro bilang pangalan ng temporaryong channel",
+  "premium_highlighed_description_1": "Lubos na napapasadyang profile, pangalan, katayuan, talambuhay, at ang kakayahang ipakita ang kasalukuyang nilalarong laro bilang pangalan ng temporaryong channel",
   "premium_highlighed_title_2": "Taunang Subskripsyon",
   "premium_highlighed_description_2": "Makatipid ng labing-anim na porsiyento (16%) kasama ng taunang bayarin na cycle",
   "premium_upgrade_disclaimer": "Kapag itinaas mo ang iyong Prima na subskripsyon, agad kang sisingilin ng pagkakaiba sa buwanang presyo na iyong nabayaran na. Maaari mo lamang itaas ang iyong subskripsyon ng isang beses bawat buwan.",
-  "premium_custombranding_description": "Nagbibigay-daan sa iyo ang Custom Branding na baguhin ang hitsura ng TempVoice sa pamamagitan ng pag-angkop ng kanyang avatar, pangalan, katayuan, at talambuhay. Tandaan na i-aktibohin ang Prima sa iyong server sa Discord na gusto mong gamitin ang bot.",
+  "premium_custombranding_description": "Nagbibigay-daan sa iyo ang Pasadyang Tatak na baguhin ang hitsura ng TempVoice sa pamamagitan ng pag-angkop ng kanyang avatar, pangalan, katayuan, at talambuhay. Tandaan na i-aktibohin ang Prima sa iyong server sa Discord na gusto mong gamitin ang bot.",
 
   "placeholder_description_1": "Kung gagamitin mo ang {PRIVACY} na placeholder, ang pangalan ng channel ay mababago kapag binago mo ang pribisidad na mga setting ng channel. Ito ay posible lamang magamit bawat limang (5) mga minuto dahil sa mga limitasyon ng Discord.",
   "placeholder_description_2": "Ipinapakita ang pangalan ng pinakamataas na role ng may-ari, kahit na kung ang role ay hiwalay sa online na listahan ng mga miyembro o hindi.",
@@ -77,12 +77,12 @@
   "button_lable_upgrade_continue": "Oo, paki-upgrade",
   "button_lable_join_cancel": "Hindi, mag-lologin lang",
   "button_lable_join_continue": "Oo, paki-tuloy",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_lable_manage_custom_branding": "Pamahalaan ang Pasadyang Tatak",
 
   "join_support": "Gusto mo bang sumali sa aming Discord?",
   "excordo_quote": "Maraming salamat sa iyong interes sa TempVoice, ang bot na magpapabago sa iyong paggamit ng Discord. Sa mga nakaraang taon, nakatuon ako sa mga pangangailangan at kagustuhan ng komunidad upang gawing mas mabuting lugar ang iyong server sa Discord!",
 
-  "premium_status_description_1": "Lahat ng primang mga kustomisasyon ay naka-bukas ✌️",
+  "premium_status_description_1": "Lahat ng mga primang pagpapasadya ay naka-bukas ✌️",
   "premium_status_description_2": "Gamitin ang iyong sariling embed na avatar, pangalan, kulay, at imahe gamit ang Prima 🤩",
 
   "component_status_title": "Saang cluster ang server ko?",
@@ -100,7 +100,7 @@
   "component_premium_menu_description": "Maaring magamit na mga server sa Discord:",
 
   "component_sendmessage_title": "Magpadala ng Pagbati na Mensahe",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Ipasadyang Mensahe",
   "component_sendmessage_description": "Magpadala ng pagbati sa paraan na mensahe sa loob ng temporaryong channel pagkatapos itong malikha",
 
   "component_roleparticipant_title": "Kaloobang Boses na Role",
@@ -215,7 +215,7 @@
   "component_custombranding_description": "Magpasok ng bot na token galing sa Discord upang payagan kami na mag-setup ng hiwalay na server para sa iyong bot. Huwag gamitin ang token na ito sa ibang lugar o ibahagi ito kay sinuman. Ituring ito tulad ng isang password!",
 
   "component_custombrandingactivity_title": "Aktibidad ng Bot (Katayuan)",
-  "component_custombrandingactivity_description": "Baguhin ang katayuan ng custom branding bot sa Discord.",
+  "component_custombrandingactivity_description": "Baguhin ang katayuan ng pasadyang tatak na bot sa Discord.",
 
   "component_sendinterface_menu_lable": "Pumili ng Teksto na Channel",
   "component_sendinterface_menu_option": "Walang Napiling Channel",
