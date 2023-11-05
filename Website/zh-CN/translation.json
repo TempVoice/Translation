@@ -39,11 +39,11 @@
   "config_tab_3": "杂项",
   
   "navbar_home": "主页",
-  "navbar_help": "Help",
+  "navbar_help": "帮助",
   "navbar_setup": "设置",
-  "navbar_premium": "高级",
-  "navbar_support": "支持",
-  
+  "navbar_premium": "高级会员",
+  "navbar_support": "支持"
+
   "premium_slogan_title": "您自己的高级计划",
   "premium_slogan_description": "通过获得对所有功能的无限制访问，释放您的服务器的全部潜力。随时取消。",
   "premium_title": "更多自定义。更多自由。",
@@ -77,13 +77,13 @@
   "button_lable_upgrade_continue": "是的，请升级",
   "button_lable_join_cancel": "不，只是登录",
   "button_lable_join_continue": "是的，请",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_lable_manage_custom_branding": "管理自定义品牌",
   
   "join_support": "您想加入我们的Discord吗？",
   "excordo_quote": "感谢您对TempVoice的兴趣，这是一个将改变您使用Discord方式的机器人。多年来，我一直专注于满足社区的需求和愿望，使您的Discord服务器变得更好！",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "所有高级自定义功能已解锁 ✌️",
+  "premium_status_description_2": "使用高级版可以自定义嵌入式头像、名称、颜色和图片 🤩",
 
   "component_status_title": "我的服务器在哪个群集上？",
   "component_status_description_1": "在搜索框中输入您的服务器ID",
@@ -100,7 +100,7 @@
   "component_premium_menu_description": "可用的Discord服务器：",
   
   "component_sendmessage_title": "发送欢迎消息",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "自定义消息",
   "component_sendmessage_description": "在创建临时频道后向其发送欢迎消息",
   
   "component_roleparticipant_title": "语音角色",
@@ -118,13 +118,13 @@
   "component_restore_menu_option_3": "受信任和阻止的用户",
   "component_restore_menu_option_4": "隐私偏好",
   "component_restore_description": "恢复删除之前的临时频道的属性",
-  
+
   "component_position_title": "临时频道位置",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "创建临时频道时的位置（默认：下方）",
-  
+  "component_position_menu_option_1": "顶部",
+  "component_position_menu_option_2": "创建者下方",
+  "component_position_menu_option_3": "底部",
+  "component_position_description": "在创建临时频道时的位置（默认：创建者下方）"
+
   "component_permissionsowner_title": "所有者的额外Discord权限",
   "component_permissionsowner_menu_lable": "管理权限",
   "component_permissionsowner_description": "临时频道所有者的额外Discord权限",
