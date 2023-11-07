@@ -44,8 +44,8 @@
     "error_vote": "## **Impossível**\n Este comando pode ser temporariamente desbloqueado por [votação](<https://top.gg/bot/762217899355013120/vote>) ou sendo [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Impossível**\n Você não pode usar este comando para o usuário selecionado.",
     "error_ownership": "## **Impossível**\n Somente o proprietário do canal de voz pode usar este comando. Se o proprietário atual saiu, reivindique o canal de voz usando: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Permissões ausentes**\n As seguintes permissões estão ausentes: {val1}",
-    "error_permissions_sync": "## **Permissões ausentes.**\n Entre em contato com um administrador. As seguintes permissões estão **faltando** na função **configurações do servidor** para TempVoice: {val1} para sincronizar as permissões.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Impossível**\n Este comando está desativado para todos os canais de voz temporários de {val1}.",
     "error_limit": "## **Impossível**\n O limite de canais de criadores em um único servidor é {val1}. Tente excluir um ou aumentar o limite com [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Tempo de espera!**\n Este comando pode ser usado novamente em **{val1}**.",
@@ -53,7 +53,7 @@
     "error_webhook": "## **Not Possible!**\n It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "## **Impossível!**\n O limite de **{val1}**\n canais de voz temporários ao mesmo tempo foi atingido, porque este servidor do Discord os limitou. Por favor, tente novamente mais tarde.",
     "error_discordlimit": "## **Impossível!**\n Todas as categorias disponíveis atingiram o limite de 50 canais cada. Se você for um administrador, pode configurar mais **Categorias alternativas** no painel, caso contrário, tente novamente mais tarde.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "## **Impossível**\n Você não pode criar uma sala de espera quando seu canal está oculto.",
@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Criado***\n Um tópico temporário foi criado para este canal.",
     "voice_thread_3": "## **Deletado!**\n O fio foi apagado",
     "voice_thread_4": "## **Não é possível***\n Não há linha a ser apagada",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Fechado!**\n Seu canal de voz temporário foi fechado.",
     "voice_close_2": "## **Tem certeza?**\n Seu canal de voz temporário será excluído. Por favor, confirme usando o botão abaixo.",
     "voice_password_1": "## **Atualizado!**\n Os usuários agora podem entrar no seu canal de voz temporário usando a senha ||`{val1}`|| com o comando </join:1060564928529956985>.",
@@ -114,6 +115,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "Essa **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos **/voice**",
     "interface_footer": "Pressione os botões abaixo para usar a interface",

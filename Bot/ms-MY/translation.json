@@ -16,8 +16,8 @@
     "error_vote": "## **Belum Mungkin!**\n Arahan ini boleh dibuka sementara dengan [undi](<https://top.gg/bot/762217899355013120/vote>), atau secara kekal dengan [premium](<https://tempvoice.xyz/id/premium>).",
     "error_target": "## **Tidak Mungkin!**\n Anda tidak boleh menggunakan arahan ini untuk pengguna yang dipilih.",
     "error_ownership": "## **Tidak Mungkin!**\n Hanya pemilik saluran suara sementara boleh menggunakan arahan ini. Jika pemilik semasa telah pergi, tuntut saluran suara dengan menggunakan: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Kekurangan Kebenaran!**\n Kebenaran berikut tidak ada: {val1}",
-    "error_permissions_sync": "## **Kekurangan Kebenaran!**\n Sila hubungi Admin. Kebenaran berikut **hilang** dalam peranan **tetapan pelayan** untuk TempVoice: {val1} untuk menyelaraskan kebenaran.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Tidak Mungkin!**\n Arahan ini telah dinyahaktifkan untuk semua saluran suara sementara {val1}.",
     "error_limit": "## **Tidak Mungkin!**\n Had saluran pencipta dalam satu pelayan adalah {val1}. Cuba padam salah satu atau tingkatkan had dengan tier [premium](<https://tempvoice.xyz/id/premium>) yang lebih tinggi.",
     "error_ratelimit": "## **Perlahan!**\n Arahan ini boleh digunakan semula dalam **{val1}**.",
@@ -25,7 +25,7 @@
     "error_webhook": "## **Tidak Mungkin!**\n Tidak mungkin untuk mencipta webhook kerana bot Discord lain menghalang saya daripada berbuat demikian. Lihat sama ada bot keselamatan seperti *Wick*, *Beemo* dan sebagainya adalah punca.",
     "error_totallimit": "## **Tidak Mungkin!**\n Had **{val1}** saluran suara sementara pada masa yang sama telah dicapai, kerana pelayan Discord ini telah mengehadkannya. Sila cuba lagi kemudian.",
     "error_discordlimit": "## **Tidak Mungkin!**\n Semua kategori yang ada telah mencapai had 50 saluran masing-masing. Jika anda seorang admin, anda boleh menetapkan lebih banyak **Kategori Alternatif** dalam papan pemuka, jika tidak, sila cuba lagi kemudian.",
-    "error_cb": "## **Tidak Mungkin!**\n Anda cuba menggunakan bot [TempVoice Custom Branding](https://tempvoice.xyz/) pada pelayan Discord, di mana pemilik bot tidak mengaktifkan TempVoice Premium. Jika anda adalah pemilik bot Custom Branding ini, aktifkan di sini: **https://tempvoice.xyz/premium** > **Aktifkan Premium**.",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Konflik Tak Terduga.**\n TempVoice mengalami konflik dengan API Discord. Laporkan mesej ini di sini https://discord.gg/tempvoice. \n### Ralat: `{val1}`",
     
     "voice_waiting_1": "## **Tidak Mungkin!**\n Anda tidak boleh cipta bilik tunggu apabila saluran anda tersembunyi.",
@@ -73,6 +73,7 @@
     "voice_thread_2": "## **Dicipta!**\n Satu benang sementara telah dicipta untuk saluran ini.",
     "voice_thread_3": "## **Dihapus!**\n Benang telah dihapuskan.",
     "voice_thread_4": "## **Tidak Mungkin!**\n Tiada benang untuk dihapuskan.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Ditutup!**\n Saluran suara sementara anda telah ditutup.",
     "voice_close_2": "## **Adakah Anda Pasti?**\n Saluran suara sementara anda akan dihapuskan. Sila sahkan dengan menggunakan butang di bawah.",
     "voice_password_1": "## **Dikemaskini!**\n Pengguna kini boleh menyertai saluran suara sementara anda dengan menggunakan kata laluan ||`{val1}`|| dengan arahan </join:1060564928529956985>.",
@@ -86,6 +87,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "Antaramuka ini boleh digunakan untuk menguruskan saluran suara sementara. Lebih banyak pilihan tersedia dengan arahan **/voice**.",
     "interface_footer": "Tekan butang di bawah untuk menggunakan antaramuka",

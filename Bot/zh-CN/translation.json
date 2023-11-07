@@ -29,7 +29,7 @@
     "cmd_join_description": "使用密码加入临时频道",
     "cmd_setup_tempvoice_description": "使用助手在几秒钟内轻松设置 TempVoice",
     "cmd_help_description": "获取有关 TempVoice Discord 机器人的帮助",
-    "cmd_find_description": "Find out which voice channel a user is in",
+    "cmd_find_description": "查找用户所在的语音频道",
 
     "info_setup": "## **设置完成！**\n 现在可以使用 {val1} 来在您的 Discord 服务器中创建临时语音频道。",
     "info_setup2": "## **设置完成！**\n 现在可以使用此[界面]({val1}) 来管理您的 Discord 服务器中的临时语音频道。",
@@ -44,8 +44,8 @@
     "error_vote": "## **目前不可能！**\n 此命令可以通过[voting](<https://top.gg/bot/762217899355013120/vote>) 暂时解锁，或通过[premium](<https://tempvoice.xyz/premium>) 永久解锁。",
     "error_target": "## **不可能！**\n 您无法为所选用户使用此命令。",
     "error_ownership": "## **不可能！**\n 只有临时语音频道的所有者才能使用此命令。如果当前所有者已离开，请使用以下方式声明语音频道：</voice claim:921416747687489568>。",
-    "error_permissions": "## **缺少权限！**\n 以下权限缺失：{val1}",
-    "error_permissions_sync": "## **缺少权限！**\n 请联系管理员。以下权限在 TempVoice 的 **服务器设置** 角色中缺失，以便同步权限：{val1}",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **不可能！**\n 此命令已停用所有 {val1} 的临时语音频道。",
     "error_limit": "## **不可能！**\n 单个服务器中创建者频道的限制为 {val1}。尝试删除一个或提高[premium](<https://tempvoice.xyz/premium>) 层级以增加限制。",
     "error_ratelimit": "## **放慢速度！**\n 可以再次使用此命令 **{val1}**。",
@@ -53,7 +53,7 @@
     "error_webhook": "## **不可能！**\n 由于另一个 Discord 机器人阻止我创建 Webhook，因此无法创建 Webhook。查看是否有安全机器人如 *Wick*、*Beemo* 等。",
     "error_totallimit": "## **不可能！**\n 同一时间在同一 Discord 服务器中已达到 **{val1}** 个临时语音频道的限制，因为此 Discord 服务器对其进行了限制。请稍后再试。",
     "error_discordlimit": "## **不可能！**\n 所有可用的分类已达到每个分类最多 50 个频道的限制。如果您是管理员，可以在仪表板中设置更多的 **备用分类**，否则请稍后再试。",
-    "error_cb": "## **不可能！**\n 您正在尝试在未启用 TempVoice Premium 的 Discord 服务器上使用 [TempVoice Custom Branding](https://tempvoice.xyz/) 机器人。如果您是此自定义品牌机器人的所有者，请在此处激活：**https://tempvoice.xyz/premium** > **激活 Premium**。",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **意外冲突。**\n TempVoice 与 Discord 的 API 发生冲突。请在此处报告此消息 https://discord.gg/tempvoice。\n### 错误：`{val1}`",
 
     "voice_waiting_1": "## **不可能！**\n 当您的频道隐藏时，您无法创建等待室。",
@@ -101,6 +101,7 @@
     "voice_thread_2": "## **已创建！**\n 为此频道创建了临时线程。",
     "voice_thread_3": "## **已删除！**\n 线程已被删除。",
     "voice_thread_4": "## **不可能！**\n 没有线程可供删除。",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **已关闭！**\n 您的临时语音频道已关闭。",
     "voice_close_2": "## **确定吗？**\n 您的临时语音频道将被删除。请使用下面的按钮确认。",
     "voice_password_1": "## **已更新！**\n 用户现在可以使用密码 ||`{val1}`|| 使用</join:1060564928529956985> 命令加入您的临时语音频道。",
@@ -112,8 +113,11 @@
     "join_4": "## **密码错误！**\n 您输入的密码不正确。请重试。",
     "join_5": "## **密码正确！**\n 您现在可以加入 {val1}",
 
-    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## 找到了！\n 您正在寻找的用户 {val1} 在这里：{val2}",
+    "find_2": "## 未找到。\n 您正在寻找的用户不在公共语音频道中",
+
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "此**界面**可用于管理临时语音频道。使用**/voice** 命令可获得更多选项。",
     "interface_footer": "按下面的按钮使用界面",
@@ -138,12 +142,12 @@
     "waiting_menu_label_2": "拒绝",
     "waiting_menu_description_2": "用户将被踢出并阻止",
 
-    "did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-    "did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-    "did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-    "did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-    "did_you_know_5": "You can block up to 25 users with '/voice block'.",
-    "did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-    "did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+    "did_you_know_1": "你可以使用 '/voice password' 为你的临时频道设置密码。",
+    "did_you_know_2": "如果你找不到你的朋友，你可以使用 '/find' 来找到他们的语音频道。",
+    "did_you_know_3": "'/voice lfp' 中的 'lfp' 代表寻找其他人。",
+    "did_you_know_4": "你可以使用 '/voice trust' 来信任最多 25 位用户。",
+    "did_you_know_5": "你可以使用 '/voice block' 来封锁最多 25 位用户。",
+    "did_you_know_6": "要与你的临时频道上的用户进行聊天，你可以使用 '/voice thread' 创建一个私人临时线程。",
+    "did_you_know_7": "要接受或拒绝加入你的锁定临时频道的请求，你可以使用 '/voice waiting' 创建一个等待室。"
   }
 ]

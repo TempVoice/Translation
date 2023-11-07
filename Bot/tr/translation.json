@@ -44,8 +44,8 @@
     "error_vote": "## **Henüz mümkün değil!**\n Bu komut; bir [oy](<https://top.gg/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
     "error_target": "## **Mümkün değil!**\n Seçilen kullanıcı üzerinde bu komutu kullanamazsınız.",
     "error_ownership": "## **Mümkün değil!**\n Bu komutu, yalnızca ses kanalının sahibi kullanabilir. Mevcut kanal sahibi ayrıldıysa, sahipliği talep etmek için </voice claim:921416747687489568> komutunu kullanın.",
-    "error_permissions": "## **Eksik izinler!**\n Şu izinler eksik: {val1}.",
-    "error_permissions_sync": "## **Eksik izinler.**\n Lütfen bir Yönetici ile iletişime geçin.  Belirli yetkiler **sunucu ayarlarında** Tempvoice botu için eksik: İzinleri senkronize etmek için {val1}.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Devre dışı!**\n Bu komut, {val1}'in tüm geçici ses kanalları için devre dışı bırakılır.",
     "error_limit": "## **Mümkün değil!**\n Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyiniz veya daha fazla oluşturucu kurmak için [Premium](<https://tempvoice.xyz/premium>) kademesine yükseltin.",
     "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.",
@@ -53,7 +53,7 @@
     "error_webhook": "## **Mümkün değil!**\n Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "## **Mümkün değil!**\n Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",
     "error_discordlimit": "## **Mümkün değil!**\n Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "## **Mümkün değil!**\n Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Oluşturudu!**\n Bu kanal için bir alt başlık oluşturuldu.",
     "voice_thread_3": "## **Silindi!**\n Alt başlık silindi.",
     "voice_thread_4": "## **Mümkün değil!**\n Silinecek bir alt başlık bulanamadı.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Kapatıldı!**\n Geçici ses kanalınız kapatıldı.",
     "voice_close_2": "## **Emin misiniz?**\n Geçici sesli kanalınız silinecek. Kabul etmek için lütfen aşağıdaki tuşa basınız.",
     "voice_password_1": "## **Güncellendi!**\n Kullanıcılar artık ||`{val1}`||  şifresini kullanarak geçici odanıza katılacak, </join:1060564928529956985> komutu ile.",
@@ -114,6 +115,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "Bu arayüz, geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için **/voice** komutunu kullanın.",
     "interface_footer": "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir.",

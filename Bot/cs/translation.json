@@ -44,8 +44,8 @@
     "error_vote": "## **Zatím není možné**\n Tento příkaz lze dočasně odblokovat pomocí [hlasovaním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčené pomocí [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Není možné**\n You cannot use this command for the selected user.",
     "error_ownership": "## **Není možné**\n Tento příkaz může použít pouze vlastník hlasového kanálu. Pokud aktuální vlastník odešel, požádejte o hlasový kanál pomocí příkazu: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Missing Permissions.**\n The following permissions are missing: {val1}",
-    "error_permissions_sync": "## **Missing Permissions.**\n Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role and the temporary channels category: {val1}",
+    "error_permissions_sync": "## **Missing Permissions!**\n Please contact an Admin.\nFollowing permissions are required for my role in order to sync permissions for temporary channels: {val1}",
     "error_deactivated": "## **Není možné**\n Tento příkaz je deaktivován pro všechny dočasné hlasové kanály. {val1}.",
     "error_limit": "## **Není možné**\n Limit kanálů tvůrce na jednom serveru je {val1}. Zkuste jednu z nich odstranit nebo zvýšit limit pomocí vyššího limitu. [premium](<https://tempvoice.xyz/premium>) úroveň.",
     "error_ratelimit": "## **Zpomalte!**\n Tento příkaz lze použít znovu **{val1}**.",
@@ -53,7 +53,7 @@
     "error_webhook": "## **Not Possible!**\n It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "## **Not Possible!**\n The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
     "error_discordlimit": "## **Not Possible!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, activate it here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
+    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 
     "voice_waiting_1": "## **Není možné**\n Čekárnu nelze vytvořit, pokud je váš kanál skrytý.",
@@ -101,6 +101,7 @@
     "voice_thread_2": "## **Vytvořeno!**\n Pro tento kanál bylo vytvořeno dočasné vlákno.",
     "voice_thread_3": "## **Smazáno!**\n Vlákno bylo smazáno.",
     "voice_thread_4": "## **Není možné**\n Neexistuje žádné vlákno, které by bylo možné smazat.",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
     "voice_close_1": "## **Uzavřeno!**\n Váš dočasný hlasový kanál byl uzavřen.",
     "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
     "voice_password_1": "## **Updated!**\n Users are now able to join your temporary voice channel by using the password ||`{val1}`|| with the </join:1060564928529956985> command.",
@@ -114,6 +115,9 @@
 
     "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
     "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+
+    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
 
     "interface_description": "Tenhle **interface** lze použít ke správě dočasných hlasových kanálů. Další možnosti jsou k dispozici s **/voice** příkazy.",
     "interface_footer": "Pro použití rozhraní stiskněte níže uvedená tlačítka",
