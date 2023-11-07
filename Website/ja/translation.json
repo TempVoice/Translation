@@ -197,7 +197,7 @@
 
   "component_censor_title": "チャンネル名の禁止ワード設定",
   "component_censor_placeholder": "単語を入力してEnter/確定を押す",
-  "component_censor_description": "最大30のチャンネル名として使用できない単語を禁止",
+  "component_censor_description": "最大30のチャンネル名として使用できない単語を禁止\nA-Z,a-zのみ対応しています。\n(この機能は日本語がサポートされていません。日本語の言葉を設定すると、予期せぬバグが発生する場合があります。)",
 
   "component_matchmaking_title": "一時的なチャンネルの自動埋め",
   "component_matchmaking_menu_option_1": "有効",
