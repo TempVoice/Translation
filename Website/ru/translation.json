@@ -77,13 +77,13 @@
   "button_lable_upgrade_continue": "Да, обновляйте",
   "button_lable_join_cancel": "Нет, просто авторизоваться",
   "button_lable_join_continue": "Да, пожалуйста",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_lable_manage_custom_branding": "Управление Custom Branding",
 
   "join_support": "Хотели бы вступить в наш Discord?",
   "excordo_quote": "Благодарю за интерес в сторону TempVoice, бота, который изменит то, как вы используете Discord. Я годами сфокусирован на нуждах и желаниях сообщества, дабы сделать ваши Discord сервера лучше!",
 
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "Все Premium настройки разблокированы ✌️",
+  "premium_status_description_2": "Используйте собственный аватар, название, цвет и изображение для эмбеда вместе с Premium 🤩",
 
   "component_status_title": "На каком кластере мой сервер?",
   "component_status_description_1": "Введите ID сервера в поисковую строку",
@@ -100,7 +100,7 @@
   "component_premium_menu_description": "Доступные Discord сервера:",
 
   "component_sendmessage_title": "Приветственное сообщение",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Настройте сообщение",
   "component_sendmessage_description": "Отправляет приветственное сообщение во временной канал при создании",
 
   "component_roleparticipant_title": "Голосовая роль",
