@@ -1,6 +1,6 @@
 {
   "slogan_title_part_1": "Sementara",
-  "slogan_title_part_2": "tak Kekal",
+  "slogan_title_part_2": "Tak Kekal",
   "slogan_description": "Bikin server Anda lebih rapih, saluran voice otometik, dan tertata baik dengan TempVoice.",
 
   "featured_title": "Dipercayai Oleh Pelayan Kegemaran Anda",
@@ -100,7 +100,7 @@
   "component_premium_menu_description": "Pelayan Discord yang tersedia:",
   
   "component_sendmessage_title": "Hantar mesej Selamat Datang",
-  "component_sendmessage_button_lable": "Ubah Mesej",
+  "component_sendmessage_button_lable": "Sesuaikan Mesej",
   "component_sendmessage_description": "Hantar mesej selamat datang ke saluran sementara selepas dicipta",
   
   "component_roleparticipant_title": "Peranan Dalam Saluran Suara",
@@ -173,7 +173,7 @@
   "component_ownerpermissions_menu_lable": "Urus Tetapan",
   "component_ownerpermissions_description": "Pilih perintah TempVoice mana yang boleh digunakan oleh pemilik saluran sementara",
   "component_ownerpermissions_modal_description_1": "Ini menjadikan saluran sementara tidak boleh dikelola oleh pengguna yang mencipta saluran. Ini boleh berguna jika anda menggunakan saluran sementara sebagai saluran awam.",
-  "component_ownerpermissions_modal_description_2": "Menetapkan tanda semak akan melumpuhkan perintah '/voice' dan butang antara muka yang berkaitan dengannya; selain itu, sebarang perubahan yang telah dibuat sebelum ini berkaitan dengan pilihan itu akan dikembalikan.",
+  "component_ownerpermissions_modal_description_2": "Menetapkan tanda semak akan melumpuhkan perintah '/voice' dan butang antara muka yang berkaitan dengannya; selain itu, sebarang penyesuaian yang telah dibuat sebelum ini berkaitan dengan pilihan itu akan dikembalikan.",
   "component_ownerpermissions_option_ownerless": "Mod Pemilik-Tidak-Ada",
   "component_ownerpermissions_option_name": "Sunting nama saluran",
   "component_ownerpermissions_option_limit": "Sunting had pengguna saluran",
@@ -221,7 +221,7 @@
   "component_sendinterface_menu_option": "Tiada Saluran Dipilih",
   "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka kepadanya",
   
-  "save_changes_title": "Berhati-hati - anda mempunyai perubahan yang belum disimpan!",
+  "save_changes_title": "Berhati-hati - anda mempunyai penyesuaian yang belum disimpan!",
   "save_changes_button_lable_1": "Semula",
   "save_changes_button_lable_2": "Simpan"  
 }
