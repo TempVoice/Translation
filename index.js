@@ -5,7 +5,6 @@ let arr = [
 	'ae',
 	'cs',
 	'de',
-	'de-b',
 	'el',
 	'en',
 	'es',
