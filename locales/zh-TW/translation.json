@@ -41,7 +41,7 @@
     "error_invalid": "## **無效的頻道！**\n 您不在一個有效的臨時語音頻道中。請首先加入一個**創作者頻道**:\n\n{val1}",
     "error_setup": "## **未找到創作者**\n 這個機器人尚未設定。如果您是管理員，請使用</setup:921000495877877762>指令進行設定。",
     "error_manage": "## **權限不足**\n 您需要擁有**伺服器管理員**權限才能使用此命令",
-    "error_vote": "## **尚未開放**\n 這個命令可以透過[投票](<https://top.gg/bot/762217899355013120/vote>)臨時解鎖，或者透過[付費訂閱](<https://tempvoice.xyz/premium>)永久解鎖",
+    "error_vote": "## **尚未開放**\n 這個命令可以透過[投票](<https://wumpus.store/bot/762217899355013120/vote>)臨時解鎖，或者透過[付費訂閱](<https://tempvoice.xyz/premium>)永久解鎖",
     "error_target": "## **無法完成**\n 您不能對所選擇的使用者使用此命令",
     "error_ownership": "## **無法完成**\n 只有頻道所有者可以使用此命令。如果頻道所有者已經離開，您可以使用</voice claim:921416747687489568>指令來取得頻道所有權",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

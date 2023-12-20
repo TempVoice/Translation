@@ -41,7 +41,7 @@
     "error_invalid": "## **Netaisyklingas Kanalas!**\n Jūs neesate taisyklingame laikinajame balso kanale. Pirma prisijunkite prie **Kūrėjo Kanalo**:\n\n{val1}",
     "error_setup": "## **Kūrėjų Nerasta**\n Šis Botas dar nėra sukonfigūruotas. Jei esate administratorius, naudokite </setup:921000495877877762>.",
     "error_manage": "## **Neleistina.**\n Jums reikia **Tvarkyti Serverį**\n norint naudoti šią komandą.",
-    "error_vote": "## **Dar negalima.**\n Šią komandą galima laikinai naudoti tik [balsavus](<https://top.gg/bot/762217899355013120/vote>) arba visam laikui su [premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Dar negalima.**\n Šią komandą galima laikinai naudoti tik [balsavus](<https://wumpus.store/bot/762217899355013120/vote>) arba visam laikui su [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Neleistina.**\n Jūs negalite naudoti šios komandos šiam naudotojui.",
     "error_ownership": "## **Neleistina.**\n Tik kanalo savininkas gali naudoti šią komandą. Bandykite pasiimti šį kanalą: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

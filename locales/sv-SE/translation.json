@@ -41,7 +41,7 @@
     "error_invalid": "## **Ogiltig Kanal!**\n Du befinner dig inte i en giltig tillfällig röstkanal. Anslut först till en **Skapar Kanal**:\n\n{val1}",
     "error_setup": "## **Inga Skapare Hittade**\n Denna bot har inte konfigurerats ännu. Om du är en administratör, använd </setup:921000495877877762>.",
     "error_manage": "## **Inte tillåtet**\n Du behöver rättigheten **Hantera Server** för att använda detta kommando.",
-    "error_vote": "## **Inte möjligt ännu**\n Detta kommando kan tillfälligt låsas upp genom att [rösta](<https://top.gg/bot/762217899355013120/vote>), eller permanent låsas upp med [premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Inte möjligt ännu**\n Detta kommando kan tillfälligt låsas upp genom att [rösta](<https://wumpus.store/bot/762217899355013120/vote>), eller permanent låsas upp med [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Inte möjligt**\n Du kan inte använda detta kommando för den valda användaren.",
     "error_ownership": "## **Inte möjligt**\n Endast ägaren av röstkanalen kan använda detta kommando. Om den nuvarande ägaren har lämnat kan du ta över ägarskapet genom att använda: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

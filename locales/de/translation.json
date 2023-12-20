@@ -41,7 +41,7 @@
     "error_invalid": "## **Ungültig!**\nDu befindest dich nicht in einem gültigen temporären Kanal. Trete zuerst einem **Creator Channel** bei:\n\n{val1}",
     "error_setup": "## **Keine Creator gefunden!**\nDieser Bot wurde noch nicht eingerichtet. Wenn du ein Administrator bist, verwende </setup:921000495877877762>.",
     "error_manage": "## **Nicht erlaubt!**\nDu benötigst die Berechtigung **Server verwalten**, um diesen Command zu verwenden.",
-    "error_vote": "## **Noch nicht möglich!**\nDieser Command kann temporär mit einem [Vote](<https://top.gg/bot/762217899355013120/vote>) oder permanent mit [Premium](<https://tempvoice.xyz/premium>) verwendet werden.",
+    "error_vote": "## **Noch nicht möglich!**\nDieser Command kann temporär mit einem [Vote](<https://wumpus.store/bot/762217899355013120/vote>) oder permanent mit [Premium](<https://tempvoice.xyz/premium>) verwendet werden.",
     "error_target": "## **Nicht möglich!**\nDu kannst diesen Command für diesen Nutzer nicht verwenden.",
     "error_ownership": "## **Nicht möglich!**\nNur der Besitzer des Kanals kann diesen Command verwenden. Versuche, den Kanal zu beanspruchen: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

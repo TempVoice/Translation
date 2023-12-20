@@ -41,7 +41,7 @@
     "error_invalid": "## **Nincs érvényes csatorna!**\n Nem tartózkodsz egy érvényes ideiglenes hangcsatornában. Először csatlakozz egy **Készítő Csatornához**:\n\n{val1}",
     "error_setup": "## **Nincs létrehozva készítő**\n Ez a bot még nincs beállítva. Ha adminisztrátor vagy, használd a </setup:921000495877877762> parancsot.",
     "error_manage": "## **Nem engedélyezett.**\n A parancs használatához **Szerver kezelése** engedélyre van szükség.",
-    "error_vote": "## **Még nem lehetséges**\n Ezt a parancsot ideiglenesen feloldhatja a [upvote](<https://top.gg/bot/762217899355013120/vote>) segítségével, vagy véglegesen feloldhatja a [prémium](<https://tempvoice.xyz/premium>) segítségével.",
+    "error_vote": "## **Még nem lehetséges**\n Ezt a parancsot ideiglenesen feloldhatja a [upvote](<https://wumpus.store/bot/762217899355013120/vote>) segítségével, vagy véglegesen feloldhatja a [prémium](<https://tempvoice.xyz/premium>) segítségével.",
     "error_target": "## **Nem lehetséges.**\n Ezt a parancsot nem használhatja a kiválasztott felhasználó.",
     "error_ownership": "## **Nem lehetséges.**\n Ezt a parancsot csak a hangcsatorna tulajdonosa használhatja. Ha az aktuális tulajdonos távozott, igényelje a hangcsatornát a következő használatával: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",
