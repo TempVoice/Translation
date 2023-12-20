@@ -41,7 +41,7 @@
     "error_invalid": "## **无效频道！**\n 您不在有效的临时语音频道中。首先加入一个 **创建者频道**：\n\n{val1}",
     "error_setup": "## **找不到创建者！**\n 此机器人尚未设置。如果您是管理员，请使用</setup:921000495877877762>。",
     "error_manage": "## **无权限！**\n 您需要 **管理服务器** 权限才能使用此命令。",
-    "error_vote": "## **目前不可能！**\n 此命令可以通过[voting](<https://top.gg/bot/762217899355013120/vote>) 暂时解锁，或通过[premium](<https://tempvoice.xyz/premium>) 永久解锁。",
+    "error_vote": "## **目前不可能！**\n 此命令可以通过[voting](<https://wumpus.store/bot/762217899355013120/vote>) 暂时解锁，或通过[premium](<https://tempvoice.xyz/premium>) 永久解锁。",
     "error_target": "## **不可能！**\n 您无法为所选用户使用此命令。",
     "error_ownership": "## **不可能！**\n 只有临时语音频道的所有者才能使用此命令。如果当前所有者已离开，请使用以下方式声明语音频道：</voice claim:921416747687489568>。",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

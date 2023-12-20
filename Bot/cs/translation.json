@@ -41,7 +41,7 @@
     "error_invalid": "## **No Valid Channel!**\n You are not in a valid temporary voice channel. Join a **Creator Channel** first:\n\n{val1}",
     "error_setup": "## **No Creators Found!**\n This Bot has not been set up yet. If you are an admin, use </setup:921000495877877762>.",
     "error_manage": "## **Not Permitted!**\n You need the **Manage Server** permission to use this command.",
-    "error_vote": "## **Not Possible Yet!**\n This command can be temporary unlocked by [voting](<https://top.gg/bot/762217899355013120/vote>), or permanently unlocked with [premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Not Possible Yet!**\n This command can be temporary unlocked by [voting](<https://wumpus.store/bot/762217899355013120/vote>), or permanently unlocked with [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Not Possible!**\n You cannot use this command for the selected user(s).",
     "error_ownership": "## **Not Possible!**\n Only the temporary voice channel owner can use this command. If the current owner has left, claim the voice channel by using: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

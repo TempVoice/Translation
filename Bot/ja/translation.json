@@ -41,7 +41,7 @@
 		"error_invalid": "## **無効です。**\n 有効なボイスチャンネルにいません。まず、{val1} に参加してください。",
 		"error_setup": "## **作成者が見つかりません。 **\n このボットはまだ設定されていません。 管理者の場合は、</setup:921000495877877762> を使用してください。",
 		"error_manage": "## **許可されていません。**\n このコマンドを使用するには、**サーバー管理**権限が必要です。",
-		"error_vote": "## **まだ不可能です。**\n このコマンドは [投票](<https://top.gg/bot/762217899355013120/vote>) をして一時的にロック解除するか、 [プレミアム](<https://tempvoice.xyz/premium>) に登録して永久的にロック解除できます。",
+		"error_vote": "## **まだ不可能です。**\n このコマンドは [投票](<https://wumpus.store/bot/762217899355013120/vote>) をして一時的にロック解除するか、 [プレミアム](<https://tempvoice.xyz/premium>) に登録して永久的にロック解除できます。",
 		"error_target": "## **不可能です。**\n 選択したユーザーに対してこのコマンドを使用することはできません。",
 		"error_ownership": "## **不可能です。**\nこのコマンドは、音声チャンネルのオーナーのみが使用できます。 現在のオーナーが退出した場合は、 </voice claim:921416747687489568> を使用して音声チャンネルの権限を取得してください。",
 		"error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

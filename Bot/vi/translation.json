@@ -41,7 +41,7 @@
     "error_invalid": "## **Không có kênh nào hợp lệ!**\n Cậu không có ở trong 1 kênh voice tạm thời hợp lệ. Vào 1 **Kênh sáng tạo** trước:\n\n{val1}",
     "error_setup": "## **Không tìm thấy Creators**\n Bot này chưa được thiết lập. Nếu cậu là một quản trị viên, hãy sử dụng </setup:921000495877877762>.",
     "error_manage": "## **Không Có Quyền**\n Cậu cần quyền **Quản lý máy chủ** để dùng lệnh này.",
-    "error_vote": "## **Chưa Thể**\n Lệnh này có thể được mở khóa bởi [bỏ phiếu cho bot](<https://top.gg/bot/762217899355013120/vote>), hoặc mở khóa với [gói premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Chưa Thể**\n Lệnh này có thể được mở khóa bởi [bỏ phiếu cho bot](<https://wumpus.store/bot/762217899355013120/vote>), hoặc mở khóa với [gói premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Chưa Thể**\n Cậu không thể dùng lệnh này cho người mà cậu đã chọn.",
     "error_ownership": "## **Không Thể**\n Chỉ chủ sở hữu kênh thoại mới có thể sử dụng lệnh này. Nếu chủ sở hữu hiện tại đã rời đi, hãy lấy quyền sở hữu kênh thoại bằng cách sử dụng lệnh: </voiceclaim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",
