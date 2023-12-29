@@ -1,13 +1,13 @@
-{
+e{
   "slogan_title_part_1": "Temporal",
   "slogan_title_part_2": "mejor que permanente",
-  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporal'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
+  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporales'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
   
   "featured_title": "Respaldado por tus Servidores Favoritos",
   "featured_description": "Miles de Servidores de Discord y más de un millón de personas eligen TempVoice.",
   
   "introduction_title": "¿Qué es un 'Canal Temporal'?",
-  "introduction_description": "Un canal de voz temporal es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
+  "introduction_description": "Un 'Canal de Voz Temporal' es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
 
   "setup_title": "¿Cómo configuro TempVoice?",
   "setup_description": "Empieza a usar TempVoice con el comando /setup en tu Servidor de Discord. ¡TempVoice creará los canales necesarios para crear y gestionar 'Canales de Voz Temporal'!",
@@ -39,7 +39,7 @@
   "config_tab_3": "Misceláneo",
 
   "navbar_home": "Inicio",
-  "navbar_help": "Help",
+  "navbar_help": "Ayuda",
   "navbar_setup": "Configuración",
   "navbar_premium": "Premium",
   "navbar_support": "Soporte",
