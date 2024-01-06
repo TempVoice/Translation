@@ -35,11 +35,11 @@
     "info_setup2": "## **Configuração concluída!**\n Esta [interface]({val1}) agora pode ser usada para gerenciar canais de voz temporários em seu servidor do Discord.",
     "info_reset": "## **Redefinido**\n A configuração foi redefinida para o padrão.",
 
-    "error_validated": "*Inválido**\n {val1} Entre em contato com um administrador. Este canal de criador não é mais válido porque a assinatura premium foi rebaixada ou cancelada.",
+    "error_validated": "## **Inválido**\n {val1} Entre em contato com um administrador. Este canal de criador não é mais válido porque a assinatura premium foi rebaixada ou cancelada.",
     "error_ownerless": "## **Impossível**\n Os canais de voz temporários de {val1} não têm proprietário e não podem ser gerenciado.",
     "error_empty": "## **Impossível**\n Não há usuários que você possa selecionar.",
     "error_invalid": "## **Canal inválido!**\n Você não está em um canal de voz temporário válido. Junte-se primeiro a um **canal de criador**:\n\n{val1}",
-    "error_setup": "Nenhum criador encontrado**\n Este Bot ainda não foi configurado. Se você for um administrador, use </setup:921000495877877762>.",
+    "error_setup": "## **Nenhum criador encontrado**\n Este Bot ainda não foi configurado. Se você for um administrador, use </setup:921000495877877762>.",
     "error_manage": "## **Não é permitido**\n Você precisa da permissão **Gerenciar servidor** para usar este comando.",
     "error_vote": "## **Impossível**\n Este comando pode ser temporariamente desbloqueado por [votação](<https://wumpus.store/bot/762217899355013120/vote>) ou sendo [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Impossível**\n Você não pode usar este comando para o usuário selecionado.",
