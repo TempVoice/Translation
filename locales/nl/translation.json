@@ -40,21 +40,21 @@
     "error_empty": "## **Niet mogelijk.**\n Er zijn geen gebruikers waaruit u kunt kiezen.",
     "error_invalid": "## **Ongeldig.**\n U bevindt zich niet in een geldig tijdelijk spraakkanaal. Word eerst lid van een **Creator-kanaal**:\n\n{val1}",
     "error_setup": "## **Geen makers gevonden.**\n Deze bot is nog niet ingesteld. Als u een beheerder bent, gebruikt u </setup:921000495877877762>.",
-    "error_manage": "## **Not Permitted.**\n U hebt de machtiging **Server beheren** nodig om deze opdracht te gebruiken.",
+    "error_manage": "## **Niet toegestaan.**\n U hebt de machtiging **Server beheren** nodig om deze opdracht te gebruiken.",
     "error_vote": "## **Nog niet mogelijk.**\n Deze opdracht kan tijdelijk worden ontgrendeld door [voting](<https://wumpus.store/bot/762217899355013120/vote>), of permanent ontgrendeld met [premium](<https://tempvoice.xyz/premium>) .",
     "error_target": "## **Niet mogelijk.**\n U kunt deze opdracht niet gebruiken voor de geselecteerde gebruiker.",
     "error_ownership": "## **Niet mogelijk.**\n Alleen de eigenaar van het spraakkanaal kan deze opdracht gebruiken. Als de huidige eigenaar is vertrokken, claim je het spraakkanaal met behulp van: </voice claim:921416747687489568>.",
-    "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",
-    "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
+    "error_permissions": "## **Ontbrekende Toestemmingen!**\n De volgende toestemmingen zijn **vereist** voor mijn **serverinstellingenrol** en **categorie van tijdelijke kanalen**: {val1}\n### Waarom heb ik deze toestemmingen nodig?\nOm kanalen correct te kunnen maken en beheren.",
+    "error_permissions_sync": "## **Ontbrekende Toestemmingen!**\n De volgende toestemmingen zijn **vereist** voor mijn **serverinstellingenrol** en **categorie van tijdelijke kanalen**: {val1}\n### Waarom heb ik deze toestemmingen nodig?\nOm toestemmingen te **synchroniseren** heb ik alle toestemmingen nodig die gesynchroniseerd moeten worden.",
     "error_deactivated": "## **Niet mogelijk.**\n Dit commando is gedeactiveerd voor alle tijdelijke spraakkanalen van {val1}.",
     "error_limit": "## **Niet mogelijk.**\n De limiet van creatorkanalen in een enkele server is {val1}. Probeer er een te verwijderen of verhoog de limiet met een hoger [premium](<https://tempvoice.xyz/premium>) niveau.",
     "error_ratelimit": "## **Vertragen!**\n Deze opdracht kan opnieuw worden gebruikt **{val1}**.",
     "error_creation": "## **Vertragen!**\n U kunt een nieuw kanaal maken **{val1}**.",
-    "error_webhook": "## **Not Possible!**\n It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
-    "error_totallimit": "## **Not Possible!**\n The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
-    "error_discordlimit": "## **Not Possible!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
+    "error_webhook": "## **Niet Mogelijk!**\n Het is niet mogelijk om een webhook te maken omdat een andere Discord-bot me dit belet. Kijk of beveiligingsbots zoals *Wick*, *Beemo*, etc. hiervoor verantwoordelijk zijn.",
+    "error_totallimit": "## **Niet Mogelijk!**\n De limiet van **{val1}** tijdelijke spraakkanalen tegelijkertijd is bereikt, omdat deze Discord-server ze heeft beperkt. Probeer het later opnieuw.",
+    "error_discordlimit": "## **Niet Mogelijk!**\n Alle beschikbare categorieën hebben hun limiet van 50 kanalen elk bereikt. Als u een beheerder bent, kunt u meer **Fallback Categorieën** instellen in het dashboard, anders probeer het later opnieuw.",
+    "error_cb": "## **Niet Mogelijk!**\n U probeert een [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot te gebruiken op een Discord-server waar de eigenaar van de bot TempVoice Premium niet heeft ingeschakeld. Als u de eigenaar van deze Custom Branding-bot bent, zorg er dan voor dat de openbare <@762217899355013120> bot is verwijderd en dat u premium heeft geactiveerd voor deze Discord-server hier: **https://tempvoice.xyz/premium** > **Activeer Premium**.",
+    "error_conflict": "## **Onverwacht Conflict.**\n TempVoice had een conflict met de Discord API. Rapporteer dit bericht hier https://discord.gg/tempvoice. \n### Fout: `{val1}`",
 
     "voice_waiting_1": "## **Niet mogelijk.**\n Je kunt geen wachtkamer maken als je kanaal verborgen is.",
     "voice_waiting_2": "## **Niet mogelijk.**\n Je kunt je kanaal niet verbergen als je een wachtkamer hebt.",
@@ -101,9 +101,9 @@
     "voice_thread_2": "## **Gemaakt.**\n Er is een tijdelijke draad gemaakt voor dit kanaal.",
     "voice_thread_3": "## **Verwijderd.**\n De draad is verwijderd.",
     "voice_thread_4": "## **Niet mogelijk.**\n Er is geen draad om te verwijderen.",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_thread_5": "## **Niet Mogelijk!**\n Een tijdelijke thread kan alleen worden gemaakt in tekstkanalen.",
     "voice_close_1": "## **Gesloten.**\n Je tijdelijke spraakkanaal is gesloten.",
-    "voice_close_2": "## **Are You Sure?**\n Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "## **Weet je het zeker?**\n Je tijdelijke spraakkanaal wordt verwijderd. Bevestig alsjeblieft door de onderstaande knop te gebruiken.",
     "voice_password_1": "## **Bijgewerkt.**\n Gebruikers kunnen nu lid worden van uw tijdelijke spraakkanaal door het wachtwoord ||`{val1}`|| met de opdracht </join:1060564928529956985>.",
     "voice_password_2": "## **Bijgewerkt.**\n Het wachtwoord voor je tijdelijke spraakkanaal is verwijderd.",
 
@@ -113,11 +113,11 @@
     "join_4": "## **Verkeerd wachtwoord.**\n Het ingevoerde wachtwoord is onjuist. Probeer het nog eens.",
     "join_5": "## **Juist wachtwoord.**\n Je kunt nu lid worden van {val1}.",
 
-    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
-
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "find_1": "## **Gevonden!**\n De gebruiker {val1} die je zoekt, is hier: {val2}",
+    "find_2": "## **Niet Gevonden.**\n De gebruiker die je zoekt, bevindt zich niet in een openbaar spraakkanaal",
+  
+    "help": "## TempVoice Instellen & Configureren\nBezoek het [dashboard](https://tempvoice.xyz/dashboard) van de bot om TempVoice te configureren en gebruik </setup:921000495877877762> om alle benodigde kanalen zoals een\n**`➕` Creator Kanaal** & **`✨` Interface Bericht** te maken.\n## Creëer Je Eerste Tijdelijke Kanaal\nSluit aan bij een **`➕` Creator Kanaal** (spraakkanaal) om een nieuw tijdelijk spraakkanaal te maken.\n## Beheer Je Tijdelijke Kanaal\nGebruik **/voice** chatopdrachten of een **`✨` Interface Bericht**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Creator Kanaal\nSluit aan bij dit kanaal om een nieuw tijdelijk spraakkanaal te maken.\n## `✨` Interface Bericht\nAlternatief voor **/voice** chatopdrachten. Gebruik dit kanaal om je tijdelijke spraakkanaal te beheren.",
 
     "interface_description": "Deze **interface** kan worden gebruikt om tijdelijke spraakkanalen te beheren. Meer opties zijn beschikbaar met **/voice** commando's.",
     "interface_footer": "Druk op de onderstaande knoppen om de interface te gebruiken",
@@ -142,12 +142,12 @@
     "waiting_menu_label_2": "Ontkennen",
     "waiting_menu_description_2": "De gebruiker wordt geschopt en geblokkeerd",
 
-    "did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-    "did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-    "did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-    "did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-    "did_you_know_5": "You can block up to 25 users with '/voice block'.",
-    "did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-    "did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+    "did_you_know_1": "Je kunt een wachtwoord instellen voor je tijdelijke kanaal met '/voice password'.",
+    "did_you_know_2": "Als je je vriend niet kunt vinden, kun je '/find' gebruiken om hun spraakkanaal te vinden.",
+    "did_you_know_3": "'lfp' in '/voice lfp' staat voor Looking For People.",
+    "did_you_know_4": "Je kunt tot 25 gebruikers vertrouwen met '/voice trust'.",
+    "did_you_know_5": "Je kunt tot 25 gebruikers blokkeren met '/voice block'.",
+    "did_you_know_6": "Om te chatten met gebruikers op je tijdelijke kanaal, kun je een privé-tijdelijke thread maken met '/voice thread'.",
+    "did_you_know_7": "Om verzoeken om deel te nemen aan je vergrendelde tijdelijke kanaal te accepteren of te weigeren, kun je een wachtkamer maken met '/voice waiting'."  
   }
 ]

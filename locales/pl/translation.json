@@ -44,8 +44,8 @@
     "error_vote": "## **Jeszczcze Niemożliwe.**\n To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://wumpus.store/bot/762217899355013120/vote>) lub permanentnie po zakupie [Premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Niemożliwe.**\n Nie możesz użyć tego polecenia na tym użytkowniku.",
     "error_ownership": "## **Niemożliwe.**\n Tylko właściciel kanału głosowego może użyć tego polecenia. Spróbuj przejąć kanał używając:  </voice claim:921416747687489568>.",
-    "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",
-    "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
+    "error_permissions": "## **Brakujące Uprawnienia!**\n Następujące uprawnienia są **wymagane** dla mojej **roli ustawień serwera** i **kategorii tymczasowych kanałów**: {val1}\n### Dlaczego potrzebuję tych uprawnień?\nAby właściwie tworzyć i zarządzać kanałami.",
+    "error_permissions_sync": "## **Brakujące Uprawnienia!**\n Następujące uprawnienia są **wymagane** dla mojej **roli ustawień serwera** i **kategorii tymczasowych kanałów**: {val1}\n### Dlaczego potrzebuję tych uprawnień?\nAby **Synchronizować Uprawnienia**, potrzebuję wszystkich uprawnień, które muszą być zsynchronizowane.",
     "error_deactivated": "## **Dezaktywowane.**\n To polecenie jest wyłączone dla wszystkich tymczasowych kanałów głosowych {val1}.",
     "error_limit": "## **Niemożliwe**\n Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Zwolnij!.**\n Komenda może być użyta ponownie **{val1}**.",
@@ -53,8 +53,8 @@
     "error_webhook": "## **Niemożliwe!**\n Nie można stworzyć webhooka, ponieważ inny bot blokuje mi tą możliwość. Sprawdź czy boty od bezpieczeństwa typu *Wick*, *Beemo* itd. nie są temu winne.",
     "error_totallimit": "## **Niemożliwe!**\n Limit **{val1}** tymczasowych kanałów głosowych został osięgnięty, ponieważ ten serwer Discord ustawił ich limit. Proszę spróbuj ponownie później.",
     "error_discordlimit": "## **Niemożliwe!**\n Wszystkie dostępne kategorie osiągnęły swój limit po 50 kanałów. Jeżeli jesteś adminem, możesz ustawić więcej **Zapasowych Kategorii** w panelu, w innym przypadku proszę spróbuj ponownie później.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
+    "error_cb": "## **Niemożliwe!**\n Próbujesz używać bota [TempVoice Custom Branding](https://tempvoice.xyz/premium) na serwerze Discord, gdzie właściciel bota nie włączył TempVoice Premium. Jeśli jesteś właścicielem tego bota z własnym brandem, upewnij się, że publiczny bot <@762217899355013120> został wyrzucony, a Ty aktywowałeś premium dla tego serwera Discord tutaj: **https://tempvoice.xyz/premium** > **Aktywuj Premium**.",
+    "error_conflict": "## **Niespodziewany Konflikt.**\n TempVoice miał konflikt z API Discorda. Zgłoś tę wiadomość tutaj: https://discord.gg/tempvoice. \n### Błąd: `{val1}`",
 
     "voice_waiting_1": "## **Niemożliwe**\n Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
     "voice_waiting_2": "## **Niemożliwe**\n Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
@@ -113,11 +113,11 @@
     "join_4": "## **Błędne Hasło**\n Hasło, które wprowadziłeś jest niepoprawne. Spróbuj ponownie.",
     "join_5": "## **Poprawne Hasło**\n Możesz teraz dołączyć na {val1}",
 
-    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
-
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "find_1": "## **Znaleziono!**\n Użytkownik {val1}, którego szukasz, jest tutaj: {val2}",
+    "find_2": "## **Nie Znaleziono.**\n Użytkownik, którego szukasz, nie znajduje się w publicznym kanale głosowym",
+  
+    "help": "## Konfiguracja i Ustawienia TempVoice\nOdwiedź [panel](https://tempvoice.xyz/dashboard) bota, aby skonfigurować TempVoice, a następnie użyj </setup:921000495877877762>, aby utworzyć wszystkie niezbędne kanały, takie jak\n**`➕` Kanał Twórcy** & **`✨` Komunikat Interfejsu**.\n## Utwórz Swój Pierwszy Tymczasowy Kanał\nDołącz do **`➕` Kanał Twórcy** (kanału głosowego), aby utworzyć nowy tymczasowy kanał głosowy. \n## Zarządzaj Swoim Tymczasowym Kanałem\nUżyj komendy **/voice** lub **`✨` Komunikatu Interfejsu**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> itp ...",
+    "setup": "## `➕` Kanał Twórcy\nDołącz do tego kanału, aby utworzyć nowy tymczasowy kanał głosowy.\n## `✨` Komunikat Interfejsu\nAlternatywa dla komendy **/voice**. Użyj tego kanału do zarządzania swoim tymczasowym kanałem głosowym.",
 
     "interface_description": "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą **/voice**.",
     "interface_footer": "Interfejs może być użyty dzięki przyciskom poniżej",
@@ -142,12 +142,12 @@
     "waiting_menu_label_2": "Odrzuć",
     "waiting_menu_description_2": "Użytkownik zostanie wyrzucony i zablokowany",
 
-    "did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-    "did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-    "did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-    "did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-    "did_you_know_5": "You can block up to 25 users with '/voice block'.",
-    "did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-    "did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+    "did_you_know_1": "Możesz ustawić hasło dla swojego tymczasowego kanału za pomocą '/voice password'.",
+    "did_you_know_2": "Jeśli nie możesz znaleźć swojego przyjaciela, możesz użyć '/find', aby odnaleźć ich kanał głosowy.",
+    "did_you_know_3": "'lfp' w '/voice lfp' oznacza Szukam Ludzi.",
+    "did_you_know_4": "Możesz zaufać aż 25 użytkownikom za pomocą '/voice trust'.",
+    "did_you_know_5": "Możesz zablokować aż 25 użytkowników za pomocą '/voice block'.",
+    "did_you_know_6": "Aby rozmawiać z użytkownikami na swoim tymczasowym kanale, możesz utworzyć prywatny wątek tymczasowy za pomocą '/voice thread'.",
+    "did_you_know_7": "Aby akceptować lub odrzucać prośby o dołączenie do zablokowanego tymczasowego kanału, możesz utworzyć pokój oczekiwania za pomocą '/voice waiting'."    
   }
 ]

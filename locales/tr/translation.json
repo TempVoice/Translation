@@ -29,7 +29,7 @@
     "cmd_join_description": "Şifre kullanarak bir geçici sesli kanala katıl.",
     "cmd_setup_tempvoice_description": "TempVoice'ı bir asistanla saniyeler içinde kolayca kurun.",
     "cmd_help_description": "TempVoice Discord Botu ile yardım alın.",
-    "cmd_find_description": "Find out which voice channel a user is in",
+    "cmd_find_description": "Bir kullanıcının hangi ses kanalında olduğunu öğrenin.",
 
     "info_setup": "## **Kurulum Tamamlandı!**\n {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
     "info_setup2": "## **Kurulum Tamamlandı!**\n [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
@@ -44,8 +44,8 @@
     "error_vote": "## **Henüz mümkün değil!**\n Bu komut; bir [oy](<https://wumpus.store/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
     "error_target": "## **Mümkün değil!**\n Seçilen kullanıcı üzerinde bu komutu kullanamazsınız.",
     "error_ownership": "## **Mümkün değil!**\n Bu komutu, yalnızca ses kanalının sahibi kullanabilir. Mevcut kanal sahibi ayrıldıysa, sahipliği talep etmek için </voice claim:921416747687489568> komutunu kullanın.",
-    "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",
-    "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
+    "error_permissions": "## **Yetersiz Yetki(ler)!**\n **Sunucu Ayarları yetkisi** ve **geçici kanal kategorisi** için aşağıdaki izinler **gerekli**: {val1}\n### Bu izinlere neden ihtiyacım var?\nÇünkü Kanalları düzgün bir şekilde oluşturmak ve yönetmek için bu izinlere ihtiyacım var.",
+    "error_permissions_sync": "## **Yetersiz Yetki(ler)!**\n **Sunucu Ayarları yetkisi** ve **Geçici ses Kanalı Kategorisi** için aşağıdaki izinler **gerekli**: {val1}\n### Bu izinlere neden ihtiyacım var?\n** Çünkü izinleri Eşitlemek** için Senkronize edilmesi gereken tüm izinlere ihtiyacım var.",
     "error_deactivated": "## **Devre dışı!**\n Bu komut, {val1}'in tüm geçici ses kanalları için devre dışı bırakılır.",
     "error_limit": "## **Mümkün değil!**\n Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyiniz veya daha fazla oluşturucu kurmak için [Premium](<https://tempvoice.xyz/premium>) kademesine yükseltin.",
     "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.",
@@ -53,8 +53,8 @@
     "error_webhook": "## **Mümkün değil!**\n Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "## **Mümkün değil!**\n Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",
     "error_discordlimit": "## **Mümkün değil!**\n Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
+    "error_cb": "## **Mümkün Değil!**\n Botun sahibinin TempVoice Premium'u etkinleştirmediği bir Discord sunucusunda [TempVoice Premium](https://tempvoice.xyz/premium) botunu kullanmaya çalışıyorsunuz. Bu 'Premium' botunun sahibiyseniz, herkese açık <@762217899355013120> botun atıldığından ve bu Discord sunucusu için premium'u buradan etkinleştirdiğinizden emin olun: **https://tempvoice.xyz/premium** > **Premium'u Aktifleştir.**.",
+    "error_conflict": "## **Beklenmedik Sorun.**\n TempVoice'in Discord'un API'si ile sorun yaşadı. Bu mesajı https://discord.gg/tempvoice adresinden bildirin. \n### Hata: `{val1}`",
 
     "voice_waiting_1": "## **Mümkün değil!**\n Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
     "voice_waiting_2": "## **Mümkün değil!**\n Bekleme odanız varken, kanalınızı gizleyemezsiniz.",
@@ -101,7 +101,7 @@
     "voice_thread_2": "## **Oluşturudu!**\n Bu kanal için bir alt başlık oluşturuldu.",
     "voice_thread_3": "## **Silindi!**\n Alt başlık silindi.",
     "voice_thread_4": "## **Mümkün değil!**\n Silinecek bir alt başlık bulanamadı.",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.",
+    "voice_thread_5": "## **Mümkün değil!**\n Geçici bir alt başlık yalnızca metin kanallarında oluşturulabilir.",
     "voice_close_1": "## **Kapatıldı!**\n Geçici ses kanalınız kapatıldı.",
     "voice_close_2": "## **Emin misiniz?**\n Geçici sesli kanalınız silinecek. Kabul etmek için lütfen aşağıdaki tuşa basınız.",
     "voice_password_1": "## **Güncellendi!**\n Kullanıcılar artık ||`{val1}`||  şifresini kullanarak geçici odanıza katılacak, </join:1060564928529956985> komutu ile.",
@@ -113,11 +113,11 @@
     "join_4": "## **Yanlış Şifre!**\n Girdiğiniz şifre yanlış. Tekrar deneyiniz.",
     "join_5": "## **Doğru Şifre!**\n Artık {val1} odasına katılabilirsiniz.",
 
-    "find_1": "## **Found!**\n The user {val1} you're looking for is here: {val2}",
-    "find_2": "## **Not Found.**\n The user you're looking for isn't in a public voice channel",
+    "find_1": "## **Bulundu!**\n Aradığınız {val1} kullanıcısı burada: {val2}",
+    "find_2": "## **Bulunamadı.**\n Aradığınız kullanıcı herkese açık bir ses kanalında değil.",
 
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "help": "## TempVoice'i Kurun ve Yapılandırın.\nTempVoice'i yapılandırmak için botun [kontrol panelini](https://tempvoice.xyz/dashboard) ziyaret edin ve\n**`➕` Creator Channel gibi gerekli tüm kanalları oluşturmak için </setup:921000495877877762> öğesini kullanın, ** & **`✨` Arayüz Mesajı (Embed)** ile.\n## İlk Geçici Sesli Kanalınızı Oluşturun.\nYeni bir geçici ses kanalı oluşturmak için, **`➕` Creator Channel** (ses kanalına) katılın. \n## Geçici Sesli Kanalınızı Yönetin.\n**/voice** sohbet komutlarını veya **`✨` Arayüz Mesajını (Embed)** kullanın.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> vb...",
+    "setup": "## `➕` Creator Channel\nYeni bir geçici ses kanalı oluşturmak için bu kanala katılın.\n## `✨` Arayüz Mesajı,\n**/voice** sohbet komutlarına alternatif olarak kullanılabilir. Geçici ses kanalınızı yönetmek için bu kanalı kullanın.",
 
     "interface_description": "Bu arayüz, geçici sesli kanalınızı düzenlemek için kullanılabilir. Daha fazla seçenek için **/voice** komutunu kullanın.",
     "interface_footer": "Bu arayüz, aşağıdaki butonlara basılarak kullanılabilir.",
@@ -142,12 +142,12 @@
     "waiting_menu_label_2": "Reddet.",
     "waiting_menu_description_2": "Kullanıcı atılacak ve engellenecek.",
 
-    "did_you_know_1": "You can set a password for your temporary channel using '/voice password'.",
-    "did_you_know_2": "If you cannot find your friend, you can use '/find' to find their voice channel.",
-    "did_you_know_3": "'lfp' in '/voice lfp' stands for Looking For People.",
-    "did_you_know_4": "You can trust up to 25 users with '/voice trust'.",
-    "did_you_know_5": "You can block up to 25 users with '/voice block'.",
-    "did_you_know_6": "To text with users on your temporary channel, you can create a private temporary thread using '/voice thread'.",
-    "did_you_know_7": "To accept or deny requests to join your locked temporary channel, you can create a waiting room with '/voice waiting"
+    "did_you_know_1": "'/voice password'u kullanarak geçici sesli kanalınız için bir şifre belirleyebilirsiniz.",
+    "did_you_know_2": "Arkadaşınızı bulamıyorsanız, ses kanalını bulmak için '/find' komutunu kullanabilirsiniz.",
+    "did_you_know_3": "/voice lfp' komutu içindeki 'lfp(looking for people)', 'İnsanları Arıyorum' anlamına gelir.",
+    "did_you_know_4": "/voice trust' ile 25 kullanıcıya kadar güvenebilirsiniz.",
+    "did_you_know_5": "/voice block' ile 25'e kadar kullanıcıyı engelleyebilirsiniz.",
+    "did_you_know_6": "Geçici seslikanalınızdaki kullanıcılarla mesajlaşmak için '/voice thread' komutunu kullanarak özel bir geçici alt başlık oluşturabilirsiniz.",
+    "did_you_know_7": "Kilitli geçici sesli kanalınıza katılma isteklerini kabul etmek veya reddetmek için '/voice waiting' ile bir bekleme odası oluşturabilirsiniz."
   }
 ]
