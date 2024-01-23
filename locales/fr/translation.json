@@ -41,7 +41,7 @@
     "error_invalid": "## **Invalide!**\n Vous n'êtes pas dans un salon vocal temporaire valide. Rejoignez un salon **Creator Channel** en premier lieu:\n\n{val1}",
     "error_setup": "## **Pas de créateur trouvé!**\n Ce Bot n'a pas encore été configuré. Si vous êtes administrateur, utilisez </setup:921000495877877762>.",
     "error_manage": "## **Non autorisé!.**\n Vous devez avoir les permissions de **Gérer le serveur** pour utiliser cette commande.",
-    "error_vote": "## **Pas possible!.**\n Cette commande peut être utilisée de façon temporaire avec un [vote](<https://wumpus.store/bot/762217899355013120/vote>) ou permanent avec un [premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Pas possible!.**\n Cette commande peut être utilisée de façon temporaire avec un [vote](<https://top.gg/bot/762217899355013120/vote>) ou permanent avec un [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Pas possible!.**\n Vous ne pouvez pas utiliser cette commande sur cet utilisateur.",
     "error_ownership": "## **Pas possible!.**\n Seulement le propriétaire de ce salon peut utiliser cette commande. Essayez de récupérer le salon: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

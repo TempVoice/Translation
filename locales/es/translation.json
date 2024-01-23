@@ -41,7 +41,7 @@
     "error_invalid": "## **No es válido**\n No estas en un canal de voz temporal válido. Entra a un canal creador primero:\n\n{val1}",
     "error_setup": "## **No se encontraron creadores**\n Este bot aún no se ha configurado. Si eres un administrador, usa </setup:921000495877877762>.",
     "error_manage": "## **No permitido.**\n Necesitas el permiso **Gestionar servidor** para usar este comando.",
-    "error_vote": "## **Todavía no es posible.**\n Este comando puede ser temporalmente desbloqueado [votando](<https://wumpus.store/bot/762217899355013120/vote>) o permanentemente desbloqueado con la suscripción [prémium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Todavía no es posible.**\n Este comando puede ser temporalmente desbloqueado [votando](<https://top.gg/bot/762217899355013120/vote>) o permanentemente desbloqueado con la suscripción [prémium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **No es posible.**\n No puedes usar este comando con este usuario.",
     "error_ownership": "## **No es posible.**\n Solo el dueño del canal de voz puede usar este comando. Si el dueño actual ha abandonado el canal, reclámalo usando: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

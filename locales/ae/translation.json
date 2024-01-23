@@ -13,7 +13,7 @@
     "error_invalid": "{val1} <- غير صالح** -> أنت لست في قناة صوتية مؤقتة صالحة -> انضم إلى **صانع قناة منشئ المحتوى** أولاً**",
     "error_setup": " لم يتم العثور على منشئين** -> لم يتم إعداد هذا الروبوت بعد. إذا كنت مسؤولاً ،-> فاستخدم** </setup:921000495877877762>",
     "error_manage": " غير مسموح** -> تحتاج إلى صلاحيات ** سيرفر مانج ** لاستخدام هذا الأمر**",
-    "error_vote": "[Premium](<https://tempvoice.xyz/premium>) <- أو دائم مع [vote](<https://wumpus.store/bot/762217899355013120/vote>) <- غير ممكن بعد** -> يمكن استخدام هذا الأمر مؤقتًا مع**",
+    "error_vote": "[Premium](<https://tempvoice.xyz/premium>) <- أو دائم مع [vote](<https://top.gg/bot/762217899355013120/vote>) <- غير ممكن بعد** -> يمكن استخدام هذا الأمر مؤقتًا مع**",
     "error_target": " غير ممكن** -> لا يمكنك استخدام هذا الأمر مع هذا المستخدم**",
     "error_ownership": "</voice claim:921416747687489568> :غير ممكن** -> يمكن فقط لمالك القناة الصوتية استخدام هذا الأمر. أو حاول المطالبة بهذه القناة الصوتية**",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

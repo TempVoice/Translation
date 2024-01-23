@@ -13,7 +13,7 @@
     "error_invalid": "## **Tiada Saluran Sah!**\n Anda tidak berada dalam saluran suara sementara yang sah. Sertai saluran **Pencipta** dahulu:\n\n{val1}",
     "error_setup": "## **Tiada Pencipta Ditemui!**\n Bot ini belum disetup lagi. Jika anda adalah seorang admin, gunakan </setup:921000495877877762>.",
     "error_manage": "## **Tidak Dibenarkan!**\n Anda perlu kebenaran **Uruskan Server** untuk menggunakan arahan ini.",
-    "error_vote": "## **Belum Mungkin!**\n Arahan ini boleh dibuka sementara dengan [undi](<https://wumpus.store/bot/762217899355013120/vote>), atau secara kekal dengan [premium](<https://tempvoice.xyz/id/premium>).",
+    "error_vote": "## **Belum Mungkin!**\n Arahan ini boleh dibuka sementara dengan [undi](<https://top.gg/bot/762217899355013120/vote>), atau secara kekal dengan [premium](<https://tempvoice.xyz/id/premium>).",
     "error_target": "## **Tidak Mungkin!**\n Anda tidak boleh menggunakan arahan ini untuk pengguna yang dipilih.",
     "error_ownership": "## **Tidak Mungkin!**\n Hanya pemilik saluran suara sementara boleh menggunakan arahan ini. Jika pemilik semasa telah pergi, tuntut saluran suara dengan menggunakan: </voice claim:921416747687489568>.",
     "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

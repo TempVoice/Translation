@@ -13,7 +13,7 @@
       "error_invalid": "## **Walang Balidong Channel!**\n Hindi ka nasa isang wastong temporaryong boses na channel. Sumali sa isang **Creator na Channel** muna:\n\n{val1}",
       "error_setup": "## **Walang Natagpuang Mga Creator!**\n Hindi pa na-set up itong Bot. Kung ikaw ay isang tagapangasiwa, maaaring gamitin ang </setup:921000495877877762>.",
       "error_manage": "## **Hindi Posible!**\n Kailangan mo ng **Manage Server** na pahintulot upang magamit ang command na ito.",
-      "error_vote": "## **Hindi Posible!**\n Ang command na ito ay maaaring pansamantalang gamitin sa pamamagitan ng [pagboto](<https://wumpus.store/bot/762217899355013120/vote>), o permanenteng magamit sa pamamagitan ng [prima](<https://tempvoice.xyz/premium>).",
+      "error_vote": "## **Hindi Posible!**\n Ang command na ito ay maaaring pansamantalang gamitin sa pamamagitan ng [pagboto](<https://top.gg/bot/762217899355013120/vote>), o permanenteng magamit sa pamamagitan ng [prima](<https://tempvoice.xyz/premium>).",
       "error_target": "## **Hindi Posible!**\n Hindi mo magagamit ang command na ito para sa napiling (mga) tagagamit.",
       "error_ownership": "## **Hindi Posible!**\n Tanging ang may-ari ng temporaryong boses na channel ang maaaring gumamit ng command na ito. Kung umalis na ang kasalukuyang may-ari, maari mong angkinin ang boses na channel gamit ang: </voice claim:921416747687489568>.",
       "error_permissions": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo properly create and manage channels.",

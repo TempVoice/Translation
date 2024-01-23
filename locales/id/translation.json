@@ -41,7 +41,7 @@
     "error_invalid": "## **Tidak Terdeteksi**\n Kamu lagi gak di channel sementara apapun. Untuk itu, kamu harus join ke salah satu **Creator Channel** dibawah:\n\n{val1}",
     "error_setup": "## **Belum Di Set-Up**\n Bot ini perlu di set-up. jika kamu admin, Pakai perintah '/setup' untuk setup atau klik '</setup:921000495877877762>' untuk langsung setup",
     "error_manage": "## **Perintah Ditolak**\n Mau pake perintah ini?, kamu perlu izin **Manage Server** dulu.",
-    "error_vote": "## **Fitur Ini Terbatas**\n Pengen pake perintah ini sebentar?, lakuin dulu [voting](<https://wumpus.store/bot/762217899355013120/vote>) atau bisa juga dengan berlangganan [premium](<https://tempvoice.xyz/id/premium>) biar bisa dipake terus (Ingat lu punya premium lu punya kuasa!).",
+    "error_vote": "## **Fitur Ini Terbatas**\n Pengen pake perintah ini sebentar?, lakuin dulu [voting](<https://top.gg/bot/762217899355013120/vote>) atau bisa juga dengan berlangganan [premium](<https://tempvoice.xyz/id/premium>) biar bisa dipake terus (Ingat lu punya premium lu punya kuasa!).",
     "error_target": "## **Perintah Ditolak**\n Kamu nggak bisa pake perintah ini untuk user ini.",
     "error_ownership": "## **Dilarang Keras**\n Cuma pemilik voice channel yang bisa pake perintah ini. Kalo pemiliknya sudah pergi, klaim ulang saja pakai ini: </voice claim:921416747687489568>.",
     "error_permissions": "## **Izin Tidak Ditemukan!**\n Izin berikut **diperlukan** untuk **peran pengaturan server** saya dan **kategori saluran sementara**: {val1}\n### Mengapa saya memerlukan izin ini?\nUntuk membuat dan mengelola saluran dengan benar.",

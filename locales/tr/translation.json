@@ -41,7 +41,7 @@
     "error_invalid": "## **Geçersiz kanal!**\n Geçerli bir geçici sesli kanalda değilsiniz. Lütfen {val1} odasına katılın.",
     "error_setup": "## **Oluşturucu bulunamadı!**\n Bu bot henüz kurulmamış. Yönetici iseniz, </setup:921000495877877762> komutunu kullanın.",
     "error_manage": "## **İzin verilmedi!**\n Bu komutu kullanmak için **Sunucuyu Yönet** iznine ihtiyacınız var.",
-    "error_vote": "## **Henüz mümkün değil!**\n Bu komut; bir [oy](<https://wumpus.store/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
+    "error_vote": "## **Henüz mümkün değil!**\n Bu komut; bir [oy](<https://top.gg/bot/762217899355013120/vote>) ile geçici olarak, [Premium](<https://tempvoice.xyz/premium>) ile kalıcı olarak kullanılabilir.",
     "error_target": "## **Mümkün değil!**\n Seçilen kullanıcı üzerinde bu komutu kullanamazsınız.",
     "error_ownership": "## **Mümkün değil!**\n Bu komutu, yalnızca ses kanalının sahibi kullanabilir. Mevcut kanal sahibi ayrıldıysa, sahipliği talep etmek için </voice claim:921416747687489568> komutunu kullanın.",
     "error_permissions": "## **Yetersiz Yetki(ler)!**\n **Sunucu Ayarları yetkisi** ve **geçici kanal kategorisi** için aşağıdaki izinler **gerekli**: {val1}\n### Bu izinlere neden ihtiyacım var?\nÇünkü Kanalları düzgün bir şekilde oluşturmak ve yönetmek için bu izinlere ihtiyacım var.",

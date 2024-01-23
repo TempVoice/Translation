@@ -41,7 +41,7 @@
     "error_invalid": "## **Błąd**\n Nie jesteś na prawidłowym kanale tymczasowym. Dołącz najpierw na **Kanał tworzenia**:\n\n{val1}",
     "error_setup": "## **Brak Kanału Tworzenia**\n Ten bot nie został jeszcze skonfigurowany. Jeśli jesteś administratorem, użyj </setup:921000495877877762>.",
     "error_manage": "## **Niedozwolone.**\n Musisz mieć uprawnienie **Zarządzaj serwerem**, aby użyć tego polecenia.",
-    "error_vote": "## **Jeszczcze Niemożliwe.**\n To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://wumpus.store/bot/762217899355013120/vote>) lub permanentnie po zakupie [Premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Jeszczcze Niemożliwe.**\n To polecenie może być tymczasowo użyte po oddaniu głosu na [stronie](<https://top.gg/bot/762217899355013120/vote>) lub permanentnie po zakupie [Premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Niemożliwe.**\n Nie możesz użyć tego polecenia na tym użytkowniku.",
     "error_ownership": "## **Niemożliwe.**\n Tylko właściciel kanału głosowego może użyć tego polecenia. Spróbuj przejąć kanał używając:  </voice claim:921416747687489568>.",
     "error_permissions": "## **Brakujące Uprawnienia!**\n Następujące uprawnienia są **wymagane** dla mojej **roli ustawień serwera** i **kategorii tymczasowych kanałów**: {val1}\n### Dlaczego potrzebuję tych uprawnień?\nAby właściwie tworzyć i zarządzać kanałami.",

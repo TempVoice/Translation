@@ -41,7 +41,7 @@
     "error_invalid": "## **Ingen gyldig kanal!**\n Du er ikke i en gyldig midlertidig stemmekanal. Tilmeld dig en **Skaberkanal** først:\n\n{val1}",
     "error_setup": "## **Ingen skabere fundet!**\n Denne bot er ikke blevet opsat endnu. Hvis du er administrator, så brug </setup tempvoice:921000495877877762> eller </setup creator:921000495877877762>.",
     "error_manage": "## **Ikke tilladt!**\n Du skal bruge tilladelsen **Administrer server** for at bruge denne kommando.",
-    "error_vote": "## **Ikke muligt endnu!**\n Denne kommando kan midlertidigt låses op af [voting](<https://wumpus.store/bot/762217899355013120/vote>), eller permanent låst op med [premium](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Ikke muligt endnu!**\n Denne kommando kan midlertidigt låses op af [voting](<https://top.gg/bot/762217899355013120/vote>), eller permanent låst op med [premium](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Ikke muligt!**\n Du kan ikke bruge denne kommando til den valgte bruger.",
     "error_ownership": "## **Ikke muligt!**\n Kun den midlertidige stemmekanalejer kan bruge denne kommando. Hvis den nuværende ejer har forladt, kan du gøre krav på talekanalen ved at bruge: </voice claim:921416747687489568>.",
     "error_permissions": "## **Manglende tilladelser!**\n Følgende tilladelser er **påkrævet** for min **serverindstillingsrolle** og **kategori af midlertidige kanaler**: {val1}\n### Hvorfor har jeg brug for disse tilladelser?\nFor at oprette og administrere kanaler korrekt.",
