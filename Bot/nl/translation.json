@@ -41,7 +41,7 @@
     "error_invalid": "## **Ongeldig.**\n U bevindt zich niet in een geldig tijdelijk spraakkanaal. Word eerst lid van een **Creator-kanaal**:\n\n{val1}",
     "error_setup": "## **Geen makers gevonden.**\n Deze bot is nog niet ingesteld. Als u een beheerder bent, gebruikt u </setup:921000495877877762>.",
     "error_manage": "## **Niet toegestaan.**\n U hebt de machtiging **Server beheren** nodig om deze opdracht te gebruiken.",
-    "error_vote": "## **Nog niet mogelijk.**\n Deze opdracht kan tijdelijk worden ontgrendeld door [voting](<https://wumpus.store/bot/762217899355013120/vote>), of permanent ontgrendeld met [premium](<https://tempvoice.xyz/premium>) .",
+    "error_vote": "## **Nog niet mogelijk.**\n Deze opdracht kan tijdelijk worden ontgrendeld door [voting](<https://top.gg/bot/762217899355013120/vote>), of permanent ontgrendeld met [premium](<https://tempvoice.xyz/premium>) .",
     "error_target": "## **Niet mogelijk.**\n U kunt deze opdracht niet gebruiken voor de geselecteerde gebruiker.",
     "error_ownership": "## **Niet mogelijk.**\n Alleen de eigenaar van het spraakkanaal kan deze opdracht gebruiken. Als de huidige eigenaar is vertrokken, claim je het spraakkanaal met behulp van: </voice claim:921416747687489568>.",
     "error_permissions": "## **Ontbrekende Toestemmingen!**\n De volgende toestemmingen zijn **vereist** voor mijn **serverinstellingenrol** en **categorie van tijdelijke kanalen**: {val1}\n### Waarom heb ik deze toestemmingen nodig?\nOm kanalen correct te kunnen maken en beheren.",

@@ -41,7 +41,7 @@
     "error_invalid": "## **Neplatný kanál!**\n Nejste v platném dočasném hlasovém kanálu. Nejprve se připojte do **kanálu tvůrce**:\n\n{val1}",
     "error_setup": "## **Žádní tvůrci nenalezeni!**\n Tento bot zatím nebyl nastaven. Pokud jste správce, použijte </setup:921000495877877762>.",
     "error_manage": "## **Nepovoleno!**\n Potřebujete oprávnění **Spravovat server**, abyste mohli používat tuto příkaz.",
-    "error_vote": "## **Zatím nemožné!**\n Tento příkaz může být dočasně odemčen [hlasováním](<https://wumpus.store/bot/762217899355013120/vote>), nebo trvale odemčen [prémiovým účtem](<https://tempvoice.xyz/premium>).",
+    "error_vote": "## **Zatím nemožné!**\n Tento příkaz může být dočasně odemčen [hlasováním](<https://top.gg/bot/762217899355013120/vote>), nebo trvale odemčen [prémiovým účtem](<https://tempvoice.xyz/premium>).",
     "error_target": "## **Nemožné!**\n Tento příkaz nelze použít pro vybrané uživatele.",
     "error_ownership": "## **Nemožné!**\n Tento příkaz může používat pouze vlastník dočasného hlasového kanálu. Pokud současný vlastník odejde, převezměte hlasový kanál použitím: </voice claim:921416747687489568>.",
     "error_permissions": "## **Chybějící oprávnění!**\n Pro mou **roli nastavení serveru** a **kategorii dočasných kanálů** jsou **vyžadována** následující oprávnění: {val1}\n### Proč potřebuji tato oprávnění?\nPro správné vytváření a správu kanálů.",
