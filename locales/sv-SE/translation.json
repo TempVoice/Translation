@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": "## **Inte möjligt**\n Detta kommando är avaktiverat för alla tillfälliga röstkanaler för {val1}.",
     "error_limit": "## **Inte möjligt**\n Gränsen för skaparkanaler på denna server är {val1}. Försök att ta bort en eller öka gränsen med [premium](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **Sakta ner!**\n Detta kommando kan användas igen om **{val1}**.",
+    "error_ratelimit": "## **Sakta ner!**\n Detta kommando kan användas igen om **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sakta ner!**\n Du kan skapa en ny kanal om **{val1}**.",
     "error_webhook": "## **Inte möjligt!**\n Det är inte möjligt att skapa en webhook eftersom en annan Discord-bot hindrar mig från att göra det. Kolla om säkerhetsbotar som *Wick*, *Beemo* etc. är orsaken.",
     "error_totallimit": "## **Inte möjligt!**\n Gränsen på **{val1}** tillfälliga röstkanaler samtidigt har nåtts på grund av begränsningar på denna Discord-server. Försök igen senare.",

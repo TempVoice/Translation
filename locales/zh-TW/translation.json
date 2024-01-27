@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **缺少權限！**\n 我的**伺服器設定角色**和**臨時頻道類別**需要以下權限：{val1}\n### 為什麼需要這些權限？\n為了**同步權限**，我需要所有需要同步的權限。",
     "error_deactivated": "## **無法完成**\n 此命令對 {val1} 的所有臨時語音頻道都禁用",
     "error_limit": "## **無法完成**\n 一個伺服器最多能擁有 {val1} 個臨時頻道創造器，請嘗試刪除一些或者透過[付費訂閱](<https://tempvoice.xyz/premium>)獲得更多",
-    "error_ratelimit": "## **請稍後再試！**\n 此命令可以在 **{val1}** 後再次使用",
+    "error_ratelimit": "## **請稍後再試！**\n 此命令可以在 **{val1}** 後再次使用\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **請稍後再試！**\n 您可以在 **{val1}** 後創建新頻道",
     "error_webhook": "## **無法執行！**\n 由於其他Discord機器人的阻止，無法創建Webhook。請檢查是否有安全機器人如*Wick*、*Beemo*等。",
     "error_totallimit": "## **無法執行！**\n 同時存在的臨時語音頻道數量已達到上限，上限為 **{val1}**，因為這個Discord伺服器有限制。請稍後再試。",
