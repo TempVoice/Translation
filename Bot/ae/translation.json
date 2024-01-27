@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": " {val1} معطل** -> يتم إلغاء تنشيط هذا الأمر لجميع القنوات الصوتية المؤقتة في**",
     "error_limit": "<- حاول حذف واحد أو زيادة الحد مع أعلى [Premium](<https://tempvoice.xyz/premium>) <- {val1} <- غير ممكن** -> الحد الأقصى لقنوات المنشئ في خادم واحد هو**",
-    "error_ratelimit": "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**",
+    "error_ratelimit": "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "يمكنك إنشاء قناة جديدة <- ** {val1} ** <- **يرجى الانتظار ثانية قبل الضغط**",
     "error_webhook": "**غير ممكن!** لا يمكن إنشاء خطاف على الويب لأن روبوت الدسكورد آخر يمنعني من القيام بذلك. تحقق مما إذا كانت برامج الأمان مثل *وييك* و*بييمو* وما إلى ذلك هي المسؤولة.",
     "error_totallimit": " في نفس الوقت، لأن السيرفر قد وصل الحد الرجاء معاودة المحاولة في وقت لاحق <- **{val1}** <- غير ممكن!** تم الوصول إلى الحد الأقصى للقنوات الصوتية المؤقتة**",

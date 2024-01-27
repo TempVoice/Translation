@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": "## **Tidak Mungkin!**\n Arahan ini telah dinyahaktifkan untuk semua saluran suara sementara {val1}.",
     "error_limit": "## **Tidak Mungkin!**\n Had saluran pencipta dalam satu pelayan adalah {val1}. Cuba padam salah satu atau tingkatkan had dengan tier [premium](<https://tempvoice.xyz/id/premium>) yang lebih tinggi.",
-    "error_ratelimit": "## **Perlahan!**\n Arahan ini boleh digunakan semula dalam **{val1}**.",
+    "error_ratelimit": "## **Perlahan!**\n Arahan ini boleh digunakan semula dalam **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Perlahan!**\n Anda boleh cipta saluran baru dalam **{val1}**.",
     "error_webhook": "## **Tidak Mungkin!**\n Tidak mungkin untuk mencipta webhook kerana bot Discord lain menghalang saya daripada berbuat demikian. Lihat sama ada bot keselamatan seperti *Wick*, *Beemo* dan sebagainya adalah punca.",
     "error_totallimit": "## **Tidak Mungkin!**\n Had **{val1}** saluran suara sementara pada masa yang sama telah dicapai, kerana pelayan Discord ini telah mengehadkannya. Sila cuba lagi kemudian.",

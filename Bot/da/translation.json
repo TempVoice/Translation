@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Manglende tilladelser!**\n Følgende tilladelser er **påkrævet** for min **serverindstillingsrolle** og **kategori af midlertidige kanaler**: {val1}\n### Hvorfor har jeg brug for disse tilladelser?\nFor at **synkronisere tilladelser** har jeg brug for alle tilladelser, der skal synkroniseres.",
     "error_deactivated": "## **Ikke muligt!**\n Denne kommando er deaktiveret for alle midlertidige talekanaler af {val1}.",
     "error_limit": "## **Ikke muligt!**\n Grænsen for skaberkanaler på en enkelt server er {val1}. Prøv at slette en eller øg grænsen med en højere [premium](<https://tempvoice.xyz/premium>) tier.",
-    "error_ratelimit": "## **Sænk farten!**\n Denne kommando kan bruges igen **{val1}**.",
+    "error_ratelimit": "## **Sænk farten!**\n Denne kommando kan bruges igen **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sænk farten!**\n Du kan oprette en ny kanal **{val1}**.",
     "error_webhook": "## **Ikke muligt!**\n Det er ikke muligt at oprette en webhook, fordi en anden Discord-bot forhindrer mig i at gøre det. Se om sikkerhedsbots som *Wick*, *Beemo* osv. er skyld i det.",
     "error_totallimit": "## **Ikke muligt!**\n Grænsen på **{val1}** midlertidige talekanaler på samme tid er nået, fordi denne Discord-server har begrænset dem. Prøv igen senere.",

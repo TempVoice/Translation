@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Izin Tidak Ditemukan!**\n Izin berikut **diperlukan** untuk **peran pengaturan server** saya dan **kategori saluran sementara**: {val1}\n### Mengapa saya memerlukan izin ini?\nUntuk melakukan **Sinkronisasi Izin**, saya memerlukan semua izin yang perlu disinkronkan.",    
     "error_deactivated": "## **Perintah Dimatikan**\n Perintah ini sudah dimatikan untuk semua __voice channel sementara__ di {val1}.",
     "error_limit": "## **Terbatas**\n Batas membuat creator channel di satu server hanya {val1}. Coba hapus satu atau pakai [premium](<https://tempvoice.xyz/id/premium>) agar bisa nambahin lebih banyak lagi.",
-    "error_ratelimit": "## **Baru Saja**\n Baru saja kamu pakai perintah ini {val1}.",
+    "error_ratelimit": "## **Baru Saja**\n Baru saja kamu pakai perintah ini {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Baru Saja**\n Baru saja kamu membuat channel baru {val1}.",
     "error_webhook": "## **Akses Dibatasi!**\n Sepertinya ada bot lain yang membatasiku membuat Webhook, seperti bot keamanan atau yang lain. Coba silahkan cek lagi.",
     "error_totallimit": "## **Terbatas**\n Batas maksimal {val1} channel sementara sudah kepake di server Discord ini, soalnya terbatas. Coba lagi nanti aja yaa.",

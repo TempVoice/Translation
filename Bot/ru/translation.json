@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": "## **Невозможно!**\n Эта команда деактивирована для всех временных каналов в {val1}.",
     "error_limit": "## **Невозможно!**\n Ваш лимит каналов-создателей составляет **{val1}**. Попробуйте удалить один из них или приобрести [Premium подписку](<https://tempvoice.xyz/premium>) уровнем выше.",
-    "error_ratelimit": "## **Помедленнее!**\n Эта команда может быть использована снова **{val1}**.",
+    "error_ratelimit": "## **Помедленнее!**\n Эта команда может быть использована снова **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Помедленнее!**\n Вы можете создать новый канал **{val1}**.",
     "error_webhook": "## **Невозможно!**\n Из-за другого Discord бот невозможно создать вебхук. Проверьте, не конфликтуют ли боты для защиты по типу *Wick*, *Beemo* и другие.",
     "error_totallimit": "## **Невозможно!**\n Вы достигли лимита в **{val1}** временных каналов одновременно, так как этот Discord сервер ограничил их. Пожалуйста, попробуйте позже.",

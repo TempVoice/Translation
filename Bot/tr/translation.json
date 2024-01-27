@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Yetersiz Yetki(ler)!**\n **Sunucu Ayarları yetkisi** ve **Geçici ses Kanalı Kategorisi** için aşağıdaki izinler **gerekli**: {val1}\n### Bu izinlere neden ihtiyacım var?\n** Çünkü izinleri Eşitlemek** için Senkronize edilmesi gereken tüm izinlere ihtiyacım var.",
     "error_deactivated": "## **Devre dışı!**\n Bu komut, {val1}'in tüm geçici ses kanalları için devre dışı bırakılır.",
     "error_limit": "## **Mümkün değil!**\n Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyiniz veya daha fazla oluşturucu kurmak için [Premium](<https://tempvoice.xyz/premium>) kademesine yükseltin.",
-    "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.",
+    "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Yavaşla!**\n Yeni bir kanal oluşturmak için: **{val1}**.",
     "error_webhook": "## **Mümkün değil!**\n Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "## **Mümkün değil!**\n Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",

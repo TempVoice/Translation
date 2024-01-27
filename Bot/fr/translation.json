@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",   
     "error_deactivated": "## **Désactivation!.**\n Cette commande est désactivée pour tous les salons vocaux temporaires de {val1}.",
     "error_limit": "## **Pas possible!**\n La limite des salons créateurs sur un même serveur est {val1}. Essayez d'en supprimer un ou augmentez la limite avec un [Premium](<https://tempvoice.xyz/premium>) plus élevé",
-    "error_ratelimit": "## **Pas possible!.**\n Cette commande peut être utilsée **{val1}**.",
+    "error_ratelimit": "## **Pas possible!.**\n Cette commande peut être utilsée **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Ralentissez!**\n Vous pouvez créer un nouveau salon **{val1}**.",
     "error_webhook": "## **Pas possible !**\n Il n'est pas possible de créer un webhook car un autre robot Discord m'en empêche. Vérifiez si les robots de sécurité comme *Wick*, *Beemo* etc. reprocher.",    
     "error_totallimit": "## **Pas possible!**\n La limite de **{val1}** salons vocaux temporaires en même temps a été atteinte, car ce serveur Discord les a limités. Veuillez réessayer plus tard.",

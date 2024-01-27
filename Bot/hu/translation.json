@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": "## **Nem lehetséges.**\n Ez a parancs a{val1} összes ideiglenes hangcsatornáján inaktiválva van.",
     "error_limit": "## **Nem lehetséges**\n Egyetlen szerveren legfeljebb {val1} alkotói csatornát hozhatsz létre. Próbálj törölni egyet, vagy növeld a limitet egy magasabb [prémium](<https://tempvoice.xyz/premium>) szinttel.",
-    "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.",
+    "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Lassítás!**\n Maximum **{val1}** új csatornát hozhatsz létre.",
     "error_webhook": "## **Nem lehetséges!**\n Egy másik Discord bot megakadályozza a webhook létrehozását. Ellenőrizd, hogy biztonsági botok, mint például *Wick*, *Beemo*, stb. ne szerepeljenek közöttük.",
     "error_totallimit": "## **Nem lehetséges!**\n Elérte a **{val1}** ideiglenes hangcsatornára vonatkozó korlátot, mivel ez a Discord szerver korlátozza őket. Kérlek, próbáld újra később.",
