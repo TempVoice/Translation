@@ -117,7 +117,7 @@
     "find_2": "## **Nicht gefunden.**\nDer Benutzer, den du suchst, ist nicht in einem öffentlichen Sprachkanal.",
 
     "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "setup": "## `➕` Erstellungs-Kanal\nTrete diesem Kanal bei, um einen neuen temporären Sprachkanal zu erstellen.\n## `✨` Interface-Nachricht\nAlternative zu **/voice** Chat-Befehle. Verwende diesen Kanal, um deinen temporären Sprachkanal zu verwalten.",
   
     "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem **/voice** Commands zur Verfügung.",
     "interface_footer": "Dieses Interface kann mithilfe der unten stehenden Buttons verwendet werden.",
