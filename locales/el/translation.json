@@ -52,7 +52,8 @@
     "error_creation": "## **Χαλαρώστε λίγο!**\n Μπορείτε να δημιουργήσετε ένα νέο κανάλι σε **{val1}**.",
     "error_webhook": "## **Δεν είναι δυνατή η δημιουργία!**\n Δεν είναι δυνατή η δημιουργία ενός webhook επειδή ένας άλλος bot του Discord μετατρέπει τον ρόλο μου. Ελέγξτε αν υπάρχουν bots ασφαλείας όπως τα *Wick*, *Beemo* κ.λπ.",
     "error_totallimit": "## **Δεν είναι δυνατή!**\n Το όριο των **{val1}** προσωρινών φωνητικών καναλιών ταυτόχρονα έχει εξαντληθεί, επειδή αυτός ο διακομιστής του Discord τα περιορίζει. Παρακαλώ προσπαθήστε ξανά αργότερα.",
-    "error_discordlimit": "## **Δεν είναι δυνατή!**\n Όλες οι διαθέσιμες κατηγορίες έχουν φτάσει το όριο των 50 καναλιών καθεμία. Αν είστε διαχειριστής, μπορείτε να δημιουργήσετε περισσότερες **Κατηγορίες Εφεδρικού Καναλιού** στον πίνακα ελέγχου, διαφορετικά παρακαλώ προσπαθήστε ξανά αργότερα.",
+    "error_category_limit": "## **Δεν είναι δυνατή!**\n Όλες οι διαθέσιμες κατηγορίες έχουν φτάσει το όριο των 50 καναλιών καθεμία. Αν είστε διαχειριστής, μπορείτε να δημιουργήσετε περισσότερες **Κατηγορίες Εφεδρικού Καναλιού** στον πίνακα ελέγχου, διαφορετικά παρακαλώ προσπαθήστε ξανά αργότερα.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Απροσδόκητη σύγκρουση.**\n Ο TempVoice είχε μια σύγκρουση με το API του Discord. Αναφέρετε αυτό το μήνυμα εδώ: https://discord.gg/tempvoice. \n### Σφάλμα: `{val1}`",    
 

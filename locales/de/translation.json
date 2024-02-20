@@ -52,7 +52,8 @@
     "error_creation": "## **Nicht so schnell!**\nDu kannst einen neuen Kanal erstellen: {val1}",
     "error_webhook": "## **Nicht möglich!**\nEs ist nicht möglich, ein Webhook zu erstellen, da ein anderer Discord-Bot mich daran hindert. Überprüfe, ob Sicherheitsbots wie *Wick*, *Beemo* usw. dafür verantwortlich sind.",
     "error_totallimit": "## **Nicht möglich!**\nDas Limit von `{val1}` gleichzeitig existierenden temporären Sprachkanälen wurde erreicht, da dieser Discord Server sie beschränkt hat. Bitte versuche es später erneut.",
-    "error_discordlimit": "## **Nicht möglich!**\nAlle verfügbaren Kategorien haben ihr Limit von 50 Kanälen erreicht. Wenn du ein Administrator bist, kannst du mehr **Fallback-Kategorien** im Dashboard einrichten. Andernfalls versuche es später erneut.",
+    "error_category_limit": "## **Nicht möglich!**\nAlle verfügbaren Kategorien haben ihr Limit von 50 Kanälen erreicht. Wenn du ein Administrator bist, kannst du mehr **Fallback-Kategorien** im Dashboard einrichten. Andernfalls versuche es später erneut.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Unerwarteter Konflikt.**\nTempVoice hatte einen Konflikt mit der Discord-API. Melde diese Nachricht hier https://discord.gg/tempvoice.\n### Fehler: `{val1}`",
     
@@ -117,7 +118,7 @@
     "find_2": "## **Nicht gefunden.**\nDer Benutzer, den du suchst, ist nicht in einem öffentlichen Sprachkanal.",
 
     "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
+    "setup": "## `➕` Erstellungs-Kanal\nTrete diesem Kanal bei, um einen neuen temporären Sprachkanal zu erstellen.\n## `✨` Interface-Nachricht\nAlternative zu **/voice** Chat-Befehle. Verwende diesen Kanal, um deinen temporären Sprachkanal zu verwalten.",
   
     "interface_description": "Dieses **Interface** kann verwendet werden, um deinen temporären Kanal zu bearbeiten. Weitere Optionen stehen mit dem **/voice** Commands zur Verfügung.",
     "interface_footer": "Dieses Interface kann mithilfe der unten stehenden Buttons verwendet werden.",

@@ -52,7 +52,8 @@
     "error_creation": "## **Negalima!**\n Galite sukurti tik **{val1}** kanalus.",
     "error_webhook": "## **Neįmanoma!**\n Neįmanoma sukurti 'webhook', nes kitas 'Discord' botas to neleidžia. Patikrinkite, ar saugumo botai, tokiu kaip *Wick*, *Beemo* ir kt., nesukuria šios problemos.",
     "error_totallimit": "## **Neįmanoma!**\n Pasiektas maksimalus **{val1}** laikinų balso kanalų ribojimas tuo pačiu metu, nes šis 'Discord' serveris juos riboja. Bandykite dar kartą vėliau.",
-    "error_discordlimit": "## **Neįmanoma!**\n Visos turimos kategorijos pasiekė maksimalų ribojimą - 50 kanalai kiekvienoje. Jei esate administratorius, galite nustatyti daugiau **Atsarginių Kategorijų** valdymo skyde, kitu atveju bandykite dar kartą vėliau.",
+    "error_category_limit": "## **Neįmanoma!**\n Visos turimos kategorijos pasiekė maksimalų ribojimą - 50 kanalai kiekvienoje. Jei esate administratorius, galite nustatyti daugiau **Atsarginių Kategorijų** valdymo skyde, kitu atveju bandykite dar kartą vėliau.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Neįmanoma!**\n Jūs bandote naudoti [TempVoice Custom Branding](https://tempvoice.xyz/premium) botą Discord serveryje, kuriama savininkas neįgalinęs TempVoice Premium. Jei jūs esate savininkas šio Custom Branding boto, įsitikinkite, jog <@762217899355013120> yra išmestas ir suaktyvavote Premium čia: **https://tempvoice.xyz/premium** > **Aktyvuoti Premium**.",
     "error_conflict": "## **Netikėta Konfliktas.**\n TempVoice susidūrė su 'Discord' API konfliktu. Praneškite apie šį pranešimą čia https://discord.gg/tempvoice. \n### Klaida: `{val1}`",
 

@@ -52,7 +52,8 @@
     "error_creation": "## **Slow Down!**\n You can create a new channel **{val1}**.",
     "error_webhook": "## **Not Possible!**\n It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "## **Not Possible!**\n The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",
-    "error_discordlimit": "## **Not Possible!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
+    "error_category_limit": "## **Not Possible!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more **Fallback Categories** in the dashboard, otherwise please try again later.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
 

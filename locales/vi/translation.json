@@ -52,7 +52,8 @@
     "error_creation": "## **Chậm Lại!**\n Cậu cần đợi **{val1}** nữa mới có thể tạo lại một kênh mới.",
     "error_webhook": "## **Không thể!**\n Có 1 bạn bot nào đó đã ngăn cản tôi tạo webhook. Hãy xem tính năng bảo mật của *Wick* hay *Dyno*,v.v có phải nguyên nhân gây ra hay không. ",
     "error_totallimit": "## **Không thể!**\n Đã đạt đến giới hạn **{val1}** các kênh thoại vì máy chủ Discord đã giới hạn. Vui lòng thử lại sau.",
-    "error_discordlimit": "## **Không thể!**\n Danh mục có sẵn đã giới hạn 50 kênh cho mỗi danh mục. Nếu bạn là quản trị viên, vui lòng thiết lập thêm **Danh mục dự phòng** trong bảng điều khiển. Nếu bạn là thành viên, vui lòng chờ có người rời khỏi phòng và thử lại sau.",
+    "error_category_limit": "## **Không thể!**\n Danh mục có sẵn đã giới hạn 50 kênh cho mỗi danh mục. Nếu bạn là quản trị viên, vui lòng thiết lập thêm **Danh mục dự phòng** trong bảng điều khiển. Nếu bạn là thành viên, vui lòng chờ có người rời khỏi phòng và thử lại sau.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Không thể!**\n Bạn đang cố sử dụng [TempVoice Custom Branding](https://tempvoice.xyz/premium) trong khi chủ sỡ hữu chưa kích hoạt TempVoice Premium. Nếu bạn là chủ sở hữu của Custom Branding bot, hãy chắc chắn rằng bot <@762217899355013120> đã được công khai bot hoặc bạn đăng kí Premium tại đây: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Lỗi.**\n TempVoice đã xung đột Discord's API. Báo cáo tin nhắn tại đây: https://discord.gg/tempvoice. \n### Error: `{val1}`",
 

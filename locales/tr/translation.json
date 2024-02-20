@@ -52,7 +52,8 @@
     "error_creation": "## **Yavaşla!**\n Yeni bir kanal oluşturmak için: **{val1}**.",
     "error_webhook": "## **Mümkün değil!**\n Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "## **Mümkün değil!**\n Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",
-    "error_discordlimit": "## **Mümkün değil!**\n Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
+    "error_category_limit": "## **Mümkün değil!**\n Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Mümkün Değil!**\n Botun sahibinin TempVoice Premium'u etkinleştirmediği bir Discord sunucusunda [TempVoice Premium](https://tempvoice.xyz/premium) botunu kullanmaya çalışıyorsunuz. Bu 'Premium' botunun sahibiyseniz, herkese açık <@762217899355013120> botun atıldığından ve bu Discord sunucusu için premium'u buradan etkinleştirdiğinizden emin olun: **https://tempvoice.xyz/premium** > **Premium'u Aktifleştir.**.",
     "error_conflict": "## **Beklenmedik Sorun.**\n TempVoice'in Discord'un API'si ile sorun yaşadı. Bu mesajı https://discord.gg/tempvoice adresinden bildirin. \n### Hata: `{val1}`",
 

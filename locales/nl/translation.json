@@ -52,7 +52,8 @@
     "error_creation": "## **Vertragen!**\n U kunt een nieuw kanaal maken **{val1}**.",
     "error_webhook": "## **Niet Mogelijk!**\n Het is niet mogelijk om een webhook te maken omdat een andere Discord-bot me dit belet. Kijk of beveiligingsbots zoals *Wick*, *Beemo*, etc. hiervoor verantwoordelijk zijn.",
     "error_totallimit": "## **Niet Mogelijk!**\n De limiet van **{val1}** tijdelijke spraakkanalen tegelijkertijd is bereikt, omdat deze Discord-server ze heeft beperkt. Probeer het later opnieuw.",
-    "error_discordlimit": "## **Niet Mogelijk!**\n Alle beschikbare categorieën hebben hun limiet van 50 kanalen elk bereikt. Als u een beheerder bent, kunt u meer **Fallback Categorieën** instellen in het dashboard, anders probeer het later opnieuw.",
+    "error_category_limit": "## **Niet Mogelijk!**\n Alle beschikbare categorieën hebben hun limiet van 50 kanalen elk bereikt. Als u een beheerder bent, kunt u meer **Fallback Categorieën** instellen in het dashboard, anders probeer het later opnieuw.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Niet Mogelijk!**\n U probeert een [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot te gebruiken op een Discord-server waar de eigenaar van de bot TempVoice Premium niet heeft ingeschakeld. Als u de eigenaar van deze Custom Branding-bot bent, zorg er dan voor dat de openbare <@762217899355013120> bot is verwijderd en dat u premium heeft geactiveerd voor deze Discord-server hier: **https://tempvoice.xyz/premium** > **Activeer Premium**.",
     "error_conflict": "## **Onverwacht Conflict.**\n TempVoice had een conflict met de Discord API. Rapporteer dit bericht hier https://discord.gg/tempvoice. \n### Fout: `{val1}`",
 
