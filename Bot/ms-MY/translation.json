@@ -24,7 +24,8 @@
     "error_creation": "## **Perlahan!**\n Anda boleh cipta saluran baru dalam **{val1}**.",
     "error_webhook": "## **Tidak Mungkin!**\n Tidak mungkin untuk mencipta webhook kerana bot Discord lain menghalang saya daripada berbuat demikian. Lihat sama ada bot keselamatan seperti *Wick*, *Beemo* dan sebagainya adalah punca.",
     "error_totallimit": "## **Tidak Mungkin!**\n Had **{val1}** saluran suara sementara pada masa yang sama telah dicapai, kerana pelayan Discord ini telah mengehadkannya. Sila cuba lagi kemudian.",
-    "error_discordlimit": "## **Tidak Mungkin!**\n Semua kategori yang ada telah mencapai had 50 saluran masing-masing. Jika anda seorang admin, anda boleh menetapkan lebih banyak **Kategori Alternatif** dalam papan pemuka, jika tidak, sila cuba lagi kemudian.",
+    "error_category_limit": "## **Tidak Mungkin!**\n Semua kategori yang ada telah mencapai had 50 saluran masing-masing. Jika anda seorang admin, anda boleh menetapkan lebih banyak **Kategori Alternatif** dalam papan pemuka, jika tidak, sila cuba lagi kemudian.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Konflik Tak Terduga.**\n TempVoice mengalami konflik dengan API Discord. Laporkan mesej ini di sini https://discord.gg/tempvoice. \n### Ralat: `{val1}`",
     

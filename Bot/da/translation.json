@@ -52,7 +52,8 @@
     "error_creation": "## **Sænk farten!**\n Du kan oprette en ny kanal **{val1}**.",
     "error_webhook": "## **Ikke muligt!**\n Det er ikke muligt at oprette en webhook, fordi en anden Discord-bot forhindrer mig i at gøre det. Se om sikkerhedsbots som *Wick*, *Beemo* osv. er skyld i det.",
     "error_totallimit": "## **Ikke muligt!**\n Grænsen på **{val1}** midlertidige talekanaler på samme tid er nået, fordi denne Discord-server har begrænset dem. Prøv igen senere.",
-    "error_discordlimit": "## **Ikke muligt!**\n Alle tilgængelige kategorier har nået deres grænse på 50 kanaler hver. Hvis du er administrator, kan du oprette flere **Fallback-kategorier** på kontrolpanelet, ellers prøv igen senere.",
+    "error_category_limit": "## **Ikke muligt!**\n Alle tilgængelige kategorier har nået deres grænse på 50 kanaler hver. Hvis du er administrator, kan du oprette flere **Fallback-kategorier** på kontrolpanelet, ellers prøv igen senere.",
+    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Ikke muligt!**\n Du forsøger at bruge en [TempVoice Custom Branding](https://tempvoice.xyz/premium)-bot på en Discord-server, hvor ejeren af ​​botten ikke har aktiveret TempVoice Premium. Hvis du er ejeren af ​​denne Custom Branding-bot, skal du sørge for, at den offentlige <@762217899355013120> bot er smidt ud, og du har aktiveret premium for denne Discord-server her: **https://tempvoice.xyz/premium** > **Aktiver Premium**.",
     "error_conflict": "## **Uventet konflikt.**\n TempVoice havde en konflikt med Discord's API. Rapportér denne besked her https://discord.gg/tempvoice. \n### Fejl: `{val1}`",    
 
