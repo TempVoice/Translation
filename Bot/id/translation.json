@@ -6,10 +6,10 @@
   {
     "cmd_voice_waiting_description": "Buat ruang tunggu untuk join ke voice channel ini",
     "cmd_voice_bitrate_description": "Ubah bitrate pada voice channel ini",
-    "cmd_voice_block_description": "Blokir pengguna dari kanal sementara ini",
+    "cmd_voice_block_description": "Blokir pengguna dari voice channel ini",
     "cmd_voice_claim_description": "Klaim voice channel ini",
     "cmd_voice_close_description": "Hapus voice channel ini",
-    "cmd_voice_info_description": "Dapatkan informasi mengenai voice channel ini",
+    "cmd_voice_info_description": "Lihat informasi mengenai voice channel ini",
     "cmd_voice_invite_description": "Undang teman kamu lewat DM buat join ke voice channel ini",
     "cmd_voice_kick_description": "Keluarkan pengguna dari voice channel ini",
     "cmd_voice_limit_description": "Ubah batas user pada voice channel ini",
@@ -31,7 +31,7 @@
     "cmd_help_description": "Dapatkan bantuan Bot Discord TempVoice",
     "cmd_find_description": "Cari tau dimana user ini berada",
 
-    "info_setup": "## **Setup Selesai!**\n {val1} sekarang dapat digunakan untuk membuat __Voice channel sementara__ di server discord ini.",
+    "info_setup": "## **Setup Selesai!**\n {val1} sekarang udah siap dipakai __Voice channel sementara__ di server discord ini.",
     "info_setup2": "## **Setup Selesai!**\n [Interface]({val1}) ini sekarang sudah dapat digunakan untuk mengelola __voice channel sementara__ di server discord ini.",
     "info_reset": "## **Reset Selsai!**\n Konfigurasi telah diatur ulang ke default.",
 
@@ -148,7 +148,7 @@
     "did_you_know_3": "'lfp' dalam '/voice lfp' adalah singkatan dari Looking For People (Cari sesorang).",
     "did_you_know_4": "Kamu bisa izinkan sampai 25 user pakai perintah '/voice trust'.",
     "did_you_know_5": "Kamu bisa blokir sampai 25 user pakai perintah '/voice block'.",
-    "did_you_know_6": "Untuk mengirim pesan teks kepada user di kanal sementara, Kamu dapat membuat utas sementara menggunakan '/voice thread'.",
-    "did_you_know_7": "Untuk menerima atau menolak permintaan bergabung ke kanal Kamu yang terkunci, Kamu dapat membuat ruang tunggu dengan '/voice waiting'."
+    "did_you_know_6": "Kamu bisa membuat tempat percakapan baru dengan menggunakan perintah '/voice thread'.",
+    "did_you_know_7": "Buat terima atau menolak permintaan bergabung ke voice channel yang terkunci, Kamu dapat membuat voice channel untuk tempat tunggu dengan perintah '/voice waiting'."
   }
 ]
