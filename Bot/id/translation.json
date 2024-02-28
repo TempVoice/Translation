@@ -5,7 +5,7 @@
   },
   {
     "cmd_voice_waiting_description": "Buat ruang tunggu untuk join ke voice channel ini",
-    "cmd_voice_bitrate_description": "Ganti bitrate suara pada kanal sementara ini",
+    "cmd_voice_bitrate_description": "Ubah bitrate pada voice channel ini",
     "cmd_voice_block_description": "Blokir pengguna dari kanal sementara ini",
     "cmd_voice_claim_description": "Klaim voice channel ini",
     "cmd_voice_close_description": "Hapus voice channel ini",
