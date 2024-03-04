@@ -1,0 +1,228 @@
+{
+    "slogan_title_part_1": "Tijdelijke",
+    "slogan_title_part_2": "inplaats van permanent",
+    "slogan_description": "TempVoice maakt uw server schoner door tijdelijke spraakkanalen te implementeren. Lege kanalen worden onmiddellijk verwijderd; het maken van nieuwe is slechts een klik verwijderd.",
+    
+    "featured_title": "Vertrouwd door je Favoriete Servers",
+    "featured_description": "Duizenden Discord-servers en meer dan een miljoen gebruikers kiezen voor TempVoice.",
+    
+    "introduction_title": "Wat is een Tijdelijk Kanaal?",
+    "introduction_description": "Een tijdelijk spraakkanaal wordt gemaakt wanneer iemand zich bij een Maker Kanaal voegt, en wordt verwijderd wanneer er niemand meer in zit.",
+    
+    "setup_title": "Hoe stel ik TempVoice in?",
+    "setup_description": "Begin met het gebruiken van TempVoice door het /setup commando uit te voeren op je Discord-server. TempVoice zal de basis kanalen opzetten die nodig zijn om tijdelijke kanalen te maken en te beheren!",
+    
+    "status_title": "Werkt de Bot zoals bedoeld?",
+    "status_description": "TempVoice is opgedeeld in shards en clusters voor betere prestaties. Elke cluster bevat tot 5 shards en verwerkt ongeveer 5000 Discord-servers.",
+    "status_statistics_1": "Totaal aantal Clusters",
+    "status_statistics_2": "Totaal aantal Shards",
+    "status_statistics_3": "Totaal aantal Servers",
+    "status_statistics_4": "Totaal aantal Gebruikers",
+    "status_alert_offline": "TempVoice is momenteel gedeeltelijk niet beschikbaar. Onze excuses voor het ongemak.",
+    "status_alert_online": "TempVoice is volledig operationeel",
+    
+    "server_selection": "Selecteer een Discord-server om de configuratie van TempVoice aan te passen of nodig de bot uit naar een andere server.",
+    
+    "appearance_title": "Uiterlijk",
+    "appearance_description": "Pas TempVoice aan om bij de stijl van je Discord-server te passen en verander de taal en kleurthema van de interface.",
+    "appearance_language_title": "Taal",
+    "appearance_colortheme_title": "Kleurthema",
+    
+    "creators_title": "Makers",
+    "creators_description": "Definieer hoe tijdelijke spraakkanalen worden gemaakt. Specificeer een standaard naam, limiet, rechten en meer.",
+    
+    "interface_title": "Interface",
+    "interface_description": "Stelt gebruikers in staat hun tijdelijke spraakkanalen te beheren.",
+    
+    "config_tab_1": "Overzicht",
+    "config_tab_2": "Rechten",
+    "config_tab_3": "Diversen",
+    
+    "navbar_home": "Home",
+    "navbar_help": "Help",
+    "navbar_setup": "Setup",
+    "navbar_premium": "Premium",
+    "navbar_support": "Ondersteuning",
+    
+    "premium_slogan_title": "Je Eigen Premium Plan",
+    "premium_slogan_description": "Ontgrendel het volledige potentieel van je server door onbeperkte toegang te krijgen tot alle functies. Annuleer op elk moment.",
+    "premium_title": "Meer Aanpassing. Meer Vrijheid.",
+    "premium_description": "Maak TempVoice van jou en geniet van de vrijheid om de bot aan te passen zoals jij dat wilt, zonder beperkingen.",
+    "premium_feature_1": "Volledig aanpasbare interfaces",
+    "premium_feature_2": "Onbeperkte Maker Kanalen",
+    "premium_feature_3": "Geen Stemvereisten",
+    "premium_feature_4": "Discord Servers",
+    "premium_cycle_monthly": "maandelijks",
+    "premium_cycle_yearly": "jaarlijks",
+    "premium_highlighed_title_1": "Je Eigen Bot",
+    "premium_highlighed_description_1": "Aanpasbare profielfoto, naam, status, over mij, en de mogelijkheid om het huidige spel als tijdelijke kanaalnaam weer te geven",
+    "premium_highlighed_title_2": "Jaarabonnement",
+    "premium_highlighed_description_2": "Bespaar 16% met een jaarlijkse factureringscyclus",
+    "premium_upgrade_disclaimer": "Wanneer je je Premium abonnement upgradet, wordt het verschil in maandelijkse prijs die je al hebt betaald direct in rekening gebracht. Je kunt je abonnement slechts één keer per maand upgraden.",
+    "premium_custombranding_description": "Aangepaste Branding stelt je in staat het uiterlijk van TempVoice te veranderen door de avatar, naam, status en over mij aan te passen. Vergeet niet om Premium te activeren op de Discord-server waar je de bot wilt gebruiken.",
+    
+    "placeholder_description_1": "Als je de {PRIVACY} placeholder gebruikt, wordt de kanaalnaam bijgewerkt wanneer je de privacy-instellingen van het kanaal wijzigt. Dit is slechts om de 5 minuten mogelijk vanwege de beperkingen van Discord.",
+    "placeholder_description_2": "Toont de naam van de hoogste rol van de eigenaar, ongeacht of de rol gescheiden is in de online ledenlijst.",
+    "placeholder_description_3": "Toont de naam van de hoogste rol van de eigenaar, die gescheiden is in de online ledenlijst.",
+    "placeholder_description_4": "Deze placeholder wordt vervangen door de naam die de eigenaar heeft gekozen voor zijn kanaal met behulp van het '/voice name' commando. Wanneer de eigenaar een nieuwe naam kiest, wordt alleen het deel van de placeholder gewijzigd, de rest blijft ongewijzigd.",
+    
+    "button_lable_invite": "Nodig TempVoice uit",
+    "button_lable_dashboard": "Open Dashboard",
+    "button_lable_login": "Inloggen met Discord",
+    "button_lable_logout": "Uitloggen",
+    "button_lable_subscribe": "Afrekenen met Stripe",
+    "button_lable_premium": "Beheer Abonnement",
+    "button_lable_upgrade": "Upgrade Premium",
+    "button_lable_upgrade_cancel": "Nee, ik heb van gedachten veranderd",
+    "button_lable_upgrade_continue": "Ja, graag upgraden",
+    "button_lable_join_cancel": "Nee, alleen inloggen",
+    "button_lable_join_continue": "Ja, alsjeblieft",
+    "button_lable_manage_custom_branding": "Beheer Aangepaste Branding",
+    
+    "join_support": "Wil je bij onze Discord komen?",
+    "excordo_quote": "Bedankt voor je interesse in TempVoice, een bot die de manier waarop je Discord gebruikt zal veranderen. In de loop der jaren heb ik me gericht op de behoeften en wensen van de gemeenschap om je Discord-server een betere plek te maken!",
+    
+    "premium_status_description_1": "Alle premium aanpassingen zijn ontgrendeld ✌️",
+    "premium_status_description_2": "Gebruik je eigen ingebedde avatar, naam, kleur en afbeelding met Premium 🤩",
+    
+    "component_status_title": "Op welke cluster bevindt mijn server zich?",
+    "component_status_description_1": "Voer je Server-ID in het zoekvak in",
+    "component_status_description_2": "Je server bevindt zich op:",
+    
+    "component_bitrate_title": "Bitrate Tijdelijk Kanaal",
+    "component_bitrate_menu_lable": "Hoogst Mogelijk",
+    "component_bitrate_description": "Standaard bitrate voor tijdelijke kanalen",
+    
+    "component_totallimit_title": "Totaal Limiet Tijdelijke Kanalen",
+    "component_totallimit_description": "Het totale aantal tijdelijke kanalen dat tegelijkertijd kan bestaan",
+    
+    "component_premium_menu_lable": "Activeer Premium",
+    "component_premium_menu_description": "Beschikbare Discord-servers:",
+    
+    "component_sendmessage_title": "Verstuur Welkomstbericht",
+    "component_sendmessage_button_lable": "Bericht Aanpassen",
+    "component_sendmessage_description": "Verstuur een welkomstbericht naar een tijdelijk kanaal nadat het is aangemaakt",
+    
+    "component_roleparticipant_title": "Rol in Kanaal",
+    "component_roleparticipant_menu_lable": "Geen Rol Geselecteerd",
+    "component_roleparticipant_description": "Wijs een rol toe aan gebruikers in een tijdelijk kanaal, verwijdert de rol wanneer ze verbinding verbreken",
+    
+    "component_roleseveryone_title": "Lid Rol",
+    "component_roleseveryone_menu_lable": "Selecteer Meerdere Rollen",
+    "component_roleseveryone_description": "Rol die vereist is om tijdelijke kanalen te kunnen bekijken",
+    
+    "component_restore_title": "Herstel Eigenaarsinstellingen",
+    "component_restore_menu_lable": "Beheer Herstelopties",
+    "component_restore_menu_option_1": "Gepersonaliseerde Naam",
+    "component_restore_menu_option_2": "Gepersonaliseerd Gebruikerslimiet",
+    "component_restore_menu_option_3": "Vertrouwde & Geblokkeerde Gebruikers",
+    "component_restore_menu_option_4": "Privacy Voorkeuren",
+    "component_restore_description": "Herstel de eigenschappen van tijdelijke kanalen zoals ze waren voordat ze werden verwijderd",
+    
+    "component_position_title": "Positie Tijdelijk Kanaal",
+    "component_position_menu_option_1": "Bovenste",
+    "component_position_menu_option_2": "Direct onder de Maker",
+    "component_position_menu_option_3": "Onderste",
+    "component_position_description": "Positie van tijdelijke kanalen bij het aanmaken (Standaard: Onder)",
+    
+    "component_permissionsowner_title": "Extra Discord Rechten voor Eigenaars",
+    "component_permissionsowner_menu_lable": "Rechten Beheren",
+    "component_permissionsowner_description": "Extra Discord-rechten voor de eigenaar van een tijdelijk kanaal",
+    "component_permissionsowner_option_invite": "Uitnodiging Maken",
+    "component_permissionsowner_option_channel": "Kanaal Beheren",
+    "component_permissionsowner_option_permissions": "Rechten Beheren",
+    "component_permissionsowner_option_messages": "Berichten Beheren",
+    "component_permissionsowner_option_stream": "Video (Scherm delen & Webcam)",
+    "component_permissionsowner_option_vad": "Gebruik Stem Activiteit",
+    "component_permissionsowner_option_speaker": "Prioriteits Spreker",
+    "component_permissionsowner_option_move": "Leden Verplaatsen",
+    "component_permissionsowner_information": "Deze optie vereist dat TempVoice de Administrator-rechten heeft.",
+    
+    "component_syncpermissions_title": "Rechten Synchroniseren",
+    "component_syncpermissions_menu_option_1": "Synchroniseer van Categorie",
+    "component_syncpermissions_menu_option_2": "Synchroniseer van Maker",
+    "component_syncpermissions_menu_option_3": "Niet synchroniseren",
+    "component_syncpermissions_description": "Synchroniseer tijdelijke kanaalrechten met categorie- of Maker-rechten",
+    
+    "component_namewaiting_title": "Naam Wachtkamer",
+    "component_namewaiting_description": "Naam voor wachtkamers (Standaard: Join Me)",
+    
+    "component_placeholder_title": "Standaard Naam voor Plaatsaanduidingen",
+    "component_placeholder_menu_lable": "Standaard Namen Beheren",
+    "component_placeholder_description": "Standaard naam voor plaatsaanduidingen wanneer ze geen waarde hebben om weer te geven",
+    
+    "component_placeholder_role_description": "Standaard naam voor wanneer de gebruiker geen rollen heeft (Standaard: Gebruikersnaam)",
+    "component_placeholder_custom_description": "Standaard naam voor wanneer de gebruiker het veld voor kanaalnaam leeg laat (Standaard: Gebruikersnaam)",
+    "component_placeholder_random_description": "Lijst met woorden die willekeurig worden geselecteerd om deze placeholder te vervangen",
+    "component_placeholder_privacy_1_description": "Standaard naam voor wanneer het tijdelijke kanaal vergrendeld is (Standaard: 🔒)",
+    "component_placeholder_privacy_2_description": "Standaard naam voor wanneer het tijdelijke kanaal ontgrendeld en zichtbaar is (Standaard: 🔓)",
+    "component_placeholder_privacy_3_description": "Standaard naam voor wanneer het tijdelijke kanaal verborgen is (Standaard: 😎)",
+    "component_placeholder_activity_1_description": "Standaard naam voor wanneer de gebruiker geen Discord-activiteit heeft (Speelt geen spel)",
+    "component_placeholder_activity_2_description": "Standaard naam voor wanneer de activiteit van de gebruiker geen details heeft",
+    "component_placeholder_activity_3_description": "Standaard naam voor wanneer de activiteit van de gebruiker geen status heeft",
+    "component_placeholder_activity_4_description": "Standaard naam voor wanneer de status van de gebruiker geen emoji heeft",
+    
+    "component_name_title": "Naam Tijdelijk Kanaal",
+    "component_name_button_lable": "Beschikbare Plaatsaanduidingen ✨",
+    "component_name_description": "Standaard naam voor tijdelijke kanalen",
+    
+    "component_limit_title": "Gebruikerslimiet Tijdelijk Kanaal",
+    "component_limit_description": "Standaard gebruikerslimiet voor tijdelijke kanalen",
+    
+    "component_ownerpermissions_title": "Beschikbare Tijdelijke Kanalen Commando's",
+    "component_ownerpermissions_menu_lable": "Instellingen Beheren",
+    "component_ownerpermissions_description": "Selecteer welke TempVoice commando's gebruikt kunnen worden door de eigenaars van tijdelijke kanalen",
+    "component_ownerpermissions_modal_description_1": "Dit maakt tijdelijke kanalen onbeheerbaar door de gebruiker die het kanaal heeft gemaakt. Dit kan nuttig zijn als je tijdelijke kanalen als openbare kanalen gebruikt.",
+    "component_ownerpermissions_modal_description_2": "Het vinkje weghalen schakelt het '/voice' commando en de bijbehorende interface knop uit; bovendien worden eventuele eerder gemaakte wijzigingen met betrekking tot die optie teruggedraaid.",
+    "component_ownerpermissions_option_ownerless": "Eigenaarloze Modus",
+    "component_ownerpermissions_option_name": "Kanaalnaam bewerken",
+    "component_ownerpermissions_option_limit": "Kanaalgebruikerslimiet bewerken",
+    "component_ownerpermissions_option_region": "Kanaalregio bewerken",
+    "component_ownerpermissions_option_bitrate": "Kanaalbitrate bewerken",
+    "component_ownerpermissions_option_thread": "Tijdelijke threads maken",
+    "component_ownerpermissions_option_wait": "Wachtkamers maken",
+    "component_ownerpermissions_option_lock_chat": "In-voice chat vergrendelen",
+    "component_ownerpermissions_option_lock": "Kanaal vergrendelen",
+    "component_ownerpermissions_option_hide": "Kanaal verbergen",
+    "component_ownerpermissions_option_claim": "Kanalen claimen",
+    "component_ownerpermissions_option_transfer": "Kanalen overdragen",
+    "component_ownerpermissions_option_kick": "Gebruikers uit kanaal schoppen",
+    "component_ownerpermissions_option_invite": "Gebruikers uitnodigen voor kanaal",
+    "component_ownerpermissions_option_lfp": "Mensen zoeken (lfp)",
+    "component_ownerpermissions_option_users": "Gebruikers vertrouwen/blokkeren",
+    "component_ownerpermissions_option_chat": "In-voice chat gebruiken",
+    "component_ownerpermissions_option_close": "Kanaal gedwongen sluiten",
+    
+    "component_category_title": "Primaire Categorie Tijdelijk Kanaal",
+    "component_category_menu_lable": "Geen Categorie Geselecteerd",
+    "component_category_description": "Primaire categorie voor tijdelijke kanalen",
+    
+    "component_fallback_title": "Fallback Categorieën Tijdelijk Kanaal",
+    "component_fallback_menu_lable": "Categorieën Selecteren",
+    "component_fallback_description": "Fallback categories for when the primary reaches its 50 channel limit",
+  
+    "component_censor_title": "Censureer Kanaalnamen",
+    "component_censor_placeholder": "Typ een woord en druk op Enter",
+    "component_censor_description": "Censureer maximaal 30 woorden die niet gebruikt kunnen worden als tijdelijke kanaalnamen",
+    
+    "component_matchmaking_title": "Vullen van Tijdelijke Kanalen",
+    "component_matchmaking_menu_option_1": "Ingeschakeld",
+    "component_matchmaking_menu_option_2": "Uitgeschakeld",
+    "component_matchmaking_description": "Verplaats gebruikers naar bestaande tijdelijke kanalen voordat er nieuwe worden gemaakt (Vereist: Gebruikerslimiet 1-99)",
+    
+    "component_custombranding_title": "Bot Token",
+    "component_custombranding_button_lable": "Hoe krijg ik een bot token?",
+    "component_custombranding_description": "Voer een Discord bot token in om ons in staat te stellen een aparte server voor je bot op te zetten. Gebruik dit token niet ergens anders of deel het met anderen. Behandel het als een wachtwoord!",
+    
+    "component_custombrandingactivity_title": "Bot Activiteit (Status)",
+    "component_custombrandingactivity_description": "Verander de Discord-status van de op maat gemaakte branding bot.",
+    
+    "component_sendinterface_menu_lable": "Selecteer een Tekstkanaal",
+    "component_sendinterface_menu_option": "Geen kanaal geselecteerd",
+    "component_sendinterface_description": "Selecteer een tekstkanaal om de interface naartoe te sturen",
+    
+    "save_changes_title": "Let op - je hebt niet-opgeslagen wijzigingen!",
+    "save_changes_button_lable_1": "Resetten",
+    "save_changes_button_lable_2": "Wijzigingen Opslaan"    
+  }
+  
