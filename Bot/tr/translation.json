@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Mümkün Değil!**\n Botun sahibinin TempVoice Premium'u etkinleştirmediği bir Discord sunucusunda [TempVoice Premium](https://tempvoice.xyz/premium) botunu kullanmaya çalışıyorsunuz. Bu 'Premium' botunun sahibiyseniz, herkese açık <@762217899355013120> botun atıldığından ve bu Discord sunucusu için premium'u buradan etkinleştirdiğinizden emin olun: **https://tempvoice.xyz/premium** > **Premium'u Aktifleştir.**.",
     "error_conflict": "## **Beklenmedik Sorun.**\n TempVoice'in Discord'un API'si ile sorun yaşadı. Bu mesajı https://discord.gg/tempvoice adresinden bildirin. \n### Hata: `{val1}`",
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Mümkün değil!**\n Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
     "voice_waiting_2": "## **Mümkün değil!**\n Bekleme odanız varken, kanalınızı gizleyemezsiniz.",
     "voice_waiting_3": "## **Mümkün değil!**\n Bu geçici ses kanalı için zaten bir bekleme odası oluşturulmuş.",

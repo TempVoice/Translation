@@ -56,6 +56,7 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Pas possible !**\n Vous essayez d'utiliser un bot [TempVoice Custom Branding](https://tempvoice.xyz/premium) sur un serveur Discord, où le propriétaire du bot n'a pas activé TempVoice Premium. Si vous êtes le propriétaire de ce bot de branding personnalisé, assurez-vous que le bot public <@762217899355013120> est expulsé et que vous avez activé la prime pour ce serveur Discord ici : **https://tempvoice.xyz/premium ** > **Activer Premium**.",    
     "error_conflict": "## **Conflit inattendu.**\n TempVoice a eu un conflit avec l'API de Discord. Signalez ce message ici https://discord.gg/tempvoice. \n### Erreur : `{val1}` ",
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
     
     "voice_waiting_1": "## **Pas possible!**\n Vous ne pouvez pas créer de salle d'attente lorsque votre salon est masqué.",
     "voice_waiting_2": "## **Pas possible!**\n Vous ne pouvez pas masquer votre salon lorsque vous avez une salle d'attente.",

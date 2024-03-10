@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Neįmanoma!**\n Jūs bandote naudoti [TempVoice Custom Branding](https://tempvoice.xyz/premium) botą Discord serveryje, kuriama savininkas neįgalinęs TempVoice Premium. Jei jūs esate savininkas šio Custom Branding boto, įsitikinkite, jog <@762217899355013120> yra išmestas ir suaktyvavote Premium čia: **https://tempvoice.xyz/premium** > **Aktyvuoti Premium**.",
     "error_conflict": "## **Netikėta Konfliktas.**\n TempVoice susidūrė su 'Discord' API konfliktu. Praneškite apie šį pranešimą čia https://discord.gg/tempvoice. \n### Klaida: `{val1}`",
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Negalima**\n Jūs negalite sukurti laukiamojo, kai jūsų kanalas paslėptas.",
     "voice_waiting_2": "## **Negalima**\n Jūs negalite paslėpti kanalo, nes esate sukūrę laukiamąjį kanalą.",
     "voice_waiting_3": "## **Negalima**\n Laukiamasis jau yra sukurtas šiam laikinąjam balso kanalui.",

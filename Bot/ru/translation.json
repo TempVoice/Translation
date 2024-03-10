@@ -56,7 +56,8 @@
     "error_server_limit": "## **Невозможно!**\n Данный Discord сервер достиг лимита в 500 одновременных каналов. Пожалуйста, попробуйте позже.",
     "error_cb": "## **Невозможно!**\n Вы пытайтесь использовать [TempVoice Custom Branding](https://tempvoice.xyz/premium) бота на Discord сервере, где владелец бота не активировал TempVoice Premium. Если вы владелец Custom Branding бота, убедитесь, что публичный бот <@762217899355013120> был выгнан и вы активировали Premium для этого Discord сервере здесь: **https://tempvoice.xyz/premium** > **Активировать Premium**.",
     "error_conflict": "## **Неожиданный конфликт.**\n TempVoice конфликтует с Discord API. Сообщите об этом сообщении тут https://discord.gg/tempvoice. \n### Ошибка: `{val1}`",
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Невозможно!**\n Нельзя создать комнату ожидания, если ваш канал скрыт.",
     "voice_waiting_2": "## **Невозможно!**\n Нельзя скрыть свой канал, если у вас есть комната ожидания.",
     "voice_waiting_3": "## **Невозможно!**\n Для этого канала уже создана комната ожидания.",

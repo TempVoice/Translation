@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Απροσδόκητη σύγκρουση.**\n Ο TempVoice είχε μια σύγκρουση με το API του Discord. Αναφέρετε αυτό το μήνυμα εδώ: https://discord.gg/tempvoice. \n### Σφάλμα: `{val1}`",    
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Αδύνατο**\n Δεν μπορείς να δημιουργήσεις ένα κανάλι αναμονής όταν το κανάλι σου είναι απόκρυφο.",
     "voice_waiting_2": "## **Αδύνατο**\n Δεν μπορείς να κάνεις απόκρυψη του καναλιού σου όσο βρίσκεσαι στη λειτουργία αναμονής.",
     "voice_waiting_3": "## **Αδύνατο**\n Το κανάλι αναμονής έχει ήδη δημιουργηθεί.",

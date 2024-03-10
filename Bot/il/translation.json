@@ -28,7 +28,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **לא אפשרי!**\n אתה מנסה להשתמש בבוט [TempVoice Custom Branding](https://tempvoice.xyz/premium) בשרת של Discord, במקום שבעלי הבוט לא הפעילו את TempVoice Premium. אם אתה הבעלים של הבוט, הוודא שהבוט הציבורי <@762217899355013120> נגרם, והפעל את המצב הפרימיום עבור שרת זה כאן: **https://tempvoice.xyz/premium** > **הפעל פרימיום**.",    
     "error_conflict": "**סיכון בלתי צפוי.** TempVoice נתקלה בסיכון ב- API של Discord. אנא דווח על הבעיה כאן: https://discord.gg/tempvoice. \n### שגיאה: `{val1}`",
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "**בלתי אפשרי** לא ניתן ליצור חדר המתנה כשהערוץ שלך מוסתר.",
     "voice_waiting_2": "**בלתי אפשרי** לא ניתן להסתיר את החדר כאשר קיים חדר המתנה",
     "voice_waiting_3": "**בלתי אפשרי** כבר נוצר חדר המתנה לערוץ הזמני הזה.",

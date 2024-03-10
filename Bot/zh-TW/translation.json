@@ -56,6 +56,7 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **無法執行！**\n 您正試圖在未啟用 TempVoice Premium 的 Discord 伺服器上使用 [TempVoice 自定品牌](https://tempvoice.xyz/premium) 機器人。如果您是此自定品牌機器人的擁有者，請確保公共 <@762217899355013120> 機器人已被踢出，並在此處啟用了此 Discord 伺服器的高級功能：**https://tempvoice.xyz/premium** > **啟用高級功能**。",
     "error_conflict": "## **意外的衝突。**\n TempVoice與Discord的API發生了衝突。請在此處報告此訊息 https://discord.gg/tempvoice。\n### 錯誤：`{val1}`",
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
     
     "voice_waiting_1": "## **無法完成**\n 當您的頻道隱藏時，無法設定等待室",
     "voice_waiting_2": "## **無法完成**\n 當您有等待室時，無法隱藏頻道",

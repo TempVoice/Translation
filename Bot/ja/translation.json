@@ -56,7 +56,8 @@
 		"error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
 		"error_cb": "## **不可能です。**\n BOTのオーナーが[TempVoice Custom Branding](https://tempvoice.xyz/premium)を有効化していません。 もしカスタムブランディングBOTのオーナーの場合は、<@762217899355013120> パブリックBOTをキックしてから、プレミアムBOTを**https://tempvoice.xyz/premium** > で**Activate Premium**してください。",
 		"error_conflict": "## **予期しない問題が発生しました。**\n TempVoiceとDiscord APIの間で問題がありました。エラーメッセージはこちらで報告してください：https://discord.gg/tempvoice\n### エラー：`{val1}`",
-
+		"error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+		
 		"voice_waiting_1": "## **不可能です。**\n ボイスチャンネル(VC)を非表示にすると、待機VCを作ることができません。",
 		"voice_waiting_2": "## **不可能です。**\n 待機VCがある場合、ボイスチャンネル(VC)を非表示にすることはできません。",
 		"voice_waiting_3": "## **不可能です。**\n すでにこの一時的な音声チャンネルに待機室が作成されています。",

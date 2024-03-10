@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Ikke muligt!**\n Du forsøger at bruge en [TempVoice Custom Branding](https://tempvoice.xyz/premium)-bot på en Discord-server, hvor ejeren af ​​botten ikke har aktiveret TempVoice Premium. Hvis du er ejeren af ​​denne Custom Branding-bot, skal du sørge for, at den offentlige <@762217899355013120> bot er smidt ud, og du har aktiveret premium for denne Discord-server her: **https://tempvoice.xyz/premium** > **Aktiver Premium**.",
     "error_conflict": "## **Uventet konflikt.**\n TempVoice havde en konflikt med Discord's API. Rapportér denne besked her https://discord.gg/tempvoice. \n### Fejl: `{val1}`",    
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Ikke muligt!**\n Du kan ikke oprette et venterum, når din kanal er skjult.",
     "voice_waiting_2": "## **Ikke muligt!**\n Du kan ikke skjule din kanal, når du har et venterum.",
     "voice_waiting_3": "## **Ikke muligt!**\n Der er allerede oprettet et venterum til denne midlertidige talekanal.",
