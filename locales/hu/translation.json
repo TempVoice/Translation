@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Váratlan konfliktus.**\n A TempVoice konfliktusba került a Discord API-val. Jelentsd ezt a hibát itt https://discord.gg/tempvoice. \n### Hiba: `{val1}`",
-  
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Nem lehetséges**\n Nem hozhatsz létre várótermet, ha a csatornád el van rejtve.",
     "voice_waiting_2": "## **Nem lehetséges**\n Nem lehet elrejteni a csatornát, ha már van egy várótermed.",
     "voice_waiting_3": "## **Nem lehetséges**\n Ehhez az ideiglenes hangcsatornához már létrehoztak egy várótermet.",

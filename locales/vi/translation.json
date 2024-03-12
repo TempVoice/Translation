@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Không thể!**\n Bạn đang cố sử dụng [TempVoice Custom Branding](https://tempvoice.xyz/premium) trong khi chủ sỡ hữu chưa kích hoạt TempVoice Premium. Nếu bạn là chủ sở hữu của Custom Branding bot, hãy chắc chắn rằng bot <@762217899355013120> đã được công khai bot hoặc bạn đăng kí Premium tại đây: **https://tempvoice.xyz/premium** > **Activate Premium**.",
     "error_conflict": "## **Lỗi.**\n TempVoice đã xung đột Discord's API. Báo cáo tin nhắn tại đây: https://discord.gg/tempvoice. \n### Error: `{val1}`",
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Không Thể**\n Cậu không thể tạo phòng chờ khi kênh của cậu đang bị ẩn.",
     "voice_waiting_2": "## **Không Thể**\n Cậu không thể ẩn kênh của cậu khi có phòng chờ.",
     "voice_waiting_3": "## **Không Thể**\n Một phòng chờ đã có từ trước trong kênh thoại tạm thời này.",

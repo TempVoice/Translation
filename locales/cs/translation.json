@@ -56,7 +56,8 @@
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_cb": "## **Nemožné!**\n Zkoušíte použít [TempVoice vlastní značku](https://tempvoice.xyz/premium) na Discord serveru, kde vlastník bota neaktivoval TempVoice Premium. Pokud jste vlastníkem tohoto vlastního značkování, ujistěte se, že veřejný bot <@762217899355013120> byl vyhozen a aktivujte prémium pro tento Discord server zde: **https://tempvoice.xyz/premium** > **Aktivovat prémium**.",
     "error_conflict": "## **Nepředvídaný konflikt.**\n TempVoice měl konflikt s Discordovým API. Nahlaste tuto zprávu zde https://discord.gg/tempvoice. \n### Chyba: `{val1}`",    
-
+    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    
     "voice_waiting_1": "## **Nemožné**\n Nemůžete vytvořit čekárnu, pokud je váš kanál skrytý.",
     "voice_waiting_2": "## **Nemožné**\n Když máte čekárnu, nemůžete svůj kanál skrýt.",
     "voice_waiting_3": "## **Nemožné**\n Pro tento dočasný hlasový kanál již byla vytvořena čekárna.",
