@@ -24,7 +24,6 @@
   "server_selection": "حدد خادم Discord لتحرير تكوين TempVoice أو لدعوة الروبوت إلى خادم مختلف.",
   
   "appearance_title": "المظهر",
-  "appearance_description": "قم بتخصيص TempVoice ليتوافق مع نمط خادم Discord الخاص بك وقم بتغيير اللغة ولون الواجهة.",
   "appearance_language_title": "لغة",
   "appearance_colortheme_title": "موضوع اللون",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "تسجيل الدخول",
   "button_lable_logout": "تسجيل خروج",
   "button_lable_subscribe": "الخروج مع الشريط",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "إدارة الاشتراك",
-  "button_lable_upgrade": "ترقية بريميوم",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "لا، لقد غيرت رأيي",
   "button_lable_upgrade_continue": "نعم، يرجى الترقية",
   "button_lable_join_cancel": "لا، فقط قم بتسجيل الدخول",
   "button_lable_join_continue": "نعم من فضلك",
   "button_lable_manage_custom_branding": "إدارة العلامات التجارية المخصصة",
+  "button_back": "Go Back",
 
   "join_support": "هل ترغب في الانضمام إلى الديسكورد الخاص بنا؟",
   "excordo_quote": "نشكرك على اهتمامك بـ TempVoice، وهو الروبوت الذي سيغير طريقة استخدامك لـ Discord. على مر السنين، ركزت على احتياجات ورغبات المجتمع لجعل خادم Discord الخاص بك مكانًا أفضل!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+
   "premium_status_description_1": "تم فتح جميع التخصيصات المميزة ✌️",
   "premium_status_description_2": "استخدم الصورة الرمزية والاسم واللون والصورة المضمنة الخاصة بك مع Premium",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "ما هي المجموعة التي يوجد عليها الخادم الخاص بي؟",
   "component_status_description_1": "أدخل معرف الخادم الخاص بك في مربع البحث",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "إجمالي عدد القنوات المؤقتة التي يمكن أن توجد في نفس الوقت",
 
   "component_premium_menu_lable": "تفعيل بريميوم",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "خوادم Discord المتاحة:",
 
   "component_sendmessage_title": "أرسل رسالة ترحيب",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "أدخل رمز Discord bot المميز للسماح لنا بإعداد خادم منفصل لروبوتك. لا تستخدم هذا الرمز في أي مكان آخر أو تشاركه مع أي شخص. التعامل معها مثل كلمة المرور!",
 
   "component_custombrandingactivity_title": "نشاط الروبوت (الحالة)",
-  "component_custombrandingactivity_description": "قم بتغيير حالة Discord لروبوت العلامة التجارية المخصص.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "حدد قناة نصية",
   "component_sendinterface_menu_option": "لم يتم تحديد أي قناة",

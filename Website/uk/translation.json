@@ -24,7 +24,6 @@
 	"server_selection": "Виберіть Discord сервер для редагування налаштувань TempVoice або запросіть його на інший.",
 
 	"appearance_title": "Вигляд",
-	"appearance_description": "Налаштуйте TempVoice відповідно до стилю вашого Discord сервера і змінюйте мову та кольорову тему інтерфейсу.",
 	"appearance_language_title": "Мова",
 	"appearance_colortheme_title": "Кольорова тема",
 
@@ -71,19 +70,27 @@
 	"button_lable_login": "Авторизуватися через Discord",
 	"button_lable_logout": "Вийти",
 	"button_lable_subscribe": "Оплатити через Stripe",
+	"button_lable_billing": "Manage on Stripe",
 	"button_lable_premium": "Управління підпискою",
-	"button_lable_upgrade": "Оновити Premium",
+	"button_lable_upgrade": "Upgrade Subscription",
 	"button_lable_upgrade_cancel": "Ні, я передумав",
 	"button_lable_upgrade_continue": "Так, оновлюйте",
 	"button_lable_join_cancel": "Ні, просто авторизуватися",
 	"button_lable_join_continue": "Так, будь ласка",
-	"button_lable_manage_custom_branding": "Управління брендуванням",
+	"button_lable_manage_custom_branding": "Manage Custom Branding",
+	"button_back": "Go Back",
 
 	"join_support": "Бажаєте приєднатися до нашого Discord серверу?",
 	"excordo_quote": "Дякую за інтерес до TempVoice, бота, який змінить те, як ви використовуєте Discord. Я роками фокусувався на потребах та бажаннях спільноти, щоб зробити ваші сервери Discord кращими!",
 
-	"premium_status_description_1": "Усі преміум налаштування розблоковано ✌️",
-	"premium_status_description_2": "Використовуйте власний вбудований аватар, ім’я, колір і зображення з Premium 🤩",
+	"convinced_1": "Are you convinced now?",
+	"convinced_2": "Say goodbye to permanent voice channels 👋",
+	
+	"premium_status_description_1": "All premium customizations are unlocked ✌️",
+	"premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+	"component_billing_title": "Manage Your Subscription Billing",
+	"component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
 	"component_status_title": "На якому кластері знаходиться мій сервер?",
 	"component_status_description_1": "Введіть ID сервера у рядок пошуку",
@@ -97,10 +104,11 @@
 	"component_totallimit_description": "Загальний ліміт тимчасових каналів, які можуть співіснувати",
 
 	"component_premium_menu_lable": "Активувати Premium",
+	"component_premium_text": "Select Your Discord Servers",
 	"component_premium_menu_description": "Доступні сервери Discord:",
 
 	"component_sendmessage_title": "Привітальне повідомлення",
-	"component_sendmessage_button_lable": "Налаштувати повідомлення",
+	"component_sendmessage_button_lable": "Customize Message",
 	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні",
 
 	"component_roleparticipant_title": "Голосова роль",
@@ -145,7 +153,7 @@
 	"component_syncpermissions_description": "Синхронізуйте права тимчасових каналів з категорією або з каналом-створювачем",
 	
 	"component_namewaiting_title": "Назва прихожої",
-	"component_namewaiting_description": "Назва для прихожої (За замовчуванням: Join Me)",
+	"component_namewaiting description": "Назва для прихожої (За замовчуванням: Join Me)",
 	
 	"component_placeholder_title": "Назви змінних за замовчуванням",
 	"component_placeholder_menu_lable": "Управління назвами за замовчуванням",
@@ -215,7 +223,7 @@
 	"component_custombranding_description": "Введіть токен Discord бота, щоб створити нового Custom Branding бота, який буде запущений на окремому сервері. Не використовуйте цей токен деінде і не діліться ним з ким-небудь. Ставтеся до нього, як до пароля!" ,
 	
 	"component_custombrandingactivity_title": "Активність бота (Статус)",
-	"component_custombrandingactivity_description": "Змініть Discord статус вашого брендованого бота.",
+	"component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
 	"component_sendinterface_menu_lable": "Виберіть текстовий канал",
 	"component_sendinterface_menu_option": "Канал не вибраний",

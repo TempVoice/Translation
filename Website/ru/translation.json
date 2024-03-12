@@ -24,7 +24,6 @@
   "server_selection": "Выберите Discord сервер для редактирования настроек TempVoice или пригласите его на другой.",
   
   "appearance_title": "Вид",
-  "appearance_description": "Настройте TempVoice в соответствии со стилем вашего Discord сервера и меняете язык и цветовую тему интерфейса.",
   "appearance_language_title": "Язык",
   "appearance_colortheme_title": "Цветовая тема",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Авторизоваться через Discord",
   "button_lable_logout": "Выйти",
   "button_lable_subscribe": "Оплатить через Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Управление подпиской",
-  "button_lable_upgrade": "Обновить Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "Нет, я передумал",
   "button_lable_upgrade_continue": "Да, обновляйте",
   "button_lable_join_cancel": "Нет, просто авторизоваться",
   "button_lable_join_continue": "Да, пожалуйста",
-  "button_lable_manage_custom_branding": "Управление Custom Branding",
+  "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Хотели бы вступить в наш Discord?",
   "excordo_quote": "Благодарю за интерес в сторону TempVoice, бота, который изменит то, как вы используете Discord. Я годами сфокусирован на нуждах и желаниях сообщества, дабы сделать ваши Discord сервера лучше!",
 
-  "premium_status_description_1": "Все Premium настройки разблокированы ✌️",
-  "premium_status_description_2": "Используйте собственный аватар, название, цвет и изображение для эмбеда вместе с Premium 🤩",
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
+  "premium_status_description_1": "All premium customizations are unlocked ✌️",
+  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "На каком кластере мой сервер?",
   "component_status_description_1": "Введите ID сервера в поисковую строку",
@@ -97,10 +104,11 @@
   "component_totallimit_description": "Общий лимит временных каналов, которые могут сосуществовать",
 
   "component_premium_menu_lable": "Активировать Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Доступные Discord сервера:",
 
   "component_sendmessage_title": "Приветственное сообщение",
-  "component_sendmessage_button_lable": "Настройте сообщение",
+  "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Отправляет приветственное сообщение во временной канал при создании",
 
   "component_roleparticipant_title": "Голосовая роль",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
 
   "component_custombrandingactivity_title": "Активность бота (Статус)",
-  "component_custombrandingactivity_description": "Измените Discord статус вашего брендированного бота.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Выберите текстовый канал",
   "component_sendinterface_menu_option": "Канал не выбран",

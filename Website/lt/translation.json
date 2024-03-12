@@ -24,7 +24,6 @@
   "server_selection": "Pasirinkite Discord serverį, kad galėtumėte redaguoti TempVoice konfigūraciją arba pakviesti botą į kitą serverį.",
   
   "appearance_title": "Išvaizda",
-  "appearance_description": "Tinkinkite TempVoice, kad jis atitiktų jūsų Discord serverio stilių ir pakeiskite kalbą bei spalvas.",
   "appearance_language_title": "Kalba",
   "appearance_colortheme_title": "Spalvos",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Prisijungti su Discord",
   "button_lable_logout": "Atsijungti",
   "button_lable_subscribe": "Mokėti su Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Tvarkyti Prenumeratą",
-  "button_lable_upgrade": "Atnaujinti Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "Ne, aš apsigalvojau",
   "button_lable_upgrade_continue": "Taip, noriu atnaujinti",
   "button_lable_join_cancel": "Ne, tik prisijungti",
   "button_lable_join_continue": "Taip",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Ar norėtumete prisijungti prie mūsų Discord?",
   "excordo_quote": "Ačiū, jog susidomėjote TempVoice, botas, kuris pakeis kaip naudositės Discord. Bėgant metams aš sutelkiau dėmesį į bendruomenės poreikius ir norus, kad jūsų Discord serveris taptų geresne vieta!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "Kokiame klusteryje yra mano serveris?",
   "component_status_description_1": "Įveskite savo Serverio ID į paiešką",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "Bendras laikinų kanalų, kurie gali būti vienu metu, skaičius",
 
   "component_premium_menu_lable": "Aktyvuoti Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Galimi Discord Serveriai:",
 
   "component_sendmessage_title": "Siųsti Pasisveikinimo Pranešimą",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Įveskite Discord boto tokeną kad galėtume nustatyti atskirą serverį jūsų botui. Nenaudokite šio tokeno niekur kitur ir nedalykite juo su niekuo. Elkitės su juo kaip su slaptažodžiu!",
 
   "component_custombrandingactivity_title": "Boto Veiklos Būsena (Statusas)",
-  "component_custombrandingactivity_description": "Pakeisti custom branding boto Discord statusą.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Pasirinkite Teksto Kanalą",
   "component_sendinterface_menu_option": "Nepasirinktas Joks Kanalas",

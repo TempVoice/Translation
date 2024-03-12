@@ -24,7 +24,6 @@
   "server_selection": "Chọn một máy chủ Discord để chỉnh sửa cấu hình TempVoice hoặc mời bot vào một máy chủ khác.",
 
   "appearance_title": "Giao Diện",
-  "appearance_description": "Tùy chỉnh TempVoice để phù hợp với phong cách của máy chủ Discord của bạn và thay đổi ngôn ngữ và giao diện màu sắc của giao diện.",
   "appearance_language_title": "Ngôn Ngữ",
   "appearance_colortheme_title": "Giao Diện Màu Sắc",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Đăng Nhập bằng Discord",
   "button_lable_logout": "Đăng Xuất",
   "button_lable_subscribe": "Thanh Toán với Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Quản Lý Kế Hoạch",
-  "button_lable_upgrade": "Nâng Cấp Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "Không, Tôi đã thay đổi ý",
   "button_lable_upgrade_continue": "Có, vui lòng nâng cấp",
   "button_lable_join_cancel": "Không, chỉ đăng nhập thôi",
   "button_lable_join_continue": "Có, vui lòng",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Bạn có muốn tham gia Discord của chúng tôi không?",
   "excordo_quote": "Cảm ơn vì sự quan tâm của bạn đến TempVoice, một bot sẽ thay đổi cách bạn sử dụng Discord. Suốt những năm qua, tôi đã tập trung vào nhu cầu và mong muốn của cộng đồng để biến máy chủ Discord của bạn trở nên tốt hơn!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "Cluster nào là máy chủ của tôi?",
   "component_status_description_1": "Nhập ID Máy Chủ của bạn vào hộp tìm kiếm",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "Tổng số lượng kênh tạm thời có thể tồn tại cùng một lúc",
 
   "component_premium_menu_lable": "Kích Hoạt Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Các Máy Chủ Discord Khả Dụng:",
 
   "component_sendmessage_title": "Gửi Tin Chào Mừng",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Nhập mã thông báo bot Discord để chúng tôi có thể thiết lập một máy chủ riêng cho bot của bạn. Không sử dụng mã thông báo này ở bất kỳ đâu khác hoặc chia sẻ nó với bất kỳ ai. Hãy coi nó như một mật khẩu!",
   
   "component_custombrandingactivity_title": "Hoạt động của bot (Trạng thái)",
-  "component_custombrandingactivity_description": "Thay đổi trạng thái Discord của bot thương hiệu tùy chỉnh.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
    
   "component_sendinterface_menu_lable": "Chọn Kênh Text",
   "component_sendinterface_menu_option": "Không Có Kênh Được Chọn",

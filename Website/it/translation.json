@@ -24,7 +24,6 @@
   "server_selection": "Seleziona per quale server modificare la configurazione di TempVoice, oppure invita il bot in un nuovo server.",
   
   "appearance_title": "Aspetto",
-  "appearance_description": "Personalizza TempVoice per adattarlo allo stile del tuo server. Cambia la lingua e il tema dell'interfaccia.",
   "appearance_language_title": "Lingua",
   "appearance_colortheme_title": "Tema",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Accedi con Discord",
   "button_lable_logout": "Logout",
   "button_lable_subscribe": "Paga con Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Gestisci abbonamento",
-  "button_lable_upgrade": "Potenzia abbonamento",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "No, ho cambiato idea",
   "button_lable_upgrade_continue": "Sì, potenzia abbonamento",
   "button_lable_join_cancel": "No, grazie",
   "button_lable_join_continue": "Sì, per favore",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Entrare anche nel nostro server Discord?",
   "excordo_quote": "Thank you for your interest in TempVoice, a bot that will change the way how you use Discord. Over the years, I have focused on the needs and wishes of the community to make your Discord server a better place!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "Su che cluster si trova il mio server?",
   "component_status_description_1": "Inserisci il tuo Server ID",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "Limite massimo di canali temporanei che possono esistere contemporaneamente",
 
   "component_premium_menu_lable": "Attiva Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Server Discord Disponibili:",
 
   "component_sendmessage_title": "Invia messaggio di benvenuto",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Inserisci il token del tuo bot di Discord per permetterci di configurarlo. Non usare questo token da nessun'altra parte e non condividerlo con nessuno. Trattalo come una password!",
 
   "component_custombrandingactivity_title": "Status del bot",
-  "component_custombrandingactivity_description": "Cambia lo status del tuo bot personalizzato.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Seleziona un canale testuale",
   "component_sendinterface_menu_option": "Nessun canale selezionato",

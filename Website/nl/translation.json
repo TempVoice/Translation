@@ -24,7 +24,6 @@
     "server_selection": "Selecteer een Discord-server om de configuratie van TempVoice aan te passen of nodig de bot uit naar een andere server.",
     
     "appearance_title": "Uiterlijk",
-    "appearance_description": "Pas TempVoice aan om bij de stijl van je Discord-server te passen en verander de taal en kleurthema van de interface.",
     "appearance_language_title": "Taal",
     "appearance_colortheme_title": "Kleurthema",
     
@@ -71,19 +70,27 @@
     "button_lable_login": "Inloggen met Discord",
     "button_lable_logout": "Uitloggen",
     "button_lable_subscribe": "Afrekenen met Stripe",
+    "button_lable_billing": "Manage on Stripe",
     "button_lable_premium": "Beheer Abonnement",
-    "button_lable_upgrade": "Upgrade Premium",
+    "button_lable_upgrade": "Upgrade Abonnement",
     "button_lable_upgrade_cancel": "Nee, ik heb van gedachten veranderd",
     "button_lable_upgrade_continue": "Ja, graag upgraden",
     "button_lable_join_cancel": "Nee, alleen inloggen",
     "button_lable_join_continue": "Ja, alsjeblieft",
     "button_lable_manage_custom_branding": "Beheer Aangepaste Branding",
+    "button_back": "Go Back",
     
     "join_support": "Wil je bij onze Discord komen?",
     "excordo_quote": "Bedankt voor je interesse in TempVoice, een bot die de manier waarop je Discord gebruikt zal veranderen. In de loop der jaren heb ik me gericht op de behoeften en wensen van de gemeenschap om je Discord-server een betere plek te maken!",
     
+    "convinced_1": "Are you convinced now?",
+    "convinced_2": "Say goodbye to permanent voice channels 👋",
+
     "premium_status_description_1": "Alle premium aanpassingen zijn ontgrendeld ✌️",
     "premium_status_description_2": "Gebruik je eigen ingebedde avatar, naam, kleur en afbeelding met Premium 🤩",
+
+    "component_billing_title": "Manage Your Subscription Billing",
+    "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
     
     "component_status_title": "Op welke cluster bevindt mijn server zich?",
     "component_status_description_1": "Voer je Server-ID in het zoekvak in",
@@ -97,6 +104,7 @@
     "component_totallimit_description": "Het totale aantal tijdelijke kanalen dat tegelijkertijd kan bestaan",
     
     "component_premium_menu_lable": "Activeer Premium",
+    "component_premium_text": "Select Your Discord Servers",
     "component_premium_menu_description": "Beschikbare Discord-servers:",
     
     "component_sendmessage_title": "Verstuur Welkomstbericht",

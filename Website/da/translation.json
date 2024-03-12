@@ -24,7 +24,6 @@
   "server_selection": "Vælg en Discord server for at redigere TempVoices konfiguration eller for at invitere botten til en anden server.",
   
   "appearance_title": "Udseende",
-  "appearance_description": "Tilpas TempVoice til at matche stilen på din Discord server, skift sproget og farvetemaet for styrepanelet.",
   "appearance_language_title": "LanguSprogage",
   "appearance_colortheme_title": "Color Tema",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Login med Discord",
   "button_lable_logout": "Logud",
   "button_lable_subscribe": "Betal med Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Administrer Abonnement",
-  "button_lable_upgrade": "Opgrader Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "Nej, jeg ændrede mening",
   "button_lable_upgrade_continue": "Ja, opgrader venligst",
   "button_lable_join_cancel": "Nej, bare log ind",
   "button_lable_join_continue": "Ja tak",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Vil du joine vores Discord?",
   "excordo_quote": "Tak for din interesse i TempVoice. En bot der vil ændre den måde, du bruger Discord på. Gennem årene har jeg fokuseret på fællesskabets behov og ønsker for at gøre din Discord server til et bedre sted!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "Hvilken klynge er min server på?",
   "component_status_description_1": "Indtast dit server ID i søgefeltet",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "Det samlede antal midlertidige kanaler, der kan eksistere på samme tid",
 
   "component_premium_menu_lable": "Aktiver Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Tilgængelige Discord Servere:",
 
   "component_sendmessage_title": "Send Velkommen Beskeder",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Indtast et Discord bot token for at give os mulighed for at oprette en separat server til din bot. Brug ikke dette token andre steder eller del det med nogen. Behandl det som et kodeord!",
 
   "component_custombrandingactivity_title": "Bot Aktivitet (Status)",
-  "component_custombrandingactivity_description": "Skift Discord status for den brugerdefinerede bot.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Vælg en Tekstkanal",
   "component_sendinterface_menu_option": "Ingen Valgte Kanaler",

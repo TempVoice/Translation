@@ -1,13 +1,13 @@
-e{
+{
   "slogan_title_part_1": "Temporal",
   "slogan_title_part_2": "mejor que permanente",
-  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporales'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
+  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporal'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
   
   "featured_title": "Respaldado por tus Servidores Favoritos",
   "featured_description": "Miles de Servidores de Discord y más de un millón de personas eligen TempVoice.",
   
   "introduction_title": "¿Qué es un 'Canal Temporal'?",
-  "introduction_description": "Un 'Canal de Voz Temporal' es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
+  "introduction_description": "Un canal de voz temporal es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
 
   "setup_title": "¿Cómo configuro TempVoice?",
   "setup_description": "Empieza a usar TempVoice con el comando /setup en tu Servidor de Discord. ¡TempVoice creará los canales necesarios para crear y gestionar 'Canales de Voz Temporal'!",
@@ -24,7 +24,6 @@ e{
   "server_selection": "Elige un Servidor de Discord para editar la configuration de TempVoice o invita al bot a un servidor diferente.",
   
   "appearance_title": "Apariencia",
-  "appearance_description": "Personaliza TempVoice para adaptarse al estilo de tu Servidor de Discord, elige un lenguaje y cambia la temática de color de la Interfaz.",
   "appearance_language_title": "Lenguaje",
   "appearance_colortheme_title": "Temática de Color",
 
@@ -39,7 +38,7 @@ e{
   "config_tab_3": "Misceláneo",
 
   "navbar_home": "Inicio",
-  "navbar_help": "Ayuda",
+  "navbar_help": "Help",
   "navbar_setup": "Configuración",
   "navbar_premium": "Premium",
   "navbar_support": "Soporte",
@@ -71,19 +70,27 @@ e{
   "button_lable_login": "Inicia sesión con Discord",
   "button_lable_logout": "Cierra sesión",
   "button_lable_subscribe": "Compra con Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Gestiona tu Suscripción",
-  "button_lable_upgrade": "Mejora el Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "No, cambié de opinión",
   "button_lable_upgrade_continue": "Sí, por favor mejóralo",
   "button_lable_join_cancel": "No, solo inicia sesión",
   "button_lable_join_continue": "Sí, por favor",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "¿Te gustaría entrar a nuestro Discord Oficial?",
   "excordo_quote": "Gracias por tu interés en TempVoice, un bot que cambiará la forma en la que usas Discord. ¡Sobre los años, me he enfocado en las necesidades y los deseos de la comunidad para hacer de Discord un mejor lugar!",
 
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "¿En qué nodo está mi servidor?",
   "component_status_description_1": "Ingresa el ID de tu Servidor en el buscador",
@@ -97,6 +104,7 @@ e{
   "component_totallimit_description": "El número total de Cananles de Voz Temporal que pueden existir al mismo tiempo",
 
   "component_premium_menu_lable": "Activa Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Servidores de Discord Disponibles:",
 
   "component_sendmessage_title": "Envía un Mensaje de Bienvenida",
@@ -215,7 +223,7 @@ e{
   "component_custombranding_description": "Ingresa un Token de un Bot de Discord para permitirnos implementar un servidor separado para tu bot. No utilices este token en ningún otro sitio ni lo compartas con nadie. ¡Trátalo como una contraseña!",
 
   "component_custombrandingactivity_title": "Actividad del Bot (Estado)",
-  "component_custombrandingactivity_description": "Cambia el estado de Discord del Bot personalizado.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Elige un Canal de Texto",
   "component_sendinterface_menu_option": "Sin Canal Elegido",

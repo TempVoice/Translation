@@ -24,7 +24,6 @@
   "server_selection": "Επιλέξτε server για να σετάρετε το tempVoice ή κάντε invite σε άλλο server.",
   
   "appearance_title": "Εμφάνιση",
-  "appearance_description": "¨Αλλάξτε χρώμα, γλώσσα και εμφάνιση.",
   "appearance_language_title": "Γλώσσα",
   "appearance_colortheme_title": "Χρώμα",
 
@@ -71,19 +70,27 @@
   "button_lable_login": "Κάνε login στο Discord",
   "button_lable_logout": "Κάνε Logout",
   "button_lable_subscribe": "Πληρωμή με Stripe",
+  "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Προβολή συνδρομής",
-  "button_lable_upgrade": "Αναβάθμιση σε Premium",
+  "button_lable_upgrade": "Upgrade Subscription",
   "button_lable_upgrade_cancel": "Όχι άλλαξα γνώμη",
   "button_lable_upgrade_continue": "Ναι, γουστάρω να αναβαθμιστώ!",
   "button_lable_join_cancel": "Όχι, απλά μπες στο site",
   "button_lable_join_continue": "Ναι",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
+  "button_back": "Go Back",
 
   "join_support": "Θέλεις να μπεις στο κανάλι μας;",
-  "excordo_quote": "Ευχαριστούμε για το ενδιαφέρον σου",
+  "excordo_quote": "Σας ευχαριστούμε για το ενδιαφέρον σας για το TempVoice, ένα bot που θα αλλάξει τον τρόπο με τον οποίο χρησιμοποιείτε το Discord. Όλα αυτά τα χρόνια, έχω επικεντρωθεί στις ανάγκες και τις επιθυμίες της κοινότητας για να κάνω τον διακομιστή Discord σας καλύτερο!",
+
+  "convinced_1": "Are you convinced now?",
+  "convinced_2": "Say goodbye to permanent voice channels 👋",
 
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+
+  "component_billing_title": "Manage Your Subscription Billing",
+  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
 
   "component_status_title": "Σε τι κλαστερ βρισκομαι?",
   "component_status_description_1": "Βάλε το server ID",
@@ -97,6 +104,7 @@
   "component_totallimit_description": "Συνολικός αριθμός καναλιών",
 
   "component_premium_menu_lable": "Ενεργοποίηση Premium",
+  "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Διαθέσιμο σε:",
 
   "component_sendmessage_title": "Στείλε μήνυμα καλωσορίσματος",
@@ -215,7 +223,7 @@
   "component_custombranding_description": "Μην το δώσετε σε κάνένα το token!",
 
   "component_custombrandingactivity_title": "Bot Status",
-  "component_custombrandingactivity_description": "άλλαξε το status με κάτι δικό σου.",
+  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 
   "component_sendinterface_menu_lable": "Διάλεξε κάναλι για Text Channel",
   "component_sendinterface_menu_option": "Δεν επιλέχθηκε κανάλι",
