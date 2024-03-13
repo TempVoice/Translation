@@ -53,10 +53,10 @@
 		"error_webhook": "## **不可能です！**\n discordセキュリティボットが邪魔をして、webhookを作成できません。*Wick*、*Beemo*などのボットが原因かどうか確認してください。",
 		"error_totallimit": "## **不可能です！**\n 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。Discordサーバー側で制限がされています。少し待って再試行してください。",
 		"error_category_limit": "## **不可能です！**\n ボットが使用できるすべてのカテゴリーが、それぞれ50チャンネルの上限に達しています。あなたが管理者の場合はダッシュボード内にある**一時的なチャンネルのカテゴリー（予備）**でカテゴリーを増やしてください。",
-		"error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
+		"error_server_limit": "## **不可能です！**\n このサーバーはすでに500チャンネルが存在している為新たなVCを作成できません。 少し待ってから再試行してください。",
 		"error_cb": "## **不可能です。**\n BOTのオーナーが[TempVoice Custom Branding](https://tempvoice.xyz/premium)を有効化していません。 もしカスタムブランディングBOTのオーナーの場合は、<@762217899355013120> パブリックBOTをキックしてから、プレミアムBOTを**https://tempvoice.xyz/premium** > で**Activate Premium**してください。",
 		"error_conflict": "## **予期しない問題が発生しました。**\n TempVoiceとDiscord APIの間で問題がありました。エラーメッセージはこちらで報告してください：https://discord.gg/tempvoice\n### エラー：`{val1}`",
-		"error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+		"error_already_invited": "## **不可能です！**\n このユーザーはすでにこのVCに招待されています。",
 		
 		"voice_waiting_1": "## **不可能です。**\n ボイスチャンネル(VC)を非表示にすると、待機VCを作ることができません。",
 		"voice_waiting_2": "## **不可能です。**\n 待機VCがある場合、ボイスチャンネル(VC)を非表示にすることはできません。",
