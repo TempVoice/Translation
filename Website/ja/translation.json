@@ -70,27 +70,27 @@
   "button_lable_login": "Discordでログイン",
   "button_lable_logout": "ログアウト",
   "button_lable_subscribe": "Stripeでチェックアウト",
-  "button_lable_billing": "Manage on Stripe",
+  "button_lable_billing": "Stripeで管理",
   "button_lable_premium": "サブスクリプションの管理",
-  "button_lable_upgrade": "Upgrade Subscription",
+  "button_lable_upgrade": "サブスクリプションの管理",
   "button_lable_upgrade_cancel": "いいえ、考え直しました",
   "button_lable_upgrade_continue": "はい、アップグレードしてください",
   "button_lable_join_cancel": "ログインのみ",
   "button_lable_join_continue": "はい、参加してください",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
+  "button_lable_manage_custom_branding": "カスタムBOTを管理",
+  "button_back": "戻る",
 
   "join_support": "私たちのDiscordに参加しますか？",
   "excordo_quote": "Discordの利用方法を変えるボット、TempVoiceに興味を持っていただきありがとうございます。 私は年月をかけて、コミュニティのニーズや願いに焦点を当て、あなたのDiscordサーバーをより良い場所にするために努力してきました！",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "納得しましたか？",
+  "convinced_2": "一時的なVCに別れを告げましょう 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "すべてのプレミアム機能がアンロックされています✌️",
+  "premium_status_description_2": "プレミアムでは、あなただけの埋め込みアイコン、名前、 色、画像を使用可能です🤩",
 
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "component_billing_title": "サブスクリプションの請求の管理",
+  "component_billing_description": "支払い方法を管理するか、サブスクリプションをキャンセルします。 購読に使用したメールアドレスを必ず入力してください。 メールアドレスを思い出せない場合は、サポートにお問い合わせください。",
 
   "component_status_title": "私のサーバーはどのクラスターにありますか？",
   "component_status_description_1": "検索ボックスにサーバーIDを入力してください",
@@ -104,11 +104,11 @@
   "component_totallimit_description": "同時に存在できる一時的なチャンネルの合計数",
 
   "component_premium_menu_lable": "プレミアムを有効にする",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "サーバーを選択",
   "component_premium_menu_description": "利用可能なDiscordサーバー：",
 
   "component_sendmessage_title": "ウェルカムメッセージを送る",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "カスタムメッセージ",
   "component_sendmessage_description": "一時的なチャンネルを作成後、そのチャンネルに指定したメッセージを送信します",
 
   "component_roleparticipant_title": "ボイス内のロール",
@@ -128,9 +128,9 @@
   "component_restore_description": "削除される前の一時的なチャンネルの設定を復元します",
 
   "component_position_title": "一時的なチャンネルの位置",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
+  "component_position_menu_option_1": "一番上",
+  "component_position_menu_option_2": "クリエイターチャンネルの下",
+  "component_position_menu_option_3": "一番下",
   "component_position_description": "一時的なチャンネルの作成時の位置（デフォルト：下）",
 
   "component_permissionsowner_title": "VCオーナーの追加Discord権限",
