@@ -222,7 +222,7 @@
   "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
 
   "component_custombrandingactivity_title": "Активность бота (Статус)",
-  "component_custombrandingactivity_description": "Меянйте Discord статус вашего Custom Branding бота. Это может занять до 5 минут, дабы изменения стали видны в Discord.",
+  "component_custombrandingactivity_description": "Меняйте Discord статус вашего Custom Branding бота. Это может занять до 5 минут, дабы изменения стали видны в Discord.",
 
   "component_sendinterface_menu_lable": "Выберите текстовый канал",
   "component_sendinterface_menu_option": "Канал не выбран",
