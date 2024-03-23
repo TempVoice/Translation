@@ -32,11 +32,11 @@
   "interface_title": "Giao Diện",
   "interface_description": "Cho phép người dùng kiểm soát các kênh thoại tạm thời của họ.",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "Tổng thể",
+  "config_tab_2": "Tính năng",
+  "config_tab_3": "Quyền",
+  "config_tab_4": "Tùy chỉnh",
+  "config_tab_5": "Hỗn hợp",
 
   "navbar_home": "Trang Chủ",
   "navbar_help": "Help",
@@ -78,20 +78,20 @@
   "button_lable_upgrade_continue": "Có, vui lòng nâng cấp",
   "button_lable_join_cancel": "Không, chỉ đăng nhập thôi",
   "button_lable_join_continue": "Có, vui lòng",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
+  "button_lable_manage_custom_branding": "Quản lý thương hiệu tùy chỉnh",
+  "button_back": "Trở về",
 
   "join_support": "Bạn có muốn tham gia Discord của chúng tôi không?",
   "excordo_quote": "Cảm ơn vì sự quan tâm của bạn đến TempVoice, một bot sẽ thay đổi cách bạn sử dụng Discord. Suốt những năm qua, tôi đã tập trung vào nhu cầu và mong muốn của cộng đồng để biến máy chủ Discord của bạn trở nên tốt hơn!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Bây giờ bạn đã bị thuyết phục chưa?",
+  "convinced_2": "Nói lời tạm biệt với các kênh thoại cố định 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "Tất cả tùy chỉnh cao cấp của Premium đều được mở khóa ✌️",
+  "premium_status_description_2": "Sử dụng hình đại diện, tên, màu sắc và hình ảnh nhúng của riêng bạn với Premium 🤩",
 
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "comComponent_billing_title": "Quản lý thanh toán đăng ký của bạn",
+  "comComponent_billing_description": "Quản lý phương thức thanh toán của bạn hoặc hủy đăng ký. Đảm bảo nhập email bạn đã sử dụng để đăng ký. Hãy liên hệ với bộ phận hỗ trợ nếu bạn không thể nhớ email của mình!",
 
   "component_status_title": "Cluster nào là máy chủ của tôi?",
   "component_status_description_1": "Nhập ID Máy Chủ của bạn vào hộp tìm kiếm",
