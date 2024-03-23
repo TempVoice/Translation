@@ -25,7 +25,6 @@
   
   "appearance_title": "Aspetto",
   "appearance_language_title": "Lingua",
-  "appearance_colortheme_title": "Tema",
 
   "creators_title": "Creatori",
   "creators_description": "Definisci le caratteristiche dei canali temporanei generati dai diversi Canali Creatore. Scegli un nome predefinito, i permessi e molto altro.",
@@ -33,9 +32,11 @@
   "interface_title": "Interfaccia",
   "interface_description": "Consente agli utenti di controllare i propri canali vocali temporanei.",
 
-  "config_tab_1": "Panoramica",
-  "config_tab_2": "Permessi",
-  "config_tab_3": "Varie",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Home",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Valore del placeholder per quando l'utente non ha un'emoji nel proprio stato",
 
   "component_name_title": "Nome del canale temporaneo",
-  "component_name_button_lable": "Placeholder disponibili ✨",
   "component_name_description": "Nome di default per i canali temporanei",
 
   "component_limit_title": "Limite utenti del canale temporaneo",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Usare la chat in-voice",
   "component_ownerpermissions_option_close": "Chiudere forzatamente il canale",
 
-  "component_category_title": "Categoria dei canali temporanei (principale)",
+  "component_category_title": "Categoria dei canali temporanei",
   "component_category_menu_lable": "Nessuna categoria",
   "component_category_description": "Categoria nella quale verranno creati i canali temporanei",
 
-  "component_fallback_title": "Categoria dei canali temporanei (riserva)",
   "component_fallback_menu_lable": "Seleziona categorie",
   "component_fallback_description": "Categorie di riserva per quando quella principale ha raggiunto il limite di 50 canali",
 

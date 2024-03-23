@@ -25,7 +25,6 @@
 
   "appearance_title": "Giao Diện",
   "appearance_language_title": "Ngôn Ngữ",
-  "appearance_colortheme_title": "Giao Diện Màu Sắc",
 
   "creators_title": "Người Tạo",
   "creators_description": "Xác định cách tạo các kênh thoại tạm thời. Chỉ định tên mặc định, giới hạn, quyền hạn và nhiều hơn nữa.",
@@ -33,9 +32,11 @@
   "interface_title": "Giao Diện",
   "interface_description": "Cho phép người dùng kiểm soát các kênh thoại tạm thời của họ.",
 
-  "config_tab_1": "Tổng Quan",
-  "config_tab_2": "Quyền Hạn",
-  "config_tab_3": "Khác",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Trang Chủ",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Tên mặc định khi hoạt động của người dùng không có biểu tượng cảm xúc",
 
   "component_name_title": "Tên Kênh Tạm Thời",
-  "component_name_button_lable": "Phần Giữ Chỗ Có Sẵn ✨",
   "component_name_description": "Tên mặc định cho các kênh thoại tạm thời",
 
   "component_limit_title": "Giới Hạn Người Dùng Kênh Tạm Thời",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Sử dụng trò chuyện thoại",
   "component_ownerpermissions_option_close": "Forcibly close channel",
   
-  "component_category_title": "Danh mục kênh tạm thời (Cấp chính)",
+  "component_category_title": "Danh mục kênh tạm thời",
   "component_category_menu_lable": "Không có danh mục nào được chọn",
   "component_category_description": "Danh mục chính cho các kênh tạm thời",
   
-  "component_fallback_title": "Danh mục kênh tạm thời (Danh mục thay thế)",
   "component_fallback_menu_lable": "Chọn danh mục",
   "component_fallback_description": "Danh mục thay thế khi danh mục chính đạt đến giới hạn 50 kênh",
   

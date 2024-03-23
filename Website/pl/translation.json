@@ -25,7 +25,6 @@
   
   "appearance_title": "Wygląd",
   "appearance_language_title": "Język",
-  "appearance_colortheme_title": "Kolor Motywu",
 
   "creators_title": "Twórcy",
   "creators_description": "Zdefiniuj jak tymczasowe kanały są tworzone. Ustaw domyślną nazwę, limit, permisje i więcej.",
@@ -33,9 +32,11 @@
   "interface_title": "Interfejs",
   "interface_description": "Pozwala użytkownikom kontrolować ich tymczasowe kanały głosowe.",
 
-  "config_tab_1": "Przegląd",
-  "config_tab_2": "Permisje",
-  "config_tab_3": "Różne",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Strona Główna",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Domyślna nazwa, gdy status użytkownika nie ma emotki",
 
   "component_name_title": "Nazwa Tymczasowego Kanału",
-  "component_name_button_lable": "Dostępne Placeholdery ✨",
   "component_name_description": "Domyślna nazwa dla tymczasowych kanałów",
 
   "component_limit_title": "Limit Użytkowników Tymczasowego Kanału",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Używaj czatu na kanale głosowym",
   "component_ownerpermissions_option_close": "Wymuś zamknięcie kanału",
 
-  "component_category_title": "Kategoria Tymczasowego Kanału (Główna)",
+  "component_category_title": "Kategoria Tymczasowego Kanału",
   "component_category_menu_lable": "Nie wybrano kategorii",
   "component_category_description": "Główna kategoria dla tymczasowych kanałów",
 
-  "component_fallback_title": "Kategorie Tymczasowego Kanału (Zapasowe)",
   "component_fallback_menu_lable": "Wybierz kategorie",
   "component_fallback_description": "Zapasowe kategorie, gdy główna osiągnie swój limit 50 kanałów",
 

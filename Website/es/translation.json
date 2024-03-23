@@ -25,7 +25,6 @@
   
   "appearance_title": "Apariencia",
   "appearance_language_title": "Lenguaje",
-  "appearance_colortheme_title": "Temática de Color",
 
   "creators_title": "Creadores",
   "creators_description": "Define como los 'Canales de Voz Temporales' son creados. Especifica un nombre por defecto, limitaciones, permisos y más.",
@@ -33,9 +32,11 @@
   "interface_title": "Interfaz",
   "interface_description": "Permite a los usuarios controlar su propio 'Canal de Voz Temporal'",
 
-  "config_tab_1": "Vista General",
-  "config_tab_2": "Permisos",
-  "config_tab_3": "Misceláneo",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Inicio",
   "navbar_help": "Ayuda",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Nombre predeterminado para cuando el estado del usuario no tiene emoji (Predeterminado: ❔)",
 
   "component_name_title": "Nombre del Canal Temporal",
-  "component_name_button_lable": "Marcadores Disponibles ✨",
   "component_name_description": "Nombre Predeterminado para Canales Temporales",
 
   "component_limit_title": "Límite de Usuarios del Canal Temporal",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Usar el Chat de Voz",
   "component_ownerpermissions_option_close": "Forzar Cierre del Canal",
 
-  "component_category_title": "Categoría del Canal Temporal (Principal)",
+  "component_category_title": "Categoría del Canal Temporal",
   "component_category_menu_lable": "Sin Categoría Elegida",
   "component_category_description": "Categoría Principal para Canales Temporales",
 
-  "component_fallback_title": "Categoría del Canal Temporal (Respaldo)",
   "component_fallback_menu_lable": "Elige Categorías",
   "component_fallback_description": "Categorías de respaldo para cuando la principal alcance el límite de 50 canales",
 

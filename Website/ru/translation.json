@@ -25,7 +25,6 @@
   
   "appearance_title": "Вид",
   "appearance_language_title": "Язык",
-  "appearance_colortheme_title": "Цветовая тема",
 
   "creators_title": "Создатели",
   "creators_description": "Укажите как временные голосовые каналы создаются. Обозначьте название по умолчанию, ограничения, права и так далее.",
@@ -33,9 +32,11 @@
   "interface_title": "Интерфейс",
   "interface_description": "Используется пользователями для управления временными каналами.",
 
-  "config_tab_1": "Общие",
-  "config_tab_2": "Права",
-  "config_tab_3": "Другое",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Главная",
   "navbar_help": "Помощь",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Название по умолчанию, когда статус пользователя не содержит эмодзи",
 
   "component_name_title": "Название временного канала",
-  "component_name_button_lable": "Доступные переменные ✨",
   "component_name_description": "Название временных каналов по умолчанию",
 
   "component_limit_title": "Лимит пользователей",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Использование внутриканального чата",
   "component_ownerpermissions_option_close": "Принудительно закрывать канал",
 
-  "component_category_title": "Основная категория для каналов",
+  "component_category_title": "категория для каналов",
   "component_category_menu_lable": "Категория не выбрана",
   "component_category_description": "Основная категория для временных каналов",
 
-  "component_fallback_title": "Дополнительная категория для каналов",
   "component_fallback_menu_lable": "Выберите категории",
   "component_fallback_description": "Дополнительная категория, если основная достигнет своего лимита в 50 каналов",
 

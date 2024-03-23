@@ -25,7 +25,6 @@
   
   "appearance_title": "Išvaizda",
   "appearance_language_title": "Kalba",
-  "appearance_colortheme_title": "Spalvos",
 
   "creators_title": "Kūrėjai",
   "creators_description": "Nurodykite, kaip sukuriami laikini balso kanalai. Nurodykite numatytąjį pavadinimą, apribojimą, leidimus ir daugiau.",
@@ -33,9 +32,11 @@
   "interface_title": "Valdymas",
   "interface_description": "Leidžia vartotojams valdyti laikinus balso kanalus.",
 
-  "config_tab_1": "Apžvalga",
-  "config_tab_2": "Leidimai",
-  "config_tab_3": "Įvairūs",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Pagrindinis",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Numatytasis pavadinimas, kai vartotojo statusas neturi emoji",
 
   "component_name_title": "Laikino Balso Kanalo Pavadinimas",
-  "component_name_button_lable": "Galimi Placeholderiai ✨",
   "component_name_description": "Numatytasis laikino balso kanalo pavadinimas",
 
   "component_limit_title": "Laikino Balso Kanalo Vartotojų Limitas",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Naudoti balso-kanalo chatą",
   "component_ownerpermissions_option_close": "Priverstinai uždaryti kanalą",
 
-  "component_category_title": "Laikinųjų Balso Kanalų Kategorija (Pagrindinė)",
+  "component_category_title": "Laikinųjų Balso Kanalų Kategorija",
   "component_category_menu_lable": "Nepasirinkta Jokia Kategorija",
   "component_category_description": "Pagrindinė laikinųjų balso kanalų kategorija",
 
-  "component_fallback_title": "Laikinųjų Balso Kanalų Kategorija (Atsarginė)",
   "component_fallback_menu_lable": "Pasirinkti Kategoriją",
   "component_fallback_description": "Atsarginės kategorijos, kai pasiekiamas 50 kanalų limitas pagrindinėje kategorijoje",
 

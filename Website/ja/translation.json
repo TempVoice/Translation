@@ -25,7 +25,6 @@
 
   "appearance_title": "見た目",
   "appearance_language_title": "言語",
-  "appearance_colortheme_title": "色のテーマ",
 
   "creators_title": "クリエイター",
   "creators_description": "一時的なボイスチャンネルがどのように作られるかを決めます。デフォルトの名前、制限、権限などを指定してください。",
@@ -33,9 +32,11 @@
   "interface_title": "設定パネル",
   "interface_description": "ユーザーが簡単に自分の一時的なボイスチャンネルの設定を変更できるようにします。",
 
-  "config_tab_1": "概要",
-  "config_tab_2": "権限",
-  "config_tab_3": "その他",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "ホーム",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "ユーザーのステータスに絵文字がない場合のデフォルト名",
 
   "component_name_title": "一時的なチャンネルの名前",
-  "component_name_button_lable": "使用可能なプレースホルダー ✨",
   "component_name_description": "一時的なチャンネルのデフォルト名",
 
   "component_limit_title": "一時的なチャンネルのユーザー制限",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "VC内チャットを使用",
   "component_ownerpermissions_option_close": "強制的にチャンネルを閉じる",
 
-  "component_category_title": "一時的なチャンネルカテゴリー (メイン)",
+  "component_category_title": "一時的なチャンネルカテゴリー",
   "component_category_menu_lable": "カテゴリー未選択",
   "component_category_description": "一時的なチャンネルの主なカテゴリー",
 
-  "component_fallback_title": "一時的なチャンネルのカテゴリー（予備）",
   "component_fallback_menu_lable": "カテゴリーを選択：オプション",
   "component_fallback_description": "メインカテゴリーが50チャンネル制限に達した場合に使用する予備カテゴリー",
 

@@ -25,7 +25,6 @@
   
   "appearance_title": "Εμφάνιση",
   "appearance_language_title": "Γλώσσα",
-  "appearance_colortheme_title": "Χρώμα",
 
   "creators_title": "Creators (δημιουργοί)",
   "creators_description": "Επέλεξε όνομα, όριο και permissions για τα προσωρινά κανάλια.",
@@ -33,9 +32,11 @@
   "interface_title": "Επιπλέον Ρυθμίσεις",
   "interface_description": "Αλλαγή ρυθμίσεων στο περιβάλλον των προσωρινών καναλιών.",
 
-  "config_tab_1": "Προεπισκόπηση",
-  "config_tab_2": "Αλλαγές στα Permissions",
-  "config_tab_3": "Διάφορα",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Αρχική",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Default όνομα όταν ο χρήστης δεν εχει emoji",
 
   "component_name_title": "Όνομα προσωρινού καναλιού",
-  "component_name_button_lable": "Διαθέσιμα Placeholders ✨",
   "component_name_description": "Default όνομα προσωρινών καναλιών",
 
   "component_limit_title": "Όριο προσωρινών καναλιών",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Ενεργοποίηση in-voice chat",
   "component_ownerpermissions_option_close": "Κλείσε βίαια το κανάλι",
 
-  "component_category_title": "Προσωρινή κατηγορια (Primary)",
+  "component_category_title": "Προσωρινή κατηγορια",
   "component_category_menu_lable": "Χωρις επιλογή κατηγοριας",
   "component_category_description": "Κύρια κατηγορια",
 
-  "component_fallback_title": "Προσωρινή κατηγορια (Fallbacks)",
   "component_fallback_menu_lable": "΅Επιλογή κατηγοριών",
   "component_fallback_description": "Επιλογή κατηγορίας αν το όριο φτασει τα 50 κανάλια",
 

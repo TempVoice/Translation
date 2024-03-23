@@ -25,7 +25,6 @@
   
   "appearance_title": "Tampilan",
   "appearance_language_title": "Bahasa",
-  "appearance_colortheme_title": "Tema Warna",
 
   "creators_title": "Creator",
   "creators_description": "Tentukan nama, banyaknya channel, batas channel, perijinan dan lainnya.",
@@ -33,9 +32,11 @@
   "interface_title": "Antarmuka",
   "interface_description": "Izinkan user untuk mengontrol voice channel sementara mereka.",
 
-  "config_tab_1": "Ikhtisar",
-  "config_tab_2": "Perzinan",
-  "config_tab_3": "Lainnya",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Beranda",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Nama bawaan saat aktivitas user gak punya emoji",
 
   "component_name_title": "Nama Channel Sementara",
-  "component_name_button_lable": "Placeholder Tersedia ✨",
   "component_name_description": "Nama bawaan untuk channel sementara",
 
   "component_limit_title": "Batas user channel sementara",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Gunnakan chat in-voice",
   "component_ownerpermissions_option_close": "Paksa Tutup Channel",
 
-  "component_category_title": "Kategori utama channel Sementara",
+  "component_category_title": "Kategori channel Sementara",
   "component_category_menu_lable": "Gak ada kategori terpilih",
   "component_category_description": "Kategori utama untuk channel sementara",
 
-  "component_fallback_title": "Kategori fallback channel Sementara",
   "component_fallback_menu_lable": "Pilih kategori",
   "component_fallback_description": "Voice dipindahkan ke kategori fallback saat kategori utama mencapai batas 50 channel",
 

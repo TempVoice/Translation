@@ -25,7 +25,6 @@
   
   "appearance_title": "Udseende",
   "appearance_language_title": "LanguSprogage",
-  "appearance_colortheme_title": "Color Tema",
 
   "creators_title": "Skabere",
   "creators_description": "Definer, hvordan midlertidige talekanaler oprettes. Angiv et standardnavn, grænser, tilladelser og mere.",
@@ -33,9 +32,11 @@
   "interface_title": "Styrepanel",
   "interface_description": "Giver brugere mulighed for at styre deres midlertidige stemmekanaler.",
 
-  "config_tab_1": "Oversigt",
-  "config_tab_2": "Tilladelser",
-  "config_tab_3": "Diverse",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Hjem",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Standardnavn for når brugerens aktivitet ikke har en emoji",
 
   "component_name_title": "Midlertidig Kanalnavn",
-  "component_name_button_lable": "Tilgængelige Pladsholdere ✨",
   "component_name_description": "Standardnavn for midlertidige kanaler",
 
   "component_limit_title": "Midlertidig Kanal Brugergrænse",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Brug stemmekanal chatten",
   "component_ownerpermissions_option_close": "Forcibly close channel",
 
-  "component_category_title": "Midlertidig Kanalkategori (Primær)",
+  "component_category_title": "Midlertidig Kanalkategori",
   "component_category_menu_lable": "Ingen Kategori Valgt",
   "component_category_description": "Primær kategori for midlertidige kanaler",
 
-  "component_fallback_title": "Midlertidig Kanalkategori (Tilbagefald)",
   "component_fallback_menu_lable": "Ingen Kategori Valgt",
   "component_fallback_description": "Alternative kategorier for, hvornår den primære når sin grænse på 50 kanaler",
 

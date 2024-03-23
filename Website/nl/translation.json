@@ -25,7 +25,6 @@
     
     "appearance_title": "Uiterlijk",
     "appearance_language_title": "Taal",
-    "appearance_colortheme_title": "Kleurthema",
     
     "creators_title": "Makers",
     "creators_description": "Definieer hoe tijdelijke spraakkanalen worden gemaakt. Specificeer een standaard naam, limiet, rechten en meer.",
@@ -33,9 +32,11 @@
     "interface_title": "Interface",
     "interface_description": "Stelt gebruikers in staat hun tijdelijke spraakkanalen te beheren.",
     
-    "config_tab_1": "Overzicht",
-    "config_tab_2": "Rechten",
-    "config_tab_3": "Diversen",
+    "config_tab_1": "Overview",
+    "config_tab_2": "Features",
+    "config_tab_3": "Permissions",
+    "config_tab_4": "Customization",
+    "config_tab_5": "Miscellaneous",
     
     "navbar_home": "Home",
     "navbar_help": "Help",
@@ -171,7 +172,6 @@
     "component_placeholder_activity_4_description": "Standaard naam voor wanneer de status van de gebruiker geen emoji heeft",
     
     "component_name_title": "Naam Tijdelijk Kanaal",
-    "component_name_button_lable": "Beschikbare Plaatsaanduidingen ✨",
     "component_name_description": "Standaard naam voor tijdelijke kanalen",
     
     "component_limit_title": "Gebruikerslimiet Tijdelijk Kanaal",
@@ -201,11 +201,10 @@
     "component_ownerpermissions_option_chat": "In-voice chat gebruiken",
     "component_ownerpermissions_option_close": "Kanaal gedwongen sluiten",
     
-    "component_category_title": "Primaire Categorie Tijdelijk Kanaal",
+    "component_category_title": "Categorie Tijdelijk Kanaal",
     "component_category_menu_lable": "Geen Categorie Geselecteerd",
     "component_category_description": "Primaire categorie voor tijdelijke kanalen",
     
-    "component_fallback_title": "Fallback Categorieën Tijdelijk Kanaal",
     "component_fallback_menu_lable": "Categorieën Selecteren",
     "component_fallback_description": "Fallback categories for when the primary reaches its 50 channel limit",
   

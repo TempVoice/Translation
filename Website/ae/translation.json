@@ -25,7 +25,6 @@
   
   "appearance_title": "المظهر",
   "appearance_language_title": "لغة",
-  "appearance_colortheme_title": "موضوع اللون",
 
   "creators_title": "المبدعين",
   "creators_description": "تحديد كيفية إنشاء القنوات الصوتية المؤقتة. حدد الاسم الافتراضي والحد و طلب السماح والمزيد.",
@@ -33,9 +32,11 @@
   "interface_title": "واجهه المستخدم",
   "interface_description": "يسمح للمستخدمين بالتحكم في قنواتهم الصوتية المؤقتة.",
 
-  "config_tab_1": "ملخص",
-  "config_tab_2": "طلب السماح",
-  "config_tab_3": "متنوع",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "الصفحة الرئسية",
   "navbar_help": "مساعده",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "الاسم الافتراضي عندما لا تحتوي حالة المستخدم على رمز تعبيري",
 
   "component_name_title": "اسم القناة المؤقتة",
-  "component_name_button_lable": "العناصر النائبة المتاحة ✨",
   "component_name_description": "الاسم الافتراضي للقنوات المؤقتة",
 
   "component_limit_title": "الحد المؤقت لمستخدمي القناة",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "استخدم الدردشة الصوتية",
   "component_ownerpermissions_option_close": "إغلاق القناة بالقوة",
 
-  "component_category_title": "فئة القناة المؤقتة (الأساسية)",
+  "component_category_title": "فئة القناة المؤقتة",
   "component_category_menu_lable": "لم يتم تحديد فئة",
   "component_category_description": "الفئة الأساسية للقنوات المؤقتة",
 
-  "component_fallback_title": "فئة القناة المؤقتة (الاحتياطية)",
   "component_fallback_menu_lable": "حدد الفئات",
   "component_fallback_description": "الفئات الاحتياطية عندما تصل القناة الأساسية إلى حد القناة البالغ 50 قناة",
 
