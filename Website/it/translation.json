@@ -32,11 +32,11 @@
   "interface_title": "Interfaccia",
   "interface_description": "Consente agli utenti di controllare i propri canali vocali temporanei.",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "Panoramica",
+  "config_tab_2": "Funzionalità",
+  "config_tab_3": "Permessi",
+  "config_tab_4": "Personalizzazioni",
+  "config_tab_5": "Altro",
 
   "navbar_home": "Home",
   "navbar_help": "Help",
@@ -44,8 +44,8 @@
   "navbar_premium": "Premium",
   "navbar_support": "Supporto",
   
-  "premium_slogan_title": "Il tuo piano Premium personale",
-  "premium_slogan_description": "Sblocca il pieno potenziale del tuo server ottenendo l'accesso completo a tutte le funzionalità. Disdici in qualsiasi momento.",
+  "premium_slogan_title": "Il tuo Premium personalizzato",
+  "premium_slogan_description": "Sblocca il pieno potenziale del tuo server scegliendo quali funzionalità attivare. Disdici in qualsiasi momento.",
   "premium_title": "Più personalizzazione. Più libertà.",
   "premium_description": "Fai tuo TempVoice e goditi la libertà di modificarlo come più ti piace, senza alcun limite.",
   "premium_feature_1": "Interfacce completamente personalizzabili",
@@ -54,7 +54,7 @@
   "premium_feature_4": "server Discord",
   "premium_cycle_monthly": "al mese",
   "premium_cycle_yearly": "all'anno",
-  "premium_highlighed_title_1": "Bot personale",
+  "premium_highlighed_title_1": "Bot personalizzabile",
   "premium_highlighed_description_1": "Avatar, nome, stato e biografia del bot personalizzabili, oltre alla possibilità di sbloccare dei placeholder esclusivi",
   "premium_highlighed_title_2": "Abbonamento annuale",
   "premium_highlighed_description_2": "Risparmio del 16% con un ciclo di fatturazione annuale",
@@ -71,27 +71,27 @@
   "button_lable_login": "Accedi con Discord",
   "button_lable_logout": "Logout",
   "button_lable_subscribe": "Paga con Stripe",
-  "button_lable_billing": "Manage on Stripe",
+  "button_lable_billing": "Gestisci su Stripe",
   "button_lable_premium": "Gestisci abbonamento",
-  "button_lable_upgrade": "Upgrade Subscription",
+  "button_lable_upgrade": "Potenzia abbonamento",
   "button_lable_upgrade_cancel": "No, ho cambiato idea",
   "button_lable_upgrade_continue": "Sì, potenzia abbonamento",
   "button_lable_join_cancel": "No, grazie",
   "button_lable_join_continue": "Sì, per favore",
   "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
+  "button_back": "Indietro",
 
   "join_support": "Entrare anche nel nostro server Discord?",
   "excordo_quote": "Thank you for your interest in TempVoice, a bot that will change the way how you use Discord. Over the years, I have focused on the needs and wishes of the community to make your Discord server a better place!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Ti abbiamo convinto?",
+  "convinced_2": "Di' anche tu addio ai normali canali vocali 👋",
   
   "premium_status_description_1": "All premium customizations are unlocked ✌️",
   "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
 
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "component_billing_title": "Gestisci i tuoi pagamenti",
+  "component_billing_description": "Gestisci il tuo metodo di pagamento o disdici l'abbonamento. Assicurati di inserire l'email che hai usato per abbonarti. Contatta il supporto se non ricordi l'email usata!",
 
   "component_status_title": "Su che cluster si trova il mio server?",
   "component_status_description_1": "Inserisci il tuo Server ID",
@@ -105,7 +105,7 @@
   "component_totallimit_description": "Limite massimo di canali temporanei che possono esistere contemporaneamente",
 
   "component_premium_menu_lable": "Attiva Premium",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "Scegli i tuoi server Premium",
   "component_premium_menu_description": "Server Discord Disponibili:",
 
   "component_sendmessage_title": "Invia messaggio di benvenuto",
@@ -222,7 +222,7 @@
   "component_custombranding_description": "Inserisci il token del tuo bot di Discord per permetterci di configurarlo. Non usare questo token da nessun'altra parte e non condividerlo con nessuno. Trattalo come una password!",
 
   "component_custombrandingactivity_title": "Status del bot",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "Cambia lo status del tuo bot personalizzato. Potrebbero volerci alcuni minuti prima dell'applicazione del cambiamento.",
 
   "component_sendinterface_menu_lable": "Seleziona un canale testuale",
   "component_sendinterface_menu_option": "Nessun canale selezionato",
