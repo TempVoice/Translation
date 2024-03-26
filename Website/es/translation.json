@@ -1,16 +1,16 @@
 {
   "slogan_title_part_1": "Temporal",
   "slogan_title_part_2": "mejor que permanente",
-  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporal'. Los canales vacíos son eliminados inmediatamente; puedes crear nuevos con solo un clic.",
+  "slogan_description": "TempVoice hace que tu servidor se vea más limpio al implementar 'Canales de Voz Temporales'. Los canales vacíos se eliminan inmediatamente; y puedes crear nuevos con solo un clic.",
   
   "featured_title": "Respaldado por tus Servidores Favoritos",
   "featured_description": "Miles de Servidores de Discord y más de un millón de personas eligen TempVoice.",
   
   "introduction_title": "¿Qué es un 'Canal Temporal'?",
-  "introduction_description": "Un canal de voz temporal es creado cuando alguien ingresa a un 'Creator Channel', y es eliminado cuando todos se han ido.",
+  "introduction_description": "Un canal de voz temporal es creado cuando alguien ingresa a un 'Canal Creador', y es eliminado cuando todos se han ido.",
 
   "setup_title": "¿Cómo configuro TempVoice?",
-  "setup_description": "Empieza a usar TempVoice con el comando /setup en tu Servidor de Discord. ¡TempVoice creará los canales necesarios para crear y gestionar 'Canales de Voz Temporal'!",
+  "setup_description": "Comienza a usar TempVoice con el comando /setup en tu Servidor de Discord. ¡TempVoice creará los canales necesarios para crear y gestionar 'Canales de Voz Temporales'!",
   
   "status_title": "¿El bot está funcionando adecuadamente?",
   "status_description": "TempVoice está dividido en particiones y nodos para un mejor rendimiento. Cada nodo tiene hasta 5 particiones y soporta al rededor de 5000 Servidores de Discord.",
@@ -21,24 +21,25 @@
   "status_alert_offline": "TempVoice está ahora mismo parcialmente no disponible. Nos disculpamos por el inconveniente.",
   "status_alert_online": "TempVoice está completamente operativo",
 
-  "server_selection": "Elige un Servidor de Discord para editar la configuration de TempVoice o invita al bot a un servidor diferente.",
+  "server_selection": "Elige un Servidor de Discord para editar la configuración de TempVoice o invita al bot a un servidor diferente.",
   
   "appearance_title": "Apariencia",
   "appearance_language_title": "Lenguaje",
-  "appearance_colortheme_title": "Temática de Color",
 
   "creators_title": "Creadores",
-  "creators_description": "Define como los 'Canales de Voz Temporal' son creados. Especifica un nombre por defecto, limitaciones, permisos y más.",
+  "creators_description": "Define como los 'Canales de Voz Temporales' son creados. Especifica un nombre por defecto, limitaciones, permisos y más.",
 
   "interface_title": "Interfaz",
   "interface_description": "Permite a los usuarios controlar su propio 'Canal de Voz Temporal'",
 
-  "config_tab_1": "Vista General",
-  "config_tab_2": "Permisos",
-  "config_tab_3": "Misceláneo",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Inicio",
-  "navbar_help": "Help",
+  "navbar_help": "Ayuda",
   "navbar_setup": "Configuración",
   "navbar_premium": "Premium",
   "navbar_support": "Soporte",
@@ -48,7 +49,7 @@
   "premium_title": "Mayor personalización. Mayor libertad.",
   "premium_description": "Haz de TempVoice tuyo y disfruta de la libertad de personalizarlo como desees, sin limitaciones.",
   "premium_feature_1": "Interfaces Completamente Personalizables",
-  "premium_feature_2": "Ilimitados 'Creator Channels'",
+  "premium_feature_2": "'Canales Creador' ilimitados",
   "premium_feature_3": "Sin requerimientos de voto",
   "premium_feature_4": "Servidores de Discord",
   "premium_cycle_monthly": "mensual",
@@ -70,27 +71,27 @@
   "button_lable_login": "Inicia sesión con Discord",
   "button_lable_logout": "Cierra sesión",
   "button_lable_subscribe": "Compra con Stripe",
-  "button_lable_billing": "Manage on Stripe",
+  "button_lable_billing": "Gestiona en Stripe",
   "button_lable_premium": "Gestiona tu Suscripción",
-  "button_lable_upgrade": "Upgrade Subscription",
+  "button_lable_upgrade": "Mejora tu Suscripción",
   "button_lable_upgrade_cancel": "No, cambié de opinión",
   "button_lable_upgrade_continue": "Sí, por favor mejóralo",
   "button_lable_join_cancel": "No, solo inicia sesión",
   "button_lable_join_continue": "Sí, por favor",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
+  "button_lable_manage_custom_branding": "Gestiona Marca Personalizada",
+  "button_back": "Volver atrás",
 
   "join_support": "¿Te gustaría entrar a nuestro Discord Oficial?",
-  "excordo_quote": "Gracias por tu interés en TempVoice, un bot que cambiará la forma en la que usas Discord. ¡Sobre los años, me he enfocado en las necesidades y los deseos de la comunidad para hacer de Discord un mejor lugar!",
+  "excordo_quote": "Gracias por tu interés en TempVoice, un bot que cambiará la forma en la que usas Discord. ¡Durante años, me he enfocado en las necesidades y deseos de la comunidad para hacer de Discord un mejor lugar!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "¿Estás convencido ahora?",
+  "convinced_2": "Dile Adiós a los canales de voz permanentes 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "Todas las personalizaciones premium están desbloqueadas ✌️",
+  "premium_status_description_2": "Usa tu propio avatar embebido, nombre, color e imagen con Premium 🤩",
 
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "component_billing_title": "Administra la Facturación de tu Suscripción",
+  "component_billing_description": "Administre su método de pago o cancele su suscripción. Asegúrese de ingresar el email que utilizó para suscribirse. ¡Comuníquese con el soporte si no recuerda su email!",
 
   "component_status_title": "¿En qué nodo está mi servidor?",
   "component_status_description_1": "Ingresa el ID de tu Servidor en el buscador",
@@ -101,23 +102,23 @@
   "component_bitrate_description": "Tasa de Bits Predeterminada",
 
   "component_totallimit_title": "Límite Total de Canales Temporales",
-  "component_totallimit_description": "El número total de Cananles de Voz Temporal que pueden existir al mismo tiempo",
+  "component_totallimit_description": "El número total de Canales de Voz Temporal que pueden existir al mismo tiempo",
 
   "component_premium_menu_lable": "Activa Premium",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "Selecciona tus Servidores de Discord",
   "component_premium_menu_description": "Servidores de Discord Disponibles:",
 
   "component_sendmessage_title": "Envía un Mensaje de Bienvenida",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Personalizar Mensaje",
   "component_sendmessage_description": "Envía un mensaje de bienvenida a un Canal de Voz Temporal después de crearlo",
 
-  "component_roleparticipant_title": "Rol In-Voice",
+  "component_roleparticipant_title": "Rol en Canal Temporal",
   "component_roleparticipant_menu_lable": "Sin rol seleccionado",
-  "component_roleparticipant_description": "Asiga un rol a un usuario en un Canal Temporal, remueve el rol cuando se desconectan",
+  "component_roleparticipant_description": "Asigna un rol a un usuario cuando está en un Canal Temporal, remueve el rol cuando se desconecta",
 
   "component_roleseveryone_title": "Rol de Miembro",
   "component_roleseveryone_menu_lable": "Elige múltiples Roles",
-  "component_roleseveryone_description": "Rol que es requerido para ser capaz de ver los Canales de Voz Temporal",
+  "component_roleseveryone_description": "Rol que es requerido para ser capaz de Ver los Canales de Voz Temporales",
 
   "component_restore_title": "Restaura la Configuración del Dueño",
   "component_restore_menu_lable": "Gestiona las Opciones de Restauración",
@@ -128,9 +129,9 @@
   "component_restore_description": "Restaura las propiedades de un Canal de Voz Temporal a como estaban antes de ser borrados",
 
   "component_position_title": "Posición del Canal de Voz Temporal",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
+  "component_position_menu_option_1": "Arriba de todo",
+  "component_position_menu_option_2": "Debajo del Creador",
+  "component_position_menu_option_3": "Abajo de todo",
   "component_position_description": "Posición de los Canales Temporales al crearse (Predeterminado: Debajo)",
 
   "component_permissionsowner_title": "Permisos Adicionales de Discord para Dueños",
@@ -148,9 +149,9 @@
 
   "component_syncpermissions_title": "Sincronizar Permisos",
   "component_syncpermissions_menu_option_1": "Sincronizar de la Categoría",
-  "component_syncpermissions_menu_option_2": "Sincronizar del 'Creator'",
+  "component_syncpermissions_menu_option_2": "Sincronizar del 'Creador'",
   "component_syncpermissions_menu_option_3": "No Sincronizar",
-  "component_syncpermissions_description": "Sincronizar los permisos del Canal de Voz Temporal con la Categoría o el 'Creator Channel'",
+  "component_syncpermissions_description": "Sincronizar los permisos del Canal de Voz Temporal con la Categoría o el 'Canal Creador'",
 
   "component_namewaiting_title": "Nombre de la Sala de Espera",
   "component_namewaiting_description": "Nombre para las salas de espera (Predeterminado: Join Me)",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Nombre predeterminado para cuando el estado del usuario no tiene emoji (Predeterminado: ❔)",
 
   "component_name_title": "Nombre del Canal Temporal",
-  "component_name_button_lable": "Marcadores Disponibles ✨",
   "component_name_description": "Nombre Predeterminado para Canales Temporales",
 
   "component_limit_title": "Límite de Usuarios del Canal Temporal",
@@ -199,18 +199,17 @@
   "component_ownerpermissions_option_lfp": "Buscar Personas",
   "component_ownerpermissions_option_users": "Confiar/Bloquear Usuarios",
   "component_ownerpermissions_option_chat": "Usar el Chat de Voz",
-  "component_ownerpermissions_option_close": "Forzar el Cierre del Canal",
+  "component_ownerpermissions_option_close": "Forzar Cierre del Canal",
 
-  "component_category_title": "Categoría del Canal Temporal (Principal)",
+  "component_category_title": "Categoría del Canal Temporal",
   "component_category_menu_lable": "Sin Categoría Elegida",
   "component_category_description": "Categoría Principal para Canales Temporales",
 
-  "component_fallback_title": "Categoría del Canal Temporal (Respaldo)",
   "component_fallback_menu_lable": "Elige Categorías",
   "component_fallback_description": "Categorías de respaldo para cuando la principal alcance el límite de 50 canales",
 
   "component_censor_title": "Censura Nombres de Canal",
-  "component_censor_placeholder": "Escribe una palabra y presiona enter",
+  "component_censor_placeholder": "Escribe una palabra y presiona Enter",
   "component_censor_description": "Censura hasta 30 palabras que no pueden ser usadas como nombres de Canales Temporales",
 
   "component_matchmaking_title": "Rellenado de Canal Temporal",
@@ -223,14 +222,14 @@
   "component_custombranding_description": "Ingresa un Token de un Bot de Discord para permitirnos implementar un servidor separado para tu bot. No utilices este token en ningún otro sitio ni lo compartas con nadie. ¡Trátalo como una contraseña!",
 
   "component_custombrandingactivity_title": "Actividad del Bot (Estado)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "Cambia el Estado de Discord del bot de marca personalizado. La actualización en Discord puede tardar hasta 5 minutos.",
 
   "component_sendinterface_menu_lable": "Elige un Canal de Texto",
   "component_sendinterface_menu_option": "Sin Canal Elegido",
   "component_sendinterface_description": "Elige un Canal de Texto para enviar la interfaz",
 
   "save_changes_title": "Cuidado – ¡Tienes cambios sin guardar!",
-  "save_changes_button_lable_1": "Resetear",
+  "save_changes_button_lable_1": "Reiniciar",
   "save_changes_button_lable_2": "Guardar cambios"
 }
 

@@ -25,7 +25,6 @@
   
   "appearance_title": "Hiasan",
   "appearance_language_title": "Bahasa",
-  "appearance_colortheme_title": "Warna Tema",
   
   "creators_title": "Pencipta",
   "creators_description": "Tentukan bagaimana saluran suara sementara dicipta. Nyatakan nama lalai, had, kebenaran, dan lain-lain lagi.",
@@ -33,9 +32,11 @@
   "interface_title": "Antara Muka",
   "interface_description": "Membolehkan pengguna mengawal saluran suara sementara mereka.",
   
-  "config_tab_1": "Lakaran",
-  "config_tab_2": "Kebenaran",
-  "config_tab_3": "Serbaneka",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
   
   "navbar_home": "Laman Utama",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Nama lalai apabila status pengguna tidak mempunyai emoji",
   
   "component_name_title": "Nama Saluran Sementara",
-  "component_name_button_lable": "Penempat Yang Tersedia ✨",
   "component_name_description": "Nama lalai untuk saluran sementara",
   
   "component_limit_title": "Had Pengguna Saluran Sementara",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Guna perbualan dalam-suara",
   "component_ownerpermissions_option_close": "Tutup saluran secara paksa",
   
-  "component_category_title": "Kategori Saluran Sementara (Utama)",
+  "component_category_title": "Kategori Saluran Sementara",
   "component_category_menu_lable": "Tiada Kategori Dipilih",
   "component_category_description": "Kategori utama untuk saluran sementara",
   
-  "component_fallback_title": "Kategori Saluran Sementara (Cadangan)",
   "component_fallback_menu_lable": "Pilih Kategori",
   "component_fallback_description": "Kategori cadangan apabila utama mencapai had 50 saluran",
   

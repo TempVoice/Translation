@@ -25,7 +25,6 @@
   
   "appearance_title": "Appearance",
   "appearance_language_title": "Language",
-  "appearance_colortheme_title": "Color Theme",
 
   "creators_title": "Creators",
   "creators_description": "Define how temporary voice channels are created. Specify a default name, limit, permissions and more.",
@@ -34,8 +33,10 @@
   "interface_description": "Allows users to control their temporary voice channels.",
 
   "config_tab_1": "Overview",
-  "config_tab_2": "Permissions",
-  "config_tab_3": "Miscellaneous",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Home",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Default name for when the user's status does not have an emoji",
 
   "component_name_title": "Temporary Channel Name",
-  "component_name_button_lable": "Available Placeholders ✨",
   "component_name_description": "Default name for temporary channels",
 
   "component_limit_title": "Temporary Channel User Limit",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Use in-voice chat",
   "component_ownerpermissions_option_close": "Forcibly close channel",
 
-  "component_category_title": "Temporary Channel Category (Primary)",
+  "component_category_title": "Temporary Channel Category",
   "component_category_menu_lable": "No Category Selected",
   "component_category_description": "Primary category for temporary channels",
 
-  "component_fallback_title": "Temporary Channel Category (Fallbacks)",
   "component_fallback_menu_lable": "Select Categories",
   "component_fallback_description": "Fallback categories for when the primary reaches its 50 channel limit",
 

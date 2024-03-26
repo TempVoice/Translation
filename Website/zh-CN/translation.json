@@ -25,7 +25,6 @@
   
   "appearance_title": "外观",
   "appearance_language_title": "语言",
-  "appearance_colortheme_title": "颜色主题",
   
   "creators_title": "创作者",
   "creators_description": "定义临时语音频道的创建方式。指定默认名称、限制、权限等。",
@@ -33,9 +32,11 @@
   "interface_title": "界面",
   "interface_description": "允许用户控制他们的临时语音频道。",
   
-  "config_tab_1": "概览",
-  "config_tab_2": "权限",
-  "config_tab_3": "杂项",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
   
   "navbar_home": "主页",
   "navbar_help": "Help",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "当用户的状态没有表情符号时的默认名称",
   
   "component_name_title": "临时频道名称",
-  "component_name_button_lable": "可用的占位符✨",
   "component_name_description": "临时频道的默认名称",
   
   "component_limit_title": "临时频道用户限制",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "使用语音聊天",
   "component_ownerpermissions_option_close": "强制关闭频道",
   
-  "component_category_title": "临时频道类别（主要）",
+  "component_category_title": "临时频道类别",
   "component_category_menu_lable": "未选择类别",
   "component_category_description": "临时频道的主要类别",
   
-  "component_fallback_title": "临时频道类别（备用）",
   "component_fallback_menu_lable": "选择类别",
   "component_fallback_description": "主要类别达到其50个频道限制时的备用类别",
   

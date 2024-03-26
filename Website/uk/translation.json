@@ -25,7 +25,6 @@
 
 	"appearance_title": "Вигляд",
 	"appearance_language_title": "Мова",
-	"appearance_colortheme_title": "Кольорова тема",
 
 	"creators_title": "Створювачі",
 	"creators_description": "Визначте як створюються тимчасові голосові канали. Вкажіть назву за замовчуванням, обмеження, права та інше.",
@@ -33,9 +32,11 @@
 	"interface_title": "Інтерфейс",
 	"interface_description": "Використовується користувачами для управління тимчасовими каналами.",
 
-	"config_tab_1": "Загальні",
-	"config_tab_2": "Права",
-	"config_tab_3": "Інше",
+	"config_tab_1": "Overview",
+	"config_tab_2": "Features",
+	"config_tab_3": "Permissions",
+	"config_tab_4": "Customization",
+	"config_tab_5": "Miscellaneous",
 
 	"navbar_home": "Головна",
 	"navbar_help": "Допомога",
@@ -171,7 +172,6 @@
 	"component_placeholder_activity_4_description": "Назва за замовчуванням, коли статус користувача не містить емодзі",
 	
 	"component_name_title": "Назва тимчасового каналу",
-	"component_name_button_lable": "Доступні змінні ✨",
 	"component_name_description": "Назва тимчасових каналів за замовчуванням",
 	
 	"component_limit_title": "Ліміт користувачів",
@@ -201,11 +201,10 @@
 	"component_ownerpermissions_option_chat": "Використання внутрішньоканального чату",
 	"component_ownerpermissions_option_close": "Примусово закривати канал",
 	
-	"component_category_title": "Основна категорія для каналів",
+	"component_category_title": "категорія для каналів",
 	"component_category_menu_lable": "Категорія не вибрана",
 	"component_category_description": "Основна категорія для тимчасових каналів",
 	
-	"component_fallback_title": "Додаткова категорія для каналів",
 	"component_fallback_menu_lable": "Виберіть категорії",
 	"component_fallback_description": "Додаткова категорія, якщо основна досягне свого ліміту в 50 каналів",
 	

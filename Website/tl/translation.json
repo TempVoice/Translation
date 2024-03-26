@@ -25,7 +25,6 @@
   
   "appearance_title": "Hitsura",
   "appearance_language_title": "Wika",
-  "appearance_colortheme_title": "Tema ng Kulay",
 
   "creators_title": "Creators",
   "creators_description": "Tukuyin kung paano ilikha ang mga temporaryong voice na channel. Uriin ang default na pangalan, limitasyon, mga pahintulot at iba pa.",
@@ -33,9 +32,11 @@
   "interface_title": "Interface",
   "interface_description": "Nagbibigay-daan sa mga users na kontrolin ang kanilang mga temporaryong voice na channel.",
 
-  "config_tab_1": "Pangkalahatang-ideya",
-  "config_tab_2": "Mga Pahintulot",
-  "config_tab_3": "Sari-sari",
+  "config_tab_1": "Overview",
+  "config_tab_2": "Features",
+  "config_tab_3": "Permissions",
+  "config_tab_4": "Customization",
+  "config_tab_5": "Miscellaneous",
 
   "navbar_home": "Tahanan",
   "navbar_help": "Tulong",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Default na pangalan kapag walang emoji ang katayuan ng tagagamit",
 
   "component_name_title": "Pangalan ng Temporaryong Channel",
-  "component_name_button_lable": "Maaring magamit na Mga Placeholder ✨",
   "component_name_description": "Default na pangalan para sa mga temporaryong channel",
 
   "component_limit_title": "Limitasyon ng tagagamit sa Temporaryong Channel",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "Gamitin ang in-voice na chat",
   "component_ownerpermissions_option_close": "Piliting isarado ang channel",
 
-  "component_category_title": "Kategorya ng Temporaryong Channel (Pangunahin)",
+  "component_category_title": "Kategorya ng Temporaryong Channel",
   "component_category_menu_lable": "Walang Napiling Kategorya",
   "component_category_description": "Pangunahing kategorya para sa mga temporaryong channel",
 
-  "component_fallback_title": "Kategorya ng Temporaryong Channel (Fallbacks)",
   "component_fallback_menu_lable": "Pumili ng mga Kategorya",
   "component_fallback_description": "Fallback na mga kategorya kapag naabot na ang pangunahing limitasyon nito na limang-pu (50) na channel",
 

@@ -25,7 +25,6 @@
   
   "appearance_title": "Erscheinungsbild",
   "appearance_language_title": "Sprache",
-  "appearance_colortheme_title": "Farbschema",
 
   "creators_title": "Creator Channel",
   "creators_description": "Definiere, wie temporäre Sprachkanäle erstellt werden. Gib einen Standardnamen, ein Limit, Berechtigungen und mehr an.",
@@ -33,9 +32,11 @@
   "interface_title": "Interface",
   "interface_description": "Ermöglicht den Nutzern die Kontrolle ihrer temporären Sprachkanäle.",
 
-  "config_tab_1": "Übersicht",
-  "config_tab_2": "Berechtigungen",
-  "config_tab_3": "Sonstiges",
+  "config_tab_1": "Überblick",
+  "config_tab_2": "Funktionen",
+  "config_tab_3": "Berechtigungen",
+  "config_tab_4": "Anpassungen",
+  "config_tab_5": "Sonstiges",
 
   "navbar_home": "Startseite",
   "navbar_help": "Hilfe",
@@ -83,8 +84,8 @@
   "join_support": "Möchtest du unserem Discord Server beitreten?",
   "excordo_quote": "Danke für dein Interesse an TempVoice, einem Bot, der die Art und Weise, wie du Sprachkanäle nutzt, verändern wird. Im Laufe der Jahre habe ich mich auf die Bedürfnisse und Wünsche der Community konzentriert, um hoffentlich auch deinen Discord Server zu einem besseren Ort zu machen!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Bist du überzeugt?",
+  "convinced_2": "Verabschiede dich von permanenten Sprachkanälen 👋",
   
   "premium_status_description_1": "Alle deine Premium Vorteile stehen bereit ✌️",
   "premium_status_description_2": "Benutz ein eigenes Embed Avatar, Name, Farbe und Bild mit Premium 🤩",
@@ -171,7 +172,6 @@
   "component_placeholder_activity_4_description": "Standardname für den Fall, dass der Status des Benutzers kein Emoji enthält",
 
   "component_name_title": "Temporärer Kanalname",
-  "component_name_button_lable": "Verfügbare Placeholder ✨",
   "component_name_description": "Standardname für temporäre Kanäle",
 
   "component_limit_title": "Benutzerlimit für temporäre Kanäle",
@@ -201,11 +201,10 @@
   "component_ownerpermissions_option_chat": "In-Voice-Chat verwenden",
   "component_ownerpermissions_option_close": "Kanal schließen",
 
-  "component_category_title": "Temporäre Kanal Kategorie (primär)",
+  "component_category_title": "Temporäre Kanal Kategorie",
   "component_category_menu_lable": "Keine Kategorie ausgewählt",
   "component_category_description": "Primäre Kategorie für temporäre Kanäle",
 
-  "component_fallback_title": "Temporäre Channel-Kategorie (Fallback)",
   "component_fallback_menu_lable": "Kategorien auswählen",
   "component_fallback_description": "Fallback-Kategorien für den Fall, dass die Primärkategorie das Limit von 50 Kanälen erreicht",
 
@@ -223,7 +222,7 @@
   "component_custombranding_description": "Gib einen Discord-Bot-Token ein, damit wir einen eigenen Server für deinen Bot einrichten können. Verwende dieses Token nirgendwo anders und gebe ihn an niemanden weiter. Behandle es wie ein Passwort!",
 
   "component_custombrandingactivity_title": "Bot-Aktivität (Status)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "Ändere den Discord-Status des Bots. Es kann bis zu 5 Minuten dauern, bis die Aktualisierung in Discord erfolgt.",
 
   "component_sendinterface_menu_lable": "Wähle einen Textkanal",
   "component_sendinterface_menu_option": "Kein Kanal ausgewählt",
