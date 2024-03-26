@@ -32,11 +32,11 @@
   "interface_title": "設定パネル",
   "interface_description": "ユーザーが簡単に自分の一時的なボイスチャンネルの設定を変更できるようにします。",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "概要",
+  "config_tab_2": "特徴",
+  "config_tab_3": "権限",
+  "config_tab_4": "カスタマイズ",
+  "config_tab_5": "その他",
 
   "navbar_home": "ホーム",
   "navbar_help": "Help",
