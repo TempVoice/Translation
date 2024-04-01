@@ -32,14 +32,14 @@
   "interface_title": "Interfejs",
   "interface_description": "Pozwala użytkownikom kontrolować ich tymczasowe kanały głosowe.",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "Przegląd",
+  "config_tab_2": "Funkcje",
+  "config_tab_3": "Permisje",
+  "config_tab_4": "Dostosowywanie",
+  "config_tab_5": "Różne",
 
   "navbar_home": "Strona Główna",
-  "navbar_help": "Help",
+  "navbar_help": "Pomoc",
   "navbar_setup": "Skonfiguruj",
   "navbar_premium": "Premium",
   "navbar_support": "Support",
@@ -73,25 +73,25 @@
   "button_lable_subscribe": "Zapłać z użyciem Stripe",
   "button_lable_billing": "Manage on Stripe",
   "button_lable_premium": "Zarządzaj Subskrypcją",
-  "button_lable_upgrade": "Upgrade Subscription",
+  "button_lable_upgrade": "Ulepsz Subskrypcję",
   "button_lable_upgrade_cancel": "Nie, zmieniłem zdanie",
   "button_lable_upgrade_continue": "Tak, proszę ulepsz",
   "button_lable_join_cancel": "Nie, po prostu zaloguj",
   "button_lable_join_continue": "Tak, proszę",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
+  "button_lable_manage_custom_branding": "Zarządzaj Custom Brandingiem",
+  "button_back": "Wróć",
 
   "join_support": "Czy chciałbyś dołączyć do naszego serwera Discord?",
   "excordo_quote": "Dziękujemy za zainteresowanie TempVoice, botem, który zmieni sposób, w jaki używasz Discorda. Przez lata, skupiałem się na potrzebach i życzeniach społeczności, by zrobić lepsze miejsce z Twojego serwera!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Czy teraz jesteś przekonany?",
+  "convinced_2": "Pożegnaj się ze stałymi kanałami głosowymi 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+  "premium_status_description_1": "Wszystkie opcje Premium zostały odblokowane ✌️",
+  "premium_status_description_2": "Użyj swojego własnego awatara, nazwy, koloru i zdjęcia z Premium 🤩",
 
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "component_billing_title": "Zarządzaj swoją subskrypcją",
+  "component_billing_description": "Zarządzaj swoją metodą płatności lub anuluj subskrypcję. Upewnij się, żeby wprowadzić maila użytego do subskrypcji. Skontaktuj się z supportem jeśli nie pamiętasz swojego maila!",
 
   "component_status_title": "Na którym klastrze jest mój serwer?",
   "component_status_description_1": "Wprowadź ID swojego serwera w polu wyszukiwania",
@@ -105,11 +105,11 @@
   "component_totallimit_description": "Łączna liczba tymczasowych kanałów, które mogą istnieć w tym samym czasie",
 
   "component_premium_menu_lable": "Aktywuj Premium",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "Wybierz swoje serwery Discord",
   "component_premium_menu_description": "Dostępne Serwery Discord:",
 
   "component_sendmessage_title": "Wyślij Wiadomość Powitalną",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Dostosuj wiadomość",
   "component_sendmessage_description": "Wyślij wiadomość powitalną na kanale tymczasowym po jego stworzeniu",
 
   "component_roleparticipant_title": "Rola Kanału",
@@ -129,9 +129,9 @@
   "component_restore_description": "Przywróć właściwości tymczasowych kanałów, tak jak wyglądały przed usunięciem",
 
   "component_position_title": "Położenie Tymczasowego Kanału",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
+  "component_position_menu_option_1": "Na górze",
+  "component_position_menu_option_2": "Zaraz pod kanałem do tworzenia",
+  "component_position_menu_option_3": "Na dole",
   "component_position_description": "Położenie tymczasowych kanałów po stworzeniu (Domyślnie: Poniżej)",
 
   "component_permissionsowner_title": "Dodatkowe permisje na Discordzie dla Właścicieli",
@@ -222,7 +222,7 @@
   "component_custombranding_description": "Wprowadź Token Bota Discord, by pozwolić nam ustawić osobny serwer dla Twojego bota. Nie używaj tego tokenu gdziekolwiek indziej, ani go nie udostępniaj nikomu. Traktuj to jak hasło!",
 
   "component_custombrandingactivity_title": "Aktywność Bota (Status)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "Zmień status swojego Customowego bota. To może zająć do 5 minut, żeby się zaktualizowało na Discordzie.",
 
   "component_sendinterface_menu_lable": "Wybierz Kanał Tekstowy",
   "component_sendinterface_menu_option": "Nie Wybrano Kanału",
