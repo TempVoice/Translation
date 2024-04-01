@@ -32,11 +32,11 @@
 	"interface_title": "Інтерфейс",
 	"interface_description": "Використовується користувачами для управління тимчасовими каналами.",
 
-	"config_tab_1": "Overview",
-	"config_tab_2": "Features",
-	"config_tab_3": "Permissions",
-	"config_tab_4": "Customization",
-	"config_tab_5": "Miscellaneous",
+	"config_tab_1": "Загальне",
+	"config_tab_2": "Функції",
+	"config_tab_3": "Дозволи",
+	"config_tab_4": "Кастомізація",
+	"config_tab_5": "Додаткове",
 
 	"navbar_home": "Головна",
 	"navbar_help": "Допомога",
@@ -71,27 +71,27 @@
 	"button_lable_login": "Авторизуватися через Discord",
 	"button_lable_logout": "Вийти",
 	"button_lable_subscribe": "Оплатити через Stripe",
-	"button_lable_billing": "Manage on Stripe",
+	"button_lable_billing": "Управління на Stripe",
 	"button_lable_premium": "Управління підпискою",
-	"button_lable_upgrade": "Upgrade Subscription",
+	"button_lable_upgrade": "Оновити підписку",
 	"button_lable_upgrade_cancel": "Ні, я передумав",
 	"button_lable_upgrade_continue": "Так, оновлюйте",
 	"button_lable_join_cancel": "Ні, просто авторизуватися",
 	"button_lable_join_continue": "Так, будь ласка",
-	"button_lable_manage_custom_branding": "Manage Custom Branding",
-	"button_back": "Go Back",
+	"button_lable_manage_custom_branding": "Управлінння Custom Branding",
+	"button_back": "Назад",
 
 	"join_support": "Бажаєте приєднатися до нашого Discord серверу?",
 	"excordo_quote": "Дякую за інтерес до TempVoice, бота, який змінить те, як ви використовуєте Discord. Я роками фокусувався на потребах та бажаннях спільноти, щоб зробити ваші сервери Discord кращими!",
 
-	"convinced_1": "Are you convinced now?",
-	"convinced_2": "Say goodbye to permanent voice channels 👋",
+	"convinced_1": "Ви переконалися?",
+	"convinced_2": "Попрощайтеся з постійними голосовими каналами 👋",
 	
-	"premium_status_description_1": "All premium customizations are unlocked ✌️",
-	"premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
+	"premium_status_description_1": "Усі преміум налаштування розблоковано ✌️",
+	"premium_status_description_2": "Використовуйте свій власний аватар, ім’я, колір і зображення для ембеда з Premium 🤩",
 
-	"component_billing_title": "Manage Your Subscription Billing",
-	"component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+	"component_billing_title": "Управління підпискою",
+	"component_billing_description": "Керуйте способом оплати або скасуйте підписку. Обов’язково введіть адресу електронної пошти, яку ви використовували для підписки. Зверніться до служби підтримки, якщо не пам'ятаєте свій email!",
 
 	"component_status_title": "На якому кластері знаходиться мій сервер?",
 	"component_status_description_1": "Введіть ID сервера у рядок пошуку",
@@ -105,11 +105,11 @@
 	"component_totallimit_description": "Загальний ліміт тимчасових каналів, які можуть співіснувати",
 
 	"component_premium_menu_lable": "Активувати Premium",
-	"component_premium_text": "Select Your Discord Servers",
+	"component_premium_text": "Виберіть свої Discord сервера",
 	"component_premium_menu_description": "Доступні сервери Discord:",
 
 	"component_sendmessage_title": "Привітальне повідомлення",
-	"component_sendmessage_button_lable": "Customize Message",
+	"component_sendmessage_button_lable": "Налаштувати повідомлення",
 	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні",
 
 	"component_roleparticipant_title": "Голосова роль",
@@ -222,7 +222,7 @@
 	"component_custombranding_description": "Введіть токен Discord бота, щоб створити нового Custom Branding бота, який буде запущений на окремому сервері. Не використовуйте цей токен деінде і не діліться ним з ким-небудь. Ставтеся до нього, як до пароля!" ,
 	
 	"component_custombrandingactivity_title": "Активність бота (Статус)",
-	"component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+	"component_custombrandingactivity_description": "Змінюйте Discord статус вашого Custom Branding бота. Оновлення в Discord може зайняти до 5 хвилин.",
 
 	"component_sendinterface_menu_lable": "Виберіть текстовий канал",
 	"component_sendinterface_menu_option": "Канал не вибраний",
