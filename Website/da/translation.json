@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Send Velkommen Beskeder",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Send en velkomstbesked til en midlertidig kanal efter oprettelse af den",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "Stemmerolle",
   "component_roleparticipant_menu_lable": "Ingen Valgte Roller",

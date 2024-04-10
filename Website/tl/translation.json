@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Magpadala ng Pagbati na Mensahe",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Magpadala ng pagbati sa paraan na mensahe sa loob ng temporaryong channel pagkatapos itong malikha",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "In-Voice na Role",
   "component_roleparticipant_menu_lable": "Walang Napiling Role",

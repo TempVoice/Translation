@@ -111,7 +111,9 @@
   "component_sendmessage_title": "Hantar Pesanan Selamat Datang",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Hantar pesanan selamat datang ke saluran sementara selepas dicipta",
-  
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
+
   "component_roleparticipant_title": "Peranan Dalam Saluran Suara",
   "component_roleparticipant_menu_lable": "Tiada Peranan Dipilih",
   "component_roleparticipant_description": "Memberikan peranan kepada pengguna dalam saluran sementara, mengeluarkan peranan apabila mereka memutuskan sambungan",

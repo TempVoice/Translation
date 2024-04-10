@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Siųsti Pasisveikinimo Pranešimą",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Sukūrę laikinąjį kanalą, išsiųskite sveikinimo pranešimą",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "Balso-Kanale Rolė",
   "component_roleparticipant_menu_lable": "Rolė Nepasirinkta",

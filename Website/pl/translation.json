@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Wyślij Wiadomość Powitalną",
   "component_sendmessage_button_lable": "Dostosuj wiadomość",
   "component_sendmessage_description": "Wyślij wiadomość powitalną na kanale tymczasowym po jego stworzeniu",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "Rola Kanału",
   "component_roleparticipant_menu_lable": "Nie Wybrano Roli",

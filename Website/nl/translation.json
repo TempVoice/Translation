@@ -111,7 +111,9 @@
     "component_sendmessage_title": "Verstuur Welkomstbericht",
     "component_sendmessage_button_lable": "Bericht Aanpassen",
     "component_sendmessage_description": "Verstuur een welkomstbericht naar een tijdelijk kanaal nadat het is aangemaakt",
-    
+    "component_sendmessage_interface": "Send an Interface for temporary channel management",
+    "component_sendmessage_silent": "Send as @silent message",
+
     "component_roleparticipant_title": "Rol in Kanaal",
     "component_roleparticipant_menu_lable": "Geen Rol Geselecteerd",
     "component_roleparticipant_description": "Wijs een rol toe aan gebruikers in een tijdelijk kanaal, verwijdert de rol wanneer ze verbinding verbreken",

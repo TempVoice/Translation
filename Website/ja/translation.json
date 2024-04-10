@@ -111,6 +111,8 @@
   "component_sendmessage_title": "ウェルカムメッセージを送る",
   "component_sendmessage_button_lable": "カスタムメッセージ",
   "component_sendmessage_description": "一時的なチャンネルを作成後、そのチャンネルに指定したメッセージを送信します",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "ボイス内のロール",
   "component_roleparticipant_menu_lable": "ロールは選択されていません",

@@ -111,7 +111,9 @@
   "component_sendmessage_title": "发送欢迎消息",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "在创建临时频道后向其发送欢迎消息",
-  
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
+
   "component_roleparticipant_title": "语音角色",
   "component_roleparticipant_menu_lable": "未选择角色",
   "component_roleparticipant_description": "将角色分配给临时频道中的用户，在断开连接时删除角色",

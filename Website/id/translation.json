@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Pesan Selamat Datang",
   "component_sendmessage_button_lable": "Customize Message",
   "component_sendmessage_description": "Kirim pesan selamat datang ke channel sementara setelah channel dibuat",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "Role in-voice",
   "component_roleparticipant_menu_lable": "Gak ada role terpilih",

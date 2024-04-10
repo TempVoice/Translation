@@ -111,6 +111,8 @@
   "component_sendmessage_title": "Приветственное сообщение",
   "component_sendmessage_button_lable": "Настроить сообщение",
   "component_sendmessage_description": "Отправляет приветственное сообщение во временной канал при создании",
+  "component_sendmessage_interface": "Send an Interface for temporary channel management",
+  "component_sendmessage_silent": "Send as @silent message",
 
   "component_roleparticipant_title": "Голосовая роль",
   "component_roleparticipant_menu_lable": "Роль не выбрана",

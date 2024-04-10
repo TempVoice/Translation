@@ -111,6 +111,8 @@
 "component_sendmessage_title": "Αποστολή Προσαρμοσμένου Μηνύματος",
 "component_sendmessage_button_lable": "Προσαρμογή Μηνύματος",
 "component_sendmessage_description": "Αποστολή προσαρμοσμένου μηνύματος καλωσορίσματος όταν κάποιος ενταχθεί",
+"component_sendmessage_interface": "Send an Interface for temporary channel management",
+"component_sendmessage_silent": "Send as @silent message",
 
 "component_roleparticipant_title": "Ρόλος στους Συμμετέχοντες",
 "component_roleparticipant_menu_lable": "Χωρίς ρόλο",
