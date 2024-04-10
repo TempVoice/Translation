@@ -54,7 +54,7 @@
     "error_totallimit": "## **不可能！**\n 同一时间在同一 Discord 服务器中已达到 **{val1}** 个临时语音频道的限制，因为此 Discord 服务器对其进行了限制。请稍后再试。",
     "error_category_limit": "## **不可能！**\n 所有可用的分类已达到每个分类最多 50 个频道的限制。如果您是管理员，可以在仪表板中设置更多的 **备用分类**，否则请稍后再试。",
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_cb": "## **无法完成!**\n 您正尝试在未启用 TempVoice Premium 的 Discord 服务器上使用 [TempVoice Custom Branding](https://tempvoice.xyz/premium) 机器人。如果您是此自定义品牌机器人的所有者，请确保公共 <@762217899355013120> 机器人已被移除，并在此 Discord 服务器上激活了高级服务：[https://tempvoice.xyz/premium](https://tempvoice.xyz/premium) > **激活高级服务**。",
+    "error_cb": "## **Activate Premium and Kick <@762217899355013120>**\nThis [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot has been successfully installed and invited to this Discord server.\n## Activate Premium\n The owner of the custom branding bot has to activate TempVoice Premium on this Discord server.\nhttps://tempvoice.xyz/premium > `Login with Discord` > `Manage Subscription` > `Activate Premium`\n## Kick the public <@762217899355013120> bot\nOnly the Custom Branding bot needs to be on this Discord server.\n## Important\nExisting Creator Channels from the public TempVoice bot will work like before. Only interfaces have to be recreated using **/setup**.\n\nThis bot will leave this Discord if Premium is not going to be activated soon.",
     "error_conflict": "## **意外冲突。**\n TempVoice 与 Discord 的 API 发生冲突。请在此处报告此消息 https://discord.gg/tempvoice。\n### 错误：`{val1}`",
     "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
     

@@ -54,7 +54,7 @@
 		"error_totallimit": "## **不可能です！**\n 一度に**{val1}**個の一時的な音声チャンネルを使用できる上限に達しました。Discordサーバー側で制限がされています。少し待って再試行してください。",
 		"error_category_limit": "## **不可能です！**\n ボットが使用できるすべてのカテゴリーが、それぞれ50チャンネルの上限に達しています。あなたが管理者の場合はダッシュボード内にある**一時的なチャンネルのカテゴリー（予備）**でカテゴリーを増やしてください。",
 		"error_server_limit": "## **不可能です！**\n このサーバーはすでに500チャンネルが存在している為新たなVCを作成できません。 少し待ってから再試行してください。",
-		"error_cb": "## **不可能です。**\n BOTのオーナーが[TempVoice Custom Branding](https://tempvoice.xyz/premium)を有効化していません。 もしカスタムブランディングBOTのオーナーの場合は、<@762217899355013120> パブリックBOTをキックしてから、プレミアムBOTを**https://tempvoice.xyz/premium** > で**Activate Premium**してください。",
+		"error_cb": "## **Activate Premium and Kick <@762217899355013120>**\nThis [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot has been successfully installed and invited to this Discord server.\n## Activate Premium\n The owner of the custom branding bot has to activate TempVoice Premium on this Discord server.\nhttps://tempvoice.xyz/premium > `Login with Discord` > `Manage Subscription` > `Activate Premium`\n## Kick the public <@762217899355013120> bot\nOnly the Custom Branding bot needs to be on this Discord server.\n## Important\nExisting Creator Channels from the public TempVoice bot will work like before. Only interfaces have to be recreated using **/setup**.\n\nThis bot will leave this Discord if Premium is not going to be activated soon.",
 		"error_conflict": "## **予期しない問題が発生しました。**\n TempVoiceとDiscord APIの間で問題がありました。エラーメッセージはこちらで報告してください：https://discord.gg/tempvoice\n### エラー：`{val1}`",
 		"error_already_invited": "## **不可能です！**\n このユーザーはすでにこのVCに招待されています。",
 		
