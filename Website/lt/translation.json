@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "Balso-Kanale Rolė",
   "component_roleparticipant_menu_lable": "Rolė Nepasirinkta",
   "component_roleparticipant_description": "Priskiria rolę vartotojams laikinajame kanale, pašalina rolę, kai jie atsijungia",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Nario Rolė",
   "component_roleseveryone_menu_lable": "Pasirinkti Kelias Roles",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

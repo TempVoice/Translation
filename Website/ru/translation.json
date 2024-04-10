@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "Голосовая роль",
   "component_roleparticipant_menu_lable": "Роль не выбрана",
   "component_roleparticipant_description": "Назначает роли при заходе/выходе из временного канала",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Роль участника",
   "component_roleseveryone_menu_lable": "Выберите несколько ролей",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "Rol en Canal Temporal",
   "component_roleparticipant_menu_lable": "Sin rol seleccionado",
   "component_roleparticipant_description": "Asigna un rol a un usuario cuando está en un Canal Temporal, remueve el rol cuando se desconecta",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Rol de Miembro",
   "component_roleseveryone_menu_lable": "Elige múltiples Roles",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

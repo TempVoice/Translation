@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "Ruolo In-Voice",
   "component_roleparticipant_menu_lable": "Nessun ruolo",
   "component_roleparticipant_description": "Assegna un ruolo agli utenti in un canale temporaneo, rimuove il ruolo quando si disconnettono",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Ruoli base",
   "component_roleseveryone_menu_lable": "Seleziona ruoli",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

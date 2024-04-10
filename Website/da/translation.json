@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "Stemmerolle",
   "component_roleparticipant_menu_lable": "Ingen Valgte Roller",
   "component_roleparticipant_description": "Tildeler en rolle til brugere i en midlertidig kanal, fjerner rollen igen når de afbryder forbindelsen",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Medlemsrolle",
   "component_roleseveryone_menu_lable": "Vælg Flere Roller",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

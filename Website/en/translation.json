@@ -117,6 +117,8 @@
   "component_roleparticipant_title": "In-Voice Role",
   "component_roleparticipant_menu_lable": "No Role Selected",
   "component_roleparticipant_description": "Assigns a role to users in a temporary channel, removes the role when they disconnect",
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
 
   "component_roleseveryone_title": "Member Roles",
   "component_roleseveryone_menu_lable": "Select Multiple Roles",

@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "In-Voice-Rolle",
   "component_roleparticipant_menu_lable": "Keine Rolle ausgewählt",
   "component_roleparticipant_description": "Weist Benutzern in einem temporären Kanal eine Rolle zu und entfernt die Rolle, wenn diese die Verbindung zum Kanal trennen",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "Mitglieder Rolle",
   "component_roleseveryone_menu_lable": "Mehrere Rollen auswählen",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

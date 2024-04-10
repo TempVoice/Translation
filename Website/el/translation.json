@@ -117,6 +117,8 @@
 "component_roleparticipant_title": "Ρόλος στους Συμμετέχοντες",
 "component_roleparticipant_menu_lable": "Χωρίς ρόλο",
 "component_roleparticipant_description": "Δίνει ρόλο στον χρήστη που εντάσσεται στο προσωρινό κανάλι (αφαιρείται όταν βγει)",
+"component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+"component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
 
 "component_roleseveryone_title": "Ρόλος Χρήστη",
 "component_roleseveryone_menu_lable": "Πολλαπλοί ρόλοι",

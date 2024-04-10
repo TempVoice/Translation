@@ -117,7 +117,9 @@
   "component_roleparticipant_title": "ボイス内のロール",
   "component_roleparticipant_menu_lable": "ロールは選択されていません",
   "component_roleparticipant_description": "一時的なチャンネルにいるユーザにロールを割り当て、ユーザが切断するとロールを削除します",
-
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  
   "component_roleseveryone_title": "メンバーロール",
   "component_roleseveryone_menu_lable": "複数のロールを選択可能",
   "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",

@@ -117,6 +117,8 @@
   "component_roleparticipant_title": "Peranan Dalam Saluran Suara",
   "component_roleparticipant_menu_lable": "Tiada Peranan Dipilih",
   "component_roleparticipant_description": "Memberikan peranan kepada pengguna dalam saluran sementara, mengeluarkan peranan apabila mereka memutuskan sambungan",
+  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
+  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
   
   "component_roleseveryone_title": "Peranan Ahli",
   "component_roleseveryone_menu_lable": "Pilih Pelbagai Peranan",
