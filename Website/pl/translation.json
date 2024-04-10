@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Rola Użytkownika",
   "component_roleseveryone_menu_lable": "Wybierz Wiele Ról",
-  "component_roleseveryone_description": "Rola, która jest wymagana by widzieć kanały tymczasowe",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Przywróć Ustawienia Właściciela",
   "component_restore_menu_lable": "Zarządzaj Opcjami Przywracania",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Token Bota",
   "component_custombranding_button_lable": "Jak zdobyć token bota?",
   "component_custombranding_description": "Wprowadź Token Bota Discord, by pozwolić nam ustawić osobny serwer dla Twojego bota. Nie używaj tego tokenu gdziekolwiek indziej, ani go nie udostępniaj nikomu. Traktuj to jak hasło!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Aktywność Bota (Status)",
   "component_custombrandingactivity_description": "Zmień status swojego Customowego bota. To może zająć do 5 minut, żeby się zaktualizowało na Discordzie.",
 

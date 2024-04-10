@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "メンバーロール",
   "component_roleseveryone_menu_lable": "複数のロールを選択可能",
-  "component_roleseveryone_description": "一時的なチャンネルを閲覧するために必要なロール",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "過去の設定を復元",
   "component_restore_menu_lable": "復元の設定",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "ボット Token",
   "component_custombranding_button_lable": "ボットのtokenを取得するには？",
   "component_custombranding_description": "Discordボットtokenを入力して、ボット用の別のサーバーを設定します。このトークンを他の場所で使用したり、他の誰かと共有したりしないでください。パスワードと同様に扱ってください！",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "ボットのアクティビティ（ステータス）",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 

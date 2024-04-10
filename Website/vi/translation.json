@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Vai Trò Thành Viên",
   "component_roleseveryone_menu_lable": "Chọn Nhiều Vai Trò",
-  "component_roleseveryone_description": "Vai trò cần thiết để có thể xem các kênh tạm thời",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Khôi Phục Cài Đặt Của Chủ Sở Hữu",
   "component_restore_menu_lable": "Quản Lý Tùy Chọn Khôi Phục",
@@ -220,6 +222,7 @@
   "component_custombranding_title": "Mã thông báo bot",
   "component_custombranding_button_lable": "Làm cách nào để nhận mã thông báo bot?",
   "component_custombranding_description": "Nhập mã thông báo bot Discord để chúng tôi có thể thiết lập một máy chủ riêng cho bot của bạn. Không sử dụng mã thông báo này ở bất kỳ đâu khác hoặc chia sẻ nó với bất kỳ ai. Hãy coi nó như một mật khẩu!",
+  "component_custombranding_appearance": "Customize Appearance",
   
   "component_custombrandingactivity_title": "Hoạt động của bot (Trạng thái)",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",

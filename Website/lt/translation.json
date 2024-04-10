@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Nario Rolė",
   "component_roleseveryone_menu_lable": "Pasirinkti Kelias Roles",
-  "component_roleseveryone_description": "Rolė, kurios reikia norint peržiūrėti laikinus kanalus",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Atkurti Savininko Nustatymus",
   "component_restore_menu_lable": "Tvarkyti Atkurimo Nustatymus",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Boto Tokenas",
   "component_custombranding_button_lable": "Kaip gauti boto tokeną?",
   "component_custombranding_description": "Įveskite Discord boto tokeną kad galėtume nustatyti atskirą serverį jūsų botui. Nenaudokite šio tokeno niekur kitur ir nedalykite juo su niekuo. Elkitės su juo kaip su slaptažodžiu!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Boto Veiklos Būsena (Statusas)",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 

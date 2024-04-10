@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Ruoli base",
   "component_roleseveryone_menu_lable": "Seleziona ruoli",
-  "component_roleseveryone_description": "Ruoli assegnati a tutti gli utenti del server, saranno soggetti ai cambiamenti delle impostazioni di privacy dei canali temporanei",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Salva proprietà canale",
   "component_restore_menu_lable": "Seleziona proprietà",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Token del bot",
   "component_custombranding_button_lable": "Come ottengo il token di un bot?",
   "component_custombranding_description": "Inserisci il token del tuo bot di Discord per permetterci di configurarlo. Non usare questo token da nessun'altra parte e non condividerlo con nessuno. Trattalo come una password!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Status del bot",
   "component_custombrandingactivity_description": "Cambia lo status del tuo bot personalizzato. Potrebbero volerci alcuni minuti prima dell'applicazione del cambiamento.",
 

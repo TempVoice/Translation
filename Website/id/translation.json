@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Member Role",
   "component_roleseveryone_menu_lable": "Pilih beberapa role",
-  "component_roleseveryone_description": "Diperlukan untuk memantau kanal sementara",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Setelan Pemulihan Voice",
   "component_restore_menu_lable": "Atur setelan pemulihan",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Token Bot",
   "component_custombranding_button_lable": "Bagaimana caraku mendapatkan Token Bot?",
   "component_custombranding_description": "Masukan token bot Discordmu untuk izinkan kami menyiapkan server terpisah untuk botmu. Jangan masukin token bot ini sembarangan apalagi sampai membagikannya, Bahaya!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Aktifitas Bot (Status)",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 

@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Role ng Miyembro",
   "component_roleseveryone_menu_lable": "Pumili ng Maramihang Role",
-  "component_roleseveryone_description": "Ang role na kinakailangan upang magawang tingnan ang mga temporaryong channel",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Ibalik ang Mga Setting ng May-ari",
   "component_restore_menu_lable": "Pamahalaan ang Mga Opsyon sa Pagpapabalik",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Bot na Token",
   "component_custombranding_button_lable": "Paano ako makakakuha ng bot na token?",
   "component_custombranding_description": "Magpasok ng bot na token galing sa Discord upang payagan kami na mag-setup ng hiwalay na server para sa iyong bot. Huwag gamitin ang token na ito sa ibang lugar o ibahagi ito kay sinuman. Ituring ito tulad ng isang password!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Aktibidad ng Bot (Katayuan)",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
 

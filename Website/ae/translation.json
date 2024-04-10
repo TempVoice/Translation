@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "دور العضو",
   "component_roleseveryone_menu_lable": "حدد أدوار متعددة",
-  "component_roleseveryone_description": "الدور المطلوب لتتمكن من عرض القنوات المؤقتة",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "استعادة إعدادات المالك",
   "component_restore_menu_lable": "إدارة خيارات الاستعادة",
@@ -220,6 +222,7 @@
   "component_custombranding_title": "رمز بوت",
   "component_custombranding_button_lable": "كيف يمكنني الحصول على رمز بوت؟",
   "component_custombranding_description": "أدخل رمز الدسكورد بوت المميز للسماح لنا بإعداد خادم منفصل لروبوتك. لا تستخدم هذا الرمز في أي مكان آخر أو تشاركه مع أي شخص. التعامل معها مثل كلمة المرور!",
+  "component_custombranding_appearance": "Customize Appearance",
 
   "component_custombrandingactivity_title": "نشاط الروبوت (الحالة)",
   "component_custombrandingactivity_description": "قم بتغيير حالة الدسكورد لروبوت العلامة التجارية المخصص. قد يستغرق التحديث في الدسكورد ما يصل إلى 5 دقائق",

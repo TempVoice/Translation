@@ -118,7 +118,9 @@
   
   "component_roleseveryone_title": "会员角色",
   "component_roleseveryone_menu_lable": "选择多个角色",
-  "component_roleseveryone_description": "要查看临时频道，需要的角色",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
   
   "component_restore_title": "恢复所有者设置",
   "component_restore_menu_lable": "管理恢复选项",
@@ -220,6 +222,7 @@
   "component_custombranding_title": "机器人令牌",
   "component_custombranding_button_lable": "我如何获得机器人令牌？",
   "component_custombranding_description": "输入Discord机器人令牌以允许我们为您的机器人设置一个单独的服务器。请不要在其他地方使用此令牌或与任何人共享。对待它就像对待密码一样！",
+  "component_custombranding_appearance": "Customize Appearance",
   
   "component_custombrandingactivity_title": "机器人活动（状态）",
   "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",

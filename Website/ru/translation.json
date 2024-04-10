@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Роль участника",
   "component_roleseveryone_menu_lable": "Выберите несколько ролей",
-  "component_roleseveryone_description": "Необходима, чтобы видеть временные каналы",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Восстановление настроек владельца",
   "component_restore_menu_lable": "Управление опциями восстановления",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Токен бота",
   "component_custombranding_button_lable": "Как получить токен своего бота?",
   "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Активность бота (Статус)",
   "component_custombrandingactivity_description": "Меняйте Discord статус вашего Custom Branding бота. Это может занять до 5 минут, дабы изменения стали видны в Discord.",
 

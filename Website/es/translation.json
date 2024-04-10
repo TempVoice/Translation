@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Rol de Miembro",
   "component_roleseveryone_menu_lable": "Elige múltiples Roles",
-  "component_roleseveryone_description": "Rol que es requerido para ser capaz de Ver los Canales de Voz Temporales",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Restaura la Configuración del Dueño",
   "component_restore_menu_lable": "Gestiona las Opciones de Restauración",
@@ -220,7 +222,8 @@
   "component_custombranding_title": "Token del Bot",
   "component_custombranding_button_lable": "¿Cómo obtengo Tokens del Bot?",
   "component_custombranding_description": "Ingresa un Token de un Bot de Discord para permitirnos implementar un servidor separado para tu bot. No utilices este token en ningún otro sitio ni lo compartas con nadie. ¡Trátalo como una contraseña!",
-
+  "component_custombranding_appearance": "Customize Appearance",
+  
   "component_custombrandingactivity_title": "Actividad del Bot (Estado)",
   "component_custombrandingactivity_description": "Cambia el Estado de Discord del bot de marca personalizado. La actualización en Discord puede tardar hasta 5 minutos.",
 

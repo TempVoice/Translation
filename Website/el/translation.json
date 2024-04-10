@@ -118,7 +118,9 @@
 
 "component_roleseveryone_title": "Ρόλος Χρήστη",
 "component_roleseveryone_menu_lable": "Πολλαπλοί ρόλοι",
- "component_roleseveryone_description": "Ποιος ρόλος είναι υποχρεωτικός για να μπει;",
+"component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+"component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+"component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
 "component_restore_title": "Επαναφορά ιδιοκτήτη",
 "component_restore_menu_lable": "Ρυθμίσεις επαναφοράς",
@@ -220,6 +222,7 @@
 "component_custombranding_title": "Bot Token",
 "component_custombranding_button_lable": "Πώς παίρνω bot token;",
 "component_custombranding_description": "Μην το δίνετε σε κανένα το token!",
+"component_custombranding_appearance": "Customize Appearance",
 
 "component_custombrandingactivity_title": "Κατάσταση Bot",
 "component_custombrandingactivity_description": "Αλλάξτε την κατάσταση του Discord του bot με προσαρμοσμένο branding. Ενδέχεται να απαιτηθούν έως και 5 λεπτά για να ενημερωθεί στο Discord.",

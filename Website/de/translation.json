@@ -118,7 +118,9 @@
 
   "component_roleseveryone_title": "Mitglieder Rolle",
   "component_roleseveryone_menu_lable": "Mehrere Rollen auswählen",
-  "component_roleseveryone_description": "Rolle, die erforderlich ist, um temporäre Kanäle sehen zu können",
+  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
+  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
 
   "component_restore_title": "Eigentümereinstellungen wiederherstellen",
   "component_restore_menu_lable": "Wiederherstellungsoptionen verwalten",
@@ -220,6 +222,7 @@
   "component_custombranding_title": "Bot Token",
   "component_custombranding_button_lable": "Wie bekomme ich ein Bot-Token?",
   "component_custombranding_description": "Gib einen Discord-Bot-Token ein, damit wir einen eigenen Server für deinen Bot einrichten können. Verwende dieses Token nirgendwo anders und gebe ihn an niemanden weiter. Behandle es wie ein Passwort!",
+  "component_custombranding_appearance": "Customize Appearance",
 
   "component_custombrandingactivity_title": "Bot-Aktivität (Status)",
   "component_custombrandingactivity_description": "Ändere den Discord-Status des Bots. Es kann bis zu 5 Minuten dauern, bis die Aktualisierung in Discord erfolgt.",
