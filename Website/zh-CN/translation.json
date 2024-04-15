@@ -32,14 +32,14 @@
   "interface_title": "界面",
   "interface_description": "允许用户控制他们的临时语音频道。",
   
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "概览",
+  "config_tab_2": "功能",
+  "config_tab_3": "权限",
+  "config_tab_4": "定制",
+  "config_tab_5": "其他",
   
   "navbar_home": "主页",
-  "navbar_help": "Help",
+  "navbar_help": "帮助",
   "navbar_setup": "设置",
   "navbar_premium": "高级",
   "navbar_support": "支持",
@@ -84,15 +84,15 @@
   "join_support": "您想加入我们的Discord吗？",
   "excordo_quote": "感谢您对TempVoice的兴趣，这是一个将改变您使用Discord方式的机器人。多年来，我一直专注于满足社区的需求和愿望，使您的Discord服务器变得更好！",
   
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "现在您相信了吗？",
+  "convinced_2": "告别永久语音频道吧 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
-
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
-
+  "premium_status_description_1": "所有高级定制都已解锁 ✌️",
+  "premium_status_description_2": "使用高级功能，设置您自己的嵌入头像、名称、颜色和图片 🤩",
+  
+  "component_billing_title": "管理您的订阅账单",
+  "component_billing_description": "管理您的支付方式或取消您的订阅。请确保输入您用于订阅的电子邮件。如果您忘记了您的电子邮件，请联系支持！",
+  
   "component_status_title": "我的服务器在哪个群集上？",
   "component_status_description_1": "在搜索框中输入您的服务器ID",
   "component_status_description_2": "您的服务器在以下位置：",
@@ -105,26 +105,26 @@
   "component_totallimit_description": "可以同时存在的临时频道总数",
   
   "component_premium_menu_lable": "激活高级",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "选择您的Discord服务器",
   "component_premium_menu_description": "可用的Discord服务器：",
   
   "component_sendmessage_title": "发送欢迎消息",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "自定义消息",
   "component_sendmessage_description": "在创建临时频道后向其发送欢迎消息",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_interface": "发送一个界面用于临时频道管理",
+  "component_sendmessage_silent": "作为 @silent 消息发送",
+  
   "component_roleparticipant_title": "语音角色",
   "component_roleparticipant_menu_lable": "未选择角色",
   "component_roleparticipant_description": "将角色分配给临时频道中的用户，在断开连接时删除角色",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_everyone_on": "将所选角色分配给所有加入临时频道的用户",
+  "component_roleparticipant_everyone_off": "仅将所选角色分配给临时频道所有者",
   
   "component_roleseveryone_title": "会员角色",
   "component_roleseveryone_menu_lable": "选择多个角色",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+  "component_roleseveryone_description": "在 @everyone 的位置显示临时频道所需的角色",
+  "component_roleseveryone_visibility_on": "@everyone 的临时频道将可见但被锁定",
+  "component_roleseveryone_visibility_off": "@everyone 的临时频道将不可见",
   
   "component_restore_title": "恢复所有者设置",
   "component_restore_menu_lable": "管理恢复选项",
@@ -226,10 +226,10 @@
   "component_custombranding_title": "机器人令牌",
   "component_custombranding_button_lable": "我如何获得机器人令牌？",
   "component_custombranding_description": "输入Discord机器人令牌以允许我们为您的机器人设置一个单独的服务器。请不要在其他地方使用此令牌或与任何人共享。对待它就像对待密码一样！",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "定制外观",
   
   "component_custombrandingactivity_title": "机器人活动（状态）",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "更改定制品牌机器人的Discord状态。在Discord中更新可能需要最多5分钟。",
   
   "component_sendinterface_menu_lable": "选择一个文本频道",
   "component_sendinterface_menu_option": "未选择频道",

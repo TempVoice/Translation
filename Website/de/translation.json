@@ -109,22 +109,22 @@
   "component_premium_menu_description": "Verfügbare Discord Server:",
 
   "component_sendmessage_title": "Willkommensnachricht senden",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Nachricht anpassen",
   "component_sendmessage_description": "Sende eine Willkommensnachricht in einen temporären Kanal, nachdem er erstellt wurde",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_interface": "Eine Benutzeroberfläche für die Verwaltung temporärer Kanäle senden",
+  "component_sendmessage_silent": "Als @silent-Nachricht senden",
+  
   "component_roleparticipant_title": "In-Voice-Rolle",
   "component_roleparticipant_menu_lable": "Keine Rolle ausgewählt",
-  "component_roleparticipant_description": "Weist Benutzern in einem temporären Kanal eine Rolle zu und entfernt die Rolle, wenn diese die Verbindung zum Kanal trennen",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_description": "Weist Benutzern in einem temporären Kanal eine Rolle zu und entfernt die Rolle, wenn sie die Verbindung zum Kanal trennen",
+  "component_roleparticipant_everyone_on": "Weist die ausgewählte Rolle allen zu, die dem temporären Kanal beitreten",
+  "component_roleparticipant_everyone_off": "Weist die ausgewählte Rolle nur dem Eigentümer des temporären Kanals zu",
   
-  "component_roleseveryone_title": "Mitglieder Rolle",
+  "component_roleseveryone_title": "Mitgliederrolle",
   "component_roleseveryone_menu_lable": "Mehrere Rollen auswählen",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+  "component_roleseveryone_description": "Rollen, die erforderlich sind, um temporäre Kanäle anstelle von @everyone anzeigen zu können",
+  "component_roleseveryone_visibility_on": "Temporäre Kanäle für @everyone werden sichtbar, aber gesperrt sein",
+  "component_roleseveryone_visibility_off": "Temporäre Kanäle für @everyone werden unsichtbar sein",  
 
   "component_restore_title": "Eigentümereinstellungen wiederherstellen",
   "component_restore_menu_lable": "Wiederherstellungsoptionen verwalten",
@@ -226,7 +226,7 @@
   "component_custombranding_title": "Bot Token",
   "component_custombranding_button_lable": "Wie bekomme ich ein Bot-Token?",
   "component_custombranding_description": "Gib einen Discord-Bot-Token ein, damit wir einen eigenen Server für deinen Bot einrichten können. Verwende dieses Token nirgendwo anders und gebe ihn an niemanden weiter. Behandle es wie ein Passwort!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "Aussehen anpassen",
 
   "component_custombrandingactivity_title": "Bot-Aktivität (Status)",
   "component_custombrandingactivity_description": "Ändere den Discord-Status des Bots. Es kann bis zu 5 Minuten dauern, bis die Aktualisierung in Discord erfolgt.",

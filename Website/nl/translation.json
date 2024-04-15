@@ -32,15 +32,15 @@
     "interface_title": "Interface",
     "interface_description": "Stelt gebruikers in staat hun tijdelijke spraakkanalen te beheren.",
     
-    "config_tab_1": "Overview",
-    "config_tab_2": "Features",
-    "config_tab_3": "Permissions",
-    "config_tab_4": "Customization",
-    "config_tab_5": "Miscellaneous",
+    "config_tab_1": "Overzicht",
+    "config_tab_2": "Functies",
+    "config_tab_3": "Machtigingen",
+    "config_tab_4": "Aanpassing",
+    "config_tab_5": "Diversen",
     
     "navbar_home": "Home",
     "navbar_help": "Help",
-    "navbar_setup": "Setup",
+    "navbar_setup": "Instellingen",
     "navbar_premium": "Premium",
     "navbar_support": "Ondersteuning",
     
@@ -79,21 +79,21 @@
     "button_lable_join_cancel": "Nee, alleen inloggen",
     "button_lable_join_continue": "Ja, alsjeblieft",
     "button_lable_manage_custom_branding": "Beheer Aangepaste Branding",
-    "button_back": "Go Back",
+    "button_back": "Terug",
     
-    "join_support": "Wil je bij onze Discord komen?",
+    "join_support": "Wil je bij onze Discord komen?",    
     "excordo_quote": "Bedankt voor je interesse in TempVoice, een bot die de manier waarop je Discord gebruikt zal veranderen. In de loop der jaren heb ik me gericht op de behoeften en wensen van de gemeenschap om je Discord-server een betere plek te maken!",
     
-    "convinced_1": "Are you convinced now?",
-    "convinced_2": "Say goodbye to permanent voice channels 👋",
-
+    "convinced_1": "Ben je nu overtuigd?",
+    "convinced_2": "Zeg vaarwel tegen permanente spraakkanalen 👋",
+    
     "premium_status_description_1": "Alle premium aanpassingen zijn ontgrendeld ✌️",
     "premium_status_description_2": "Gebruik je eigen ingebedde avatar, naam, kleur en afbeelding met Premium 🤩",
-
-    "component_billing_title": "Manage Your Subscription Billing",
-    "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
     
-    "component_status_title": "Op welke cluster bevindt mijn server zich?",
+    "component_billing_title": "Beheer je abonnementsfacturering",
+    "component_billing_description": "Beheer je betalingsmethode of annuleer je abonnement. Zorg ervoor dat je het e-mailadres invoert dat je hebt gebruikt voor je abonnement. Neem contact op met de ondersteuning als je je e-mailadres niet meer weet!",
+        
+    "component_status_title": "Op welke cluster bevindt mijn server zich?",    
     "component_status_description_1": "Voer je Server-ID in het zoekvak in",
     "component_status_description_2": "Je server bevindt zich op:",
     
@@ -105,26 +105,26 @@
     "component_totallimit_description": "Het totale aantal tijdelijke kanalen dat tegelijkertijd kan bestaan",
     
     "component_premium_menu_lable": "Activeer Premium",
-    "component_premium_text": "Select Your Discord Servers",
+    "component_premium_text": "Selecteer Je Discord-servers",
     "component_premium_menu_description": "Beschikbare Discord-servers:",
     
     "component_sendmessage_title": "Verstuur Welkomstbericht",
     "component_sendmessage_button_lable": "Bericht Aanpassen",
     "component_sendmessage_description": "Verstuur een welkomstbericht naar een tijdelijk kanaal nadat het is aangemaakt",
-    "component_sendmessage_interface": "Send an Interface for temporary channel management",
-    "component_sendmessage_silent": "Send as @silent message",
-
+    "component_sendmessage_interface": "Stuur een interface voor tijdelijk kanaalbeheer",
+    "component_sendmessage_silent": "Verstuur als @silent bericht",
+    
     "component_roleparticipant_title": "Rol in Kanaal",
     "component_roleparticipant_menu_lable": "Geen Rol Geselecteerd",
     "component_roleparticipant_description": "Wijs een rol toe aan gebruikers in een tijdelijk kanaal, verwijdert de rol wanneer ze verbinding verbreken",
-    "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-    "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+    "component_roleparticipant_everyone_on": "Wijs de geselecteerde rol toe aan iedereen die het tijdelijke kanaal betreedt",
+    "component_roleparticipant_everyone_off": "Wijs de geselecteerde rol alleen toe aan de eigenaar van het tijdelijke kanaal",
     
     "component_roleseveryone_title": "Lid Rol",
     "component_roleseveryone_menu_lable": "Selecteer Meerdere Rollen",
-    "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-    "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-    "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+    "component_roleseveryone_description": "Rollen die nodig zullen zijn om tijdelijke kanalen te kunnen bekijken in plaats van @everyone",
+    "component_roleseveryone_visibility_on": "Tijdelijke kanalen voor @everyone zullen zichtbaar zijn maar vergrendeld",
+    "component_roleseveryone_visibility_off": "Tijdelijke kanalen voor @everyone zullen onzichtbaar zijn",    
     
     "component_restore_title": "Herstel Eigenaarsinstellingen",
     "component_restore_menu_lable": "Beheer Herstelopties",
@@ -226,7 +226,7 @@
     "component_custombranding_title": "Bot Token",
     "component_custombranding_button_lable": "Hoe krijg ik een bot token?",
     "component_custombranding_description": "Voer een Discord bot token in om ons in staat te stellen een aparte server voor je bot op te zetten. Gebruik dit token niet ergens anders of deel het met anderen. Behandel het als een wachtwoord!",
-    "component_custombranding_appearance": "Customize Appearance",
+    "component_custombranding_appearance": "Uiterlijk Aanpassen",    
     
     "component_custombrandingactivity_title": "Bot Activiteit (Status)",
     "component_custombrandingactivity_description": "Verander de Discord-status van de op maat gemaakte branding bot.",

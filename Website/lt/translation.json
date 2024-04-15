@@ -32,13 +32,13 @@
   "interface_title": "Valdymas",
   "interface_description": "Leidžia vartotojams valdyti laikinus balso kanalus.",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
-
-  "navbar_home": "Pagrindinis",
+  "config_tab_1": "Apžvalga",
+  "config_tab_2": "Funkcijos",
+  "config_tab_3": "Leidimai",
+  "config_tab_4": "Adaptacija",
+  "config_tab_5": "Įvairūs",
+  
+  "navbar_home": "Pagrindinis",  
   "navbar_help": "Help",
   "navbar_setup": "Įrašyti",
   "navbar_premium": "Premium",
@@ -84,16 +84,16 @@
   "join_support": "Ar norėtumete prisijungti prie mūsų Discord?",
   "excordo_quote": "Ačiū, jog susidomėjote TempVoice, botas, kuris pakeis kaip naudositės Discord. Bėgant metams aš sutelkiau dėmesį į bendruomenės poreikius ir norus, kad jūsų Discord serveris taptų geresne vieta!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Ar dabar įtikintas?",
+  "convinced_2": "Pasveikinkite su amžinais balso kanalais 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
-
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
-
-  "component_status_title": "Kokiame klusteryje yra mano serveris?",
+  "premium_status_description_1": "Visi premium pasirinkimai atrakinti ✌️",
+  "premium_status_description_2": "Naudokite savo įterptą avatarą, vardą, spalvą ir paveikslėlį su Premium 🤩",
+  
+  "component_billing_title": "Valdykite savo prenumeratos sąskaitą",
+  "component_billing_description": "Valdykite savo mokėjimo metodą arba atšaukite prenumeratą. Įsitikinkite, kad įvedėte el. pašto adresą, kurį naudojote prenumeruoti. Susisiekite su palaikymu, jei negalite prisiminti savo el. pašto adreso!",
+  
+  "component_status_title": "Kokioje klasterioje yra mano serveris?",  
   "component_status_description_1": "Įveskite savo Serverio ID į paiešką",
   "component_status_description_2": "Jūsų serveris yra:",
 
@@ -109,22 +109,22 @@
   "component_premium_menu_description": "Galimi Discord Serveriai:",
 
   "component_sendmessage_title": "Siųsti Pasisveikinimo Pranešimą",
-  "component_sendmessage_button_lable": "Customize Message",
-  "component_sendmessage_description": "Sukūrę laikinąjį kanalą, išsiųskite sveikinimo pranešimą",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_button_lable": "Adaptuoti Pranešimą",
+  "component_sendmessage_description": "Sukūrus laikinąjį kanalą, išsiųskite pasisveikinimo pranešimą",
+  "component_sendmessage_interface": "Siųsti sąsają laikinajam kanalų valdymui",
+  "component_sendmessage_silent": "Siųsti kaip @silent pranešimą",
+  
   "component_roleparticipant_title": "Balso-Kanale Rolė",
   "component_roleparticipant_menu_lable": "Rolė Nepasirinkta",
   "component_roleparticipant_description": "Priskiria rolę vartotojams laikinajame kanale, pašalina rolę, kai jie atsijungia",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_everyone_on": "Priskiria pasirinktą rolę visiems, prisijungusiems prie laikinojo kanalo",
+  "component_roleparticipant_everyone_off": "Priskiria pasirinktą rolę tik laikinojo kanalo savininkui",
   
   "component_roleseveryone_title": "Nario Rolė",
   "component_roleseveryone_menu_lable": "Pasirinkti Kelias Roles",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+  "component_roleseveryone_description": "Roles, kurie bus būtini norint peržiūrėti laikinus kanalus vietoj @everyone",
+  "component_roleseveryone_visibility_on": "Laikini kanalai visiems @everyone bus matomi, bet užrakinti",
+  "component_roleseveryone_visibility_off": "Laikini kanalai visiems @everyone bus nematomi",  
 
   "component_restore_title": "Atkurti Savininko Nustatymus",
   "component_restore_menu_lable": "Tvarkyti Atkurimo Nustatymus",
@@ -132,13 +132,13 @@
   "component_restore_menu_option_2": "Personalizuotas Vartotojų Limitas",
   "component_restore_menu_option_3": "Patikimi ir Užblokuoti Vartotojai",
   "component_restore_menu_option_4": "Privatumo Nustatymai",
-  "component_restore_description": "Atkurkite laikinųjų kanalų nustatymus, kurie buvo prieš juos ištrinant",
-
+  "component_restore_description": "Atkurti laikinųjų kanalų nustatymus, kurie buvo prieš juos ištrinant",
+  
   "component_position_title": "Laikinojo Kanalo Pozicija",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Laikinų kanalų padėtis juos sukūrus (numatytasis: Žemiau)",
+  "component_position_menu_option_1": "Viršuje",
+  "component_position_menu_option_2": "Tik po Kūrėjo",
+  "component_position_menu_option_3": "Apačioje",
+  "component_position_description": "Laikinų kanalų padėtis, kai jie yra sukurti (numatytasis: Po)",  
 
   "component_permissionsowner_title": "Papildomi Discord Leidimai Savininkams",
   "component_permissionsowner_menu_lable": "Tvarkyti Leidimus",
@@ -225,13 +225,13 @@
 
   "component_custombranding_title": "Boto Tokenas",
   "component_custombranding_button_lable": "Kaip gauti boto tokeną?",
-  "component_custombranding_description": "Įveskite Discord boto tokeną kad galėtume nustatyti atskirą serverį jūsų botui. Nenaudokite šio tokeno niekur kitur ir nedalykite juo su niekuo. Elkitės su juo kaip su slaptažodžiu!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_description": "Įveskite Discord bot'o token'ą, kad galėtume nustatyti atskirą serverį jūsų botui. Nenaudokite šio token'o niekur kitur ir nedalykite jo su niekuo. Elkitės su juo kaip su slaptažodžiu!",
+  "component_custombranding_appearance": "Pasirinkite Išvaizdą",
   
   "component_custombrandingactivity_title": "Boto Veiklos Būsena (Statusas)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
-
-  "component_sendinterface_menu_lable": "Pasirinkite Teksto Kanalą",
+  "component_custombrandingactivity_description": "Pakeiskite pasirinktinio prekinio ženklo bota Discord būseną. Discord'e atnaujinimui gali prireikti iki 5 minučių.",
+  
+  "component_sendinterface_menu_lable": "Pasirinkite Teksto Kanalą",  
   "component_sendinterface_menu_option": "Nepasirinktas Joks Kanalas",
   "component_sendinterface_description": "Pasirinkite teksto kanalą, kuriame bus valdymo skydas",
 

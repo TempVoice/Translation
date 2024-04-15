@@ -108,25 +108,25 @@
   "component_premium_text": "Select Your Discord Servers",
   "component_premium_menu_description": "Tilgængelige Discord Servere:",
 
-  "component_sendmessage_title": "Send Velkommen Beskeder",
-  "component_sendmessage_button_lable": "Customize Message",
-  "component_sendmessage_description": "Send en velkomstbesked til en midlertidig kanal efter oprettelse af den",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_title": "Send Velkomstbeskeder",
+  "component_sendmessage_button_lable": "Tilpas Besked",
+  "component_sendmessage_description": "Send en velkomstbesked til en midlertidig kanal efter oprettelse",
+  "component_sendmessage_interface": "Send en grænseflade til midlertidig kanalstyring",
+  "component_sendmessage_silent": "Send som en @silent besked",
+  
   "component_roleparticipant_title": "Stemmerolle",
   "component_roleparticipant_menu_lable": "Ingen Valgte Roller",
-  "component_roleparticipant_description": "Tildeler en rolle til brugere i en midlertidig kanal, fjerner rollen igen når de afbryder forbindelsen",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_description": "Tildel en rolle til brugere i en midlertidig kanal og fjern rollen, når de afbryder forbindelsen",
+  "component_roleparticipant_everyone_on": "Tildeler den valgte rolle til alle, der deltager i den midlertidige kanal",
+  "component_roleparticipant_everyone_off": "Tildeler den valgte rolle kun til midlertidig kanalejer",
   
   "component_roleseveryone_title": "Medlemsrolle",
   "component_roleseveryone_menu_lable": "Vælg Flere Roller",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
-
-  "component_restore_title": "Gendan Ejerindstillinger",
+  "component_roleseveryone_description": "Rolle, der er nødvendig for at kunne se midlertidige kanaler i stedet for @everyone",
+  "component_roleseveryone_visibility_on": "Midlertidige kanaler for @everyone vil være synlige, men låst",
+  "component_roleseveryone_visibility_off": "Midlertidige kanaler for @everyone vil være usynlige",
+  
+  "component_restore_title": "Gendan Ejers Indstillinger",
   "component_restore_menu_lable": "Administrer Gendannelsesindstillinger",
   "component_restore_menu_option_1": "Personligt Navn",
   "component_restore_menu_option_2": "Personlig Bruger Antal",
@@ -135,10 +135,10 @@
   "component_restore_description": "Gendan egenskaberne for midlertidige kanaler, som de var før de blev slettet",
 
   "component_position_title": "Midlertidig Kanalposition",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Placering af midlertidige kanaler, når de er oprettet (Standard: Nedenfor)",
+  "component_position_menu_option_1": "I toppen",
+  "component_position_menu_option_2": "Lige under Oprettet",
+  "component_position_menu_option_3": "I bunden",
+  "component_position_description": "Placering af midlertidige kanaler, når de oprettes (Standard: Nedenfor)",
 
   "component_permissionsowner_title": "Yderligere Discord Tilladelser for Ejere",
   "component_permissionsowner_menu_lable": "Administrer Tilladelser",
@@ -226,11 +226,11 @@
   "component_custombranding_title": "Bot Token",
   "component_custombranding_button_lable": "Hvordan får jeg et bot-token?",
   "component_custombranding_description": "Indtast et Discord bot token for at give os mulighed for at oprette en separat server til din bot. Brug ikke dette token andre steder eller del det med nogen. Behandl det som et kodeord!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "Tilpas Udseende",
 
   "component_custombrandingactivity_title": "Bot Aktivitet (Status)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
-
+  "component_custombrandingactivity_description": "Ændre Discord-status for den brugerdefinerede branding-bot. Det kan tage op til 5 minutter at opdatere i Discord.",
+  
   "component_sendinterface_menu_lable": "Vælg en Tekstkanal",
   "component_sendinterface_menu_option": "Ingen Valgte Kanaler",
   "component_sendinterface_description": "Vælg en tekstkanal at sende strepanelet til",

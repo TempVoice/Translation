@@ -111,20 +111,20 @@
 	"component_sendmessage_title": "Привітальне повідомлення",
 	"component_sendmessage_button_lable": "Налаштувати повідомлення",
 	"component_sendmessage_description": "Надсилає привітальне повідомлення у тимчасовий канал при створенні",
-	"component_sendmessage_interface": "Send an Interface for temporary channel management",
-	"component_sendmessage_silent": "Send as @silent message",
-
+	"component_sendmessage_interface": "Надсилання інтерфейсу для управління тимчасовим каналом",
+	"component_sendmessage_silent": "Надсилати як повідомлення @silent",
+	
 	"component_roleparticipant_title": "Голосова роль",
 	"component_roleparticipant_menu_lable": "Роль не вибрана",
 	"component_roleparticipant_description": "Призначає ролі при вході/виході з тимчасового каналу",
-	"component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-	"component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+	"component_roleparticipant_everyone_on": "Призначає обрану роль усім, хто приєднується до тимчасового каналу",
+	"component_roleparticipant_everyone_off": "Призначає обрану роль тільки власнику тимчасового каналу",
 	
 	"component_roleseveryone_title": "Роль учасника",
 	"component_roleseveryone_menu_lable": "Виберіть декілька ролей",
-	"component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-	"component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-	"component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+	"component_roleseveryone_description": "Ролі, які будуть необхідні для перегляду тимчасових каналів замість @everyone",
+	"component_roleseveryone_visibility_on": "Тимчасові канали для @everyone будуть видимі, але заблоковані",
+	"component_roleseveryone_visibility_off": "Тимчасові канали для @everyone будуть невидимі",
 
 	"component_restore_title": "Відновлення налаштувань власника",
 	"component_restore_menu_lable": "Управління опціями відновлення",

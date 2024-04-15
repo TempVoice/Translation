@@ -111,14 +111,14 @@
   "component_sendmessage_title": "Приветственное сообщение",
   "component_sendmessage_button_lable": "Настроить сообщение",
   "component_sendmessage_description": "Отправляет приветственное сообщение во временной канал при создании",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_interface": "Отправить интерфейс для управления временным каналом",
+  "component_sendmessage_silent": "Отправить как @silent сообщение",
+  
   "component_roleparticipant_title": "Голосовая роль",
   "component_roleparticipant_menu_lable": "Роль не выбрана",
   "component_roleparticipant_description": "Назначает роли при заходе/выходе из временного канала",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_everyone_on": "Назначает выбранную роль всем, кто присоединяется к временному каналу",
+  "component_roleparticipant_everyone_off": "Назначает выбранную роль только владельцу временного канала",  
   
   "component_roleseveryone_title": "Роль участника",
   "component_roleseveryone_menu_lable": "Выберите несколько ролей",
@@ -226,7 +226,7 @@
   "component_custombranding_title": "Токен бота",
   "component_custombranding_button_lable": "Как получить токен своего бота?",
   "component_custombranding_description": "Введите токен Discord бота, чтобы создать нового Custom Branding бота, который будет запущен на отдельном сервере. Не используйте этот токен где-либо еще и не делитесь им с кем-либо. Относитесь к нему, как к паролю!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "Настроить внешний вид",
   
   "component_custombrandingactivity_title": "Активность бота (Статус)",
   "component_custombrandingactivity_description": "Меняйте Discord статус вашего Custom Branding бота. Это может занять до 5 минут, дабы изменения стали видны в Discord.",

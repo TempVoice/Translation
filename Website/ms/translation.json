@@ -32,11 +32,11 @@
   "interface_title": "Antara Muka",
   "interface_description": "Membolehkan pengguna mengawal saluran suara sementara mereka.",
   
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "Tinjauan",
+  "config_tab_2": "Ciri-ciri",
+  "config_tab_3": "Kebenaran",
+  "config_tab_4": "Penyesuaian",
+  "config_tab_5": "Pelbagai",  
   
   "navbar_home": "Laman Utama",
   "navbar_help": "Help",
@@ -82,16 +82,16 @@
   "button_back": "Go Back",
   
   "join_support": "Adakah anda ingin menyertai Discord kami?",
-  "excordo_quote": "Terima kasih atas minat anda terhadap TempVoice, sebot yang akan mengubah cara anda menggunakan Discord. Selama bertahun-tahun, saya telah memberi tumpuan kepada keperluan dan keinginan komuniti untuk menjadikan pelayan Discord anda tempat yang lebih baik!",
+  "excordo_quote": "Terima kasih atas minat anda terhadap TempVoice, sebuah bot yang akan mengubah cara anda menggunakan Discord. Selama bertahun-tahun, saya telah memberi tumpuan kepada keperluan dan keinginan komuniti untuk menjadikan pelayan Discord anda tempat yang lebih baik!",
   
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Adakah anda terpengaruh sekarang?",
+  "convinced_2": "Ucapkan selamat tinggal kepada saluran suara kekal 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
-
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
+  "premium_status_description_1": "Semua penyesuaian premium telah dibuka ✌️",
+  "premium_status_description_2": "Gunakan avatar, nama, warna, dan imej anda sendiri dengan Premium 🤩",
+  
+  "component_billing_title": "Urus Bil Langganan Anda",
+  "component_billing_description": "Urus kaedah pembayaran atau batalkan langganan anda. Pastikan untuk memasukkan emel yang anda gunakan untuk langganan. Hubungi sokongan jika anda tidak dapat mengingati emel anda!",  
 
   "component_status_title": "Gugus Mana Pelayan Saya?",
   "component_status_description_1": "Masukkan ID Pelayan anda dalam kotak carian",
@@ -105,14 +105,14 @@
   "component_totallimit_description": "Jumlah saluran sementara yang boleh wujud pada masa yang sama",
   
   "component_premium_menu_lable": "Aktifkan Premium",
-  "component_premium_text": "Select Your Discord Servers",
+  "component_premium_text": "Pilih Pelayan Discord Anda",
   "component_premium_menu_description": "Pelayan Discord yang tersedia:",
   
   "component_sendmessage_title": "Hantar Pesanan Selamat Datang",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Sesuaikan Pesanan",
   "component_sendmessage_description": "Hantar pesanan selamat datang ke saluran sementara selepas dicipta",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
+  "component_sendmessage_interface": "Hantar Antara Muka untuk pengurusan saluran sementara",
+  "component_sendmessage_silent": "Hantar sebagai mesej @silent",  
 
   "component_roleparticipant_title": "Peranan Dalam Saluran Suara",
   "component_roleparticipant_menu_lable": "Tiada Peranan Dipilih",
@@ -135,10 +135,10 @@
   "component_restore_description": "Pulihkan sifat-sifat saluran sementara sebagaimana yang mereka sebelum mereka dipadamkan",
   
   "component_position_title": "Kedudukan Saluran Sementara",
-  "component_position_menu_option_1": "At the top",
-  "component_position_menu_option_2": "Right under the Creator",
-  "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Di Bawah)",
+  "component_position_menu_option_1": "Di atas",
+  "component_position_menu_option_2": "Sekali bawah Pencipta",
+  "component_position_menu_option_3": "Di bawah",
+  "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Di Bawah)",  
   
   "component_permissionsowner_title": "Kebenaran Discord Tambahan untuk Pemilik",
   "component_permissionsowner_menu_lable": "Urus Kebenaran",
@@ -226,12 +226,12 @@
   "component_custombranding_title": "Token Bot",
   "component_custombranding_button_lable": "Bagaimana Saya Dapatkan Token Bot?",
   "component_custombranding_description": "Masukkan token bot Discord untuk membolehkan kami menyediakan pelayan yang berasingan untuk bot anda. Jangan gunakan token ini di tempat lain atau kongsi dengan sesiapa. Perlakukan ia seperti kata laluan!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "Penyesuaian Penampilan",
   
   "component_custombrandingactivity_title": "Aktiviti Bot (Status)",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombrandingactivity_description": "Tukar status Discord bot penjenamaan khusus. Ia mungkin mengambil masa sehingga 5 minit untuk dikemaskini di Discord.",
   
-  "component_sendinterface_menu_lable": "Pilih Saluran Teks",
+  "component_sendinterface_menu_lable": "Pilih Saluran Teks",  
   "component_sendinterface_menu_option": "Tiada Saluran Dipilih",
   "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka kepadanya",
   

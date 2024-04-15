@@ -79,7 +79,7 @@
   "button_lable_join_cancel": "لا، فقط قم بتسجيل الدخول",
   "button_lable_join_continue": "نعم من فضلك",
   "button_lable_manage_custom_branding": "إدارة العلامات التجارية المخصصة",
-  "button_back": "Go Back",
+  "button_back": "العودة",
 
   "join_support": "هل ترغب في الانضمام إلى الديسكورد الخاص بنا؟",
   "excordo_quote": "نشكرك على اهتمامك بـ TempVoice، وهو الروبوت الذي سيغير طريقة استخدامك لـ الدسكورد. على مر السنين، ركزت على احتياجات ورغبات المجتمع لجعل خادم الدسكورد الخاص بك مكانًا أفضل!",
@@ -111,20 +111,20 @@
   "component_sendmessage_title": "أرسل رسالة ترحيب",
   "component_sendmessage_button_lable": "تخصيص الرسالة",
   "component_sendmessage_description": "إرسال رسالة ترحيب إلى قناة مؤقتة بعد إنشائها",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
+  "component_sendmessage_interface": "إرسال واجهة لإدارة القنوات المؤقتة",
+  "component_sendmessage_silent": "إرسال رسالة كـ @silent",
 
   "component_roleparticipant_title": "الدور الصوتي",
   "component_roleparticipant_menu_lable": "لم يتم تحديد أي دور",
   "component_roleparticipant_description": "يقوم بتعيين دور للمستخدمين في قناة مؤقتة، ويزيل الدور عند قطع الاتصال",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
-  
+  "component_roleparticipant_everyone_on": "يُسند الدور المحدد للجميع الذين ينضمون إلى القناة المؤقتة",
+  "component_roleparticipant_everyone_off": "يُسند الدور المحدد فقط لمالك القناة المؤقتة",
+
   "component_roleseveryone_title": "دور العضو",
   "component_roleseveryone_menu_lable": "حدد أدوار متعددة",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+  "component_roleseveryone_description": "الأدوار الضرورية لتمكين عرض القنوات المؤقتة بدلاً من الجميع",
+  "component_roleseveryone_visibility_on": "ستكون القنوات المؤقتة لـ @everyone مرئية ولكن مقفلة",
+  "component_roleseveryone_visibility_off": "ستكون القنوات المؤقتة لـ @everyone غير مرئية",  
 
   "component_restore_title": "استعادة إعدادات المالك",
   "component_restore_menu_lable": "إدارة خيارات الاستعادة",
@@ -226,7 +226,7 @@
   "component_custombranding_title": "رمز بوت",
   "component_custombranding_button_lable": "كيف يمكنني الحصول على رمز بوت؟",
   "component_custombranding_description": "أدخل رمز الدسكورد بوت المميز للسماح لنا بإعداد خادم منفصل لروبوتك. لا تستخدم هذا الرمز في أي مكان آخر أو تشاركه مع أي شخص. التعامل معها مثل كلمة المرور!",
-  "component_custombranding_appearance": "Customize Appearance",
+  "component_custombranding_appearance": "تخصيص المظهر",
 
   "component_custombrandingactivity_title": "نشاط الروبوت (الحالة)",
   "component_custombrandingactivity_description": "قم بتغيير حالة الدسكورد لروبوت العلامة التجارية المخصص. قد يستغرق التحديث في الدسكورد ما يصل إلى 5 دقائق",

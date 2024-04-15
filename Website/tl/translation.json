@@ -32,17 +32,17 @@
   "interface_title": "Interface",
   "interface_description": "Nagbibigay-daan sa mga users na kontrolin ang kanilang mga temporaryong voice na channel.",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
-
+  "config_tab_1": "Pangkalahatan",
+  "config_tab_2": "Mga Tampok",
+  "config_tab_3": "Mga Pahintulot",
+  "config_tab_4": "Pagsasaayos",
+  "config_tab_5": "Iba-iba",
+  
   "navbar_home": "Tahanan",
   "navbar_help": "Tulong",
-  "navbar_setup": "Setup",
-  "navbar_premium": "Prima",
-  "navbar_support": "Suporta",
+  "navbar_setup": "Pagtatakda",
+  "navbar_premium": "Premyo",
+  "navbar_support": "Suporta",  
   
   "premium_slogan_title": "Iyong Sariling Premium Na Plano",
   "premium_slogan_description": "Buksan ang buong potensyal ng iyong server sa pamamagitan ng pagkakaroon ng walang limitasyong access sa lahat ng mga tampok. Kanselahin ng anumang oras.",
@@ -84,18 +84,18 @@
   "join_support": "Gusto mo bang sumali sa aming Discord?",
   "excordo_quote": "Maraming salamat sa iyong interes sa TempVoice, ang bot na magpapabago sa iyong paggamit ng Discord. Sa mga nakaraang taon, nakatuon ako sa mga pangangailangan at kagustuhan ng komunidad upang gawing mas mabuting lugar ang iyong server sa Discord!",
 
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "convinced_1": "Nakumbinsi ka na ba ngayon?",
+  "convinced_2": "Paalam sa permanenteng mga voice channel 👋",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
-
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
-
+  "premium_status_description_1": "Ang lahat ng mga pagpapalitang premium ay nabuksan na ✌️",
+  "premium_status_description_2": "Gamitin ang iyong sariling embed avatar, pangalan, kulay, at imahe sa Premium 🤩",
+  
+  "component_billing_title": "Pamahalaan ang Iyong Pagbabayad sa Subscription",
+  "component_billing_description": "Pamahalaan ang iyong paraan ng pagbabayad o kanselahin ang iyong subscription. Siguraduhing ilagay ang email na iyong ginamit para mag-subscribe. Makipag-ugnayan sa suporta kung hindi mo matandaan ang iyong email!",
+  
   "component_status_title": "Saang cluster ang server ko?",
   "component_status_description_1": "Ilagay ang iyong Server na ID sa loob ng search box",
-  "component_status_description_2": "Ang iyong server ay nasa:",
+  "component_status_description_2": "Ang iyong server ay nasa:",  
 
   "component_bitrate_title": "Bitrate ng Temporaryong Channel",
   "component_bitrate_menu_lable": "Pinakamataas na Posible",
@@ -104,21 +104,21 @@
   "component_totallimit_title": "Kabuuang Limitasyon ng mga Temporaryong Channel",
   "component_totallimit_description": "Ang kabuuang bilang ng mga temporaryong channel na maaaring umiiral ng sabay-sabay",
 
-  "component_premium_menu_lable": "I-aktibohin ang Prima",
-  "component_premium_text": "Select Your Discord Servers",
-  "component_premium_menu_description": "Maaring magamit na mga server sa Discord:",
-
-  "component_sendmessage_title": "Magpadala ng Pagbati na Mensahe",
-  "component_sendmessage_button_lable": "Customize Message",
-  "component_sendmessage_description": "Magpadala ng pagbati sa paraan na mensahe sa loob ng temporaryong channel pagkatapos itong malikha",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_premium_menu_lable": "I-aktibo ang Prima",
+  "component_premium_text": "Pumili ng Iyong Mga Server sa Discord",
+  "component_premium_menu_description": "Maaring gamitin ang mga sumusunod na server sa Discord:",
+  
+  "component_sendmessage_title": "Magpadala ng Mensahe ng Pagbati",
+  "component_sendmessage_button_lable": "I-customize ang Mensahe",
+  "component_sendmessage_description": "Magpadala ng pagbati sa paraang mensahe sa loob ng temporaryong channel pagkatapos itong malikha",
+  "component_sendmessage_interface": "Magpadala ng isang Interface para sa pamamahala ng temporary channel",
+  "component_sendmessage_silent": "Magpadala bilang @silent na mensahe",
+  
   "component_roleparticipant_title": "In-Voice na Role",
   "component_roleparticipant_menu_lable": "Walang Napiling Role",
   "component_roleparticipant_description": "Nagtatalaga ng role sa mga users na nasa loob ng temporaryong channel, tinatanggal ang role kapag sila'y nag-disconnect",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_everyone_on": "Nagtatalaga ng napiling role sa lahat ng sumasali sa temporary channel",
+  "component_roleparticipant_everyone_off": "Nagtatalaga ng napiling role lamang sa may-ari ng temporary channel",  
   
   "component_roleseveryone_title": "Role ng Miyembro",
   "component_roleseveryone_menu_lable": "Pumili ng Maramihang Role",

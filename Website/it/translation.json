@@ -109,16 +109,16 @@
   "component_premium_menu_description": "Server Discord Disponibili:",
 
   "component_sendmessage_title": "Invia messaggio di benvenuto",
-  "component_sendmessage_button_lable": "Customize Message",
+  "component_sendmessage_button_lable": "Personalizza il messaggio",
   "component_sendmessage_description": "Invia un messaggio di benvenuto nei canali temporanei dopo la creazione",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
+  "component_sendmessage_interface": "Invia un'interfaccia per la gestione dei canali temporanei",
+  "component_sendmessage_silent": "Invia come messaggio @silent",
+  
   "component_roleparticipant_title": "Ruolo In-Voice",
-  "component_roleparticipant_menu_lable": "Nessun ruolo",
-  "component_roleparticipant_description": "Assegna un ruolo agli utenti in un canale temporaneo, rimuove il ruolo quando si disconnettono",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_menu_lable": "Nessun ruolo selezionato",
+  "component_roleparticipant_description": "Assegna un ruolo agli utenti in un canale temporaneo e rimuove il ruolo quando si disconnettono",
+  "component_roleparticipant_everyone_on": "Assegna il ruolo selezionato a tutti coloro che entrano nel canale temporaneo",
+  "component_roleparticipant_everyone_off": "Assegna il ruolo selezionato solo al proprietario del canale temporaneo",  
   
   "component_roleseveryone_title": "Ruoli base",
   "component_roleseveryone_menu_lable": "Seleziona ruoli",

@@ -111,20 +111,20 @@
   "component_sendmessage_title": "ウェルカムメッセージを送る",
   "component_sendmessage_button_lable": "カスタムメッセージ",
   "component_sendmessage_description": "一時的なチャンネルを作成後、そのチャンネルに指定したメッセージを送信します",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
+  "component_sendmessage_interface": "一時的なチャンネルの管理のためのインターフェースを送信します",
+  "component_sendmessage_silent": "@silent メッセージとして送信します",  
 
   "component_roleparticipant_title": "ボイス内のロール",
   "component_roleparticipant_menu_lable": "ロールは選択されていません",
   "component_roleparticipant_description": "一時的なチャンネルにいるユーザにロールを割り当て、ユーザが切断するとロールを削除します",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_roleparticipant_everyone_on": "一時的なチャンネルに参加したすべてのユーザに選択したロールを割り当てます",
+  "component_roleparticipant_everyone_off": "選択したロールを一時的なチャンネルの所有者にのみ割り当てます",
   
   "component_roleseveryone_title": "メンバーロール",
   "component_roleseveryone_menu_lable": "複数のロールを選択可能",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
+  "component_roleseveryone_description": "@everyone の代わりに一時的なチャンネルを表示するために必要なロール",
+  "component_roleseveryone_visibility_on": "@everyone 用の一時的なチャンネルが表示されますが、ロックされています",
+  "component_roleseveryone_visibility_off": "@everyone 用の一時的なチャンネルは非表示になります",  
 
   "component_restore_title": "過去の設定を復元",
   "component_restore_menu_lable": "復元の設定",
@@ -226,12 +226,12 @@
   "component_custombranding_title": "ボット Token",
   "component_custombranding_button_lable": "ボットのtokenを取得するには？",
   "component_custombranding_description": "Discordボットtokenを入力して、ボット用の別のサーバーを設定します。このトークンを他の場所で使用したり、他の誰かと共有したりしないでください。パスワードと同様に扱ってください！",
-  "component_custombranding_appearance": "Customize Appearance",
-  
-  "component_custombrandingactivity_title": "ボットのアクティビティ（ステータス）",
-  "component_custombrandingactivity_description": "Change the Discord status of the custom branding bot. It might take up to 5 minutes to update in Discord.",
+  "component_custombranding_appearance": "外観のカスタマイズ",
 
-  "component_sendinterface_menu_lable": "テキストチャンネルを選択",
+  "component_custombrandingactivity_title": "ボットのアクティビティ（ステータス）",
+  "component_custombrandingactivity_description": "カスタムブランディングボットのDiscordステータスを変更します。 Discordでの更新には最大5分かかる場合があります。",
+  
+  "component_sendinterface_menu_lable": "テキストチャンネルを選択",  
   "component_sendinterface_menu_option": "チャンネルは選択されていません",
   "component_sendinterface_description": "設定パネルを送信するテキストチャンネルを選択",
 

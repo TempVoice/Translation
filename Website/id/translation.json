@@ -78,22 +78,22 @@
   "button_lable_upgrade_continue": "Iya Upgrade",
   "button_lable_join_cancel": "Gak, cuma login",
   "button_lable_join_continue": "Iya, Sekalian",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
-
-  "join_support": "Apakah kamu pengen sekalian join ke server kami?",
-  "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
-
-  "convinced_1": "Are you convinced now?",
-  "convinced_2": "Say goodbye to permanent voice channels 👋",
+  "button_lable_manage_custom_branding": "Kelola Branding Kustom",
+  "button_back": "Kembali",
   
-  "premium_status_description_1": "All premium customizations are unlocked ✌️",
-  "premium_status_description_2": "Use your own embed avatar, name, color and image with Premium 🤩",
-
-  "component_billing_title": "Manage Your Subscription Billing",
-  "component_billing_description": "Manage your payment methode or cancel your subscription. Make sure to enter the email you used for subscribing. Contact the support if you cannot remember your email!",
-
-  "component_status_title": "Di klaster mana serverku?",
+  "join_support": "Apakah Anda ingin bergabung dengan server kami?",
+  "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
+  
+  "convinced_1": "Sekarang kamu yakin?",
+  "convinced_2": "Ucapkan selamat tinggal pada saluran suara permanen 👋",
+  
+  "premium_status_description_1": "Semua penyesuaian premium terbuka ✌️",
+  "premium_status_description_2": "Gunakan avatar, nama, warna, dan gambar sesuai keinginan dengan Premium 🤩",
+  
+  "component_billing_title": "Kelola Pembayaran Langganan Anda",
+  "component_billing_description": "Kelola metode pembayaran atau batalkan langganan Anda. Pastikan untuk memasukkan email yang Anda gunakan untuk berlangganan. Hubungi dukungan jika Anda tidak ingat email Anda!",
+  
+  "component_status_title": "Di mana klaster server saya?",  
   "component_status_description_1": "Masukan ID Servermu di box pencarian",
   "component_status_description_2": "Servermu di:",
 
@@ -105,20 +105,20 @@
   "component_totallimit_description": "Batas total untuk channel sementara yg dapat aktif dalam waktu bersamaan",
 
   "component_premium_menu_lable": "Aktifkan Premium",
-  "component_premium_text": "Select Your Discord Servers",
-  "component_premium_menu_description": "Server Discord yg Tersedia:",
-
-  "component_sendmessage_title": "Pesan Selamat Datang",
-  "component_sendmessage_button_lable": "Customize Message",
-  "component_sendmessage_description": "Kirim pesan selamat datang ke channel sementara setelah channel dibuat",
-  "component_sendmessage_interface": "Send an Interface for temporary channel management",
-  "component_sendmessage_silent": "Send as @silent message",
-
-  "component_roleparticipant_title": "Role in-voice",
-  "component_roleparticipant_menu_lable": "Gak ada role terpilih",
-  "component_roleparticipant_description": "Tetapkan role saat bergabung/meninggalkan kanal sementara",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
+  "component_premium_text": "Pilih Server Discord Anda",
+  "component_premium_menu_description": "Server Discord yang Tersedia:",
+  
+  "component_sendmessage_title": "Kirim Pesan Selamat Datang",
+  "component_sendmessage_button_lable": "Sesuaikan Pesan",
+  "component_sendmessage_description": "Kirim pesan selamat datang ke saluran sementara setelah saluran dibuat",
+  "component_sendmessage_interface": "Kirim Antarmuka untuk manajemen saluran sementara",
+  "component_sendmessage_silent": "Kirim sebagai pesan @silent",
+  
+  "component_roleparticipant_title": "Peran di Saluran Suara",
+  "component_roleparticipant_menu_lable": "Tidak ada Peran yang Dipilih",
+  "component_roleparticipant_description": "Tetapkan peran kepada pengguna yang berada di saluran sementara, hapus peran ketika mereka keluar",
+  "component_roleparticipant_everyone_on": "Mengassign peran yang dipilih kepada semua orang yang bergabung dengan saluran sementara",
+  "component_roleparticipant_everyone_off": "Mengassign peran yang dipilih hanya kepada pemilik saluran sementara",  
   
   "component_roleseveryone_title": "Member Role",
   "component_roleseveryone_menu_lable": "Pilih beberapa role",
