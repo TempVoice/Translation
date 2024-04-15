@@ -54,9 +54,9 @@
     "error_totallimit": "## **Không thể!**\n Đã đạt đến giới hạn **{val1}** các kênh thoại vì máy chủ Discord đã giới hạn. Vui lòng thử lại sau.",
     "error_category_limit": "## **Không thể!**\n Danh mục có sẵn đã giới hạn 50 kênh cho mỗi danh mục. Nếu bạn là quản trị viên, vui lòng thiết lập thêm **Danh mục dự phòng** trong bảng điều khiển. Nếu bạn là thành viên, vui lòng chờ có người rời khỏi phòng và thử lại sau.",
     "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_cb": "## **Không thể!**\n Bạn đang cố sử dụng [TempVoice Custom Branding](https://tempvoice.xyz/premium) trong khi chủ sỡ hữu chưa kích hoạt TempVoice Premium. Nếu bạn là chủ sở hữu của Custom Branding bot, hãy chắc chắn rằng bot <@762217899355013120> đã được công khai bot hoặc bạn đăng kí Premium tại đây: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "## **Lỗi.**\n TempVoice đã xung đột Discord's API. Báo cáo tin nhắn tại đây: https://discord.gg/tempvoice. \n### Error: `{val1}`",
-    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    "error_cb": "## **Kích hoạt Premium và Rời khỏi <@762217899355013120>**\nBot [TempVoice Custom Branding](https://tempvoice.xyz/premium) đã được cài đặt và mời thành công vào máy chủ Discord này.\n## Kích hoạt Premium\n Chủ sở hữu của bot tùy chỉnh nhãn hiệu phải kích hoạt TempVoice Premium trên máy chủ Discord này.\nhttps://tempvoice.xyz/premium > `Đăng nhập bằng Discord` > `Quản lý Đăng ký` > `Kích hoạt Premium`\n## Rời khỏi bot công cộng <@762217899355013120>\nChỉ cần bot tùy chỉnh nhãn hiệu cần nằm trên máy chủ Discord này.\n## Quan trọng\nCác Kênh Tạo Sẵn hiện có từ bot TempVoice công cộng sẽ hoạt động như trước. Chỉ cần tạo lại các giao diện bằng **/setup**.\n\nBot này sẽ rời khỏi Discord nếu Premium không được kích hoạt sớm.",
+    "error_conflict": "## **Lỗi.**\n TempVoice đã xảy ra xung đột với API của Discord. Vui lòng báo cáo tin nhắn tại đây: https://discord.gg/tempvoice. \n### Lỗi: `{val1}`",
+    "error_already_invited": "## **Không Thể!**\n Bạn đã thử mời người này vào kênh tạm của bạn rồi.",    
     
     "voice_waiting_1": "## **Không Thể**\n Cậu không thể tạo phòng chờ khi kênh của cậu đang bị ẩn.",
     "voice_waiting_2": "## **Không Thể**\n Cậu không thể ẩn kênh của cậu khi có phòng chờ.",

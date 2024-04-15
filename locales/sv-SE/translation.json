@@ -53,10 +53,10 @@
     "error_webhook": "## **Inte möjligt!**\n Det är inte möjligt att skapa en webhook eftersom en annan Discord-bot hindrar mig från att göra det. Kolla om säkerhetsbotar som *Wick*, *Beemo* etc. är orsaken.",
     "error_totallimit": "## **Inte möjligt!**\n Gränsen på **{val1}** tillfälliga röstkanaler samtidigt har nåtts på grund av begränsningar på denna Discord-server. Försök igen senare.",
     "error_category_limit": "## **Inte möjligt!**\n Alla tillgängliga kategorier har nått sin gräns på 50 kanaler vardera. Om du är en administratör kan du skapa fler **Fallback Kategorier** i instrumentpanelen, annars försök igen senare.",
-    "error_server_limit": "## **Not Possible!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_cb": "## **Not Possible!**\n You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot on a Discord server, where the owner of the bot has not enabled TempVoice Premium. If you are the owner of this Custom Branding bot, make sure that the public <@762217899355013120> bot is kicked and you activated premium for this Discord server here: **https://tempvoice.xyz/premium** > **Activate Premium**.",
-    "error_conflict": "## **Oväntad Konflikt.**\n TempVoice hade en konflikt med Discord's API. Rapportera detta meddelande här https://discord.gg/tempvoice. \n### Fel: `{val1}`",
-    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    "error_server_limit": "## **Inte möjligt!**\n Discord-servern har nått gränsen på 500 kanaler som kan finnas samtidigt. Försök igen senare.",
+    "error_cb": "## **Aktivera Premium och Sparka <@762217899355013120>**\nDenna [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot har installerats och bjudits in till denna Discord-server.\n## Aktivera Premium\nÄgaren till den anpassade varumärkesbotten måste aktivera TempVoice Premium på denna Discord-server.\nhttps://tempvoice.xyz/premium > `Logga in med Discord` > `Hantera prenumeration` > `Aktivera Premium`\n## Sparka den allmänna <@762217899355013120> botten\nBara den anpassade varumärkesboten behöver vara på denna Discord-server.\n## Viktigt\nBefintliga skaparkanaler från den allmänna TempVoice-botten kommer att fungera som tidigare. Endast gränssnitt måste återskapas med **/setup**.\n\nDen här boten kommer att lämna denna Discord om Premium inte aktiveras snart.",
+    "error_conflict": "## **Oväntad Konflikt.**\n TempVoice hade en konflikt med Discord API. Rapportera detta meddelande här https://discord.gg/tempvoice. \n### Fel: `{val1}`",
+    "error_already_invited": "## **Inte möjligt!**\n Du har redan försökt bjuda in den här användaren till din tillfälliga kanal.",    
     
     "voice_waiting_1": "## **Inte möjligt**\n Du kan inte skapa ett väntrum när din kanal är dold.",
     "voice_waiting_2": "## **Inte möjligt**\n Du kan inte dölja din kanal när du har ett väntrum.",
@@ -118,11 +118,11 @@
     "find_1": "## **Hittad!**\n Användaren {val1} du letar efter är här: {val2}",
     "find_2": "## **Ej hittad.**\n Användaren du letar efter är inte i en offentlig röstkanal",
   
-    "help": "## Setup & Configure TempVoice\nVisit the bot's [dashboard](https://tempvoice.xyz/dashboard) to configure TempVoice and use </setup:921000495877877762> to create all the necessary channels such a\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## Create Your First Temporary Channel\nJoin a **`➕` Creator Channel** (voice channel) to create a new temporary voice channel. \n## Manage Your Temporary Channel\nUse **/voice** chat commands or a **`✨` Interface Message**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
-    "setup": "## `➕` Creator Channel\nJoin this channel to create a new temporary voice channel.\n## `✨` Interface Message\nAlternative to **/voice** chat commands. Use this channel to manage your temporary voice channel.",
-  
+    "help": "## Konfigurera TempVoice\nBesök botten [dashboard](https://tempvoice.xyz/dashboard) för att konfigurera TempVoice och använd </setup:921000495877877762> för att skapa alla nödvändiga kanaler, såsom\n**`➕` Skaparkanal** & **`✨` Gränssnittsmeddelande**.\n## Skapa Din Första Tillfälliga Kanal\nGå med i en **`➕` Skaparkanal** (röstkanal) för att skapa en ny tillfällig röstkanal. \n## Hantera Din Tillfälliga Kanal\nAnvänd **/voice** chattkommandon eller ett **`✨` Gränssnittsmeddelande**.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> etc ...",
+    "setup": "## `➕` Skaparkanal\nGå med i denna kanal för att skapa en ny tillfällig röstkanal.\n## `✨` Gränssnittsmeddelande\nAlternativ till **/voice** chattkommandon. Använd denna kanal för att hantera din tillfälliga röstkanal.",
+    
     "interface_description": "Detta **gränssnitt** kan användas för att hantera tillfälliga röstkanaler. Fler alternativ är tillgängliga med **/voice**-kommandon.",
-    "interface_footer": "Tryck på knapparna nedan för att använda gränssnittet",
+    "interface_footer": "Tryck på knapparna nedan för att använda gränssnittet",    
   
     "privacy_menu_placehoder": "Välj ett Sekretessalternativ",
     "privacy_menu_label_1": "Lås",
