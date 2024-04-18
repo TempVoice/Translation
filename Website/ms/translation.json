@@ -1,149 +1,149 @@
 {
   "slogan_title_part_1": "Sementara",
-  "slogan_title_part_2": "Bukan Kekal",
-  "slogan_description": "Bikin server Anda lebih rapih, saluran voice otometik, dan tertata baik dengan TempVoice.",
-
-  "featured_title": "Dipercayai Oleh Pelayan Kegemaran Anda",
-  "featured_description": "Ribuan pelayan Discord dan lebih dari sejuta pengguna memilih TempVoice.",
+  "slogan_title_part_2": "Menggantikan yang Kekal",
+  "slogan_description": "TempVoice menjadikan pelayan anda lebih teratur. Saluran kosong dipadam, cipta yang baharu dengan mudah.",
+  
+  "featured_title": "Pilihan Server Kegemaran Anda",
+  "featured_description": "Ribuan Server Discord dan lebih sejuta pengguna memilih TempVoice.",
   
   "introduction_title": "Apa Itu Saluran Sementara?",
-  "introduction_description": "Saluran suara sementara dicipta apabila seseorang menyertai Saluran Pencipta, dan dihapuskan apabila tiada sesiapa di dalamnya.",
-  
+  "introduction_description": "Saluran suara sementara dicipta apabila seseorang menyertai Saluran Pencipta, dan dipadamkan apabila tiada siapa yang tinggal di dalamnya.",
+
   "setup_title": "Bagaimana Saya Menyediakan TempVoice?",
-  "setup_description": "Mula menggunakan TempVoice dengan menjalankan perintah '/setup' pada pelayan Discord anda. TempVoice akan menyediakan saluran asas yang diperlukan untuk mencipta dan menguruskan saluran sementara!",
+  "setup_description": "Mula guna TempVoice dengan menjalankan perintah /setup pada server Discord anda. TempVoice akan sediakan saluran asas yang diperlukan untuk buat dan urus saluran sementara!",
   
-  "status_title": "Adakah Bot Berfungsi Seperti Yang Dijangkakan?",
-  "status_description": "TempVoice dibahagikan kepada pecahan dan gugus untuk prestasi yang lebih baik. Setiap gugus mengandungi sehingga 5 pecahan dan mengendalikan kira-kira 5000 pelayan Discord.",
+  "status_title": "Adakah Bot Berfungsi Seperti Yang Diharapkan?",
+  "status_description": "TempVoice dibahagi kepada pecahan dan gugus untuk prestasi yang lebih baik. Setiap gugus mengandungi sehingga 5 pecahan dan mengendalikan kira-kira 5000 server Discord.",
   "status_statistics_1": "Jumlah Keseluruhan Gugus",
   "status_statistics_2": "Jumlah Keseluruhan Pecahan",
-  "status_statistics_3": "Jumlah Keseluruhan Pelayan",
+  "status_statistics_3": "Jumlah Keseluruhan Server",
   "status_statistics_4": "Jumlah Keseluruhan Pengguna",
-  "status_alert_offline": "TempVoice kini tidak sepenuhnya berfungsi. Kami memohon maaf atas sebarang kesulitan yang dialami.",
+  "status_alert_offline": "TempVoice tidak berfungsi penuh pada masa ini. Kami mohon maaf atas sebarang kesulitan yang dialami.",
   "status_alert_online": "TempVoice beroperasi sepenuhnya",
+
+  "server_selection": "Pilih server Discord untuk edit konfigurasi TempVoice atau jemput bot ke server yang berbeza.",
   
-  "server_selection": "Pilih pelayan Discord untuk mengedit konfigurasi TempVoice atau mengundang bot ke pelayan yang berbeza.",
-  
-  "appearance_title": "Hiasan",
+  "appearance_title": "Penampilan",
   "appearance_language_title": "Bahasa",
-  
+
   "creators_title": "Pencipta",
-  "creators_description": "Tentukan bagaimana saluran suara sementara dicipta. Nyatakan nama lalai, had, kebenaran, dan lain-lain lagi.",
-  
+  "creators_description": "Tentu bagaimana saluran suara sementara dicipta. Nyatakan nama lalai, had, kebenaran, dan lain-lain lagi.",
+
   "interface_title": "Antara Muka",
   "interface_description": "Membolehkan pengguna mengawal saluran suara sementara mereka.",
-  
-  "config_tab_1": "Tinjauan",
-  "config_tab_2": "Ciri-ciri",
+
+  "config_tab_1": "Keseluruhan",
+  "config_tab_2": "Ciri",
   "config_tab_3": "Kebenaran",
   "config_tab_4": "Penyesuaian",
-  "config_tab_5": "Pelbagai",  
-  
+  "config_tab_5": "Pelbagai",
+
   "navbar_home": "Laman Utama",
-  "navbar_help": "Help",
-  "navbar_setup": "Penyediaan",
+  "navbar_help": "Bantuan",
+  "navbar_setup": "Mula",
   "navbar_premium": "Premium",
-  "navbar_support": "Bantuan",
+  "navbar_support": "Umpan Balik",
   
   "premium_slogan_title": "Pelan Premium Sendiri",
-  "premium_slogan_description": "Buka potensi penuh pelayan anda dengan mendapatkan akses yang tidak terhad kepada semua ciri. Boleh dibatalkan pada bila-bila masa.",
-  "premium_title": "Lebih Banyak Penyesuaian. Lebih Banyak Kebebasan.",
-  "premium_description": "Jadikan TempVoice milik anda sendiri dan nikmati kebebasan untuk menyesuaikan bot seperti yang anda inginkan, tanpa batasan.",
-  "premium_feature_1": "Antara Muka Boleh Disesuaikan Sepenuhnya",
+  "premium_slogan_description": "Akses Tanpa Batas, Potensi Maksimal. Boleh dibatalkan pada bila-bila masa.",
+  "premium_title": "Lebih Banyak Penyesuaian. Lebih Banyak Kebebasan",
+  "premium_description": "Jadikan TempVoice kepunyaan anda dan nikmati kebebasan seperti yang anda mahu, tanpa had.",
+  "premium_feature_1": "Antara Muka Kustom Sendiri",
   "premium_feature_2": "Saluran Pencipta Tanpa Had",
-  "premium_feature_3": "Tiada Keperluan Undi",
-  "premium_feature_4": "Pelayan Discord",
+  "premium_feature_3": "Tak Payah Mengundi",
+  "premium_feature_4": "Server Discord",
   "premium_cycle_monthly": "bulanan",
   "premium_cycle_yearly": "tahunan",
-  "premium_highlighed_title_1": "Bot Anda Sendiri",
-  "premium_highlighed_description_1": "Gambar profil yang boleh disesuaikan, nama, status, mengenai saya, dan keupayaan untuk menunjukkan permainan semasa sebagai nama saluran sementara",
+  "premium_highlighed_title_1": "Bot anda Sendiri",
+  "premium_highlighed_description_1": "Gambar profil, nama, status, mengenai saya yang boleh disesuaikan, dan keupayaan untuk menunjukkan permainan semasa sebagai nama saluran sementara",
   "premium_highlighed_title_2": "Langganan Tahunan",
   "premium_highlighed_description_2": "Jimat 16% dengan kitaran bilan tahunan",
-  "premium_upgrade_disclaimer": "Apabila anda meningkatkan langganan Premium anda, anda akan dikenakan bayaran segera atas perbezaan harga bulanan yang telah anda bayar. Anda hanya boleh meningkatkan langganan sekali sebulan.",
+  "premium_upgrade_disclaimer": "Apabila anda meningkatkan langganan Premium anda, anda akan dikenakan bayaran segera atas perbezaan harga bulanan yang telah anda bayar. anda hanya boleh meningkatkan langganan sekali sebulan.",
   "premium_custombranding_description": "Penjenamaan Kustom membolehkan anda menukar penampilan TempVoice dengan menyesuaikan avatar, nama, status, dan mengenai saya. Ingat untuk mengaktifkan Premium pada pelayan Discord yang ingin anda gunakan bot ini.",
-  
-  "placeholder_description_1": "Jika anda menggunakan penempat {PRIVASI}, nama saluran akan dikemas kini apabila anda menukar tetapan privasi saluran. Ini hanya boleh dilakukan setiap 5 minit disebabkan oleh batasan Discord.",
-  "placeholder_description_2": "Menampilkan nama peranan tertinggi pemilik, tanpa mengira sama ada peranan itu dipisahkan dalam senarai ahli dalam talian.",
-  "placeholder_description_3": "Menampilkan nama peranan tertinggi pemilik, yang dipisahkan dalam senarai ahli dalam talian.",
-  "placeholder_description_4": "Penempat ini akan digantikan dengan nama yang pemilik telah pilih untuk saluran mereka menggunakan perintah '/voice name'. Apabila pemilik memilih nama baru, hanya bahagian penempat ini yang berubah, yang lain tetap tidak berubah.",
-  
-  "button_lable_invite": "Undang TempVoice",
-  "button_lable_dashboard": "Buka Papan Pemuka",
-  "button_lable_login": "Log Masuk dengan Discord",
+
+  "placeholder_description_1": "Jika anda gunakan penempat {PRIVASI}, nama saluran akan dikemas kini apabila anda menukar tetapan privasi saluran. Ini hanya boleh dilakukan setiap 5 minit disebabkan oleh batasan Discord.",
+  "placeholder_description_2": "Paparkan nama peranan tertinggi pemilik, tanpa mengira sama ada peranan itu diasingkan dalam senarai ahli dalam talian.",
+  "placeholder_description_3": "Paparkan nama peranan tertinggi pemilik, yang diasingkan dalam senarai ahli dalam talian.",
+  "placeholder_description_4": "Penempat ini akan digantikan dengan nama yang pemilik telah pilih untuk saluran mereka menggunakan perintah '/voice name'. Apabila pemilik pilih nama baru, hanya bahagian penempat ini yang berubah, yang lain tetap tidak berubah.",
+
+  "button_lable_invite": "Invite TempVoice",
+  "button_lable_dashboard": "Buka Papan",
+  "button_lable_login": "Log Masuk guna Discord",
   "button_lable_logout": "Log Keluar",
-  "button_lable_subscribe": "Daftar dengan Stripe",
-  "button_lable_billing": "Manage on Stripe",
+  "button_lable_subscribe": "Langgan guna Stripe",
+  "button_lable_billing": "Urus pada Stripe",
   "button_lable_premium": "Urus Langganan",
-  "button_lable_upgrade": "Upgrade Subscription",
+  "button_lable_upgrade": "Naik Taraf Langganan",
   "button_lable_upgrade_cancel": "Tidak, Saya Tukar Pendirian",
   "button_lable_upgrade_continue": "Ya, Sila Naik Taraf",
-  "button_lable_join_cancel": "Tidak, Saya Hanya Nak Log Masuk",
-  "button_lable_join_continue": "Ya, Sila",
-  "button_lable_manage_custom_branding": "Manage Custom Branding",
-  "button_back": "Go Back",
-  
-  "join_support": "Adakah anda ingin menyertai Discord kami?",
-  "excordo_quote": "Terima kasih atas minat anda terhadap TempVoice, sebuah bot yang akan mengubah cara anda menggunakan Discord. Selama bertahun-tahun, saya telah memberi tumpuan kepada keperluan dan keinginan komuniti untuk menjadikan pelayan Discord anda tempat yang lebih baik!",
-  
-  "convinced_1": "Adakah anda terpengaruh sekarang?",
-  "convinced_2": "Ucapkan selamat tinggal kepada saluran suara kekal 👋",
-  
-  "premium_status_description_1": "Semua penyesuaian premium telah dibuka ✌️",
-  "premium_status_description_2": "Gunakan avatar, nama, warna, dan imej anda sendiri dengan Premium 🤩",
-  
-  "component_billing_title": "Urus Bil Langganan Anda",
-  "component_billing_description": "Urus kaedah pembayaran atau batalkan langganan anda. Pastikan untuk memasukkan emel yang anda gunakan untuk langganan. Hubungi sokongan jika anda tidak dapat mengingati emel anda!",  
+  "button_lable_join_cancel": "Taklah, Thanks",
+  "button_lable_join_continue": "Ya, Sertai",
+  "button_lable_manage_custom_branding": "Urus Penjenamaan Kustom",
+  "button_back": "Kembali",
 
-  "component_status_title": "Gugus Mana Pelayan Saya?",
-  "component_status_description_1": "Masukkan ID Pelayan anda dalam kotak carian",
-  "component_status_description_2": "Pelayan Anda berada di:",
+  "join_support": "Nak sertai Discord kami?",
+  "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
   
+  "convinced_1": "Apa macam dah yakin kah?",
+  "convinced_2": "Selamat tinggal kepada saluran suara yang kekal 👋",
+
+  "premium_status_description_1": "Semua penyesuaian premium telah dibuka ✌️",
+  "premium_status_description_2": "Gunakan avatar, nama, warna dan imej embed anda sendiri dengan Premium 🤩",
+
+  "component_billing_title": "Uruskan Bil Langganan anda",
+  "component_billing_description": "Uruskan cara bayaran anda atau batalkan langganan anda. Pastikan untuk masukkan emel yang anda gunakan untuk melanggan. Hubungi bantuan jika anda tak ingat emel anda!",
+
+  "component_status_title": "Gugus Mana Server Saya?",
+  "component_status_description_1": "Masukkan ID Server anda dalam kotak carian",
+  "component_status_description_2": "Server anda berada di:",
+
   "component_bitrate_title": "Bitrat Saluran Sementara",
   "component_bitrate_menu_lable": "Tertinggi Mungkin",
   "component_bitrate_description": "Bitrat saluran sementara lalai",
-  
+
   "component_totallimit_title": "Had Jumlah Saluran Sementara",
   "component_totallimit_description": "Jumlah saluran sementara yang boleh wujud pada masa yang sama",
-  
+
   "component_premium_menu_lable": "Aktifkan Premium",
-  "component_premium_text": "Pilih Pelayan Discord Anda",
+  "component_premium_text": "Pilih Server Discord anda",
   "component_premium_menu_description": "Pelayan Discord yang tersedia:",
-  
+
   "component_sendmessage_title": "Hantar Pesanan Selamat Datang",
   "component_sendmessage_button_lable": "Sesuaikan Pesanan",
   "component_sendmessage_description": "Hantar pesanan selamat datang ke saluran sementara selepas dicipta",
   "component_sendmessage_interface": "Hantar Antara Muka untuk pengurusan saluran sementara",
-  "component_sendmessage_silent": "Hantar sebagai mesej @silent",  
+  "component_sendmessage_silent": "Hantar sebagai mesej @silent", 
 
-  "component_roleparticipant_title": "Peranan Dalam Saluran Suara",
+  "component_roleparticipant_title": "Peranan Dalam Suara ",
   "component_roleparticipant_menu_lable": "Tiada Peranan Dipilih",
-  "component_roleparticipant_description": "Memberikan peranan kepada pengguna dalam saluran sementara, mengeluarkan peranan apabila mereka memutuskan sambungan",
-  "component_roleparticipant_everyone_on": "Assigns the selected role to everyone who joins the temporary channel",
-  "component_roleparticipant_everyone_off": "Assigns the selected role only to the temporary channel owner",
-  
+  "component_roleparticipant_description": "Beri peranan kepada pengguna dalam saluran sementara, buang peranan apabila mereka memutuskan sambungan ",
+  "component_roleparticipant_everyone_on": "Beri  peranan yang dipilih kepada semua orang yang menyertai saluran sementara",
+  "component_roleparticipant_everyone_off": "Beri peranan yang dipilih hanya kepada pemilik saluran sementara",
+
   "component_roleseveryone_title": "Peranan Ahli",
   "component_roleseveryone_menu_lable": "Pilih Pelbagai Peranan",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
-  "component_roleseveryone_visibility_on": "Temporary Channels for @everyone will be visible but locked",
-  "component_roleseveryone_visibility_off": "Temporary Channels for @everyone will be invisible",
-  
+  "component_roleseveryone_description": "Peranan yang akan diperlukan untuk dapat melihat saluran sementara sebagai pengganti @everyone",
+  "component_roleseveryone_visibility_on": "Saluran Sementara untuk @everyone akan kelihatan tetapi dikunci",
+  "component_roleseveryone_visibility_off": "Saluran Sementara untuk @everyone tidak akan kelihatan",
+
   "component_restore_title": "Pulihkan Tetapan Pemilik",
   "component_restore_menu_lable": "Urus Pilihan Pulihkan",
-  "component_restore_menu_option_1": "Nama Peribadi",
-  "component_restore_menu_option_2": "Had Pengguna Peribadi",
-  "component_restore_menu_option_3": "Pengguna Terpercayai & Diblok",
+  "component_restore_menu_option_1": "Nama Tersuai",
+  "component_restore_menu_option_2": "Had Pengguna Tersuai",
+  "component_restore_menu_option_3": "Pengguna Yang Dipercayai & Disekat",
   "component_restore_menu_option_4": "Keutamaan Privasi",
-  "component_restore_description": "Pulihkan sifat-sifat saluran sementara sebagaimana yang mereka sebelum mereka dipadamkan",
-  
+  "component_restore_description": "Pulihkan ciri-ciri saluran sementara macam mana mereka sebelum mereka dipadamkan",
+
   "component_position_title": "Kedudukan Saluran Sementara",
   "component_position_menu_option_1": "Di atas",
-  "component_position_menu_option_2": "Sekali bawah Pencipta",
+  "component_position_menu_option_2": "Tepat di Bawah Pencipta",
   "component_position_menu_option_3": "Di bawah",
-  "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Di Bawah)",  
-  
+  "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Bawah)",
+
   "component_permissionsowner_title": "Kebenaran Discord Tambahan untuk Pemilik",
   "component_permissionsowner_menu_lable": "Urus Kebenaran",
   "component_permissionsowner_description": "Kebenaran Discord tambahan untuk pemilik saluran sementara",
-  "component_permissionsowner_option_invite": "Cipta Undangan",
+  "component_permissionsowner_option_invite": "Cipta Jemputan",
   "component_permissionsowner_option_channel": "Urus Saluran",
   "component_permissionsowner_option_permissions": "Urus Kebenaran",
   "component_permissionsowner_option_messages": "Urus Mesej",
@@ -152,16 +152,16 @@
   "component_permissionsowner_option_speaker": "Penceramah Utama",
   "component_permissionsowner_option_move": "Alih Ahli",
   "component_permissionsowner_information": "Pilihan ini memerlukan TempVoice mempunyai kebenaran Pentadbir.",
-  
+
   "component_syncpermissions_title": "Segerakkan Kebenaran",
   "component_syncpermissions_menu_option_1": "Segerakkan dari Kategori",
   "component_syncpermissions_menu_option_2": "Segerakkan dari Pencipta",
   "component_syncpermissions_menu_option_3": "Jangan Segerakkan",
-  "component_syncpermissions_description": "Segerakkan kebenaran saluran sementara dengan kebenaran kategori atau kebenaran pencipta",
-  
+  "component_syncpermissions_description": "Segerakkan kebenaran saluran sementara dengan kebenaran kategori ataupun kebenaran pencipta",
+
   "component_namewaiting_title": "Nama Bilik Tunggu",
   "component_namewaiting_description": "Nama untuk bilik tunggu (Lalai: Sertai Saya)",
-  
+
   "component_placeholder_title": "Nama Lalai untuk Penempat",
   "component_placeholder_menu_lable": "Urus Nama Lalai",
   "component_placeholder_description": "Nama lalai untuk penempat apabila mereka tidak mempunyai nilai untuk dipaparkan",
@@ -176,66 +176,66 @@
   "component_placeholder_activity_2_description": "Nama lalai apabila aktiviti pengguna tidak mempunyai butiran",
   "component_placeholder_activity_3_description": "Nama lalai apabila aktiviti pengguna tidak mempunyai status",
   "component_placeholder_activity_4_description": "Nama lalai apabila status pengguna tidak mempunyai emoji",
-  
+
   "component_name_title": "Nama Saluran Sementara",
   "component_name_description": "Nama lalai untuk saluran sementara",
-  
+
   "component_limit_title": "Had Pengguna Saluran Sementara",
   "component_limit_description": "Had pengguna lalai untuk saluran sementara",
-  
+
   "component_ownerpermissions_title": "Perintah Saluran Sementara Yang Tersedia",
   "component_ownerpermissions_menu_lable": "Urus Tetapan",
   "component_ownerpermissions_description": "Pilih perintah TempVoice mana yang boleh digunakan oleh pemilik saluran sementara",
-  "component_ownerpermissions_modal_description_1": "Ini menjadikan saluran sementara tidak boleh dikelola oleh pengguna yang mencipta saluran. Ini boleh berguna jika anda menggunakan saluran sementara sebagai saluran awam.",
-  "component_ownerpermissions_modal_description_2": "Menetapkan tanda semak akan melumpuhkan perintah '/voice' dan butang antara muka yang berkaitan dengannya; selain itu, sebarang perubahan yang telah dibuat sebelum ini berkaitan dengan pilihan itu akan dikembalikan.",
+  "component_ownerpermissions_modal_description_1": "Ini menjadikan saluran sementara tidak boleh diurus oleh pengguna yang mencipta saluran. Ini boleh berguna jika anda guna saluran sementara sebagai saluran awam.",
+  "component_ownerpermissions_modal_description_2": "Menyahceklis satu pilihan akan mematikan perintah '/voice' dan butang antara muka yang berkaitan dengannya; selain itu, sebarang perubahan yang telah dibuat sebelum ini berkaitan dengan pilihan itu akan dikembalikan.",
   "component_ownerpermissions_option_ownerless": "Mod Pemilik-Tidak-Ada",
   "component_ownerpermissions_option_name": "Sunting nama saluran",
-  "component_ownerpermissions_option_limit": "Sunting had pengguna saluran",
-  "component_ownerpermissions_option_region": "Sunting rantau saluran",
+  "component_ownerpermissions_option_limit": "Sunting limit pengguna saluran",
+  "component_ownerpermissions_option_region": "Sunting kawasan pelayan saluran",
   "component_ownerpermissions_option_bitrate": "Sunting bitrat saluran",
-  "component_ownerpermissions_option_thread": "Cipta benang sementara",
+  "component_ownerpermissions_option_thread": "Cipta thread sementara",
   "component_ownerpermissions_option_wait": "Cipta bilik menunggu",
   "component_ownerpermissions_option_lock_chat": "Kunci perbualan dalam-suara",
   "component_ownerpermissions_option_lock": "Kunci saluran",
   "component_ownerpermissions_option_hide": "Sembunyikan saluran",
-  "component_ownerpermissions_option_claim": "Tuntut saluran",
+  "component_ownerpermissions_option_claim": "Ambil saluran",
   "component_ownerpermissions_option_transfer": "Pindahkan saluran",
-  "component_ownerpermissions_option_kick": "Keluar pengguna dari saluran",
-  "component_ownerpermissions_option_invite": "Undang pengguna ke saluran",
-  "component_ownerpermissions_option_lfp": "Cari orang (lfp)",
-  "component_ownerpermissions_option_users": "Percayai/blok pengguna",
+  "component_ownerpermissions_option_kick": "Tendang pengguna dari saluran",
+  "component_ownerpermissions_option_invite": "Jemput pengguna ke saluran",
+  "component_ownerpermissions_option_lfp": "Cari orang (lfp/looking for people)",
+  "component_ownerpermissions_option_users": "Kelola Percayai/blok pengguna",
   "component_ownerpermissions_option_chat": "Guna perbualan dalam-suara",
   "component_ownerpermissions_option_close": "Tutup saluran secara paksa",
-  
-  "component_category_title": "Kategori Saluran Sementara",
+
+  "component_category_title": "Tajuk Kategori Saluran Sementara", 
   "component_category_menu_lable": "Tiada Kategori Dipilih",
   "component_category_description": "Kategori utama untuk saluran sementara",
-  
+
   "component_fallback_menu_lable": "Pilih Kategori",
-  "component_fallback_description": "Kategori cadangan apabila utama mencapai had 50 saluran",
-  
-  "component_censor_title": "Sensur Nama Saluran",
+  "component_fallback_description": "Kategori alternatif apabila kategori utama mencapai had 50 saluran",
+
+  "component_censor_title": "Penapisan Nama Saluran", 
   "component_censor_placeholder": "Taip perkataan dan tekan Enter",
-  "component_censor_description": "Sensur sehingga 30 perkataan yang tidak boleh digunakan sebagai nama saluran sementara",
-  
-  "component_matchmaking_title": "Isi Saluran Sementara",
-  "component_matchmaking_menu_option_1": "Dihidupkan",
-  "component_matchmaking_menu_option_2": "Dimatikan",
-  "component_matchmaking_description": "Pindahkan pengguna ke dalam saluran sementara yang ada sebelum mencipta yang baru (Memerlukan: Had Pengguna 1-99)",
-  
+  "component_censor_description": "Tapis sehingga 30 perkataan yang tidak boleh digunakan sebagai nama saluran sementara", 
+
+  "component_matchmaking_title": "Pengisian Saluran Sementara", 
+  "component_matchmaking_menu_option_1": "Didayakan",
+  "component_matchmaking_menu_option_2": "Dilumpuhkan",
+  "component_matchmaking_description": "Pindahkan pengguna ke saluran sementara sedia ada sebelum mencipta yang baharu (Memerlukan: Had Pengguna 1-99)",
+
   "component_custombranding_title": "Token Bot",
-  "component_custombranding_button_lable": "Bagaimana Saya Dapatkan Token Bot?",
-  "component_custombranding_description": "Masukkan token bot Discord untuk membolehkan kami menyediakan pelayan yang berasingan untuk bot anda. Jangan gunakan token ini di tempat lain atau kongsi dengan sesiapa. Perlakukan ia seperti kata laluan!",
-  "component_custombranding_appearance": "Penyesuaian Penampilan",
-  
-  "component_custombrandingactivity_title": "Aktiviti Bot (Status)",
-  "component_custombrandingactivity_description": "Tukar status Discord bot penjenamaan khusus. Ia mungkin mengambil masa sehingga 5 minit untuk dikemaskini di Discord.",
-  
-  "component_sendinterface_menu_lable": "Pilih Saluran Teks",  
-  "component_sendinterface_menu_option": "Tiada Saluran Dipilih",
-  "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka kepadanya",
-  
-  "save_changes_title": "Berhati-hati - anda mempunyai perubahan yang belum disimpan!",
-  "save_changes_button_lable_1": "Tetapkan Semula",
-  "save_changes_button_lable_2": "Simpan Perubahan"  
+  "component_custombranding_button_lable": "Bagaimana saya mendapat token bot?", 
+  "component_custombranding_description": "Masukkan token bot Discord untuk membolehkan kami menyediakan pelayan berasingan untuk bot anda. Jangan gunakan token ini di tempat lain atau kongsikannya dengan sesiapa. Anggap ia seperti kata laluan!", 
+  "component_custombranding_appearance": "Sesuaikan Rupa",
+
+  "component_custombrandingactivity_title": "Aktiviti Bot (Status)", 
+  "component_custombrandingactivity_description": "Tukar status Discord bot penjenamaan tersuai. Mungkin mengambil masa sehingga 5 minit untuk dikemas kini dalam Discord.", 
+
+  "component_sendinterface_menu_lable": "Pilih Saluran Teks",
+  "component_sendinterface_menu_option": "Tiada Saluran Dipilih", 
+  "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka", 
+
+  "save_changes_title": "Jaga - ada perubahan yang belum disimpan!", 
+  "save_changes_button_lable_1": "Semula", 
+  "save_changes_button_lable_2": "Simpan" 
 }
