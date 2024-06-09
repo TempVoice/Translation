@@ -3,8 +3,8 @@
   "slogan_title_part_2": "بدلاً من دائم",
   "slogan_description": "يعمل TempVoice على جعل سيرفرك أكثر نظافة من خلال تنفيذ الرومات الصوتية المؤقتة. يتم حذف القنوات الفارغة على الفور؛ إنشاء أخرى جديدة هو مجرد نقرة واحدة.",
   
-  "featured_title": "ثق بخوادمك المفضلة",
-  "featured_description": "الآلاف من خوادم الديسكورد وأكثر من مليون مستخدم يختارون TempVoice.",
+  "featured_title": "ثق بسيرفراتك المفضلة",
+  "featured_description": "الآلاف من سيرفرات الديسكورد وأكثر من مليون مستخدم يختارون TempVoice.",
   
   "introduction_title": "ما هي الرومات المؤقته؟",
   "introduction_description": "يتم إنشاء روم صوتية مؤقتة عندما ينضم شخص ما إلى روم منشئ المحتوى، ويتم حذفها عندما لا يبقى أحد فيها.",
@@ -13,10 +13,10 @@
   "setup_description": "ابدأ في استخدام TempVoice عن طريق تشغيل الأمر /setup على سيرفر الدسكورد الخاص بك. سيقوم TempVoice بإعداد القنوات الأساسية اللازمة لإنشاء وإدارة القنوات المؤقتة!",
   
   "status_title": "هل يعمل البوت على النحو المنشود؟",
-  "status_description": "يتم تقسيم TempVoice إلى أجزاء ومجموعات لتحسين الأداء. تحتوي كل مجموعة على ما يصل إلى 5 أجزاء وتتعامل مع حوالي 5000 سيرفر Discord.",
+  "status_description": "يتم تقسيم TempVoice إلى أجزاء ومجموعات لتحسين الأداء. تحتوي كل مجموعة على ما يصل إلى 5 أجزاء وتتعامل مع حوالي 5000 سيرفر ديسكورد.",
   "status_statistics_1": "العدد الإجمالي للمجموعات",
   "status_statistics_2": "إجمالي عدد القطع",
-  "status_statistics_3": "إجمالي عدد الخوادم",
+  "status_statistics_3": "إجمالي عدد السيرفرات",
   "status_statistics_4": "إجمالي عدد المستخدمين",
   "status_alert_offline": "TempVoice غير متوفر جزئيًا حاليًا. نعتذر عن الإزعاج.",
   "status_alert_online": "TempVoice يعمل بكامل طاقته",
@@ -51,7 +51,7 @@
   "premium_feature_1": "واجهات قابلة للتخصيص بالكامل",
   "premium_feature_2": "رومات منشئي المحتوى بلا حدود",
   "premium_feature_3": "لا توجد متطلبات التصويت",
-  "premium_feature_4": "خوادم الخلاف",
+  "premium_feature_4": "سيرفرات الديسكورد",
   "premium_cycle_monthly": "شهريا",
   "premium_cycle_yearly": "سنوي",
   "premium_highlighed_title_1": "البوت الخاص بك",
@@ -105,8 +105,8 @@
   "component_totallimit_description": "إجمالي عدد الرومات المؤقتة التي يمكن أن توجد في نفس الوقت",
 
   "component_premium_menu_lable": "تفعيل بريميوم",
-  "component_premium_text": "حدد خوادم الدسكورد الخاصة بك",
-  "component_premium_menu_description": "خوادم الدسكورد المتاحة:",
+  "component_premium_text": "حدد سيرفرات الدسكورد الخاصة بك",
+  "component_premium_menu_description": "سيرفرات الدسكورد المتاحة:",
 
   "component_sendmessage_title": "أرسل رسالة ترحيب",
   "component_sendmessage_button_lable": "تخصيص الرسالة",
@@ -140,7 +140,7 @@
   "component_position_menu_option_3": "في الأسفل",
   "component_position_description": "موضع الرومات الصوتية المؤقتة عند إنشائها (الافتراضي: أدناه)",
 
-  "component_permissionsowner_title": "أذونات الخلاف الإضافية للمالكين",
+  "component_permissionsowner_title": "أذونات الديسكورد الإضافية للمالكين",
   "component_permissionsowner_menu_lable": "إدارة الأذونات",
   "component_permissionsowner_description": "أذونات الدسكورد إضافية لصاحب الروم المؤقتة",
   "component_permissionsowner_option_invite": "إنشاء دعوة",
