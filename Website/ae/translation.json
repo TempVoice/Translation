@@ -140,7 +140,7 @@
   "component_position_menu_option_3": "في الأسفل",
   "component_position_description": "موضع الرومات الصوتية المؤقتة عند إنشائها (الافتراضي: أدناه)",
 
-  "component_permissionsowner_title": "أذونات الخلاف الإضافية للمالكين",
+  "component_permissionsowner_title": "أذونات الديسكورد الإضافية للمالكين",
   "component_permissionsowner_menu_lable": "إدارة الأذونات",
   "component_permissionsowner_description": "أذونات الدسكورد إضافية لصاحب الروم المؤقتة",
   "component_permissionsowner_option_invite": "إنشاء دعوة",
