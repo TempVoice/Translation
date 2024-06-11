@@ -32,7 +32,7 @@
   "interface_title": "תפריט",
   "interface_description": "מאפשר למשתמשים לשלוט בערוצי הדיבור הזמניים שלהם.",
 
-  "config_tab_1": "סקירה כךךיץ",
+  "config_tab_1": "סקירה כללית",
   "config_tab_2": "מאפיינים",
   "config_tab_3": "גישות",
   "config_tab_4": "התאמה אישית",
@@ -40,7 +40,7 @@
 
   "navbar_home": "ראשי",
   "navbar_help": "עזרה",
-  "navbar_setup": "הקתנה",
+  "navbar_setup": "התקנה",
   "navbar_premium": "פרימיום",
   "navbar_support": "עזרה",
   
@@ -111,7 +111,7 @@
   "component_sendmessage_title": "שלח הודעת קבלת פנים",
   "component_sendmessage_button_lable": "התאם אישית את ההודעה",
   "component_sendmessage_description": "שלח הודעת קבלת פנים בצ'אט של הערוץ הזמני לאחר יצירתו",
-  "component_sendmessage_interface": "שלח את תפריט ניהול החדר הזמני בצ'אט של הערות הזמני",
+  "component_sendmessage_interface": "שלח את תפריט ניהול החדר הזמני בצ'אט של הערוץ הזמני",
   "component_sendmessage_silent": "שלח כהודעת @silent",
 
   "component_roleparticipant_title": "רולים למשתתפים בערוץ הדיבור הזמני",
@@ -156,7 +156,7 @@
   "component_syncpermissions_title": "סנכרן הרשאות",
   "component_syncpermissions_menu_option_1": "סנכרן מהקטגוריה",
   "component_syncpermissions_menu_option_2": "סנכרן מערוץ הדיבור היוצר",
-  "component_syncpermissions_menu_option_3": "אל תסנכרם",
+  "component_syncpermissions_menu_option_3": "אל תסנכרן",
   "component_syncpermissions_description": "סנכון הרשאות הערוץ הזמני עם הרשאות הקטגוריה או הרשאות ערוץ הדיבור היוצר",
 
   "component_namewaiting_title": "שם לחדר ההמתנה",

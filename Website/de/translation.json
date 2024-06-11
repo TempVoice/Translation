@@ -1,16 +1,16 @@
 {
   "slogan_title_part_1": "Temporär",
   "slogan_title_part_2": "statt permanent",
-  "slogan_description": "TempVoice macht deinen Server durch temporäre Sprachkanäle übersichtlicher. Leere Kanäle werden sofort gelöscht und mit nur einem Klick wiederhergestellt.",
+  "slogan_description": "TempVoice macht deinen Server durch temporäre Sprachkanäle übersichtlicher. Leere Kanäle werden gelöscht und mit nur einem Klick wiederhergestellt.",
   
   "featured_title": "Diese Server benutzen TempVoice",
-  "featured_description": "Tausende von Discord Servern und über eine Million Nutzer haben sich bereits für TempVoice entschieden.",
+  "featured_description": "Tausende von Discord Servern und Millionen von Discord Nutzer haben bereits TempVoice benutzt.",
   
   "introduction_title": "Was ist ein temporärer Sprachkanal?",
   "introduction_description": "Ein temporärer Sprachkanal wird erstellt, wenn jemand einem Creator Channel betritt, und wird gelöscht, sobald der temporäre Kanal leer ist.",
 
   "setup_title": "Wie richte ich TempVoice ein?",
-  "setup_description": "Starte mit der Nutzung von TempVoice, indem du den Befehl /setup auf deinem Discord Server benutzt. TempVoice wird die grundlegenden Kanäle einrichten, die zum Erstellen und Verwalten von temporären Kanälen benötigt werden!",
+  "setup_description": "Richte TempVoice ein, indem du den Befehl /setup auf deinem Discord Server benutzt. TempVoice wird die grundlegenden Kanäle einrichten, die zum Erstellen und Verwalten von temporären Kanälen benötigt werden!",
   
   "status_title": "Funktioniert der Bot?",
   "status_description": "Um eine bessere Leistung zu erzielen, ist TempVoice in Shards und Cluster unterteilt. Jeder Cluster enthält bis zu 5 Shards und ist für etwa 5000 Discord Server verantwortlich.",
@@ -23,11 +23,11 @@
 
   "server_selection": "Wähle einen Discord Server, um die Konfiguration von TempVoice für diesen Server zu ändern oder den Bot auf einen neuen Server einzuladen.",
   
-  "appearance_title": "Erscheinungsbild",
+  "appearance_title": "Allgemein",
   "appearance_language_title": "Sprache",
 
   "creators_title": "Creator Channel",
-  "creators_description": "Definiere, wie temporäre Sprachkanäle erstellt werden. Gib einen Standardnamen, ein Limit, Berechtigungen und mehr an.",
+  "creators_description": "Definiere, wie temporäre Sprachkanäle erstellt werden. Standardnamen, User Limit, Berechtigungen und mehr.",
 
   "interface_title": "Interface",
   "interface_description": "Ermöglicht den Nutzern die Kontrolle ihrer temporären Sprachkanäle.",
@@ -38,7 +38,7 @@
   "config_tab_4": "Anpassungen",
   "config_tab_5": "Sonstiges",
 
-  "navbar_home": "Startseite",
+  "navbar_home": "Start",
   "navbar_help": "Hilfe",
   "navbar_setup": "Setup",
   "navbar_premium": "Premium",
@@ -46,11 +46,11 @@
   
   "premium_slogan_title": "Dein eigener Premium-Plan",
   "premium_slogan_description": "Nutze das volle Potenzial deines Servers, indem du uneingeschränkten Zugriff auf alle Funktionen erhällst. Jederzeit kündbar.",
-  "premium_title": "Mehr Anpassung. Mehr Freiheit.",
+  "premium_title": "Individual für dich angepasst.",
   "premium_description": "Gestalte TempVoice nach deinen Vorstellungen und genieße die Freiheit, den Bot nach deinen Wünschen und ohne Einschränkungen anzupassen.",
-  "premium_feature_1": "Vollständig anpassbare Interfaces",
+  "premium_feature_1": "Individuell anpassbare Interfaces",
   "premium_feature_2": "Unbegrenzte Creator Channels",
-  "premium_feature_3": "Keine Vote Zwang mehr",
+  "premium_feature_3": "Keine Vote Sperren",
   "premium_feature_4": "Discord Server",
   "premium_cycle_monthly": "Monat",
   "premium_cycle_yearly": "Jahr",
