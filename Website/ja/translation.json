@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "チャンネルは選択されていません",
   "component_sendinterface_description": "設定パネルを送信するテキストチャンネルを選択",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_webhooklog_title": "操作ログ",
+  "component_webhooklog_description": "DiscordのウェブフックURLを使ってメッセージを送り、一時的なチャンネルの活動（作成、削除、変更など）を記録します。",
 
   "save_changes_title": "注意 – 保存されていない変更があります！",
   "save_changes_button_lable_1": "リセット",

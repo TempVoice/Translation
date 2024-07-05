@@ -76,8 +76,8 @@
   "button_lable_upgrade": "Upgrade Langganan",
   "button_lable_upgrade_cancel": "Batal, Nanti aja deh",
   "button_lable_upgrade_continue": "Iya, Upgrade Sekarang",
-  "button_lable_join_cancel": "Gak dulu",
-  "button_lable_join_continue": "Join deh",
+  "button_lable_join_cancel": "Gak, Login aja",
+  "button_lable_join_continue": "Iya, Join",
   "button_lable_manage_custom_branding": "Atur Bot Kustom",
   "button_back": "Kembali",
 
@@ -235,10 +235,10 @@
   "component_sendinterface_menu_option": "Tidak Ada Channel",
   "component_sendinterface_description": "Pilih channel teks yg ingin dijadikan antarmuka",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_webhooklog_title": "Catatan Aktifitas",
+  "component_webhooklog_description": "Kirim pesan ke Discord melalui URL webhook untuk mencatat aktivitas di Channel sementara, seperti pembuatan, penghapusan, atau memodifikasi.",
 
   "save_changes_title": "Awas — ada perubahan yg belum disimpn!",
   "save_changes_button_lable_1": "Batal",
-  "save_changes_button_lable_2": "Simpn"
+  "save_changes_button_lable_2": "Simpan"
 }

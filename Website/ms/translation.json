@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "Tiada Saluran Dipilih", 
   "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_webhooklog_title": "Log Tindakan",
+  "component_webhooklog_description": "Menghantar mesej ke saluran teks menggunakan URL webhook Discord yang disediakan untuk melog tindakan saluran sementara seperti penciptaan, pemadaman dan pengubahsuaian.",
 
   "save_changes_title": "Jaga - ada perubahan yang belum disimpan!", 
   "save_changes_button_lable_1": "Semula", 
