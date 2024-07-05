@@ -235,6 +235,9 @@
   "component_sendinterface_menu_option": "Walang Napiling Channel",
   "component_sendinterface_description": "Pumili ng teksto na channel upang maipadala ang interface rito",
 
+  "component_webhooklog_title": "Actions Log",
+  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+
   "save_changes_title": "Mag-ingat – mayroon kang hindi nasasagip na mga pagbabago!",
   "save_changes_button_lable_1": "Muling i-set",
   "save_changes_button_lable_2": "I-sagip ang mga Pagbabago"

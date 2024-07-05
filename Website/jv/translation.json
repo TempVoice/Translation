@@ -235,6 +235,9 @@
   "component_sendinterface_menu_option": "Ora Ana Channel Sing Dipilih",
   "component_sendinterface_description": "Pilih channel teks sing arep digunakke ngirim antarmuka",
 
+  "component_webhooklog_title": "Actions Log",
+  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+
   "save_changes_title": "Awas  – sampeyan duwe owah-owahan sing durung disimpen!",
   "save_changes_button_lable_1": "Batal",
   "save_changes_button_lable_2": "Simpen" 

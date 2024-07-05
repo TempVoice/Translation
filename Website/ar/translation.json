@@ -235,6 +235,9 @@
   "component_sendinterface_menu_option": "لم يتم تحديد أي روم",
   "component_sendinterface_description": "حدد روم كتابي لإرسال اللوحة إليها",
 
+  "component_webhooklog_title": "Actions Log",
+  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+
   "save_changes_title": "انتبه - لديك تغييرات غير محفوظة!",
   "save_changes_button_lable_1": "إعادة ضبط",
   "save_changes_button_lable_2": "حفظ التغييرات"

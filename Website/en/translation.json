@@ -235,6 +235,9 @@
   "component_sendinterface_menu_option": "No Channel Selected",
   "component_sendinterface_description": "Select a text channel to send the interface to",
 
+  "component_webhooklog_title": "Actions Log",
+  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+
   "save_changes_title": "Careful – you have unsaved changes!",
   "save_changes_button_lable_1": "Reset",
   "save_changes_button_lable_2": "Save Changes"
