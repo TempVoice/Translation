@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "Tidak Ada Channel",
   "component_sendinterface_description": "Pilih channel teks yg ingin dijadikan antarmuka",
 
-  "component_webhooklog_title": "Catatan Aktifitas",
-  "component_webhooklog_description": "Kirim pesan ke Discord melalui URL webhook untuk mencatat aktivitas di Channel sementara, seperti pembuatan, penghapusan, atau memodifikasi.",
+  "component_actions_title": "Catatan Aktifitas",
+  "component_actions_description": "Kirim pesan ke Discord melalui URL webhook untuk mencatat aktivitas di Channel sementara, seperti pembuatan, penghapusan, atau memodifikasi.",
 
   "save_changes_title": "Awas — ada perubahan yg belum disimpn!",
   "save_changes_button_lable_1": "Batal",

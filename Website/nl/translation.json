@@ -235,8 +235,8 @@
     "component_sendinterface_menu_option": "Geen kanaal geselecteerd",
     "component_sendinterface_description": "Selecteer een tekstkanaal om de interface naartoe te sturen",
 
-    "component_webhooklog_title": "Actions Log",
-    "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+    "component_actions_title": "Actions Log",
+    "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
     
     "save_changes_title": "Let op - je hebt niet-opgeslagen wijzigingen!",
     "save_changes_button_lable_1": "Resetten",

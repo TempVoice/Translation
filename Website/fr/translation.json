@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "Aucun salon sélectionné",
   "component_sendinterface_description": "Sélectionnez un salon textuel pour envoyer l'interface",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Actions Log",
+  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
 
   "save_changes_title": "Attention ! Vous avez des changements non sauvegardés!",
   "save_changes_button_lable_1": "Réinitialiser",

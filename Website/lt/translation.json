@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "Nepasirinktas Joks Kanalas",
   "component_sendinterface_description": "Pasirinkite teksto kanalą, kuriame bus valdymo skydas",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Actions Log",
+  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
 
   "save_changes_title": "Atsargiai – jūs turite neišsaugotų pakeitimų!",
   "save_changes_button_lable_1": "Atkurti",

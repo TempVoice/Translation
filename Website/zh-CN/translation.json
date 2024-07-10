@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "未选择频道",
   "component_sendinterface_description": "选择一个文本频道以发送界面。",
 
-  "component_webhooklog_title": "操作日志",
-  "component_webhooklog_description": "使用提供的 Discord webhook URL 将消息发送到文本频道，以记录临时频道的操作，例如创建、删除和修改。",
+  "component_actions_title": "操作日志",
+  "component_actions_description": "使用提供的 Discord webhook URL 将消息发送到文本频道，以记录临时频道的操作，例如创建、删除和修改。",
   
   "save_changes_title": "小心 - 您有未保存的更改！",
   "save_changes_button_lable_1": "重置",

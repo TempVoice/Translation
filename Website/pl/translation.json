@@ -235,8 +235,8 @@
   "component_sendinterface_menu_option": "Nie Wybrano Kanału",
   "component_sendinterface_description": "Wybierz kanał tekstowy, gdzie ma zostać wysłany interfejs",
 
-  "component_webhooklog_title": "Actions Log",
-  "component_webhooklog_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Actions Log",
+  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
 
   "save_changes_title": "Ostrożnie – masz niezapisane zmiany!",
   "save_changes_button_lable_1": "Resetuj",
