@@ -52,6 +52,7 @@
   "premium_feature_2": "Unlimited Creator Channels",
   "premium_feature_3": "No Voting Requirements",
   "premium_feature_4": "Discord Servers",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "monthly",
   "premium_cycle_yearly": "yearly",
   "premium_highlighed_title_1": "Your Own Bot",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Censor Channel Names",
   "component_censor_placeholder": "Type a word and press Enter",
-  "component_censor_description": "Censor up to 30 words that cannot be used as temporary channel names",
+  "component_censor_description": "Censor up to 64 words that cannot be used as temporary channel names",
 
   "component_matchmaking_title": "Temporary Channel Fillup",
   "component_matchmaking_menu_option_1": "Enabled",

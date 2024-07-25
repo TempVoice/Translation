@@ -52,6 +52,7 @@
   "premium_feature_2": "Neriboti Laikinieji Kanalai",
   "premium_feature_3": "Jokių Būtinų Balsavimų",
   "premium_feature_4": "Discord Serveriai",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "mėnesinis",
   "premium_cycle_yearly": "metinis",
   "premium_highlighed_title_1": "Jūsų Nuosavas Botas",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Cenzūruoti Kanalų Pavadinimus",
   "component_censor_placeholder": "Parašykite Žodį ir Spauskite Eneter",
-  "component_censor_description": "Cenzūruokite iki 30 žodžių, kurie negali būti panaudoti kanalo pavadinime",
+  "component_censor_description": "Cenzūruokite iki 64 žodžių, kurie negali būti panaudoti kanalo pavadinime",
 
   "component_matchmaking_title": "Laikinųjų Balso Kanalų Užpildymas",
   "component_matchmaking_menu_option_1": "Įjungtas",

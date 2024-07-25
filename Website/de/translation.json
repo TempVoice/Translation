@@ -52,6 +52,7 @@
   "premium_feature_2": "Unbegrenzte Creator Channels",
   "premium_feature_3": "Keine Vote Sperren",
   "premium_feature_4": "Discord Server",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "Monat",
   "premium_cycle_yearly": "Jahr",
   "premium_highlighed_title_1": "Dein eigener Bot",
@@ -76,7 +77,7 @@
   "button_lable_upgrade": "Premium upgraden",
   "button_lable_upgrade_cancel": "Nein, ich hab mich umentschieden",
   "button_lable_upgrade_continue": "Ja, bitte upgraden",
-  "button_lable_join_cancel": "Nein, ich möchte mich nur anmelden.",
+  "button_lable_join_cancel": "Nein, nur anmelden.",
   "button_lable_join_continue": "Ja, bitte",
   "button_lable_manage_custom_branding": "Custom Branding verwalten",
   "button_back": "Zurück",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Kanalnamen zensieren",
   "component_censor_placeholder": "Gib ein Wort ein und drücke Enter",
-  "component_censor_description": "Zensiere bis zu 30 Wörter, die nicht als temporäre Kanalnamen verwendet werden dürfen",
+  "component_censor_description": "Zensiere bis zu 64 Wörter, die nicht als temporäre Kanalnamen verwendet werden dürfen",
 
   "component_matchmaking_title": "Aufffüllung der temporären Kanäle",
   "component_matchmaking_menu_option_1": "Aktiviert",

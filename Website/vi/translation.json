@@ -52,6 +52,7 @@
   "premium_feature_2": "Không Giới Hạn Kênh Người Tạo",
   "premium_feature_3": "Không Yêu Cầu Bình Chọn",
   "premium_feature_4": "Máy Chủ Discord",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "hàng tháng",
   "premium_cycle_yearly": "hàng năm",
   "premium_highlighed_title_1": "Bot Riêng Của Bạn",
@@ -216,7 +217,7 @@
   
   "component_censor_title": "Từ chối tên kênh",
   "component_censor_placeholder": "Nhập một từ và nhấn Enter",
-  "component_censor_description": "Cấm tối đa 30 từ không thể được sử dụng làm tên kênh tạm thời",
+  "component_censor_description": "Cấm tối đa 64 từ không thể được sử dụng làm tên kênh tạm thời",
   
   "component_matchmaking_title": "Lấp đầy kênh tạm thời",
   "component_matchmaking_menu_option_1": "Đã bật",

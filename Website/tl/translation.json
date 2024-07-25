@@ -52,6 +52,7 @@
   "premium_feature_2": "Walang limitasyon sa paggawa ng mga Creator na Channel",
   "premium_feature_3": "Walang Kinakailangang Pag-boto",
   "premium_feature_4": "Mga Server sa Discord",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "buwanan",
   "premium_cycle_yearly": "taunan",
   "premium_highlighed_title_1": "Iyong Sariling Bot",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Isenso ang mga Pangalan ng Channel",
   "component_censor_placeholder": "Magsulat ng isang salita at pindutin ang Enter",
-  "component_censor_description": "Mag-senso nang hangga't tatlong-pu (30) na mga salita na hindi maaaring gamitin bilang mga pangalan ng temporaryong channel",
+  "component_censor_description": "Mag-senso nang hangga't tatlong-pu (64) na mga salita na hindi maaaring gamitin bilang mga pangalan ng temporaryong channel",
 
   "component_matchmaking_title": "Pagpupuno ng Temporaryong Channel",
   "component_matchmaking_menu_option_1": "Pinagana",

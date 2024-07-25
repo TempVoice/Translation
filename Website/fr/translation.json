@@ -52,6 +52,7 @@
   "premium_feature_2": "Salons Créateurs Illimitées",
   "premium_feature_3": "Aucun Vote Requis",
   "premium_feature_4": "Discord Serveurs",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "mensuel",
   "premium_cycle_yearly": "annuel",
   "premium_highlighed_title_1": "Votre Propre Bot",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Censure de noms des salons",
   "component_censor_placeholder": "Tapez un mot et appuyez sur Enter",
-  "component_censor_description": "La censure va jusqu'à 30 mots qui ne peuvent pas être utilisés comme noms de salons temporaires",
+  "component_censor_description": "La censure va jusqu'à 64 mots qui ne peuvent pas être utilisés comme noms de salons temporaires",
 
   "component_matchmaking_title": "Matchmaking des vocaux",
   "component_matchmaking_menu_option_1": "Activer",

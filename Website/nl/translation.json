@@ -52,6 +52,7 @@
     "premium_feature_2": "Onbeperkte Maker Kanalen",
     "premium_feature_3": "Geen Stemvereisten",
     "premium_feature_4": "Discord Servers",
+    "premium_feature_5": "Transferable To Another Server",
     "premium_cycle_monthly": "maandelijks",
     "premium_cycle_yearly": "jaarlijks",
     "premium_highlighed_title_1": "Je Eigen Bot",
@@ -216,7 +217,7 @@
   
     "component_censor_title": "Censureer Kanaalnamen",
     "component_censor_placeholder": "Typ een woord en druk op Enter",
-    "component_censor_description": "Censureer maximaal 30 woorden die niet gebruikt kunnen worden als tijdelijke kanaalnamen",
+    "component_censor_description": "Censureer maximaal 64 woorden die niet gebruikt kunnen worden als tijdelijke kanaalnamen",
     
     "component_matchmaking_title": "Vullen van Tijdelijke Kanalen",
     "component_matchmaking_menu_option_1": "Ingeschakeld",

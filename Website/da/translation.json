@@ -52,6 +52,7 @@
   "premium_feature_2": "Ubegrænsede Skaberkanaler",
   "premium_feature_3": "Ingen Stemmekrav",
   "premium_feature_4": "Discord Servers",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "månedligt",
   "premium_cycle_yearly": "årligt",
   "premium_highlighed_title_1": "Din Egen Discord Bot",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Censurere Kanalnavne",
   "component_censor_placeholder": "Skriv et ord og tryk på Enter",
-  "component_censor_description": "Censurere op til 30 ord der ikke kan bruges som midlertidige kanalnavne",
+  "component_censor_description": "Censurere op til 64 ord der ikke kan bruges som midlertidige kanalnavne",
 
   "component_matchmaking_title": "Midlertidig Kanalfyldning",
   "component_matchmaking_menu_option_1": "Aktiveret",

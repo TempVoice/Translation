@@ -52,6 +52,7 @@
   "premium_feature_2": "Channel Creator Tanpa Batas",
   "premium_feature_3": "Gak Usah Vote Lagi",
   "premium_feature_4": "Server Discord",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "bulan",
   "premium_cycle_yearly": "tahun",
   "premium_highlighed_title_1": "Bot Kustom",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Sensor Nama Channel",
   "component_censor_placeholder": "Ketik kata lalu klik enter",
-  "component_censor_description": "Sensor hingga 30 kata untuk memblokir pengguanaan kata dalam nama channel sementara",
+  "component_censor_description": "Sensor hingga 64 kata untuk memblokir pengguanaan kata dalam nama channel sementara",
 
   "component_matchmaking_title": "Penuhi channel Sementara",
   "component_matchmaking_menu_option_1": "Nyala",

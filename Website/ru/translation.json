@@ -52,6 +52,7 @@
   "premium_feature_2": "Неограниченное количество каналов-создателей",
   "premium_feature_3": "Нет требований к голосованию",
   "premium_feature_4": "Discord сервера",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "ежемесячно",
   "premium_cycle_yearly": "ежегодно",
   "premium_highlighed_title_1": "Ваш собственный бот",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Цензура названия каналов",
   "component_censor_placeholder": "Введите слово и нажмите Enter",
-  "component_censor_description": "Цензурируйте до 30 слов, которые не могут быть использованы в названии временного канала",
+  "component_censor_description": "Цензурируйте до 64 слов, которые не могут быть использованы в названии временного канала",
 
   "component_matchmaking_title": "Заполнение временных каналов",
   "component_matchmaking_menu_option_1": "Включён",

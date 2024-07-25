@@ -52,6 +52,7 @@
   "premium_feature_2": "無制限のクリエイターチャンネル",
   "premium_feature_3": "投票の必要なし",
   "premium_feature_4": "Discordサーバー",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "月額",
   "premium_cycle_yearly": "年額",
   "premium_highlighed_title_1": "自分だけのボット",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "チャンネル名の禁止ワード設定",
   "component_censor_placeholder": "単語を入力してEnter/確定を押す",
-  "component_censor_description": "最大30のチャンネル名として使用できない単語を禁止",
+  "component_censor_description": "最大64のチャンネル名として使用できない単語を禁止",
 
   "component_matchmaking_title": "一時的なチャンネルの自動埋め",
   "component_matchmaking_menu_option_1": "有効",

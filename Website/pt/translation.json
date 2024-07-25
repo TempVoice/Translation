@@ -52,6 +52,7 @@
   "premium_feature_2": "Canais de criadores ilimitados",
   "premium_feature_3": "Nenhum requisitos de votação",
   "premium_feature_4": "Servidores do Discord",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "Mensal",
   "premium_cycle_yearly": "Anual",
   "premium_highlighed_title_1": "Seu próprio Bot",
@@ -216,7 +217,7 @@
   
   "component_censor_title": "Censurar Nomes de Canais",
   "component_censor_placeholder": "Digite uma palavra e pressione Enter",
-  "component_censor_description": "Censure até 30 palavras que não podem ser usadas como nomes de canais temporários",
+  "component_censor_description": "Censure até 64 palavras que não podem ser usadas como nomes de canais temporários",
   
   "component_matchmaking_title": "Preenchimento de Canais Temporários",
   "component_matchmaking_menu_option_1": "Ativado",

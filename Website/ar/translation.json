@@ -52,6 +52,7 @@
   "premium_feature_2": "رومات منشئي المحتوى بلا حدود",
   "premium_feature_3": "لا توجد متطلبات التصويت",
   "premium_feature_4": "سيرفرات الخلاف",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "شهريا",
   "premium_cycle_yearly": "سنوي",
   "premium_highlighed_title_1": "البوت الخاص بك",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "أسماء رومات الرقابة",
   "component_censor_placeholder": "اكتب كلمة واضغط على Enter",
-  "component_censor_description": "قم بمراقبة ما يصل إلى 30 كلمة لا يمكن استخدامها كأسماء رومات مؤقتة",
+  "component_censor_description": "قم بمراقبة ما يصل إلى 64 كلمة لا يمكن استخدامها كأسماء رومات مؤقتة",
 
   "component_matchmaking_title": "تعبئة الروم المؤقتة",
   "component_matchmaking_menu_option_1": "تمكين",

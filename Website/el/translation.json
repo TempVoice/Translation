@@ -52,6 +52,7 @@
 "premium_feature_2": "Απεριόριστα κανάλια",
 "premium_feature_3": "Χωρίς ψηφοφορίες και σαχλαμάρες",
 "premium_feature_4": "Διακομιστές Discord",
+"premium_feature_5": "Transferable To Another Server",
 "premium_cycle_monthly": "μηνιαία",
 "premium_cycle_yearly": "ετήσια",
 "premium_highlighed_title_1": "Το δικό σου μποτάκι",
@@ -216,7 +217,7 @@
 
 "component_censor_title": "Μπλοκάρε βρώμικες λέξεις",
 "component_censor_placeholder": "Γράψε λέξη",
-"component_censor_description": "Μέχρι 30 λέξεις μπορείς να μπλοκάρεις",
+"component_censor_description": "Μέχρι 64 λέξεις μπορείς να μπλοκάρεις",
 
 "component_matchmaking_title": "Συμπλήρωση προσωρινών καναλιών",
 "component_matchmaking_menu_option_1": "Ενεργό",

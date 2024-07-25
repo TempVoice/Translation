@@ -52,6 +52,7 @@
   "premium_feature_2": "无限的创作者频道",
   "premium_feature_3": "无需投票要求",
   "premium_feature_4": "Discord服务器",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "每月",
   "premium_cycle_yearly": "每年",
   "premium_highlighed_title_1": "您自己的机器人",
@@ -216,7 +217,7 @@
   
   "component_censor_title": "审查频道名称",
   "component_censor_placeholder": "输入一个单词然后按Enter",
-  "component_censor_description": "不能用作临时频道名称的最多30个单词审查",
+  "component_censor_description": "不能用作临时频道名称的最多64个单词审查",
   
   "component_matchmaking_title": "临时频道填充",
   "component_matchmaking_menu_option_1": "已启用",

@@ -52,6 +52,7 @@
   "premium_feature_2": "Saluran Pencipta Tanpa Had",
   "premium_feature_3": "Tak Payah Mengundi",
   "premium_feature_4": "Server Discord",
+  "premium_feature_5": "Transferable To Another Server",
   "premium_cycle_monthly": "bulanan",
   "premium_cycle_yearly": "tahunan",
   "premium_highlighed_title_1": "Bot anda Sendiri",
@@ -216,7 +217,7 @@
 
   "component_censor_title": "Penapisan Nama Saluran", 
   "component_censor_placeholder": "Taip perkataan dan tekan Enter",
-  "component_censor_description": "Tapis sehingga 30 perkataan yang tidak boleh digunakan sebagai nama saluran sementara", 
+  "component_censor_description": "Tapis sehingga 64 perkataan yang tidak boleh digunakan sebagai nama saluran sementara", 
 
   "component_matchmaking_title": "Pengisian Saluran Sementara", 
   "component_matchmaking_menu_option_1": "Didayakan",
