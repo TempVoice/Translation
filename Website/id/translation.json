@@ -184,6 +184,9 @@
   "component_limit_title": "Batas user channel sementara",
   "component_limit_description": "Tentukan batas maksimal user di channel sementara",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Hak Akses Perintah Channel",
   "component_ownerpermissions_menu_lable": "Atur Hak Akses",
   "component_ownerpermissions_description": "Pilih perintah apa aja yg bisa dipakai oleh pemilik channel sementara.",

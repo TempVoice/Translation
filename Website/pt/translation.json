@@ -183,6 +183,9 @@
   
   "component_limit_title": "Limite de Usuários do Canal Temporário",
   "component_limit_description": "Limite de usuário padrão para canais temporários",
+
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
   
   "component_ownerpermissions_title": "Comandos Disponíveis para Canais Temporários",
   "component_ownerpermissions_menu_lable": "Gerenciar Configurações",

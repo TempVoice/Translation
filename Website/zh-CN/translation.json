@@ -183,6 +183,9 @@
   
   "component_limit_title": "临时频道用户限制",
   "component_limit_description": "临时频道的默认用户限制",
+
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
   
   "component_ownerpermissions_title": "可用的临时频道命令",
   "component_ownerpermissions_menu_lable": "管理设置",

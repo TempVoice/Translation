@@ -184,6 +184,9 @@
   "component_limit_title": "Midlertidig Kanal Brugergrænse",
   "component_limit_description": "Standardbrugergrænse for midlertidige kanaler",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Administrer Indstillinger for Midlertidige Kanaler",
   "component_ownerpermissions_menu_lable": "Administrer Indstillinger",
   "component_ownerpermissions_description": "Vælg hvilke TempVoice indstillinger, der kan bruges af midlertidige kanalejere",

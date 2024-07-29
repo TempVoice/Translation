@@ -184,6 +184,9 @@
   "component_limit_title": "Limite d'Utilisateurs",
   "component_limit_description": "Limite d'utilisateurs par défaut pour les salons temporaires",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Commandes des salons temporaires disponibles",
   "component_ownerpermissions_menu_lable": "Gérer les Paramètres",
   "component_ownerpermissions_description": "Sélectionner les commandes TempVoice qui peuvent être utilisées par les propriétaires de salons temporaires",

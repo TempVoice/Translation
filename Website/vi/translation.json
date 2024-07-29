@@ -183,6 +183,9 @@
 
   "component_limit_title": "Giới Hạn Người Dùng Kênh Tạm Thời",
   "component_limit_description": "Giới hạn người dùng mặc định cho các kênh thoại tạm thời",
+
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
   
   "component_ownerpermissions_title": "Quản lý cài đặt cho các kênh tạm thời",
   "component_ownerpermissions_menu_lable": "Quản lý cài đặt",

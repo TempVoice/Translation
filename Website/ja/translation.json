@@ -184,6 +184,9 @@
   "component_limit_title": "一時的なチャンネルのユーザー制限",
   "component_limit_description": "一時的なチャンネルのデフォルトユーザー制限",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "利用可能な一時的なチャンネルのコマンド",
   "component_ownerpermissions_menu_lable": "設定を管理",
   "component_ownerpermissions_description": "一時的なチャンネルのオーナーが使用できるTempVoiceコマンドを選択します",

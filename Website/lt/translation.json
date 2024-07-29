@@ -184,6 +184,9 @@
   "component_limit_title": "Laikino Balso Kanalo Vartotojų Limitas",
   "component_limit_description": "Numatytasis vartotojų limitas laikiniemsiems balso kanalams",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Galimos Laikinųjų Balso Kanalų Komandos",
   "component_ownerpermissions_menu_lable": "Tvarkyti Nustatymus",
   "component_ownerpermissions_description": "Pasirinkite, kurias TempVoice komandas gali naudoti laikinųjų kanalų savininkai",

@@ -184,6 +184,9 @@
   "component_limit_title": "Wates Panganggo Channel Sementara",
   "component_limit_description": "Wates panganggo standar kanggo channel sementara",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Printah Channel Sementara sing Bisa Digunakke",
   "component_ownerpermissions_menu_lable": "Ngatur Setelan",
   "component_ownerpermissions_description": "Pilih printah TempVoice endi wae sing isa digunakno deneng sing nduweni channel sementara",

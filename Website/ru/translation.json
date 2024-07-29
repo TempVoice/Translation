@@ -184,6 +184,9 @@
   "component_limit_title": "Лимит пользователей",
   "component_limit_description": "Лимит пользвателей по умолчанию для временных каналов",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Доступные команды временных каналов",
   "component_ownerpermissions_menu_lable": "Управление настройками",
   "component_ownerpermissions_description": "Выберите какие команды доступны владельцам временных каналов",

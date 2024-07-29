@@ -184,6 +184,9 @@
   "component_limit_title": "Límite de Usuarios del Canal Temporal",
   "component_limit_description": "Límite de Usuarios Predeterminado del Canal Temporal",
 
+  "component_limit_range_title": "User Limit Range",
+  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+
   "component_ownerpermissions_title": "Comandos Disponibles del Canal Temporal",
   "component_ownerpermissions_menu_lable": "Gestionar Ajustes",
   "component_ownerpermissions_description": "Elige qué comandos de TempVoice pueden ser usados por los dueños de los Canales Temporales",
