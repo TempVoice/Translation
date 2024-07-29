@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Inte möjligt**\n Den här användaren finns inte i en röstkanal.",
     "voice_kick_2": "## **Inte möjligt**\n Du kan inte sparka en användare från en annan röstkanal.",
     "voice_kick_3": "## **Kickad!**\n Den här användaren har sparkats ut från din tillfälliga röstkanal.",
-    "voice_limit_1": "## **Inte möjligt**\n Användargränsen kan inte vara större än **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Uppdaterad!**\n Din kanals användargräns är nu **{val1}**.",
     "voice_name_1": "## **Inte möjligt**\n Du kan inte ha en tillfällig röstkanal med det namnet.",
     "voice_name_2": "## **Uppdaterad!**\n Din kanals namn är nu: **{val1}**.",

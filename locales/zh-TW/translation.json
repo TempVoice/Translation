@@ -81,7 +81,7 @@
     "voice_kick_1": "## **無法完成**\n 此使用者不在語音頻道",
     "voice_kick_2": "## **無法完成**\n 您無法踢除其他語音頻道使用者",
     "voice_kick_3": "## **已踢除！**\n 此使用者已從您的臨時語音頻道被踢除",
-    "voice_limit_1": "## **無法完成**\n 頻道人數限制不能超過 **99**。",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **已更新**\n 您的頻道人數限制現在為 **{val1}**。",
     "voice_name_1": "## **無法完成**\n 此標題無法用於臨時語音頻道",
     "voice_name_2": "## **已更新**\n 您的頻道標題現在為 **{val1}**。",
@@ -174,6 +174,6 @@
     "log_block": "## <:block:1161605864898174986> **User(s) Blocked**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nUsers: {val5}",
     "log_unblock": "## <:unblock:1162862844585443370> **User(s) Unblocked**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nUsers: {val5}",
     "log_invite": "## <:invite:1161647152821444688> **User Invited**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nUser: {val5} `{val6}`",
-    "log_kick": "## <:kick:1161605681107976263> **User Disconnected**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nUser: {val5}"
+    "log_kick": "## <:kick:1161605681107976263> **User(s) Disconnected**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nUser: {val5}"
   }
 ]

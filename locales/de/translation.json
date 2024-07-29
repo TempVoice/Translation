@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Nicht möglich!**\nDu kannst keinen Nutzer aus einem Kanal rausschmeißen, in dem er sich nicht befindet.",
     "voice_kick_2": "## **Nicht möglich!**\nDu kannst keinen Nutzer aus einem anderen Kanal rausschmeißen.",
     "voice_kick_3": "## **Gekickt!**\nDer Nutzer wurde aus deinem temporären Kanal gekickt.",
-    "voice_limit_1": "## **Limitiert!**\nDas Nutzerlimit kann nicht größer als **99** sein.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Geändert!**\nDein Nutzerlimit beträgt jetzt **{val1}**.",
     "voice_name_1": "## **Nicht möglich!**\nDieser Name wird für alle temporären Kanäle zensiert.",
     "voice_name_2": "## **Geändert!**\nDein Kanalname lautet jetzt: **{val1}**.",
