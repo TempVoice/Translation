@@ -53,7 +53,7 @@
     "voice_kick_1": "## **Tak Boleh!**\n Pengguna ni takde dalam mana-mana saluran suara.",
     "voice_kick_2": "## **Apalah Kau Ni!**\n Tak boleh kick pengguna dari saluran voice lain.",
     "voice_kick_3": "## **Kicked!**\n Pengguna-pengguna yang dipilih dah dibuang dari saluran suara sementara kau.",
-    "voice_limit_1": "## **Tak Bolehlah!**\n Limit pengguna tak boleh lebih dari **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Dah Tukar!**\n Limit pengguna untuk saluran kau sekarang **{val1}**.",
     "voice_name_1": "## **Tak Boleh!**\n Nama saluran suara sementara kau tak boleh macam tu.",
     "voice_name_2": "## **Dah Tukar!**\n Nama saluran kau sekarang: **{val1}**.",

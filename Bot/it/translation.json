@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Errore.**\n L'utente selezionato non è nel canale vocale.",
     "voice_kick_2": "## **Errore.**\n Non puoi espellere un utente che si trova in un altro canale vocale.",
     "voice_kick_3": "## **Espulso!**\n L'utente è stato espulso dal tuo canale vocale temporaneo.",
-    "voice_limit_1": "## **Errore.**\n Il limite di utenti non può essere maggiore di **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Aggiornato!**\n Il limite di utenti per il tuo canale vocale è ora di **{val1}**.",
     "voice_name_1": "## **Non valido.**\n Non puoi usare quel nome per un canale vocale temporaneo.",
     "voice_name_2": "## **Aggiornato!**\n Il nome del tuo canale è ora: **{val1}**.",

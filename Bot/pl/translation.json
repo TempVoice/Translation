@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Niemożliwe.**\n Nie można wyrzucić użytkownika, który nie jest na kanale głosowym.",
     "voice_kick_2": "## **Niemożliwe.**\n Nie można wyrzucić użytkownika z innego kanału głosowego.",
     "voice_kick_3": "## **Wyrzucono.**\n Użytkownik został wyrzucony z Twojego tymczasowego kanału głosowego.",
-    "voice_limit_1": "## **Niemożliwe.**\n Limit nie może być wyższy od **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Zmieniono.**\n Twój limit użytkowników na kanale wynosi teraz **{val1}**.",
     "voice_name_1": "## **Niemożliwe.**\n Nazwa ta jest cenzurowana dla wszystkich tymczasowych kanałów głosowych.",
     "voice_name_2": "## **Zmieniono.**\n Nazwa Twojego kanału to teraz: **{val1}**.",

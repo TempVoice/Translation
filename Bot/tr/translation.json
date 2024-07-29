@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Mümkün değil!**\n Ses kanalında olmayan bir kullanıcıyı atamazsın.",
     "voice_kick_2": "## **Mümkün değil!**\n Kullanıcıları, başka bir ses kanalından atamazsın.",
     "voice_kick_3": "## **Atıldı!**\n Bu kullanıcı, geçici ses kanalınızdan atıldı.",
-    "voice_limit_1": "## **Mümkün değil!**\n Kanalınızın kullanıcı limiti **99**'dan büyük olamaz.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Güncellendi!**\n Kanalınızın kullanıcı limiti **{val1}** olarak değiştirildi.",
     "voice_name_1": "## **Mümkün değil!**\n Bu isme sahip geçici bir ses kanalınız olamaz.",
     "voice_name_2": "## **Güncellendi!**\n Kanalınızın adı **{val1}** olarak değiştirildi.",

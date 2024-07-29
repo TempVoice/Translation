@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Không Thể**\n Người này đang không có ở trong kênh thoại.",
     "voice_kick_2": "## **Không Thể**\n Cậu không thể khai trừ một người từ kênh khác.",
     "voice_kick_3": "## **Đã Khai Trừ!**\n Người này đã bị khai trừ khỏi kênh thoại tạm thời của cậu.",
-    "voice_limit_1": "## **Không Thể**\n Giới hạn người dùng không thể lớn hơn **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Đã Cập Nhật!**\n Giới hạn người cho kênh của cậu hiện là **{val1}**.",
     "voice_name_1": "## **Không Thể**\n Cậu không thể có kênh thoại tạm thời với tên đó.",
     "voice_name_2": "## **Đã Cập Nhật!**\n Tên kênh của cậu hiện là **{val1}**.",

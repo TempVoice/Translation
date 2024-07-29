@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Not Possible!**\n This user isn’t in a voice channel.",
     "voice_kick_2": "## **Not Possible!**\n You cannot kick a user from another voice channel.",
     "voice_kick_3": "## **Kicked!**\n Selected users have been kicked out of your temporary voice channel.",
-    "voice_limit_1": "## **Not Possible!**\n User limit cannot be greater than **99**.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Updated!**\n Your channel’s user limit is now **{val1}**.",
     "voice_name_1": "## **Not Possible!**\n You cannot have a temporary voice channel with that name.",
     "voice_name_2": "## **Updated!**\n Your channel’s name is now: **{val1}**.",

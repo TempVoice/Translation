@@ -81,7 +81,7 @@
     "voice_kick_1": "## **Gaada Usernya**\n User tidak ada di Voice channel.",
     "voice_kick_2": "## **User Di VC Lain**\n Kamu tidak bisa usir user yang lagi di voice channel lain.",
     "voice_kick_3": "## **Berhasil Diusir!**\n User sudah diusir dari __Voice channel sementara__ kamu.",
-    "voice_limit_1": "## **Terbatas!**\n Batas tidak boleh lebih dari **99** user.",
+    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Berhasil Diubah!**\n Batas Channelmu sekarang **{val1}**.",
     "voice_name_1": "## **Nama Haram!**\n Nama dilarang di pakai untuk __Voice channel sementara__!",
     "voice_name_2": "## **Nama Diubah!**\n Nama Channelmu sekarang adalah **{val1}**.",
