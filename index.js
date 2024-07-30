@@ -29,6 +29,7 @@ let arr = [
 	'da',
 	'tl',
 	'ms-MY',
+	'ro',
 ]
 
 for (let i = 0; i < arr.length; i++) {
