@@ -1,7 +1,7 @@
 {
   "slogan_title_part_1": "Sementara",
   "slogan_title_part_2": "Gantikan Permanen",
-  "slogan_description": "Server lebih rapi, obrolan menjadi asik dengan TempVoice. Channel suara fleksibel, sekali klik langsung jadi.",
+  "slogan_description": "Server lebih rapi, obrolan menjadi asik dengan TempVoice. Channel suara fleksibel. sekali klik langsung jadi.",
   
   "featured_title": "Pilihan Server Favoritmu",
   "featured_description": "Ribuan server dan jutaan user Discord memilih TempVoice.",
@@ -50,46 +50,46 @@
   "premium_description": "Buat TempVoice sesuai keinginanmu dan nikmati kebebasan tanpa batas.",
   "premium_feature_1": "Antarmuka Sesuai Keinginan",
   "premium_feature_2": "Channel Creator Tanpa Batas",
-  "premium_feature_3": "Gak Usah Vote Lagi",
+  "premium_feature_3": "Tak Perlu Vote Lagi",
   "premium_feature_4": "Server Discord",
-  "premium_feature_5": "Transferable To Another Server",
+  "premium_feature_5": "Bisa dialihkan ke server lain",
   "premium_cycle_monthly": "bulan",
   "premium_cycle_yearly": "tahun",
   "premium_highlighed_title_1": "Bot Kustom",
   "premium_highlighed_description_1": "Kustomisasi penuh. Ganti nama, foto, status, about me dan nama channel-mu bisa sesuai game yang kamu lagi mainin",
   "premium_highlighed_title_2": "Tahunan",
   "premium_highlighed_description_2": "Hemat 16% setiap pembayaran pertahun",
-  "premium_upgrade_disclaimer": "Saat kamu upgrade langganan Premium, kamu akan langsung dikenakan selisih dari harga bulanan yg telah dibayar. Kamu hanya dapat mengupgrade langgananmu sebulan sekali.",
+  "premium_upgrade_disclaimer": "Saat kamu upgrade langganan Premium, kamu akan langsung dikenakan selisih dari harga bulanan yang telah dibayar. Kamu hanya dapat mengupgrade langgananmu sebulan sekali.",
   "premium_custombranding_description": "'Bot kustom' Sesuaikan tampilan TempVoice dengan mengubah avatar, nama, status, dan about me. Jangan lupa untuk mengaktifkan Premium di server Discord kamu agar bot dapat digunakan.",
 
   "placeholder_description_1": "Penanda {PRIVACY} akan diperbarui setiap 5 menit ketika privasi channel diubah",
   "placeholder_description_2": "Nama role akan terlihat bahkan jika terpisah dalam daftar anggota daring",
-  "placeholder_description_3": "Tampilkan nama role tertinggi pada daftar anggota daring yg dipisahkan.",
+  "placeholder_description_3": "Tampilkan nama role tertinggi pada daftar anggota daring yang dipisahkan.",
   "placeholder_description_4": "Penanda akan diganti dengan nama baru melalui perintah '/voice name'. Bagian dari penanda dapat diubah sesuai keinginan user.",
 
   "button_lable_invite": "Undang TempVoice",
   "button_lable_dashboard": "Buka Dashboard",
-  "button_lable_login": "Masuk dgn Discord",
+  "button_lable_login": "Masuk pakai Discord",
   "button_lable_logout": "Keluar",
   "button_lable_subscribe": "Bayar pakai Stripe",
   "button_lable_billing": "Atur melalui Stripe",
   "button_lable_premium": "Atur Langganan",
   "button_lable_upgrade": "Upgrade Langganan",
-  "button_lable_upgrade_cancel": "Batal, Nanti aja deh",
+  "button_lable_upgrade_cancel": "Batal, Nanti saja",
   "button_lable_upgrade_continue": "Iya, Upgrade Sekarang",
-  "button_lable_join_cancel": "Gak, Login aja",
-  "button_lable_join_continue": "Iya, Join",
+  "button_lable_join_cancel": "Tak, Login saja",
+  "button_lable_join_continue": "Iya, Gabung",
   "button_lable_manage_custom_branding": "Atur Bot Kustom",
   "button_back": "Kembali",
 
-  "join_support": "Maukah kamu join ke Discord kami?",
+  "join_support": "Maukah kamu gabung ke Discord kami?",
   "excordo_quote": "Terima kasih atas minat Anda pada TempVoice, bot yang akan mengubah cara Anda menggunakan Discord. Selama bertahun-tahun, saya telah fokus pada kebutuhan dan keinginan komunitas untuk membuat server Discord Anda menjadi tempat yang lebih baik!",
 
   "convinced_1": "Bagaimana menarikan?",
   "convinced_2": "Ucapkan selamat tinggal pada era permanen 👋",
   
   "premium_status_description_1": "Semua fitur premium terbuka ✌️",
-  "premium_status_description_2": "Pakai Avatar, Nama, Warna, dan Antarmukamu sendiri dengan Premium 🤩",
+  "premium_status_description_2": "Pakai Avatar, Nama, Warna, dan Antarmukamu dengan Premium 🤩",
 
   "component_billing_title": "Kelola Pembayaran Langganan",
   "component_billing_description": "Kelola metode pembayaran kamu atau batalkan langgananmu. Pastikan untuk memasukkan email yang kamu gunakan saat berlangganan. Hubungi tim dukungan jika kamu tidak ingat email yang digunakan!",
@@ -184,14 +184,14 @@
   "component_limit_title": "Batas user channel sementara",
   "component_limit_description": "Tentukan batas maksimal user di channel sementara",
 
-  "component_limit_range_title": "User Limit Range",
-  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+  "component_limit_range_title": "Rentang Batas User",
+  "component_limit_range_description": "Tentukan rentang untuk membatasi user yang dimana dapat ditetapkan oleh ownernya",
 
   "component_ownerpermissions_title": "Hak Akses Perintah Channel",
   "component_ownerpermissions_menu_lable": "Atur Hak Akses",
   "component_ownerpermissions_description": "Pilih perintah apa aja yg bisa dipakai oleh pemilik channel sementara.",
-  "component_ownerpermissions_modal_description_1": "Mematikan opsi ini akan membuat channel tdk dapat dikelola oleh pembuatnya. Ini berguna untuk channel yg sifatnya publik",
-  "component_ownerpermissions_modal_description_2": "Kalau kamu gak nyeklis opsi ini, pemilik channel sementara bisa pakai perintah '/voice' untuk mengubah setelan pada channel.",
+  "component_ownerpermissions_modal_description_1": "Mematikan opsi ini akan membuat channel tak dapat dikelola oleh pembuatnya. Ini berguna untuk channel yg sifatnya publik",
+  "component_ownerpermissions_modal_description_2": "Kalau kamu tak nyeklis opsi ini, pemilik channel sementara bisa pakai perintah '/voice' untuk mengubah setelan pada channel.",
   "component_ownerpermissions_option_ownerless": "Mode tanpa pemilik",
   "component_ownerpermissions_option_name": "Ganti nama channel",
   "component_ownerpermissions_option_limit": "Atur batas user",
@@ -212,7 +212,7 @@
   "component_ownerpermissions_option_close": "Hapus paksa channel",
 
   "component_category_title": "Kategori channel Sementara",
-  "component_category_menu_lable": "Gak ada kategori terpilih",
+  "component_category_menu_lable": "Tak ada kategori terpilih",
   "component_category_description": "Kategori utama untuk channel sementara",
 
   "component_fallback_menu_lable": "Pilih kategori",
@@ -225,10 +225,10 @@
   "component_matchmaking_title": "Penuhi channel Sementara",
   "component_matchmaking_menu_option_1": "Nyala",
   "component_matchmaking_menu_option_2": "Mati",
-  "component_matchmaking_description": "Penuhi channel sementara sebelum membuat yg baru (Dibatasi hingga 99 user)",
+  "component_matchmaking_description": "Penuhi channel sementara sebelum membuat baru (Dibatasi hingga 99 user)",
 
   "component_custombranding_title": "Token Bot",
-  "component_custombranding_button_lable": "Gimana cara dapetin token discord?",
+  "component_custombranding_button_lable": "Cara dapetin token discord?",
   "component_custombranding_description": "Masukkan token Discord untuk mengaktifkan botmu sendiri. Tapi inget, Token ini rahasia kita! Jangan sampai bocor kayak rahasiamu dengan dia.",
   "component_custombranding_appearance": "Atur Tampilan",
 
@@ -237,12 +237,12 @@
 
   "component_sendinterface_menu_lable": "Pilih Channel Teks",
   "component_sendinterface_menu_option": "Tidak Ada Channel",
-  "component_sendinterface_description": "Pilih channel teks yg ingin dijadikan antarmuka",
+  "component_sendinterface_description": "Pilih channel teks yang ingin dijadikan antarmuka",
 
   "component_actions_title": "Catatan Aktifitas",
   "component_actions_description": "Kirim pesan ke Discord melalui URL webhook untuk mencatat aktivitas di Channel sementara, seperti pembuatan, penghapusan, atau memodifikasi.",
 
-  "save_changes_title": "Awas — ada perubahan yg belum disimpn!",
+  "save_changes_title": "Awas — ada perubahan yang belum disimpan!",
   "save_changes_button_lable_1": "Batal",
   "save_changes_button_lable_2": "Simpan"
 }
