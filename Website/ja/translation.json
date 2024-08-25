@@ -242,6 +242,12 @@
   "component_actions_title": "操作ログ",
   "component_actions_description": "DiscordのウェブフックURLを使ってメッセージを送り、一時的なチャンネルの活動（作成、削除、変更など）を記録します。",
 
+  "component_privacy_title": "Temporary Channel Privacy",
+  "component_privacy_menu_option_1": "Public",
+  "component_privacy_menu_option_2": "Locked",
+  "component_privacy_menu_option_3": "Hidden",
+  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  
   "save_changes_title": "注意 – 保存されていない変更があります！",
   "save_changes_button_lable_1": "リセット",
   "save_changes_button_lable_2": "変更を保存"

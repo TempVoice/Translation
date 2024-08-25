@@ -242,6 +242,12 @@
   "component_actions_title": "Actions Log",
   "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
 
+  "component_privacy_title": "Temporary Channel Privacy",
+  "component_privacy_menu_option_1": "Public",
+  "component_privacy_menu_option_2": "Locked",
+  "component_privacy_menu_option_3": "Hidden",
+  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  
   "save_changes_title": "זהירות - יש לך שינויים שלא נשמרו!",
   "save_changes_button_lable_1": "אתחל",
   "save_changes_button_lable_2": "שמור שינויים"

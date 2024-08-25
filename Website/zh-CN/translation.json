@@ -242,6 +242,12 @@
   "component_actions_title": "操作日志",
   "component_actions_description": "使用提供的 Discord webhook URL 将消息发送到文本频道，以记录临时频道的操作，例如创建、删除和修改。",
   
+  "component_privacy_title": "Temporary Channel Privacy",
+  "component_privacy_menu_option_1": "Public",
+  "component_privacy_menu_option_2": "Locked",
+  "component_privacy_menu_option_3": "Hidden",
+  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  
   "save_changes_title": "小心 - 您有未保存的更改！",
   "save_changes_button_lable_1": "重置",
   "save_changes_button_lable_2": "保存更改"  

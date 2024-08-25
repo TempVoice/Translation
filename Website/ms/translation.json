@@ -242,6 +242,12 @@
   "component_actions_title": "Log Tindakan",
   "component_actions_description": "Menghantar mesej ke saluran teks menggunakan URL webhook Discord yang disediakan untuk melog tindakan saluran sementara seperti penciptaan, pemadaman dan pengubahsuaian.",
 
+  "component_privacy_title": "Temporary Channel Privacy",
+  "component_privacy_menu_option_1": "Public",
+  "component_privacy_menu_option_2": "Locked",
+  "component_privacy_menu_option_3": "Hidden",
+  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  
   "save_changes_title": "Jaga - ada perubahan yang belum disimpan!", 
   "save_changes_button_lable_1": "Semula", 
   "save_changes_button_lable_2": "Simpan" 
