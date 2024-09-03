@@ -52,7 +52,7 @@
 	"premium_feature_2": "Необмежена кількість каналів-створювачів",
 	"premium_feature_3": "Немає вимог до голосування",
 	"premium_feature_4": "Discord сервер",
-	"premium_feature_5": "Transferable To Another Server",
+	"premium_feature_5": "Можливість перенесення на інший сервер",
 	"premium_cycle_monthly": "щомісячно",
 	"premium_cycle_yearly": "щорічно",
 	"premium_highlighed_title_1": "Ваш власний бот",
@@ -184,8 +184,8 @@
 	"component_limit_title": "Ліміт користувачів",
 	"component_limit_description": "Ліміт стандартних користувачів для тимчасових каналів",
 
-	"component_limit_range_title": "User Limit Range",
-	"component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+	"component_limit_range_title": "Діапазон ліміту користувачів",
+	"component_limit_range_description": "Встановіть діапазон ліміту користувачів, який може встановити власник тимчасового каналу",
 	
 	"component_ownerpermissions_title": "Доступні команди тимчасових каналів",
 	"component_ownerpermissions_menu_lable": "Керування налаштуваннями",
@@ -211,7 +211,7 @@
 	"component_ownerpermissions_option_chat": "Використання внутрішньоканального чату",
 	"component_ownerpermissions_option_close": "Примусово закривати канал",
 	
-	"component_category_title": "категорія для каналів",
+	"component_category_title": "Категорія для каналів",
 	"component_category_menu_lable": "Категорія не вибрана",
 	"component_category_description": "Основна категорія для тимчасових каналів",
 	
@@ -239,8 +239,8 @@
 	"component_sendinterface_menu_option": "Канал не вибраний",
 	"component_sendinterface_description": "Виберіть текстовий канал для надсилання інтерфейсу",
 
-	"component_actions_title": "Actions Log",
-	"component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+	"component_actions_title": "Журнал дій",
+	"component_actions_description": "Надсилає повідомлення в текстовий канал за допомогою наданої URL-адреси вебхука Discord для реєстрації тимчасових дій каналу, таких як створення, видалення та зміна.",
 
 	"component_privacy_title": "Temporary Channel Privacy",
 	"component_privacy_menu_option_1": "Public",
