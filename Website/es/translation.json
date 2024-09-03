@@ -239,14 +239,14 @@
   "component_sendinterface_menu_option": "Sin Canal Elegido",
   "component_sendinterface_description": "Elige un Canal de Texto para enviar la interfaz",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
-
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_actions_title": "Registro de Acciones",
+  "component_actions_description": "Envía mensajes a un canal de texto utilizando la URL de webhook de Discord proporcionada para registrar acciones temporales en el canal, como creación, eliminación y modificación.",
+  
+  "component_privacy_title": "Privacidad del Canal Temporal",
+  "component_privacy_menu_option_1": "Público",
+  "component_privacy_menu_option_2": "Bloqueado",
+  "component_privacy_menu_option_3": "Oculto",
+  "component_privacy_description": "Modo de privacidad al crear un canal por primera vez (Predeterminado: Público)"
   
   "save_changes_title": "Cuidado – ¡Tienes cambios sin guardar!",
   "save_changes_button_lable_1": "Reiniciar",
