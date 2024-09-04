@@ -242,11 +242,11 @@
 	"component_actions_title": "Журнал дій",
 	"component_actions_description": "Надсилає повідомлення в текстовий канал за допомогою наданої URL-адреси вебхука Discord для реєстрації тимчасових дій каналу, таких як створення, видалення та зміна.",
 
-	"component_privacy_title": "Temporary Channel Privacy",
-	"component_privacy_menu_option_1": "Public",
-	"component_privacy_menu_option_2": "Locked",
-	"component_privacy_menu_option_3": "Hidden",
-	"component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+	"component_privacy_title": "Тимчасова конфіденційність каналу",
+	"component_privacy_menu_option_1": "Публічний",
+	"component_privacy_menu_option_2": "Закритий",
+	"component_privacy_menu_option_3": "Прихований",
+	"component_privacy_description": "Режим конфіденційності під час створення каналу вперше (за замовчуванням: публічний)",
 	
 	"save_changes_title": "Обережно – у вас є незбережені зміни!",
 	"save_changes_button_lable_1": "Скинути",
