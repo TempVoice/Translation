@@ -246,7 +246,7 @@
   "component_privacy_menu_option_1": "Público",
   "component_privacy_menu_option_2": "Bloqueado",
   "component_privacy_menu_option_3": "Oculto",
-  "component_privacy_description": "Modo de privacidad al crear un canal por primera vez (Predeterminado: Público)"
+  "component_privacy_description": "Modo de privacidad al crear un canal por primera vez (Predeterminado: Público)",
   
   "save_changes_title": "Cuidado – ¡Tienes cambios sin guardar!",
   "save_changes_button_lable_1": "Reiniciar",
