@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Arriba de todo",
   "component_position_menu_option_2": "Debajo del Creador",
   "component_position_menu_option_3": "Abajo de todo",
-  "component_position_description": "Posición de los Canales Temporales al crearse (Predeterminado: Debajo)",
+  "component_position_description": "Posición de los Canales Temporales al crearse",
 
   "component_permissionsowner_title": "Permisos Adicionales de Discord para Dueños",
   "component_permissionsowner_menu_lable": "Gestionar Permisos",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Sincronizar los permisos del Canal de Voz Temporal con la Categoría o el 'Canal Creador'",
 
   "component_namewaiting_title": "Nombre de la Sala de Espera",
-  "component_namewaiting_description": "Nombre para las salas de espera (Predeterminado: Join Me)",
+  "component_namewaiting_description": "Nombre para las salas de espera",
 
   "component_placeholder_title": "Nombre Predeterminado para los Marcadores",
   "component_placeholder_menu_lable": "Gestiona Nombres Predeterminados",
@@ -246,7 +246,7 @@
   "component_privacy_menu_option_1": "Público",
   "component_privacy_menu_option_2": "Bloqueado",
   "component_privacy_menu_option_3": "Oculto",
-  "component_privacy_description": "Modo de privacidad al crear un canal por primera vez (Predeterminado: Público)",
+  "component_privacy_description": "Modo de privacidad al crear un canal por primera vez",
   
   "save_changes_title": "Cuidado – ¡Tienes cambios sin guardar!",
   "save_changes_button_lable_1": "Reiniciar",

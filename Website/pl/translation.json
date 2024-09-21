@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Na górze",
   "component_position_menu_option_2": "Zaraz pod kanałem do tworzenia",
   "component_position_menu_option_3": "Na dole",
-  "component_position_description": "Położenie tymczasowych kanałów po stworzeniu (Domyślnie: Poniżej)",
+  "component_position_description": "Położenie tymczasowych kanałów po stworzeniu",
 
   "component_permissionsowner_title": "Dodatkowe permisje na Discordzie dla Właścicieli",
   "component_permissionsowner_menu_lable": "Zarządzaj permisjami",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Synchronizuj uprawnienia tymczasowych kanałów z kategorią lub Kanałem do Tworzenia",
 
   "component_namewaiting_title": "Nazwa Poczekalni",
-  "component_namewaiting_description": "Nazwa dla poczekalni (Domyślnie: Dołącz tutaj)",
+  "component_namewaiting_description": "Nazwa dla poczekalni",
 
   "component_placeholder_title": "Domyślna Nazwa dla Placeholderów",
   "component_placeholder_menu_lable": "Zarządzaj Domyślnymi Nazwami",
@@ -239,14 +239,14 @@
   "component_sendinterface_menu_option": "Nie Wybrano Kanału",
   "component_sendinterface_description": "Wybierz kanał tekstowy, gdzie ma zostać wysłany interfejs",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Rejestr Działań",
+  "component_actions_description": "Wysyła wiadomości do kanału tekstowego, używając podanego adresu URL webhooka Discord, aby rejestrować tymczasowe działania kanału, takie jak tworzenie, usuwanie i modyfikacja.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Prywatność Tymczasowego Kanału",
+  "component_privacy_menu_option_1": "Publiczny",
+  "component_privacy_menu_option_2": "Zablokowany",
+  "component_privacy_menu_option_3": "Ukryty",
+  "component_privacy_description": "Tryb prywatności przy tworzeniu kanału po raz pierwszy",
   
   "save_changes_title": "Ostrożnie – masz niezapisane zmiany!",
   "save_changes_button_lable_1": "Resetuj",

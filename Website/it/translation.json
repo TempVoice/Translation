@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "All'inizio della categoria",
   "component_position_menu_option_2": "Sotto il Canale Creatore",
   "component_position_menu_option_3": "Sul fondo della categoria",
-  "component_position_description": "Posizione del canale temporaneo alla creazione (Default: Sotto al Canale Creatore)",
+  "component_position_description": "Posizione del canale temporaneo alla creazione",
 
   "component_permissionsowner_title": "Permessi di Discord aggiuntivi per i proprietari",
   "component_permissionsowner_menu_lable": "Gestisci permessi",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Sincronizza i permessi del canale temporaneo con quelli della categoria o con quelli del Canale Creatore",
 
   "component_namewaiting_title": "Nome sala d'attesa",
-  "component_namewaiting_description": "Nome per le sale d'attesa (Default: Join Me)",
+  "component_namewaiting_description": "Nome per le sale d'attesa",
 
   "component_placeholder_title": "Valori di default per placeholder",
   "component_placeholder_menu_lable": "Imposta valori",
@@ -239,14 +239,14 @@
   "component_sendinterface_menu_option": "Nessun canale selezionato",
   "component_sendinterface_description": "Seleziona il canale dove inviare l'interfaccia",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Registro delle azioni",
+  "component_actions_description": "Invia messaggi a un canale testuale utilizzando l'URL del webhook di Discord fornito per registrare le azioni dei canali temporanei come creazione, eliminazione e modifica.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Privacy del canale temporaneo",
+  "component_privacy_menu_option_1": "Pubblico",
+  "component_privacy_menu_option_2": "Bloccato",
+  "component_privacy_menu_option_3": "Nascosto",
+  "component_privacy_description": "Modalità privacy durante la creazione di un canale per la prima volta",
   
   "save_changes_title": "Attenzione! Ci sono delle modifiche non salvate!",
   "save_changes_button_lable_1": "Ripristina",

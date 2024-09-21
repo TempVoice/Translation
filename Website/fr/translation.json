@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "En haut",
   "component_position_menu_option_2": "Juste sous le Créateur (salon)",
   "component_position_menu_option_3": "En bas",
-  "component_position_description": "Position des salons temporaires lors de leur création (par défaut : En bas)",
+  "component_position_description": "Position des salons temporaires lors de leur création",
 
   "component_permissionsowner_title": "Permissions Supplémentaires Discord pour les Propriétaires",
   "component_permissionsowner_menu_lable": "Gérer les Permissions",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Synchroniser les autorisations temporaires des salons avec les permissions des catégories ou des créateurs",
 
   "component_namewaiting_title": "Nom de la Salle d'Attente",
-  "component_namewaiting_description": "Nom des salles d'attente (par défaut : Join Me)",
+  "component_namewaiting_description": "Nom des salles d'attente",
 
   "component_placeholder_title": "Nom par défaut des espaces réservés",
   "component_placeholder_menu_lable": "Gérer les noms par défaut",
@@ -235,18 +235,18 @@
   "component_custombrandingactivity_title": "Statut du Bot",
   "component_custombrandingactivity_description": "Modifier le statut Discord du bot de manière personnalisée. La mise à jour sur Discord peut prendre jusqu'à 5 minutes.",
 
-  "component_sendinterface_menu_lable": "Selectionnez un salon écrit",
+  "component_sendinterface_menu_lable": "Sélectionnez un salon textuel",
   "component_sendinterface_menu_option": "Aucun salon sélectionné",
   "component_sendinterface_description": "Sélectionnez un salon textuel pour envoyer l'interface",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Journal des actions",
+  "component_actions_description": "Envoie des messages dans un salon textuel en utilisant l'URL du webhook Discord fournie pour enregistrer les actions des canaux temporaires telles que la création, la suppression et la modification.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
+  "component_privacy_title": "Confidentialité du canal temporaire",
   "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_menu_option_2": "Verrouillé",
+  "component_privacy_menu_option_3": "Caché",
+  "component_privacy_description": "Mode de confidentialité lors de la création d'un canal pour la première fois",
   
   "save_changes_title": "Attention ! Vous avez des changements non sauvegardés!",
   "save_changes_button_lable_1": "Réinitialiser",

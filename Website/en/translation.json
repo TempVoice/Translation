@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "At the top",
   "component_position_menu_option_2": "Right under the Creator",
   "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Position of temporary channels when created (Default: Below)",
+  "component_position_description": "Position of temporary channels when created",
 
   "component_permissionsowner_title": "Additional Discord Permissions for Owners",
   "component_permissionsowner_menu_lable": "Manage Permissions",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Synchronize temporary channel permissions with category or Creator permissions",
 
   "component_namewaiting_title": "Waiting Room Name",
-  "component_namewaiting_description": "Name for waiting rooms (Default: Join Me)",
+  "component_namewaiting_description": "Name for waiting rooms",
 
   "component_placeholder_title": "Default Name for Placeholders",
   "component_placeholder_menu_lable": "Manage Default Names",
@@ -246,7 +246,7 @@
   "component_privacy_menu_option_1": "Public",
   "component_privacy_menu_option_2": "Locked",
   "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_description": "Privacy mode when creating a channel for the first time",
 
   "save_changes_title": "Careful – you have unsaved changes!",
   "save_changes_button_lable_1": "Reset",

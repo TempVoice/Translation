@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "בחלק העליון",
   "component_position_menu_option_2": "מתחת לערוץ הדיבור היוצר",
   "component_position_menu_option_3": "בחלק התחתון",
-  "component_position_description": "מיקום הערוצים הזמניים כאשר הם נוצרים (ברירת מחדל: למטה)",
+  "component_position_description": "מיקום הערוצים הזמניים כאשר הם נוצרים",
 
   "component_permissionsowner_title": "הרשאות דיסקורד נוספות לבעלים",
   "component_permissionsowner_menu_lable": "נהל הראשאות",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "סנכון הרשאות הערוץ הזמני עם הרשאות הקטגוריה או הרשאות ערוץ הדיבור היוצר",
 
   "component_namewaiting_title": "שם לחדר ההמתנה",
-  "component_namewaiting_description": "שם לחדרי ההמתנה (ברירת מחדל: join me)",
+  "component_namewaiting_description": "שם לחדרי ההמתנה",
 
   "component_placeholder_title": "ברירת המחדל לשם התבנית",
   "component_placeholder_menu_lable": "נהל שמות ברירת מחדל",
@@ -235,18 +235,18 @@
   "component_custombrandingactivity_title": "פעילות בוט (סטטוס)",
   "component_custombrandingactivity_description": "שנה את הסטטוס של הבוט המותאים אישית. זה עשוי לקחת עד 5 דקות בכדי להתעדכן בדיסקורד.",
 
-  "component_sendinterface_menu_lable": "בחר צ'אט",
-  "component_sendinterface_menu_option": "לא נבחר צ'אט",
-  "component_sendinterface_description": "בחר צ'אט בו ישלח תפריט ההגדרות",
+  "component_sendinterface_menu_lable": "בחר ערוץ טקסט",
+  "component_sendinterface_menu_option": "לא נבחר ערוץ",
+  "component_sendinterface_description": "בחר ערוץ טקסט לשליחת הממשק",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "יומן פעולות",
+  "component_actions_description": "שולח הודעות לערוץ טקסט באמצעות כתובת ה-Webhook של Discord שנמסרה, לצורך תיעוד פעולות בערוצים זמניים, כגון יצירה, מחיקה ושינוי.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "פרטיות ערוץ זמני",
+  "component_privacy_menu_option_1": "ציבורי",
+  "component_privacy_menu_option_2": "נעול",
+  "component_privacy_menu_option_3": "מוסתר",
+  "component_privacy_description": "מצב פרטיות בעת יצירת ערוץ בפעם הראשונה",
   
   "save_changes_title": "זהירות - יש לך שינויים שלא נשמרו!",
   "save_changes_button_lable_1": "אתחל",

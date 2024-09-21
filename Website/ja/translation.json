@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "一番上",
   "component_position_menu_option_2": "クリエイターチャンネルの下",
   "component_position_menu_option_3": "一番下",
-  "component_position_description": "一時的なチャンネルの作成時の位置（デフォルト：下）",
+  "component_position_description": "一時的なチャンネルの作成時の位置",
 
   "component_permissionsowner_title": "VCオーナーの追加Discord権限",
   "component_permissionsowner_menu_lable": "権限の管理",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "一時的なチャンネル権限をカテゴリーまたはクリエイターVCの権限と同期する",
 
   "component_namewaiting_title": "待機VCの名前",
-  "component_namewaiting_description": "待機VCの名前（デフォルト：Join Me）",
+  "component_namewaiting_description": "待機VCの名前",
 
   "component_placeholder_title": "VCが作成された時のデフォルト名",
   "component_placeholder_menu_lable": "デフォルト名の管理",
@@ -240,13 +240,13 @@
   "component_sendinterface_description": "設定パネルを送信するテキストチャンネルを選択",
 
   "component_actions_title": "操作ログ",
-  "component_actions_description": "DiscordのウェブフックURLを使ってメッセージを送り、一時的なチャンネルの活動（作成、削除、変更など）を記録します。",
+  "component_actions_description": "DiscordのウェブフックURLを使用してメッセージを送信し、一時的なチャンネルの操作（作成、削除、変更など）を記録します。",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "一時的なチャンネルのプライバシー",
+  "component_privacy_menu_option_1": "公開",
+  "component_privacy_menu_option_2": "ロック",
+  "component_privacy_menu_option_3": "非表示",
+  "component_privacy_description": "初めてチャンネルを作成するときのプライバシーモード",
   
   "save_changes_title": "注意 – 保存されていない変更があります！",
   "save_changes_button_lable_1": "リセット",

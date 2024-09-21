@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Ganz oben",
   "component_position_menu_option_2": "Direkt unter dem Ersteller",
   "component_position_menu_option_3": "Ganz unten",
-  "component_position_description": "Position temporärer Kanäle bei ihrer Erstellung (Standard: Darunter)",
+  "component_position_description": "Position temporärer Kanäle bei ihrer Erstellung",
 
   "component_permissionsowner_title": "Zusätzliche Discord-Berechtigungen für Besitzer",
   "component_permissionsowner_menu_lable": "Berechtigungen verwalten",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Synchronisiere die Berechtigungen temporärer Kanäle mit den Berechtigungen der Kategorie oder des Erstellers",
 
   "component_namewaiting_title": "Name des Warteraums",
-  "component_namewaiting_description": "Name für Warteräume (Standard: Join Me)",
+  "component_namewaiting_description": "Name für Warteräume",
 
   "component_placeholder_title": "Standardname für Platzhalter",
   "component_placeholder_menu_lable": "Standardnamen verwalten",
@@ -246,7 +246,7 @@
   "component_privacy_menu_option_1": "Öffentlich",
   "component_privacy_menu_option_2": "Gesperrt",
   "component_privacy_menu_option_3": "Verborgen",
-  "component_privacy_description": "Datenschutzmodus bei der ersten Erstellung eines Kanals (Standard: Öffentlich)",
+  "component_privacy_description": "Datenschutzmodus bei der ersten Erstellung eines Kanals",
 
   "save_changes_title": "Achtung – Du hast ungespeicherte Änderungen!",
   "save_changes_button_lable_1": "Zurücksetzen",

@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "At the top",
   "component_position_menu_option_2": "Right under the Creator",
   "component_position_menu_option_3": "At the bottom",
-  "component_position_description": "Vị trí của các kênh tạm thời khi được tạo ra (Mặc định: Dưới)",
+  "component_position_description": "Vị trí của các kênh tạm thời khi được tạo ra",
 
   "component_permissionsowner_title": "Quyền Discord Bổ Sung Cho Chủ Sở Hữu",
   "component_permissionsowner_menu_lable": "Quản Lý Quyền",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Đồng bộ quyền riêng tư của kênh tạm thời với quyền riêng tư của danh mục hoặc Người Tạo",
 
   "component_namewaiting_title": "Tên Phòng Chờ",
-  "component_namewaiting_description": "Tên cho các phòng chờ (Mặc định: Tham Gia)",
+  "component_namewaiting_description": "Tên cho các phòng chờ",
 
   "component_placeholder_title": "Tên Mặc Định Cho Phần Giữ Chỗ",
   "component_placeholder_menu_lable": "Quản Lý Tên Mặc Định",
@@ -237,16 +237,16 @@
    
   "component_sendinterface_menu_lable": "Chọn Kênh Text",
   "component_sendinterface_menu_option": "Không Có Kênh Được Chọn",
-  "component_sendinterface_description": "Chọn một kênh text để gửi giao diện đến",
+  "component_sendinterface_description": "Chọn một kênh văn bản để gửi giao diện đến",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Nhật Ký Hành Động",
+  "component_actions_description": "Gửi tin nhắn đến một kênh văn bản bằng cách sử dụng URL webhook Discord được cung cấp để ghi lại các hành động tạm thời của kênh như tạo, xóa và sửa đổi.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Quyền Riêng Tư của Kênh Tạm Thời",
+  "component_privacy_menu_option_1": "Công Khai",
+  "component_privacy_menu_option_2": "Khóa",
+  "component_privacy_menu_option_3": "Ẩn",
+  "component_privacy_description": "Chế độ quyền riêng tư khi tạo một kênh lần đầu tiên",
   
   "save_changes_title": "Cẩn thận – bạn có những thay đổi chưa được lưu!",
   "save_changes_button_lable_1": "Đặt lại",

@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "I toppen",
   "component_position_menu_option_2": "Lige under Oprettet",
   "component_position_menu_option_3": "I bunden",
-  "component_position_description": "Placering af midlertidige kanaler, når de oprettes (Standard: Nedenfor)",
+  "component_position_description": "Placering af midlertidige kanaler, når de oprettes",
 
   "component_permissionsowner_title": "Yderligere Discord Tilladelser for Ejere",
   "component_permissionsowner_menu_lable": "Administrer Tilladelser",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Synkroniser midlertidige kanaltilladelser med kategori- eller skabertilladelser",
 
   "component_namewaiting_title": "Venterum Navn",
-  "component_namewaiting_description": "Navn for venterum (Standard: Join Me)",
+  "component_namewaiting_description": "Navn for venterum",
 
   "component_placeholder_title": "Standardnavn for Pladsholdere",
   "component_placeholder_menu_lable": "Administrer Standardnavne",
@@ -235,18 +235,18 @@
   "component_custombrandingactivity_title": "Bot Aktivitet (Status)",
   "component_custombrandingactivity_description": "Ændre Discord-status for den brugerdefinerede branding-bot. Det kan tage op til 5 minutter at opdatere i Discord.",
   
-  "component_sendinterface_menu_lable": "Vælg en Tekstkanal",
-  "component_sendinterface_menu_option": "Ingen Valgte Kanaler",
-  "component_sendinterface_description": "Vælg en tekstkanal at sende strepanelet til",
+  "component_sendinterface_menu_lable": "Vælg en tekstkanal",
+  "component_sendinterface_menu_option": "Ingen valgte kanaler",
+  "component_sendinterface_description": "Vælg en tekstkanal til at sende grænsefladen til",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Handlingslog",
+  "component_actions_description": "Sender beskeder til en tekstkanal ved hjælp af den angivne Discord-webhook-URL for at logge handlinger i midlertidige kanaler som oprettelse, sletning og ændring.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Privatliv for midlertidige kanaler",
+  "component_privacy_menu_option_1": "Offentlig",
+  "component_privacy_menu_option_2": "Låst",
+  "component_privacy_menu_option_3": "Skjult",
+  "component_privacy_description": "Privatlivstilstand ved oprettelse af en kanal for første gang",
   
   "save_changes_title": "Forsigtig - du ændinger der ikke er gemt!",
   "save_changes_button_lable_1": "Nulstil",

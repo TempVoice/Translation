@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Di atas",
   "component_position_menu_option_2": "Tepat di bawah creator",
   "component_position_menu_option_3": "Di bawah",
-  "component_position_description": "Tentukan posisi channel sementara saat dibuat (Standar: Dibawah)",
+  "component_position_description": "Tentukan posisi channel sementara saat dibuat",
 
   "component_permissionsowner_title": "Izin Tambahan Pemilik Channel",
   "component_permissionsowner_menu_lable": "Atur izin",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Sinkronkan izin channel sementara dengan izin kategori atau creator channel",
 
   "component_namewaiting_title": "Label Ruang Tunggu",
-  "component_namewaiting_description": "Tentukan label untuk ruang tunggu (Standar: Join Me)",
+  "component_namewaiting_description": "Tentukan label untuk ruang tunggu",
 
   "component_placeholder_title": "Penanda Standar",
   "component_placeholder_menu_lable": "Atur Penanda Standar",

@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "No topo",
   "component_position_menu_option_2": "Logo abaixo do Criador",
   "component_position_menu_option_3": "Na parte inferior",
-  "component_position_description": "Posição dos canais temporários ao serem criados (Padrão: Abaixo)",
+  "component_position_description": "Posição dos canais temporários ao serem criados",
   
   "component_permissionsowner_title": "Permissões Adicionais do Discord para Proprietários",
   "component_permissionsowner_menu_lable": "Gerenciar Permissões",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Sincronizar permissões do canal temporário com permissões da categoria ou do Criador",
   
   "component_namewaiting_title": "Nome da Sala de Espera",
-  "component_namewaiting_description": "Nome para salas de espera (Padrão: Junte-se a mim)",  
+  "component_namewaiting_description": "Nome para salas de espera",  
 
   "component_placeholder_title": "Nome Padrão para Marcadores de Posição",
   "component_placeholder_menu_lable": "Gerenciar Nomes Padrão",
@@ -239,14 +239,14 @@
   "component_sendinterface_menu_option": "Nenhum Canal Selecionado",
   "component_sendinterface_description": "Selecione um canal de texto para enviar a interface",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
-  
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_actions_title": "Registro de Ações",
+  "component_actions_description": "Envia mensagens para um canal de texto usando a URL do webhook Discord fornecida para registrar ações temporárias do canal, como criação, exclusão e modificação.",
+
+  "component_privacy_title": "Privacidade do Canal Temporário",
+  "component_privacy_menu_option_1": "Público",
+  "component_privacy_menu_option_2": "Bloqueado",
+  "component_privacy_menu_option_3": "Oculto",
+  "component_privacy_description": "Modo de privacidade ao criar um canal pela primeira vez",
   
   "save_changes_title": "Atenção - você tem alterações não salvas!",
   "save_changes_button_lable_1": "Redefinir",

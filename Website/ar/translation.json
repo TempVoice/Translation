@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "في القمة",
   "component_position_menu_option_2": "الحق في ظل المنشئ",
   "component_position_menu_option_3": "في الأسفل",
-  "component_position_description": "موضع الرومات الصوتية المؤقتة عند إنشائها (الافتراضي: أدناه)",
+  "component_position_description": "موضع الرومات الصوتية المؤقتة عند إنشائها",
 
   "component_permissionsowner_title": "أذونات الديسكورد الإضافية للمالكين",
   "component_permissionsowner_menu_lable": "إدارة الأذونات",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "مزامنة أذونات الروم المؤقتة مع أذونات الفئة أو المنشئ",
 
   "component_namewaiting_title": "اسم غرفة الانتظار",
-  "component_namewaiting_description": "اسم غرف الانتظار (الافتراضي: انضم إلي)",
+  "component_namewaiting_description": "اسم غرف الانتظار",
 
   "component_placeholder_title": "الاسم الافتراضي للعناصر النائبة",
   "component_placeholder_menu_lable": "إدارة الأسماء الافتراضية",
@@ -246,7 +246,7 @@
   "component_privacy_menu_option_1": "عام",
   "component_privacy_menu_option_2": "مغلق",
   "component_privacy_menu_option_3": "مختفي",
-  "component_privacy_description": "وضع الخصوصية عند إنشاء قناة لأول مرة (الافتراضي: عام)",
+  "component_privacy_description": "وضع الخصوصية عند إنشاء قناة لأول مرة",
   
   "save_changes_title": "انتبه - لديك تغييرات غير محفوظة!",
   "save_changes_button_lable_1": "إعادة ضبط",

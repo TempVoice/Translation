@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Di atas",
   "component_position_menu_option_2": "Tepat di Bawah Pencipta",
   "component_position_menu_option_3": "Di bawah",
-  "component_position_description": "Kedudukan saluran sementara apabila dicipta (Lalai: Bawah)",
+  "component_position_description": "Kedudukan saluran sementara apabila dicipta",
 
   "component_permissionsowner_title": "Kebenaran Discord Tambahan untuk Pemilik",
   "component_permissionsowner_menu_lable": "Urus Kebenaran",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Segerakkan kebenaran saluran sementara dengan kebenaran kategori ataupun kebenaran pencipta",
 
   "component_namewaiting_title": "Nama Bilik Tunggu",
-  "component_namewaiting_description": "Nama untuk bilik tunggu (Lalai: Sertai Saya)",
+  "component_namewaiting_description": "Nama untuk bilik tunggu",
 
   "component_placeholder_title": "Nama Lalai untuk Penempat",
   "component_placeholder_menu_lable": "Urus Nama Lalai",
@@ -240,13 +240,13 @@
   "component_sendinterface_description": "Pilih saluran teks untuk menghantar antara muka",
 
   "component_actions_title": "Log Tindakan",
-  "component_actions_description": "Menghantar mesej ke saluran teks menggunakan URL webhook Discord yang disediakan untuk melog tindakan saluran sementara seperti penciptaan, pemadaman dan pengubahsuaian.",
+  "component_actions_description": "Menghantar mesej ke saluran teks menggunakan URL webhook Discord yang disediakan untuk melog tindakan saluran sementara seperti penciptaan, pemadaman, dan pengubahsuaian.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Privasi Saluran Sementara",
+  "component_privacy_menu_option_1": "Awam",
+  "component_privacy_menu_option_2": "Terkunci",
+  "component_privacy_menu_option_3": "Tersembunyi",
+  "component_privacy_description": "Mod privasi semasa mencipta saluran untuk kali pertama",
   
   "save_changes_title": "Jaga - ada perubahan yang belum disimpan!", 
   "save_changes_button_lable_1": "Semula", 

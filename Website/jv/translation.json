@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Ndhuwur",
   "component_position_menu_option_2": "Nggisor Creator",
   "component_position_menu_option_3": "Nggisor",
-  "component_position_description": "Posisi channel sementara pas digawe (Standar: Nggisor)",
+  "component_position_description": "Posisi channel sementara pas digawe",
 
   "component_permissionsowner_title": "Izin Discord Tambahan Kanggo Sing Nduwe",
   "component_permissionsowner_menu_lable": "Atur Izin",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Nyinkronake izin channel sementara karo izin kategori utawa izin saka Creator",
 
   "component_namewaiting_title": "Jeneng Ruang Ngenteni",
-  "component_namewaiting_description": "Jeneng kanggo ruang ngenteni (Standar: Join Me | Gabungono Aku)",
+  "component_namewaiting_description": "Jeneng kanggo ruang ngenteni",
 
   "component_placeholder_title": "Jeneng Standar Penanda (Placeholder)",
   "component_placeholder_menu_lable": "Atur Jeneng Standar",
@@ -235,18 +235,18 @@
   "component_custombrandingactivity_title": "Aktivitas Bot (Status)",
   "component_custombrandingactivity_description": "Ganti status Discord saka bot kustom. Mbutuhke nganti tekan 5 menit kanggo nganyari status ing Discord.",
 
-  "component_sendinterface_menu_lable": "Pilih Channel Teks",
-  "component_sendinterface_menu_option": "Ora Ana Channel Sing Dipilih",
-  "component_sendinterface_description": "Pilih channel teks sing arep digunakke ngirim antarmuka",
+  "component_sendinterface_menu_lable": "Pilih Saluran Teks",
+  "component_sendinterface_menu_option": "Ora Ana Saluran Sing Dipilih",
+  "component_sendinterface_description": "Pilih saluran teks sing arep digunakake kanggo ngirim antarmuka",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Log Tindakan",
+  "component_actions_description": "Ngirim pesen menyang saluran teks nggunakake URL webhook Discord sing diwenehake kanggo nglog tindakan saluran sementara kayata nggawe, mbusak, lan modifikasi.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Privasi Saluran Sementara",
+  "component_privacy_menu_option_1": "Umum",
+  "component_privacy_menu_option_2": "Tutup",
+  "component_privacy_menu_option_3": "Didhelikake",
+  "component_privacy_description": "Mode privasi nalika nggawe saluran kanggo pisanan",
   
   "save_changes_title": "Awas  – sampeyan duwe owah-owahan sing durung disimpen!",
   "save_changes_button_lable_1": "Batal",

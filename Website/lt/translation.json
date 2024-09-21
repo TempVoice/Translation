@@ -139,7 +139,7 @@
   "component_position_menu_option_1": "Viršuje",
   "component_position_menu_option_2": "Tik po Kūrėjo",
   "component_position_menu_option_3": "Apačioje",
-  "component_position_description": "Laikinų kanalų padėtis, kai jie yra sukurti (numatytasis: Po)",  
+  "component_position_description": "Laikinų kanalų padėtis, kai jie yra sukurti",  
 
   "component_permissionsowner_title": "Papildomi Discord Leidimai Savininkams",
   "component_permissionsowner_menu_lable": "Tvarkyti Leidimus",
@@ -161,7 +161,7 @@
   "component_syncpermissions_description": "Sinchronizuokite laikinus kanalo leidimus su kategorijos arba Kūrėjo leidimais",
 
   "component_namewaiting_title": "Laukiamojo Kambario Pavadinimas",
-  "component_namewaiting_description": "Laukiamojo kambario pavadinimas (numatytasis: Prisijunk čia)",
+  "component_namewaiting_description": "Laukiamojo kambario pavadinimas",
 
   "component_placeholder_title": "Numatytasis Placeholderių Pavadinimas",
   "component_placeholder_menu_lable": "Tvarkyti Numatytasis Pavadinimus",
@@ -235,18 +235,18 @@
   "component_custombrandingactivity_title": "Boto Veiklos Būsena (Statusas)",
   "component_custombrandingactivity_description": "Pakeiskite pasirinktinio prekinio ženklo bota Discord būseną. Discord'e atnaujinimui gali prireikti iki 5 minučių.",
   
-  "component_sendinterface_menu_lable": "Pasirinkite Teksto Kanalą",  
+  "component_sendinterface_menu_lable": "Pasirinkite Teksto Kanalą",
   "component_sendinterface_menu_option": "Nepasirinktas Joks Kanalas",
   "component_sendinterface_description": "Pasirinkite teksto kanalą, kuriame bus valdymo skydas",
 
-  "component_actions_title": "Actions Log",
-  "component_actions_description": "Sends messages to a text channel using the provided Discord webhook URL to log temporary channel actions such as creation, deletion, and modification.",
+  "component_actions_title": "Veiksmų Žurnalas",
+  "component_actions_description": "Išsiunčia pranešimus į teksto kanalą, naudodamas pateiktą Discord webhook URL, kad užfiksuotų laikinas kanalo veiklas, tokias kaip kūrimas, naikinimas ir modifikavimas.",
 
-  "component_privacy_title": "Temporary Channel Privacy",
-  "component_privacy_menu_option_1": "Public",
-  "component_privacy_menu_option_2": "Locked",
-  "component_privacy_menu_option_3": "Hidden",
-  "component_privacy_description": "Privacy mode when creating a channel for the first time (Default: Public)",
+  "component_privacy_title": "Laikino Kanalo Privatumas",
+  "component_privacy_menu_option_1": "Viešas",
+  "component_privacy_menu_option_2": "Užrakintas",
+  "component_privacy_menu_option_3": "Paslėptas",
+  "component_privacy_description": "Privatumo režimas kuriant kanalą pirmą kartą",
   
   "save_changes_title": "Atsargiai – jūs turite neišsaugotų pakeitimų!",
   "save_changes_button_lable_1": "Atkurti",
