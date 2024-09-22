@@ -61,13 +61,14 @@
   "premium_feature_6": "Discord Server",
   "premium_feature_explaination_6": "Get a discount if you need premium for more servers",
   "premium_feature_7": "Your Own Bot",
-  "premium_feature_explaination_7": "Separately hosted, custom icon, name, status, about me, ability to show the current playing game as channel name",
-  "premium_feature_8": "Get 2 Free Months",
+  "premium_feature_explaination_7": "Separately hosted, custom bot avatar, name, status, about me, ability to show the current playing game as channel name",
+  "premium_feature_8": "2 Free Months",
   "premium_feature_explaination_8": "Save 16% with a yearly billing cycle",
   "premium_cycle_monthly": "monthly",
   "premium_cycle_yearly": "yearly",
   "premium_upgrade_disclaimer": "When you upgrade your Premium subscription, you will immediately be charged the difference in the monthly price you have already paid. You can only upgrade your subscription once a month.",
-  
+  "premium_optional_features": "Select what you need",
+
   "placeholder_description_1": "Als je de {PRIVACY} placeholder gebruikt, wordt de kanaalnaam bijgewerkt wanneer je de privacy-instellingen van het kanaal wijzigt. Dit is slechts om de 5 minuten mogelijk vanwege de beperkingen van Discord.",
   "placeholder_description_2": "Toont de naam van de hoogste rol van de eigenaar, ongeacht of de rol gescheiden is in de online ledenlijst.",
   "placeholder_description_3": "Toont de naam van de hoogste rol van de eigenaar, die gescheiden is in de online ledenlijst.",

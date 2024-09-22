@@ -61,13 +61,14 @@
   "premium_feature_6": "Discord Server",
   "premium_feature_explaination_6": "Get a discount if you need premium for more servers",
   "premium_feature_7": "Your Own Bot",
-  "premium_feature_explaination_7": "Separately hosted, custom icon, name, status, about me, ability to show the current playing game as channel name",
-  "premium_feature_8": "Get 2 Free Months",
+  "premium_feature_explaination_7": "Separately hosted, custom bot avatar, name, status, about me, ability to show the current playing game as channel name",
+  "premium_feature_8": "2 Free Months",
   "premium_feature_explaination_8": "Save 16% with a yearly billing cycle",
   "premium_cycle_monthly": "monthly",
   "premium_cycle_yearly": "yearly",
   "premium_upgrade_disclaimer": "When you upgrade your Premium subscription, you will immediately be charged the difference in the monthly price you have already paid. You can only upgrade your subscription once a month.",
-  
+  "premium_optional_features": "Select what you need",
+
   "placeholder_description_1": "如果您使用{PRIVACY}占位符，当您更改频道的隐私设置时，频道名称将会更新。这仅在由于Discord的限制而每5分钟才可能发生。",
   "placeholder_description_2": "显示所有在线会员列表中的用户最高角色的名称，而不管该角色是否在列表中单独列出。",
   "placeholder_description_3": "显示在线会员列表中单独列出的用户最高角色的名称。",
