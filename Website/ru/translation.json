@@ -49,11 +49,11 @@
   "premium_title": "Больше Кастомизации. Больше Свободы.",
   "premium_description": "Сделайте TempVoice собственным и наслаждайтесь свободой настройки бота по своему желанию, без каких-либо ограничений.",
   "premium_feature_1": "Полностью настраиваемые интерфейсы",
-  "premium_feature_explaination_1": "Используйте свое собственнyю аватарку эмбеда, имя, текст, цвет и изображение",
+  "premium_feature_explaination_1": "Используйте свою собственнyю аватарку эмбеда, имя, текст, цвет и изображение",
   "premium_feature_2": "Неограниченное количество каналов-создателей",
   "premium_feature_explaination_2": "Настройте более 3 каналов-создателей, каждый со своими настройками",
-  "premium_feature_3": "Нет требований к голосованию",
-  "premium_feature_explaination_3": "Уберите требование голосования со всех команд для всех пользователей",
+  "premium_feature_3": "Нет требований голосовать",
+  "premium_feature_explaination_3": "Уберите требование голосовать со всех команд для всех пользователей",
   "premium_feature_4": "Логи для модерации",
   "premium_feature_explaination_4": "Логируйте изменения, происходящие с временными каналами при их модификации",
   "premium_feature_5": "Передаваемая",
@@ -130,7 +130,7 @@
   
   "component_roleseveryone_title": "Роль участника",
   "component_roleseveryone_menu_lable": "Выберите несколько ролей",
-  "component_roleseveryone_description": "Roles that will be necessary to be able to view temporary channels in place of @everyone",
+  "component_roleseveryone_description": "Роли, которые будут необходимы для просмотра временных каналов вместо @everyone",
   "component_roleseveryone_visibility_on": "Временные каналы для @everyone будут видимы, но заблокированы",
   "component_roleseveryone_visibility_off": "Временные каналы для @everyone будут невидимыми",
 
