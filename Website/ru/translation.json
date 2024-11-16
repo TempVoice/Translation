@@ -192,7 +192,7 @@
   "component_limit_description": "Лимит пользвателей по умолчанию для временных каналов",
 
   "component_limit_range_title": "Диапазон лимита пользователей",
-  "component_limit_range_description": "Установите диапазон для лимита пользователей, который может быть установлен владельцем временного канала."
+  "component_limit_range_description": "Установите диапазон для лимита пользователей, который может быть установлен владельцем временного канала.",
 
   "component_ownerpermissions_title": "Доступные команды временных каналов",
   "component_ownerpermissions_menu_lable": "Управление настройками",
