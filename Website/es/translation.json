@@ -67,7 +67,7 @@
   "premium_cycle_monthly": "mensual",
   "premium_cycle_yearly": "anual",
   "premium_upgrade_disclaimer": "Cuando actualizas tu suscripción Premium, se te cobrará inmediatamente la diferencia en el precio mensual que ya has pagado. Solo puedes actualizar tu suscripción una vez al mes.",
-  "premium_optional_features": "Selecciona lo que necesitas"
+  "premium_optional_features": "Selecciona lo que necesitas",
 
   "placeholder_description_1": "Si utilizas el marcador {PRIVACY}, el nombre del canal será actualizado cuando tú cambias tus ajustes de privacidad. Esto solo es posible cada 5 minutos debido a limitaciones de Discord.",
   "placeholder_description_2": "Muestra el nombre del rol más alto del dueño, sin importar si el rol está separado en la lista de miembros en línea.",
