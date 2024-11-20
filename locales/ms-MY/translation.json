@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **Hilang Permission!**\n Permissions berikut **diperlukan** untuk role setting server saya dan kategori saluran sementara: {val1}\n### Ape perlunya permission ni?\nUntuk **Segerakkan Permission** saya perlu semua permission yang perlu disegerakkan.",
     "error_deactivated": "## **Tak Guna!**\n Arahan ni dah dinyah aktifkan untuk semua saluran suara sementara {val1}.",
     "error_limit": "## **Melebihi Limit!**\n  Limit saluran pencipta dalam satu server is {val1}. Try padam satu atau tingkatkan limit dengan tier [premium](<https://tempvoice.xyz/id/premium>) yang lagi tinggi.",
-    "error_ratelimit": "## **Relaks Sikit!**\n Arahan ni boleh guna lagi dalam **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Relaks Sikit!**\n Arahan ni boleh guna lagi dalam **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Slow Dikit Boleh?**\n Kau boleh buat saluran baru dalam **{val1}**.",
     "error_webhook": "## **Susah Ni!**\n Tak boleh buat webhook sebab bot Discord lain sedang menghalang saya. Check kalau bot keselamatan macam *Wick*, *Beemo* dll yang menjadi puncanya.",
     "error_totallimit": "## **Susah Ni!**\n Limit **{val1}** saluran suara sementara pada satu masa dah sampai sebab server Discord ada limit pada nya. Sila cuba lagi nanti.",

@@ -103,7 +103,7 @@
     "voice_thread_2": "## **Đã Tạo!**\n Một chủ đề tạm thời đã được tạo cho kênh này.",
     "voice_thread_3": "## **Đã xóa!**\n Chủ đề này đã bị xóa.",
     "voice_thread_4": "## **Không khả thi**\n Không có chủ đề nào để xóa.",
-    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "voice_thread_5": "## **Not Possible!**\n A temporary thread can only be created into text channels.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "voice_close_1": "## **Đã Đóng!**\n Kênh thoại tạm thời của cậu đã bị đóng.",
     "voice_close_2": "## **Bạn có chắc không?**\n Phòng voice tạm thời của cậu sẽ bị xóa. Xin vui lòng dùng nút xác minh ở bên dưới.",
     "voice_password_1": "## **Đã cập nhật!**\n Người dùng hiện có thể tham gia kênh thoại tạm thời của cậu bằng cách sử dụng mật khẩu ||`{val1}`|| với câu lệnh </join:1060564928529956985>.",

@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Trūksta Leidimų!**\n Šie leidimai **privalomi** mano **serverio nustatymų vaidmeniui** ir **laikinų kanalų kategorijai**: {val1}\n### Kodėl man reikia šių leidimų?\nLeidimų **sinchronizavimui** man reikia visų leidimų, kuriuos reikia sinchronizuoti.",    
     "error_deactivated": "## **Išjungta.**\n Ši komanda yra išjungta visiems laikiniems kanalams {val1}.",
     "error_limit": "## **Neleistina**\n Kūrėjo kanalų limitas viename serveryje yra {val1}. Bandykite pašalinti vieną arba padidinti limitą su [premium](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **Dar negalima.**\n Šią komandą galima naudoti tik **{val1}** kartus.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Dar negalima.**\n Šią komandą galima naudoti tik **{val1}** kartus.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Negalima!**\n Galite sukurti tik **{val1}** kanalus.",
     "error_webhook": "## **Neįmanoma!**\n Neįmanoma sukurti 'webhook', nes kitas 'Discord' botas to neleidžia. Patikrinkite, ar saugumo botai, tokiu kaip *Wick*, *Beemo* ir kt., nesukuria šios problemos.",
     "error_totallimit": "## **Neįmanoma!**\n Pasiektas maksimalus **{val1}** laikinų balso kanalų ribojimas tuo pačiu metu, nes šis 'Discord' serveris juos riboja. Bandykite dar kartą vėliau.",

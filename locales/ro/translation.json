@@ -48,7 +48,7 @@
 	"error_permissions_sync": "## Permisiuni lipsă!\n Următoarele permisiuni sunt necesare pentru rolul meu de setări ale serverului și categoria canalelor temporare: {val1}\n### De ce am nevoie de aceste permisiuni?\nPentru a sincroniza permisiunile am nevoie de toate permisiunile care trebuie sincronizate.",
 	"error_deactivated": "## Nu poți face asta!\n Această comandă este dezactivată pentru toate canalele de voce temporare ale {val1}.",
 	"error_limit": "## Nu poți face asta!\n Limita canalelor creator pe un singur server este {val1}. Încearcă să ștergi unul sau să mărești limita cu un nivel premium superior.",
-	"error_ratelimit": "## Încetinește!\n Această comandă poate fi folosită din nou în {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+	"error_ratelimit": "## Încetinește!\n Această comandă poate fi folosită din nou în {val1}.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
 	"error_creation": "## Încetinește!\n Poți crea un nou canal în {val1}.",
 	"error_webhook": "## Nu poți face asta!\n Nu este posibil să creezi un webhook deoarece un alt bot Discord mă împiedică să fac asta. Verifică dacă boturi de securitate precum Wick, Beemo etc. sunt de vină.",
 	"error_totallimit": "## Nu poți face asta!\n Limita de {val1} canale de voce temporare în același timp a fost atinsă, deoarece acest server Discord le-a limitat. Te rugăm să încerci din nou mai târziu.",

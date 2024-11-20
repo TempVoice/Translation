@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Brakujące Uprawnienia!**\n Następujące uprawnienia są **wymagane** dla mojej **roli ustawień serwera** i **kategorii tymczasowych kanałów**: {val1}\n### Dlaczego potrzebuję tych uprawnień?\nAby **Synchronizować Uprawnienia**, potrzebuję wszystkich uprawnień, które muszą być zsynchronizowane.",
     "error_deactivated": "## **Dezaktywowane.**\n To polecenie jest wyłączone dla wszystkich tymczasowych kanałów głosowych {val1}.",
     "error_limit": "## **Niemożliwe**\n Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **Zwolnij!.**\n Komenda może być użyta ponownie **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Zwolnij!.**\n Komenda może być użyta ponownie **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Zwolnij!**\n Możesz stworzyć nowy kanał **{val1}**.",
     "error_webhook": "## **Niemożliwe!**\n Nie można stworzyć webhooka, ponieważ inny bot blokuje mi tą możliwość. Sprawdź czy boty od bezpieczeństwa typu *Wick*, *Beemo* itd. nie są temu winne.",
     "error_totallimit": "## **Niemożliwe!**\n Limit **{val1}** tymczasowych kanałów głosowych został osięgnięty, ponieważ ten serwer Discord ustawił ich limit. Proszę spróbuj ponownie później.",

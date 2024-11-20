@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Berechtigungen fehlen!**\n Folgende Berechtigungen sind **erforderlich** für meine **Servereinstellungsrolle** und **Kategorie temporärer Kanäle**: {val1}\n### Warum benötige ich diese Berechtigungen?\nUm **Berechtigungen zu synchronisieren**, benötige ich alle Berechtigungen, die synchronisiert werden müssen.",    
     "error_deactivated": "## **Deaktiviert!**\nDieser Command ist für alle temporären Kanäle von {val1} deaktiviert.",
     "error_limit": "## **Nicht möglich!**\nDas Limit für Creator Channels auf diesem Discord Server beträgt `{val1}`. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://tempvoice.xyz/premium>) Stufe.",
-    "error_ratelimit": "## **Noch nicht möglich!**\nDieser Command kann wieder benutzt werden: {val1}\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Noch nicht möglich!**\nDieser Command kann wieder benutzt werden: {val1}\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Nicht so schnell!**\nDu kannst einen neuen Kanal erstellen: {val1}",
     "error_webhook": "## **Nicht möglich!**\nEs ist nicht möglich, ein Webhook zu erstellen, da ein anderer Discord-Bot mich daran hindert. Überprüfe, ob Sicherheitsbots wie *Wick*, *Beemo* usw. dafür verantwortlich sind.",
     "error_totallimit": "## **Nicht möglich!**\nDas Limit von `{val1}` gleichzeitig existierenden temporären Sprachkanälen wurde erreicht, da dieser Discord Server sie beschränkt hat. Bitte versuche es später erneut.",

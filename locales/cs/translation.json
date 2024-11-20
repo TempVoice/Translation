@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Chybějící oprávnění!**\n Pro mou **roli nastavení serveru** a **kategorii dočasných kanálů** jsou **vyžadována** následující oprávnění: {val1}\n### Proč potřebuji tato oprávnění?\nPro **Synchronizaci oprávnění** potřebuji všechna oprávnění, která je třeba synchronizovat.",
     "error_deactivated": "## **Nemožné!**\n Tento příkaz je deaktivován pro všechny dočasné hlasové kanály {val1}.",
     "error_limit": "## **Nemožné!**\n Limit tvůrčích kanálů v jednom serveru je {val1}. Zkuste jeden smazat nebo zvýšit limit s vyšší úrovní [prémie](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **Zpomalte!**\n Tento příkaz lze znovu použít za **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Zpomalte!**\n Tento příkaz lze znovu použít za **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Zpomalte!**\n Můžete vytvořit nový kanál za **{val1}**.",
     "error_webhook": "## **Nemožné!**\n Není možné vytvořit webhook, protože jiný Discord bot mi to brání. Zkontrolujte, zda bezpečnostní boty jako *Wick*, *Beemo* atd. nejsou překážkou.",
     "error_totallimit": "## **Nemožné!**\n Limit **{val1}** dočasných hlasových kanálů najednou byl dosažen, protože tento Discord server je omezuje. Zkuste to znovu později.",

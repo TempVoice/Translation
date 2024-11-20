@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
     "error_deactivated": "## **Not Possible!**\n This command is deactivated for all temporary voice channels of {val1}.",
     "error_limit": "## **Not Possible!**\n The limit of creator channels in a single server is {val1}. Try deleting one or increase the limit with a higher [premium](<https://tempvoice.xyz/premium>) tier.",
-    "error_ratelimit": "## **Slow Down!**\n This command can be used again **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Slow Down!**\n This command can be used again **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Slow Down!**\n You can create a new channel **{val1}**.",
     "error_webhook": "## **Not Possible!**\n It is not possible to create a webhook because another discord bot is preventing me from doing so. See if security bots like *Wick*, *Beemo* etc. are to blame.",
     "error_totallimit": "## **Not Possible!**\n The limit of **{val1}** temporary voice channels at the same time has been reached, because this Discord server has limited them. Please try again later.",

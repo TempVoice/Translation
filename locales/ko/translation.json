@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **권한 부족!**\n 나의 **서버 설정 역할** 및 **임시 채널 카테고리**에는 다음 권한이 **필요**합니다: {val1}\n### 왜 이런 권한이 필요한가요?\n**권한 동기화**를 위해 동기화해야 할 모든 권한이 필요합니다.",
     "error_deactivated": "## **비활성화됨.**\n 이 명령은 {val1} 모든 음성 채널에서 비활성화되었습니다.",    
     "error_limit": "## **불가능**\n 단일 서버의 창작자 채널 제한은 {val1}입니다. 하나를 삭제하거나 높은 [프리미엄](<https://tempvoice.xyz/premium>) 티어로 제한을 늘려보세요.",
-    "error_ratelimit": "## **아직 허용되지 않음.**\n 해당 명령은 **{val1}** 후에 다시 사용할 수 있습니다. 남은 시간은 메시지에서 확인하세요.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **아직 허용되지 않음.**\n 해당 명령은 **{val1}** 후에 다시 사용할 수 있습니다. 남은 시간은 메시지에서 확인하세요.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **속도 조절!**\n 새 채널을 만들 수 있습니다 **{val1}**.",
     "error_webhook": "## **불가능!**\n 다른 디스코드 봇이 웹훅 생성을 방해하고 있어 웹훅을 생성할 수 없습니다. *Wick*, *Beemo* 등의 보안 봇이 원인인지 확인하세요.",
     "error_totallimit": "## **불가능!**\n 동시에 사용할 수 있는 임시 음성 채널 제한 **{val1}**에 도달했습니다. 이 Discord 서버에서 제한이 있는 것으로 보입니다. 나중에 다시 시도해보세요.",

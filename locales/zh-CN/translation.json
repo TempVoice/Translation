@@ -48,7 +48,7 @@
     "error_permissions_sync": "## **权限不足！**\n 对于**服务器设置角色**和**临时频道的类别**，需要以下权限：{val1}\n### 为什么需要这些权限？\n为了进行**同步权限**，我需要所有需要同步的权限。",
     "error_deactivated": "## **不可能！**\n 此命令已停用所有 {val1} 的临时语音频道。",
     "error_limit": "## **不可能！**\n 单个服务器中创建者频道的限制为 {val1}。尝试删除一个或提高[premium](<https://tempvoice.xyz/premium>) 层级以增加限制。",
-    "error_ratelimit": "## **放慢速度！**\n 可以再次使用此命令 **{val1}**。\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **放慢速度！**\n 可以再次使用此命令 **{val1}**。\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **放慢速度！**\n 您可以创建一个新频道 **{val1}**。",
     "error_webhook": "## **不可能！**\n 由于另一个 Discord 机器人阻止我创建 Webhook，因此无法创建 Webhook。查看是否有安全机器人如 *Wick*、*Beemo* 等。",
     "error_totallimit": "## **不可能！**\n 同一时间在同一 Discord 服务器中已达到 **{val1}** 个临时语音频道的限制，因为此 Discord 服务器对其进行了限制。请稍后再试。",
