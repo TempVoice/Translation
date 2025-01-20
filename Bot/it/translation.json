@@ -16,7 +16,7 @@
     "cmd_voice_name_description": "Modifica il nome del tuo canale temporaneo",
     "cmd_voice_privacy_description": "Blocca o nascondi il tuo canale temporaneo",
     "cmd_voice_region_description": "Cambia la regione del tuo canale temporaneo",
-    "cmd_voice_thread_description": "Crea un thread per il tuo canale temporaneo",
+    "cmd_voice_thread_description": "Crea un thread temporaneo per il tuo canale temporaneo",
     "cmd_voice_transfer_description": "Trasferisci la proprietà del tuo canale temporaneo a un altro utente",
     "cmd_voice_trust_description": "Rendi fidato un utente che potrà sempre entrare nel tuo canale temporaneo",
     "cmd_voice_unblock_description": "Sblocca un utente (precedentemente bloccato) dal tuo canale temporaneo",
