@@ -152,7 +152,7 @@
     "did_you_know_6": "Um mit Nutzern in deinem temporären Kanal zu chatten, kannst du mit '/voice thread' einen privaten temporären Thread erstellen.",
     "did_you_know_7": "Um Anfragen zum Beitritt zu deinem gesperrten temporären Kanal anzunehmen oder abzulehnen, kannst du mit '/voice waiting' einen Wartebereich erstellen.",
 
-    "log_create_channel": "## <:invite:1161647152821444688> **Voice Channel Created**\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nCreator: {val5} `{val6}`",
+    "log_create_channel": "## <:invite:1161647152821444688> **Sprachkanal erstellt**\nBesitzer: {val1} `{val2}`\nKanal: {val3} `{val4}`\nErsteller: {val5} `{val6}`",
     "log_delete_channel": "## <:delete:1161605459292205076> **Voice Channel Deleted**\nOwner: {val1} `{val2}`\nVoice: **{val3}** `{val4}`\nCreated: **{val5}**",
     "log_force_delete": "## <:delete:1161605459292205076> **Voice Channel Force Deleted**\nOwner: {val1} `{val2}`\nVoice: **{val3}** `{val4}`\nCreated: **{val5}**",
     "log_create_thread": "## <:thread:1161605691379826718> **Thread Created**\n\nOwner: {val1} `{val2}`\nVoice: {val3} `{val4}`\nThread: {val5} `{val6}`",
