@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Ange ett lösenord för andra att ansluta till din tillfälliga kanal",
     "cmd_voice_reset_description": "Återställ konfigurationen för din tillfälliga kanal",
     "cmd_voice_lfp_description": "Skicka en inbjudningslänk till din tillfälliga kanal i den här chatten",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Anslut till en tillfällig röstkanal genom att använda ett lösenord",
     "cmd_setup_tempvoice_description": "Ställ enkelt in TempVoice med hjälp av en assistent inom några sekunder",
@@ -50,7 +51,6 @@
     "error_limit": "## **Inte möjligt**\n Gränsen för skaparkanaler på denna server är {val1}. Försök att ta bort en eller öka gränsen med [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Sakta ner!**\n Detta kommando kan användas igen om **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sakta ner!**\n Du kan skapa en ny kanal om **{val1}**.",
-    "error_webhook": "## **Inte möjligt!**\n Det är inte möjligt att skapa en webhook eftersom en annan Discord-bot hindrar mig från att göra det. Kolla om säkerhetsbotar som *Wick*, *Beemo* etc. är orsaken.",
     "error_totallimit": "## **Inte möjligt!**\n Gränsen på **{val1}** tillfälliga röstkanaler samtidigt har nåtts på grund av begränsningar på denna Discord-server. Försök igen senare.",
     "error_category_limit": "## **Inte möjligt!**\n Alla tillgängliga kategorier har nått sin gräns på 50 kanaler vardera. Om du är en administratör kan du skapa fler **Fallback Kategorier** i instrumentpanelen, annars försök igen senare.",
     "error_server_limit": "## **Inte möjligt!**\n Discord-servern har nått gränsen på 500 kanaler som kan finnas samtidigt. Försök igen senare.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Uppdaterad!**\n Din kanals användargräns är nu **{val1}**.",
     "voice_name_1": "## **Inte möjligt**\n Du kan inte ha en tillfällig röstkanal med det namnet.",
     "voice_name_2": "## **Uppdaterad!**\n Din kanals namn är nu: **{val1}**.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Uppdaterad!**\n {val1} är nu **låst**.",
     "voice_privacy_2": "## **Uppdaterad!**\n {val1} är nu **upplåst**.",
     "voice_privacy_3": "## **Uppdaterad!**\n {val1} är nu **dold**.",

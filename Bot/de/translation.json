@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Lege ein Passwort fest, damit andere Nutzer es zum Beitritt deines temporären Kanals angeben müssen.",
     "cmd_voice_reset_description": "Setze die Konfiguration deines temporären Kanals zurück.",
     "cmd_voice_lfp_description": "Sende einen Einladungslink deines temporären Kanals in diesen Chat.",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Trete einem temporären Kanal mithilfe eines Passworts bei.",
     "cmd_setup_tempvoice_description": "Richte TempVoice in Sekundenschnelle mit einem Assistenten ein.",
@@ -50,7 +51,6 @@
     "error_limit": "## **Nicht möglich!**\nDas Limit für Creator Channels auf diesem Discord Server beträgt `{val1}`. Versuche einen Creator Channel zu löschen oder erhöhe das Limit mit einer höheren [Premium](<https://tempvoice.xyz/premium>) Stufe.",
     "error_ratelimit": "## **Noch nicht möglich!**\nDieser Command kann wieder benutzt werden: {val1}\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Nicht so schnell!**\nDu kannst einen neuen Kanal erstellen: {val1}",
-    "error_webhook": "## **Nicht möglich!**\nEs ist nicht möglich, ein Webhook zu erstellen, da ein anderer Discord-Bot mich daran hindert. Überprüfe, ob Sicherheitsbots wie *Wick*, *Beemo* usw. dafür verantwortlich sind.",
     "error_totallimit": "## **Nicht möglich!**\nDas Limit von `{val1}` gleichzeitig existierenden temporären Sprachkanälen wurde erreicht, da dieser Discord Server sie beschränkt hat. Bitte versuche es später erneut.",
     "error_category_limit": "## **Nicht möglich!**\nAlle verfügbaren Kategorien haben ihr Limit von 50 Kanälen erreicht. Wenn du ein Administrator bist, kannst du mehr **Fallback-Kategorien** im Dashboard einrichten. Andernfalls versuche es später erneut.",
     "error_server_limit": "## **Nicht möglich!**\n Der Discord-Server hat das Limit von 500 Kanälen erreicht, die gleichzeitig existieren können. Bitte versuchen Sie es später erneut.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Geändert!**\nDein Nutzerlimit beträgt jetzt **{val1}**.",
     "voice_name_1": "## **Nicht möglich!**\nDieser Name wird für alle temporären Kanäle zensiert.",
     "voice_name_2": "## **Geändert!**\nDein Kanalname lautet jetzt: **{val1}**.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Geändert!**\n{val1} ist jetzt **gesperrt**.",
     "voice_privacy_2": "## **Geändert!**\n{val1} ist jetzt **entsperrt**.",
     "voice_privacy_3": "## **Geändert!**\n{val1} ist jetzt **versteckt**.",

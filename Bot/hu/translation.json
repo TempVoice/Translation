@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Jelszó beállítása, hogy mások is csatlakozhassanak az ideiglenes hangcsatornához",
     "cmd_voice_reset_description": "Az ideiglenes hangcsatorna konfigurációjának visszaállítása",
     "cmd_voice_lfp_description": "Küldj egy meghívó linket az ideiglenes csatornádhoz ebben a csevegőben",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Jelszóval csatlakozhatsz egy ideiglenes hangcsatornához",
     "cmd_setup_tempvoice_description": "Egyszerűen állítsd be a TempVoice-ot egy segítővel másodpercek alatt",
@@ -50,7 +51,6 @@
     "error_limit": "## **Nem lehetséges**\n Egyetlen szerveren legfeljebb {val1} alkotói csatornát hozhatsz létre. Próbálj törölni egyet, vagy növeld a limitet egy magasabb [prémium](<https://tempvoice.xyz/premium>) szinttel.",
     "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Lassítás!**\n Maximum **{val1}** új csatornát hozhatsz létre.",
-    "error_webhook": "## **Nem lehetséges!**\n Egy másik Discord bot megakadályozza a webhook létrehozását. Ellenőrizd, hogy biztonsági botok, mint például *Wick*, *Beemo*, stb. ne szerepeljenek közöttük.",
     "error_totallimit": "## **Nem lehetséges!**\n Elérte a **{val1}** ideiglenes hangcsatornára vonatkozó korlátot, mivel ez a Discord szerver korlátozza őket. Kérlek, próbáld újra később.",
     "error_category_limit": "## **Nem lehetséges!**\n Az összes elérhető kategória elérte a 50 csatorna korlátját. Ha adminisztrátor vagy, létrehozhatsz további **Alternatív Kategóriákat** a vezérlőpulton, egyébként próbáld újra később.",
     "error_server_limit": "## **Nem lehetséges!**\n A Discord szerver elérte az egyszerre létező 500 csatorna limitjét. Kérlek, próbáld újra később.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Frissítve!**\n Csatornád felhasználói korlátja mostantól: **{val1}**.",
     "voice_name_1": "## **Nem lehetséges.**\n Nem lehet ideiglenes hangcsatornája ezzel a névvel.",
     "voice_name_2": "## **Frissítve!**\n A csatornád neve mostantól: **{val1}**.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Frissítve!**\n {val1} mostantól **zárolva**.",
     "voice_privacy_2": "## **Frissítve!**\n {val1} mostantól **feloldva**.",
     "voice_privacy_3": "## **Frissítve!**\n {val1} mostantól **rejtett**.",

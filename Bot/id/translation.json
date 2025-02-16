@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Buat password untuk channel ini",
     "cmd_voice_reset_description": "Reset pengaturan channel",
     "cmd_voice_lfp_description": "Kirim link undangan ke channel ini di obrolan",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Gabung ke channel menggunakan password",
     "cmd_setup_tempvoice_description": "Setup TempVoice dengan asisten",
@@ -50,7 +51,6 @@
     "error_limit": "## **Batas Tercapai**\n Batas creator channel di setiap server hanya {val1}. Coba hapus salah satu atau dapatkan akses tanpa batas dengan [premium](<https://tempvoice.xyz/id/premium>) (plus fitur keren lainnya!).",
     "error_ratelimit": "## **Jangan Terburu-buru**\n Kamu baru saja menggunakan perintah ini {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Jangan Terburu-buru**\n Kamu baru saja membuat channel baru {val1}.",
-    "error_webhook": "## **Gagal Membuat!**\n Ada bot lain yang mencegah kami membuat Webhook, coba periksa apakah itu dari bot keamanan atau lainnya.",
     "error_totallimit": "## **Batas Maksimal**\n Server ini membatasi pembuatan channel hanya sampai {val1}. Coba lagi nanti.",
     "error_category_limit": "## **Kategori Penuh!**\n Semua kategori telah mencapai batas 50 channel. Jika kamu admin, kamu bisa menambahkan lebih banyak kategori **Fallback** di dashboard. Jika bukan Admin, harap sabar menunggu atau coba lagi nanti.",
     "error_server_limit": "## **Server Penuh!**\n Server telah mencapai batas maksimal 500 channel, coba lagi nanti.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Berhasil Diubah!**\n Batas Channel kamu sekarang **{val1}**.",
     "voice_name_1": "## **Nama Tidak Boleh Dipakai!**\n Nama yang kamu tulis tidak diizinkan untuk __Voice channel sementara__!",
     "voice_name_2": "## **Nama Diubah!**\n Nama Channel kamu sekarang **{val1}**.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Channel Dikunci!**\n {val1} sekarang **terkunci**.",
     "voice_privacy_2": "## **Channel Dibuka!**\n {val1} sekarang **terbuka**.",
     "voice_privacy_3": "## **Channel Disembunyikan!**\n {val1} sekarang **tersembunyi** dari umum.",

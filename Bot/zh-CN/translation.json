@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "为其他人设置加入您的临时频道的密码",
     "cmd_voice_reset_description": "重置您的临时频道的配置",
     "cmd_voice_lfp_description": "在此聊天中发送加入您的临时频道的邀请链接",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "使用密码加入临时频道",
     "cmd_setup_tempvoice_description": "使用助手在几秒钟内轻松设置 TempVoice",
@@ -50,7 +51,6 @@
     "error_limit": "## **不可能！**\n 单个服务器中创建者频道的限制为 {val1}。尝试删除一个或提高[premium](<https://tempvoice.xyz/premium>) 层级以增加限制。",
     "error_ratelimit": "## **放慢速度！**\n 可以再次使用此命令 **{val1}**。\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **放慢速度！**\n 您可以创建一个新频道 **{val1}**。",
-    "error_webhook": "## **不可能！**\n 由于另一个 Discord 机器人阻止我创建 Webhook，因此无法创建 Webhook。查看是否有安全机器人如 *Wick*、*Beemo* 等。",
     "error_totallimit": "## **不可能！**\n 同一时间在同一 Discord 服务器中已达到 **{val1}** 个临时语音频道的限制，因为此 Discord 服务器对其进行了限制。请稍后再试。",
     "error_category_limit": "## **不可能！**\n 所有可用的分类已达到每个分类最多 50 个频道的限制。如果您是管理员，可以在仪表板中设置更多的 **备用分类**，否则请稍后再试。",
     "error_server_limit": "## **不可能实现！**\n Discord 服务器已达到同时存在的频道数量上限为 500 个。请稍后再试。",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **已更新！**\n 您的频道用户限制现在为 **{val1}**。",
     "voice_name_1": "## **不可能！**\n 您不能使用该名称创建临时语音频道。",
     "voice_name_2": "## **已更新！**\n 您的频道名称现在为 **{val1}**。",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **已更新！**\n {val1} 现在已**锁定**。",
     "voice_privacy_2": "## **已更新！**\n {val1} 不再**锁定**。",
     "voice_privacy_3": "## **已更新！**\n {val1} 现在已**隐藏**。",

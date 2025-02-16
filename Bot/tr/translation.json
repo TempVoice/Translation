@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Geçici sesli kanalınıza diğer kullanıcılar için şifre ayarlayın.",
     "cmd_voice_reset_description": "Geçici sesli kanalınızın ayarlarını sıfırlayın.",
     "cmd_voice_lfp_description": "Bu kanala geçici odanızın davet linkini gönderin.",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Şifre kullanarak bir geçici sesli kanala katıl.",
     "cmd_setup_tempvoice_description": "TempVoice'ı bir asistanla saniyeler içinde kolayca kurun.",
@@ -50,7 +51,6 @@
     "error_limit": "## **Mümkün değil!**\n Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyiniz veya daha fazla oluşturucu kurmak için [Premium](<https://tempvoice.xyz/premium>) kademesine yükseltin.",
     "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Yavaşla!**\n Yeni bir kanal oluşturmak için: **{val1}**.",
-    "error_webhook": "## **Mümkün değil!**\n Bir webhook oluşturmam mümkün değil çünkü başka bir discord botu bunu yapmamı engelliyor. *Wick*, *Beemo* vb. gibi güvenlik botlarının sebep olup olmadığına bakın.",
     "error_totallimit": "## **Mümkün değil!**\n Aynı anda **{val1}** geçici ses kanalı sınırına ulaşıldı, çünkü bu Discord sunucusu onları sınırladı. Lütfen daha sonra tekrar deneyiniz.",
     "error_category_limit": "## **Mümkün değil!**\n Mevcut tüm kategorilerin her biri 50 kanal sınırına ulaştı. Yönetici iseniz, kontrol panelinde daha fazla **Yedek Kategori** oluşturabilirsiniz, aksi takdirde lütfen daha sonra tekrar deneyiniz.",
     "error_server_limit": "## **Mümkün Değil!**\n Discord sunucusu aynı anda var olabilecek 500 kanal sınırına ulaştı. Lütfen daha sonra tekrar deneyin.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Güncellendi!**\n Kanalınızın kullanıcı limiti **{val1}** olarak değiştirildi.",
     "voice_name_1": "## **Mümkün değil!**\n Bu isme sahip geçici bir ses kanalınız olamaz.",
     "voice_name_2": "## **Güncellendi!**\n Kanalınızın adı **{val1}** olarak değiştirildi.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Güncellendi!**\n {val1} geçici kanalı **kilitlendi**.",
     "voice_privacy_2": "## **Güncellendi!**\n {val1} geçici kanalının **kilidi açıldı**.",
     "voice_privacy_3": "## **Güncellendi!**\n {val1} geçici kanalı **görünmez** olarak ayarlandı.",

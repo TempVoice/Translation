@@ -25,6 +25,7 @@
     "cmd_voice_password_description": "Ustaw hasło dla innych, żeby mogli dołączyć do Twojego tymczasowego kanału głosowego",
     "cmd_voice_reset_description": "Zresetuj konfigurację Twojego tymczasowego kanału głosowego",
     "cmd_voice_lfp_description": "Wyślij link z zaproszeniem do Twojego tymczasowego kanału na tym czacie",
+    "cmd_voice_status_description": "Change the status of your temporary channel",
 
     "cmd_join_description": "Dołącz do tymczasowego kanału głosowego z użyciem hasła",
     "cmd_setup_tempvoice_description": "Ustaw TempVoice łatwo z pomocą asystenta",
@@ -50,7 +51,6 @@
     "error_limit": "## **Niemożliwe**\n Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Zwolnij!.**\n Komenda może być użyta ponownie **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Zwolnij!**\n Możesz stworzyć nowy kanał **{val1}**.",
-    "error_webhook": "## **Niemożliwe!**\n Nie można stworzyć webhooka, ponieważ inny bot blokuje mi tą możliwość. Sprawdź czy boty od bezpieczeństwa typu *Wick*, *Beemo* itd. nie są temu winne.",
     "error_totallimit": "## **Niemożliwe!**\n Limit **{val1}** tymczasowych kanałów głosowych został osięgnięty, ponieważ ten serwer Discord ustawił ich limit. Proszę spróbuj ponownie później.",
     "error_category_limit": "## **Niemożliwe!**\n Wszystkie dostępne kategorie osiągnęły swój limit po 50 kanałów. Jeżeli jesteś adminem, możesz ustawić więcej **Zapasowych Kategorii** w panelu, w innym przypadku proszę spróbuj ponownie później.",
     "error_server_limit": "## **Niemożliwe!**\n Ten serwer Discord osiągnął limit 500 kanałów, które mogą istnieć w tym samym czasie. Spróbuj później.",
@@ -85,6 +85,7 @@
     "voice_limit_2": "## **Zmieniono.**\n Twój limit użytkowników na kanale wynosi teraz **{val1}**.",
     "voice_name_1": "## **Niemożliwe.**\n Nazwa ta jest cenzurowana dla wszystkich tymczasowych kanałów głosowych.",
     "voice_name_2": "## **Zmieniono.**\n Nazwa Twojego kanału to teraz: **{val1}**.",
+    "voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
     "voice_privacy_1": "## **Zaktualizowano!**\n {val1} jest teraz **zablokowany**.",
     "voice_privacy_2": "## **Zaktualizowano!**\n {val1} jest teraz **odblokowany**.",
     "voice_privacy_3": "## **Zaktualizowano!**\n {val1} jest teraz **ukryty**.",

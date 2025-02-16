@@ -25,6 +25,7 @@
 		"cmd_voice_password_description": "VCにパスワードを設定し、承認されたユーザーのみが参加できるようにします",
 		"cmd_voice_reset_description": "VCのすべての設定を初期状態に戻します",
 		"cmd_voice_lfp_description": "現在のチャットにVC参加者募集メッセージを送信します",
+		"cmd_voice_status_description": "Change the status of your temporary channel",
 
 		"cmd_join_description": "パスワードを使用して一時的なチャンネルに参加します",
 		"cmd_setup_tempvoice_description": "TempVoiceの初期設定をガイド付きで簡単に行えます",
@@ -50,7 +51,6 @@
 		"error_limit": "## **不可能です。**\n サーバー内のクリエイターチャンネルの制限は{val1}です。 1つ削除するか、[プレミアム](<https://tempvoice.xyz/premium>) に登録して制限を増やしてみてください。",
 		"error_ratelimit": "## **少しだけ待って！**\n このコマンドは **{val1}** に再度使用できます。\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
 		"error_creation": "## **少しだけ待って！**\n 新しいチャンネルは **{val1}** に作成できます。",
-		"error_webhook": "## **実行できません**\n Discordのセキュリティボットにより、Webhookを作成できません。*Wick*、*Beemo*などのボットの設定をご確認ください。",
 		"error_totallimit": "## **実行できません**\n 一時的なVCの数が上限（**{val1}**個）に達しました。Discordの制限により、しばらく待ってから再試行してください。",
 		"error_category_limit": "## **実行できません**\n 全てのカテゴリーが上限（50チャンネル）に達しています。管理者の方は、ダッシュボードの**一時的なチャンネルのカテゴリー（予備）**でカテゴリーを追加してください。",
 		"error_server_limit": "## **実行できません**\n サーバーのチャンネル数が上限（500）に達しているため、新しいVCを作成できません。しばらく待ってから再試行してください。",
@@ -85,6 +85,7 @@
 		"voice_limit_2": "## **更新しました！**\n あなたのチャンネルのユーザー制限は現在 **{val1}** 人です。",
 		"voice_name_1": "## **設定できません**\n この名前は使用できません。",
 		"voice_name_2": "## **更新しました！**\n あなたのチャンネルの名前は現在 **{val1}** です。",
+		"voice_status_1": "## **Updated!**\n Your channel’s status is now: **{val1}**.",
 		"voice_privacy_1": "## **更新しました！**\n {val1} は現在 **ロックされています。**",
 		"voice_privacy_2": "## **更新しました！**\n {val1} は **ロックが解除されました。**",
 		"voice_privacy_3": "## **更新しました！**\n {val1} は現在 **非表示になっています。**",
