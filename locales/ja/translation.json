@@ -81,6 +81,8 @@
 		"voice_kick_1": "## **不可能です。**\n このユーザーは音声チャンネルにいません。",
 		"voice_kick_2": "## **不可能です。**\n  他の音声チャンネルからユーザーをキックすることはできません。",
 		"voice_kick_3": "## **キックしました！**\n このユーザーはあなたのボイスチャンネルからキックされました。",
+		"voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+		"voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
 		"voice_limit_1": "## **不可能です!**\n ユーザー制限は **{val1}** から **{val2}**の間で設定してください。",
 		"voice_limit_2": "## **更新しました！**\n あなたのチャンネルのユーザー制限は現在 **{val1}** 人です。",
 		"voice_name_1": "## **設定できません**\n この名前は使用できません。",

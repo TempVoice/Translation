@@ -81,6 +81,8 @@
 	"voice_kick_1": "## Nu poți face asta!\n Acest utilizator nu este într-un canal de voce.",
 	"voice_kick_2": "## Nu poți face asta!\n Nu poți da afară un utilizator din alt canal de voce.",
 	"voice_kick_3": "## Succes!\n Utilizatorii selectați au fost dați afară din canalul tău de voce temporar.",
+	"voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
 	"voice_limit_1": "## Nu poți face asta!\n Limita de utilizatori trebuie să fie între {val1} și {val2}.",
 	"voice_limit_2": "## Actualizat!\n Limita de utilizatori a canalului tău este acum {val1}.",
 	"voice_name_1": "## Nu poți face asta!\n Nu poți avea un canal de voce temporar cu acest nume.",

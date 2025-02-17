@@ -81,6 +81,8 @@
     "voice_kick_1": "## **無法完成**\n 此使用者不在語音頻道",
     "voice_kick_2": "## **無法完成**\n 您無法踢除其他語音頻道使用者",
     "voice_kick_3": "## **已踢除！**\n 此使用者已從您的臨時語音頻道被踢除",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **已更新**\n 您的頻道人數限制現在為 **{val1}**。",
     "voice_name_1": "## **無法完成**\n 此標題無法用於臨時語音頻道",

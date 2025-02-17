@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Tidak Ada Pengguna**\n Pengguna tidak ada di Voice channel.",
     "voice_kick_2": "## **Pengguna Di Channel Lain**\n Kamu tidak bisa mengeluarkan pengguna yang ada di voice channel lain.",
     "voice_kick_3": "## **Berhasil Dikeluarkan!**\n Pengguna telah dikeluarkan dari __Voice channel sementara__ kamu.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Gagal Diubah!**\n Channel hanya bisa diubah batasnya dari **{val1}** sampai **{val2}**.",
     "voice_limit_2": "## **Berhasil Diubah!**\n Batas Channel kamu sekarang **{val1}**.",
     "voice_name_1": "## **Nama Tidak Boleh Dipakai!**\n Nama yang kamu tulis tidak diizinkan untuk __Voice channel sementara__!",

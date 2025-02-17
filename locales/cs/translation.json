@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Nemožné**\n Tento uživatel není v hlasovém kanálu.",
     "voice_kick_2": "## **Nemožné**\n Uživatele nelze vyhodit z jiného hlasového kanálu.",
     "voice_kick_3": "## **Vyhozeno!**\n Tento uživatel byl vyhozen z vašeho dočasného hlasového kanálu.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Aktualizováno!**\n Limit uživatelů vašeho kanálu je nyní **{val1}**.",
     "voice_name_1": "## **Nemožné**\n Nemůžete mít dočasný hlasový kanál s tímto názvem.",
