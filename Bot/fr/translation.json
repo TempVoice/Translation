@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Pas possible!.**\n Vous ne pouvez pas expulser un utilisateur qui n'est pas dans le salon vocal.",
     "voice_kick_2": "## **Pas possible!.**\n Vous ne pouvez pas expulser un utilisateur d'un autre salon vocal.",
     "voice_kick_3": "## **Expulsion!.**\n L'utilisateur a été expulsé du salon vocal temporaire.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Modification!.**\n Votre limite d'utilisateur est maintenant de **{val1}**.",
     "voice_name_1": "## **Pas possible!.**\n Ce nom est désormais censuré pour tout les salons vocaux temporaire.",

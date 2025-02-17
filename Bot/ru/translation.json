@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Невозможно!**\n Этот пользователь не находится в канале.",
     "voice_kick_2": "## **Невозможно!**\n Нельзя выгнать пользователя из другого канала.",
     "voice_kick_3": "## **Выгнан!**\n Этот пользователь был исключен из вашего канала.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **обновлено!**\n Лимит пользователей вашего канала **{val1}**.",
     "voice_name_1": "## **Невозможно!**\n Нельзя иметь временный канал с таким названием.",

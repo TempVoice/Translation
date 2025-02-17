@@ -52,6 +52,8 @@
     "voice_kick_1": "## **Tak Boleh!**\n Pengguna ni takde dalam mana-mana saluran suara.",
     "voice_kick_2": "## **Apalah Kau Ni!**\n Tak boleh kick pengguna dari saluran voice lain.",
     "voice_kick_3": "## **Kicked!**\n Pengguna-pengguna yang dipilih dah dibuang dari saluran suara sementara kau.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Dah Tukar!**\n Limit pengguna untuk saluran kau sekarang **{val1}**.",
     "voice_name_1": "## **Tak Boleh!**\n Nama saluran suara sementara kau tak boleh macam tu.",

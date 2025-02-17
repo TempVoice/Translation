@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Nicht möglich!**\nDu kannst keinen Nutzer aus einem Kanal rausschmeißen, in dem er sich nicht befindet.",
     "voice_kick_2": "## **Nicht möglich!**\nDu kannst keinen Nutzer aus einem anderen Kanal rausschmeißen.",
     "voice_kick_3": "## **Gekickt!**\nDer Nutzer wurde aus deinem temporären Kanal gekickt.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Nicht möglich!**\nDas Nutzerlimit muss zwischen **{val1}** und **{val2}** liegen.",
     "voice_limit_2": "## **Geändert!**\nDein Nutzerlimit beträgt jetzt **{val1}**.",
     "voice_name_1": "## **Nicht möglich!**\nDieser Name wird für alle temporären Kanäle zensiert.",

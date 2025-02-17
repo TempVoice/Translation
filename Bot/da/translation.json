@@ -81,6 +81,8 @@
     "voice_kick_1": "## **Ikke muligt!**\n Denne bruger er ikke i en stemmekanal.",
     "voice_kick_2": "## **Ikke muligt!**\n Du kan ikke smide en bruger fra en anden stemmekanal ud.",
     "voice_kick_3": "## **Smidt ud!**\n Denne bruger er blevet smidt ud af din midlertidige stemmekanal.",
+    "voice_kick_4": "## **Warning!**\n You can only kick users when your temporary voice channel is locked or hidden.",
+    "voice_kick_5": "## **Warning!**\n Not all selected users could be kicked because they have `Move Members` permission.",
     "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Opdateret!**\n Din kanals brugergrænse er nu **{val1}**.",
     "voice_name_1": "## **Ikke muligt!**\n Du kan ikke have en midlertidig stemmekanal med det navn.",
