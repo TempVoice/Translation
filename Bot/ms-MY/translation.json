@@ -25,7 +25,7 @@
     "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel havs reached their limit of 50 channels. Please try again later.",
+    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Tak Bisa!**\n Kau cuba guna bot [TempVoice Custom Branding](https://tempvoice.xyz/id/premium) kat server Discord mana owner bot belum aktifkan TempVoice Premium. Kalau kau owner bot Custom Branding ni, pastikan bot awam <@762217899355013120> dibuang dan kau dah aktifkan premium untuk server ini di sini: **https://tempvoice.xyz/premium** > **Aktifkan Premium**.",
     "error_conflict": "## **Konflik Tak Dijangka.**\n TempVoice ada konflik dengan API Discord. Report mesej ni kat https://discord.gg/tempvoice. \n### Error: `{val1}`",
     "error_already_invited": "## **Tak Boleh!**\n Awak dah cuba jemput pengguna ini ke saluran sementara anda.", 

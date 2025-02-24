@@ -54,7 +54,7 @@
     "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel havs reached their limit of 50 channels. Please try again later.",
+    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **激活高级并踢出 <@762217899355013120>**\n此 [TempVoice 自定义品牌](https://tempvoice.xyz/premium) 机器人已成功安装并邀请到此 Discord 服务器。\n## 激活高级\n 自定义品牌机器人的所有者必须在此 Discord 服务器上激活 TempVoice 高级功能。\nhttps://tempvoice.xyz/premium > `使用 Discord 登录` > `管理订阅` > `激活高级`\n## 踢出公共 <@762217899355013120> 机器人\n此 Discord 服务器上只需要自定义品牌机器人。\n## 重要\n来自公共 TempVoice 机器人的现有创建者频道将像以前一样工作。只需要使用 **/setup** 重新创建界面。\n\n如果不打算很快激活高级功能，此机器人将离开此 Discord。",
     "error_conflict": "## **意外冲突。**\n TempVoice 与 Discord 的 API 发生冲突。请在此处报告此消息 https://discord.gg/tempvoice。\n### 错误：`{val1}`",
     "error_already_invited": "## **不可能实现！**\n 您已经尝试邀请此用户到您的临时频道。",    

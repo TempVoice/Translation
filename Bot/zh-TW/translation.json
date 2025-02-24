@@ -54,7 +54,7 @@
     "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
-    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel havs reached their limit of 50 channels. Please try again later.",
+    "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **啟用高級並踢出 <@762217899355013120>**\n這個 [TempVoice Custom Branding](https://tempvoice.xyz/premium) 機器人已成功安裝並邀請到這個 Discord 伺服器。\n## 啟用高級\n 自定義品牌機器人的所有者必須在此 Discord 伺服器上啟用 TempVoice 高級功能。\nhttps://tempvoice.xyz/premium > `使用 Discord 登錄` > `管理訂閱` > `啟用高級`\n## 踢出公共機器人 <@762217899355013120>\n只需將自定義品牌機器人添加到此 Discord 伺服器中即可。\n## 重要\n來自公共 TempVoice 機器人的現有創建者頻道將像以前一樣運作。只需要使用 **/setup** 重新創建介面。\n\n如果不打算很快啟用高級功能，此機器人將離開此 Discord。",
     "error_conflict": "## **意外的衝突。**\n TempVoice與Discord的API發生了衝突。請在此處報告此訊息 https://discord.gg/tempvoice。\n### 錯誤：`{val1}`",
     "error_already_invited": "## **不可能實現！**\n 您已經嘗試將此使用者邀請到您的臨時頻道。",    
