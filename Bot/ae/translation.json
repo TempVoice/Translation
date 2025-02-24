@@ -55,7 +55,7 @@
     "voice_kick_3": "مطرود** -> تم طرد المستخدم من الروم الصوتي المؤقت الخاصة بك**",
     "voice_kick_4": "## **Attention!**\n You can only kick users when your temporary voice channel is locked or hidden.",
     "voice_kick_5": "## **Attention!**\n Not all selected users could be kicked because they have `Move Members` permission.",
-    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
+    "voice_limit_1": "## **Attention!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "**{val1}** <- تغير** -> حد الروم الخاص بك الآن**",
     "voice_name_1": " غير ممكن** -> هذا الاسم ممنوع لجميع الرومات الصوتية المؤقتة**",
     "voice_name_2": "**{val1}** <- تغير** -> اسم الروم الخاص بك الآن**",

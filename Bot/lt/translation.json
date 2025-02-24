@@ -57,7 +57,7 @@
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Activate Premium and Kick <@762217899355013120>**\nThis [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot has been successfully installed and invited to this Discord server.\n## Activate Premium\n The owner of the custom branding bot has to activate TempVoice Premium on this Discord server.\nhttps://tempvoice.xyz/premium > `Login with Discord` > `Manage Subscription` > `Activate Premium`\n## Kick the public <@762217899355013120> bot\nOnly the Custom Branding bot needs to be on this Discord server.\n## Important\nExisting Creator Channels from the public TempVoice bot will work like before. Only interfaces have to be recreated using **/setup**.\n\nThis bot will leave this Discord if Premium is not going to be activated soon.",
     "error_conflict": "## **Netikėta Konfliktas.**\n TempVoice susidūrė su 'Discord' API konfliktu. Praneškite apie šį pranešimą čia https://discord.gg/tempvoice. \n### Klaida: `{val1}`",
-    "error_already_invited": "## **Not Possible!**\n You already tried to invite this user to your temporary channel.",
+    "error_already_invited": "## **Attention!**\n You already tried to invite this user to your temporary channel.",
     
     "voice_waiting_1": "## **Dėmesio!**\n Jūs negalite sukurti laukiamojo, kai jūsų kanalas paslėptas.",
     "voice_waiting_2": "## **Dėmesio!**\n Jūs negalite paslėpti kanalo, nes esate sukūrę laukiamąjį kanalą.",
@@ -84,7 +84,7 @@
     "voice_kick_3": "## **Išmesta.**\n Naudotojas buvo išmestas iš jūsų laikino balso kanalo.",
     "voice_kick_4": "## **Attention!**\n You can only kick users when your temporary voice channel is locked or hidden.",
     "voice_kick_5": "## **Attention!**\n Not all selected users could be kicked because they have `Move Members` permission.",
-    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
+    "voice_limit_1": "## **Attention!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Pakeista.**\n Jūsų kanalo limitas dabar yra **{val1}**.",
     "voice_name_1": "## **Dėmesio!**\n Šis pavadinimas yra cenzūruotas visiems laikiniems kanalams.",
     "voice_name_2": "## **Pakeista.**\n Jūsų kanalo pavadinimas dabar yra: **{val1}**.",

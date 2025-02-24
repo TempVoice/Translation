@@ -84,7 +84,7 @@
     "voice_kick_3": "## **Espulso!**\n L'utente è stato espulso dal tuo canale vocale temporaneo.",
     "voice_kick_4": "## **Attention!**\n You can only kick users when your temporary voice channel is locked or hidden.",
     "voice_kick_5": "## **Attention!**\n Not all selected users could be kicked because they have `Move Members` permission.",
-    "voice_limit_1": "## **Not Possible!**\n The user limit has to be between **{val1}** and **{val2}**.",
+    "voice_limit_1": "## **Attention!**\n The user limit has to be between **{val1}** and **{val2}**.",
     "voice_limit_2": "## **Aggiornato!**\n Il limite di utenti per il tuo canale vocale è ora di **{val1}**.",
     "voice_name_1": "## **Non valido.**\n Non puoi usare quel nome per un canale vocale temporaneo.",
     "voice_name_2": "## **Aggiornato!**\n Il nome del tuo canale è ora: **{val1}**.",
