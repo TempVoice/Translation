@@ -33,7 +33,7 @@
     "cmd_find_description": "Tim xem bạn của cậu đang ở kênh voice nào",
 
     "info_setup": "## **Quá Trình Thiết Lập Thành công!**\n {val1} có thể dùng để tạo kênh thoại tạm thời ngay bây giờ.",
-    "info_setup2": "## **Quá Trình Thiết Lập Thành Công!**\n [Giao diện]({val1}) này có thể dùng để quản lý kênh thoại tạm thời trong máy chủ này ngay bây giờ.",
+    "info_setup_interface": "## **Quá Trình Thiết Lập Thành Công!**\n [Giao diện]({val1}) này có thể dùng để quản lý kênh thoại tạm thời trong máy chủ này ngay bây giờ.",
     "info_reset": "## **Đã Cài Lại**\n Cấu hình tinh chỉnh của máy chủ này đã được cài lại.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Không Thể**\n Giới hạn số lượng kênh của người sáng tạo trong một máy chủ là {val1}. Hãy thử xóa kênh hoặc tăng [gói premium](<https://tempvoice.xyz/premium>) lên cao hơn.",
     "error_ratelimit": "## **Chậm Lại!**\n Cậu cần đợi **{val1}** nữa mới có thể sử dụng lại lệnh này.",
     "error_creation": "## **Chậm Lại!**\n Cậu cần đợi **{val1}** nữa mới có thể tạo lại một kênh mới.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Kích hoạt Premium và Rời khỏi <@762217899355013120>**\nBot [TempVoice Custom Branding](https://tempvoice.xyz/premium) đã được cài đặt và mời thành công vào máy chủ Discord này.\n## Kích hoạt Premium\n Chủ sở hữu của bot tùy chỉnh nhãn hiệu phải kích hoạt TempVoice Premium trên máy chủ Discord này.\nhttps://tempvoice.xyz/premium > `Đăng nhập bằng Discord` > `Quản lý Đăng ký` > `Kích hoạt Premium`\n## Rời khỏi bot công cộng <@762217899355013120>\nChỉ cần bot tùy chỉnh nhãn hiệu cần nằm trên máy chủ Discord này.\n## Quan trọng\nCác Kênh Tạo Sẵn hiện có từ bot TempVoice công cộng sẽ hoạt động như trước. Chỉ cần tạo lại các giao diện bằng **/setup**.\n\nBot này sẽ rời khỏi Discord nếu Premium không được kích hoạt sớm.",
     "error_conflict": "## **Lỗi.**\n TempVoice đã xảy ra xung đột với API của Discord. Vui lòng báo cáo tin nhắn tại đây: https://discord.gg/tempvoice. \n### Lỗi: `{val1}`",
-    "error_already_invited": "## **Không Thể!**\n Bạn đã thử mời người này vào kênh tạm của bạn rồi.",    
     
     "voice_waiting_1": "## **Không Thể**\n Cậu không thể tạo phòng chờ khi kênh của cậu đang bị ẩn.",
     "voice_waiting_2": "## **Không Thể**\n Cậu không thể ẩn kênh của cậu khi có phòng chờ.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Không Thể**\n Người này không cho phép nhắn tin trực tiếp.",
     "voice_invite_3": "## **Đã Gửi Lời Mời!**\n Lời mời tham gia kênh thoại tạm thời của cậu đã được gửi tới người này.",
     "voice_invite_4": "## **Lời Mời Mới!**\n {val1} đã mời cậu tham gia {val2}",
+    "voice_invite_5": "## **Không Thể!**\n Bạn đã thử mời người này vào kênh tạm của bạn rồi.",
     "voice_kick_1": "## **Không Thể**\n Người này đang không có ở trong kênh thoại.",
     "voice_kick_2": "## **Không Thể**\n Cậu không thể khai trừ một người từ kênh khác.",
     "voice_kick_3": "## **Đã Khai Trừ!**\n Người này đã bị khai trừ khỏi kênh thoại tạm thời của cậu.",

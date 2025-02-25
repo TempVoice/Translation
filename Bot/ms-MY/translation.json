@@ -4,7 +4,7 @@
   },
   {
     "info_setup": "## **Dah Siap!**\n {val1} boleh digunakan untuk buat saluran suara sementara di server Discord anda.",
-    "info_setup2": "## **Dah Siap!**\n Antaramuka [ini]({val1}) boleh digunakan untuk uruskan saluran suara sementara di server Discord anda.",
+    "info_setup_interface": "## **Dah Siap!**\n Antaramuka [ini]({val1}) boleh digunakan untuk uruskan saluran suara sementara di server Discord anda.",
     "info_reset": "## **Reset!**\n Semua tetapan telah dikembalikan ke asal.",
 
     "error_validated": "## **Premium Tamat!**\n {val1} Sila hubungi Admin. Saluran pencipta ini tidak sah lagi kerana langganan premium telah dibatalkan.",
@@ -22,13 +22,12 @@
     "error_limit": "## **Melebihi Had!**\n Had saluran pencipta dalam satu server adalah {val1}. Cuba padam satu atau tingkatkan had dengan [premium](<https://tempvoice.xyz/id/premium>).",
     "error_ratelimit": "## **Sabar Sikit!**\n Arahan ini boleh digunakan lagi dalam **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sabar Sikit!**\n Anda boleh buat saluran baru dalam **{val1}**.",
-    "error_totallimit": "## **Perhatian!**\n Pentadbir server Discord ini telah memutuskan untuk menghadkan jumlah saluran suara sementara kepada **{val1}**. Sila cuba lagi nanti.",
+    "error_total_limit": "## **Perhatian!**\n Pentadbir server Discord ini telah memutuskan untuk menghadkan jumlah saluran suara sementara kepada **{val1}**. Sila cuba lagi nanti.",
     "error_category_limit": "## **Perhatian!**\n Semua kategori yang ada telah mencapai had 50 saluran setiap satu. Jika anda admin, anda boleh menetapkan lebih banyak [Kategori Fallback](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) di papan pemuka, jika tidak sila cuba lagi nanti.",
     "error_server_limit": "## **Perhatian!**\n Server Discord ini telah mencapai had 500 saluran yang boleh wujud pada masa yang sama. Sila cuba lagi nanti.",
     "error_current_category_limit": "## **Perhatian!**\n Kategori saluran suara sementara anda telah mencapai had 50 saluran. Sila cuba lagi nanti.",
     "error_cb": "## **Aktifkan Premium dan Keluarkan <@762217899355013120>**\nBot [TempVoice Custom Branding](https://tempvoice.xyz/premium) ini telah berjaya dipasang dan dijemput ke server Discord ini.\n## Aktifkan Premium\n Pemilik bot custom branding perlu mengaktifkan TempVoice Premium di server Discord ini.\nhttps://tempvoice.xyz/premium > `Log masuk dengan Discord` > `Urus Langganan` > `Aktifkan Premium`\n## Keluarkan bot awam <@762217899355013120>\nHanya bot custom branding yang perlu berada di server Discord ini.\n## Penting\nSaluran Pencipta yang sedia ada dari bot TempVoice awam akan berfungsi seperti biasa. Hanya antaramuka perlu dibuat semula menggunakan **/setup**.\n\nBot ini akan keluar dari Discord jika Premium tidak diaktifkan segera.",
     "error_conflict": "## **Konflik Tidak Dijangka.**\n TempVoice mengalami konflik dengan API Discord. Laporkan mesej ini di https://discord.gg/tempvoice. \n### Ralat: `{val1}`",
-    "error_already_invited": "## **Tidak Dibenarkan!**\n Anda sudah cuba menjemput pengguna ini ke saluran sementara anda.",
 
     "voice_waiting_1": "## **Tidak Dibenarkan!**\n Anda tidak boleh membuat bilik menunggu apabila saluran anda disembunyikan.",
     "voice_waiting_2": "## **Tidak Dibenarkan!**\n Anda tidak boleh menyembunyikan saluran anda apabila anda mempunyai bilik menunggu.",
@@ -50,6 +49,7 @@
     "voice_invite_2": "## **Tidak Dibenarkan!**\n Pengguna ini tidak membenarkan mesej langsung.",
     "voice_invite_3": "## **Dijemput!**\n Jemputan untuk menyertai saluran suara sementara anda telah dihantar kepada pengguna.",
     "voice_invite_4": "## **Jemputan Baru!**\n {val1} telah menjemput anda untuk menyertai {val2}",
+    "voice_invite_5": "## **Tidak Dibenarkan!**\n Anda sudah cuba menjemput pengguna ini ke saluran sementara anda.",
     "voice_kick_1": "## **Tidak Dibenarkan!**\n Pengguna ini tidak berada dalam saluran suara.",
     "voice_kick_2": "## **Tidak Dibenarkan!**\n Anda tidak boleh menendang pengguna dari saluran suara lain.",
     "voice_kick_3": "## **Ditendang!**\n Pengguna yang dipilih telah ditendang keluar dari saluran suara sementara anda.",

@@ -33,7 +33,7 @@
     "cmd_find_description": "Finde heraus, in welchem Sprachkanal sich ein Benutzer befindet.",
 
     "info_setup": "## **Einrichtung abgeschlossen!**\n{val1} kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu erstellen!",
-    "info_setup2": "## **Einrichtung abgeschlossen!**\n[Dieses Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
+    "info_setup_interface": "## **Einrichtung abgeschlossen!**\n[Dieses Interface]({val1}) kann jetzt verwendet werden, um temporäre Kanäle auf diesem Discord-Server zu verwalten!",
     "info_reset": "## **Zurückgesetzt!**\nDie Konfiguration wurde auf die Standardeinstellungen zurückgesetzt.",
     
     "error_validated": "## **Premium abgelaufen!**\n{val1} Bitte kontaktiere einen Administrator. Dieser Creator-Kanal ist nicht mehr gültig, da das Premium-Abonnement gekündigt wurde.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Achtung!**\nDas Limit für Creator-Kanäle auf diesem Discord-Server beträgt `{val1}`. Lösche einen Creator-Kanal oder erhöhe das Limit mit einer höheren [Premium](<https://tempvoice.xyz/premium>)-Stufe.",
     "error_ratelimit": "## **Noch nicht möglich!**\nDieser Befehl kann wieder verwendet werden: {val1}\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Nicht so schnell!**\nDu kannst einen neuen Kanal erstellen: {val1}",
-    "error_totallimit": "## **Achtung!**\nDie Administratoren dieses Discord-Servers haben die Anzahl der temporären Sprachkanäle auf **{val1}** begrenzt. Bitte versuche es später erneut.",
+    "error_total_limit": "## **Achtung!**\nDie Administratoren dieses Discord-Servers haben die Anzahl der temporären Sprachkanäle auf **{val1}** begrenzt. Bitte versuche es später erneut.",
     "error_category_limit": "## **Achtung!**\nAlle verfügbaren Kategorien haben ihr Limit von 50 Kanälen erreicht. Wenn du ein Administrator bist, kannst du weitere [Fallback-Kategorien](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) im Dashboard einrichten, ansonsten versuche es später erneut.",
     "error_server_limit": "## **Achtung!**\nDer Discord-Server hat das Limit von 500 gleichzeitig existierenden Kanälen erreicht. Bitte versuche es später erneut.",
     "error_current_category_limit": "## **Achtung!**\nDie Kategorie deines temporären Sprachkanals hat ihr Limit von 50 Kanälen erreicht. Bitte versuche es später erneut.",
     "error_cb": "## **Premium aktivieren und <@762217899355013120> entfernen**\nDieser [TempVoice Custom Branding](https://tempvoice.xyz/premium)-Bot wurde erfolgreich installiert und zu diesem Discord-Server eingeladen.\n## Premium aktivieren\nDer Besitzer des benutzerdefinierten Branding-Bots muss TempVoice Premium auf diesem Discord-Server aktivieren.\nhttps://tempvoice.xyz/premium > `Mit Discord anmelden` > `Abonnement verwalten` > `Premium aktivieren`\n## Entferne den öffentlichen Bot <@762217899355013120>\nNur der benutzerdefinierte Branding-Bot sollte auf diesem Discord-Server sein.\n## Wichtig\nBestehende Creator-Kanäle des öffentlichen TempVoice-Bots funktionieren wie zuvor. Es müssen nur Schnittstellen mit **/setup** neu erstellt werden.\n\nDieser Bot wird den Discord-Server verlassen, wenn Premium nicht bald aktiviert wird.",
-    "error_conflict": "## **Unerwarteter Konflikt.**\nTempVoice hatte einen Konflikt mit der Discord-API. Melde diese Nachricht hier: https://discord.gg/tempvoice.\n### Fehler: `{val1}`",
-    "error_already_invited": "## **Achtung!**\nDu hast bereits versucht, diesen Benutzer in deinen temporären Kanal einzuladen.",    
+    "error_conflict": "## **Unerwarteter Konflikt.**\nTempVoice hatte einen Konflikt mit der Discord-API. Melde diese Nachricht hier: https://discord.gg/tempvoice.\n### Fehler: `{val1}`",   
   
     "voice_waiting_1": "## **Achtung!**\nDu kannst keinen Warteraum erstellen, wenn dein temporärer Kanal nicht sichtbar ist.",
     "voice_waiting_2": "## **Achtung!**\nDu kannst deinen temporären Kanal nicht verstecken, wenn du einen Warteraum hast.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Achtung!**\nDer Nutzer akzeptiert keine privaten Nachrichten.",
     "voice_invite_3": "## **Eingeladen!**\nDer Nutzer wurde eingeladen, deinem temporären Kanal beizutreten.",
     "voice_invite_4": "## **Einladung!**\n{val1} hat dich eingeladen, {val2} beizutreten.",
+    "voice_invite_5": "## **Achtung!**\nDu hast bereits versucht, diesen Benutzer in deinen temporären Kanal einzuladen.", 
     "voice_kick_1": "## **Achtung!**\nDu kannst keinen Nutzer aus einem Kanal kicken, in dem er sich nicht befindet.",
     "voice_kick_2": "## **Achtung!**\nDu kannst keinen Nutzer aus einem anderen Kanal kicken.",
     "voice_kick_3": "## **Entfernt!**\nDer Nutzer wurde aus deinem temporären Kanal gekickt.",

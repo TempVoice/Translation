@@ -33,7 +33,7 @@
     "cmd_find_description": "Cari keberadaan orang di channel lain",
 
     "info_setup": "## **Setup Selesai!**\n {val1} sudah siap digunakan untuk membuat voice channel sementara di server Discord ini.",
-    "info_setup2": "## **Setup Selesai!**\n [Antarmuka]({val1}) ini sekarang dapat digunakan untuk mengatur channel sementara di server Discord ini.",
+    "info_setup_interface": "## **Setup Selesai!**\n [Antarmuka]({val1}) ini sekarang dapat digunakan untuk mengatur channel sementara di server Discord ini.",
     "info_reset": "## **Reset Selesai!**\n Konfigurasi telah direset ke pengaturan awal.",
 
     "error_validated": "## **Premium Habis!**\n {val1} Coba hubungi Admin. Creator channel ini tidak bisa lagi dipakai karena premiumnya habis.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Batas Tercapai**\n Batas creator channel di setiap server hanya {val1}. Coba hapus salah satu atau dapatkan akses tanpa batas dengan [premium](<https://tempvoice.xyz/id/premium>).",
     "error_ratelimit": "## **Tunggu Sebentar**\n Kamu baru saja menggunakan perintah ini {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Tunggu Sebentar**\n Kamu baru saja membuat channel baru {val1}.",
-    "error_totallimit": "## **Dibatasi Admin!**\n Admin server telah membatasi jumlah channel voice menjadi **{val1}**. Silahkan coba lagi nanti.",
+    "error_total_limit": "## **Dibatasi Admin!**\n Admin server telah membatasi jumlah channel voice menjadi **{val1}**. Silahkan coba lagi nanti.",
     "error_category_limit": "## **Mencapai Batas!**\n Seluruh kategori yang ada sudah mencapai batasnya, masing-masing dari mereka hanya dapat menampung 50 channel. kalau kamu Admin, kamu bisa mengatur [Kategori Fallback](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) di dashboard.",
     "error_server_limit": "## **Mencapai Batas!**\n Server ini telah mencapai batas maksimal yaitu 500 channel. Silahkan coba lagi nanti.",
     "error_current_category_limit": "## **Mencapai Batas!**\n Kategori ini telah mencapai batas maksimal yaitu 50 channel. Silahkan coba lagi nanti.",
     "error_cb": "## **Perhatikan Hal Ini!**\n\n[Bot Kustom TempVoice](https://tempvoice.xyz/premium) telah berhasil di install ke server ini, namun, kamu perlu memperhatikan hal seperti: \n## Aktifasi Premium \nPemilik dari bot kustom harus mengaktifkan premium TempVoice pada server ini.\nhttps://tempvoice.xyz/premium > `Masuk pakai Discord` > `Atur langganan` > `Aktifkan Premium Di`\n## Keluarkan bot umum <@762217899355013120>\nHanya bot kustom yang boleh berada disini.\n## Catatan\nCreator Channel yang sudah ada bisa berkerja dengan baik menggunakan bot kustom, namun, hanya antarmuka saja yang perlu dibuat ulang. jalankan perintah **/setup**  untuk membuatnya ulang.\n\nBot ini akan keluar sendiri jika Premium tidak diaktifkan secepatnya.",
     "error_conflict": "## **Kesalahan API**\n TempVoice mengalami masalah dengan API Discord. Laporkan kesalahan ini di https://discord.gg/tempvoice. \n### Error: `{val1}`",
-    "error_already_invited": "## **Sudah Diundang**\n Orang ini sudah diundang ke channelmu.",
 
     "voice_waiting_1": "## **Gagal Membuat**\n Ruang tunggu tidak bisa dibuat jika __Voice channel sementara__ disembunyikan.",
     "voice_waiting_2": "## **Gagal Menyembunyikan**\n Channel tidak bisa disembunyikan jika memiliki ruang tunggu.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **DM ditutup**\n Orang ini tidak dapat menerima pesan pribadi.",
     "voice_invite_3": "## **Diundang!**\n Orang ini telah berhasil diundang untuk bergabung ke __Voice channel sementara__ kamu.",
     "voice_invite_4": "## **Undangan Masuk!**\n {val1} mengundangmu untuk bergabung ke {val2}",
+    "voice_invite_5": "## **Sudah Diundang**\n Orang ini sudah diundang ke channelmu.",
     "voice_kick_1": "## **Tidak Ada**\n Orang ini tidak ada disini.",
     "voice_kick_2": "## **Di Channel Lain**\n Kamu tidak bisa mengeluarkan orang yang berada di __Voice channel sementara__ lain.",
     "voice_kick_3": "## **Berhasil Dikeluarkan!**\n Orang ini telah diusir dari __Voice channel sementara__ kamu.",

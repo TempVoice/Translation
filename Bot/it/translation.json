@@ -33,7 +33,7 @@
     "cmd_find_description": "Scopri in che canale vocale si trova un utente",
 
     "info_setup": "## **Setup completato!**\n {val1} può ora essere usato per creare nuovi canali vocali temporanei nel tuo server Discord",
-    "info_setup2": "## **Setup completato!**\n Questa [interfaccia]({val1}) può ora essere utilizzata per gestire i canali vocali temporanei nel tuo server Discord!",
+    "info_setup_interface": "## **Setup completato!**\n Questa [interfaccia]({val1}) può ora essere utilizzata per gestire i canali vocali temporanei nel tuo server Discord!",
     "info_reset": "## **Ripristinato.**\n Le impostazioni sono state ripristinate a quelle di default.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Attenzione!**\n Il limite massimo di Canali Creatore in questo server è di {val1}. Cancellane uno, oppure aumenta il limite con l'abbonamento [Premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Rallenta!**\n Questo comando può essere usato nuovamente **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Rallenta!**\n Potrai creare un nuovo canale **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Attiva Premium e Espelli <@762217899355013120>**\nQuesto [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot è stato installato con successo e invitato a questo server Discord.\n## Attiva Premium\n Il proprietario del bot di branding personalizzato deve attivare il TempVoice Premium su questo server Discord.\nhttps://tempvoice.xyz/premium > `Accedi con Discord` > `Gestisci Abbonamento` > `Attiva Premium`\n## Espelli il bot pubblico <@762217899355013120>\nSolo il bot di branding personalizzato deve essere su questo server Discord.\n## Importante\nI canali creati precedentemente dal bot TempVoice pubblico funzioneranno come prima. Sarà necessario ricreare solo le interfacce usando **/setup**.\n\nQuesto bot lascerà questo Discord se Premium non verrà attivato presto.",
     "error_conflict": "## **Conflitto Inaspettato.**\n TempVoice ha avuto un conflitto con le API di Discord. Segnala questo messaggio di errore qua: https://discord.gg/tempvoice. \n### Errore: `{val1}`",
-    "error_already_invited": "## **Non Possibile!**\n Hai già provato ad invitare questo utente nel tuo canale temporaneo.",    
     
     "voice_waiting_1": "## **Attenzione!**\n Non puoi creare una sala d'attesa mentre il tuo canale è nascosto.",
     "voice_waiting_2": "## **Attenzione!**\n Non puoi nascondere il tuo canale mentre ha una sala d'attesa collegata.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Attenzione!**\n L'utente in questione non accetta messaggi privati.",
     "voice_invite_3": "## **Invitato!**\n L'utente è stato invitato ad unirsi al tuo canale vocale temporaneo.",
     "voice_invite_4": "## **Nuovo invito!**\n {val1} ti ha invitato ad entrare in {val2}",
+    "voice_invite_5": "## **Attenzione!**\n Hai già provato ad invitare questo utente nel tuo canale temporaneo.",
     "voice_kick_1": "## **Attenzione!**\n L'utente selezionato non è nel canale vocale.",
     "voice_kick_2": "## **Attenzione!**\n Non puoi espellere un utente che si trova in un altro canale vocale.",
     "voice_kick_3": "## **Espulso!**\n L'utente è stato espulso dal tuo canale vocale temporaneo.",

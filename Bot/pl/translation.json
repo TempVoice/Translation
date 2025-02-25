@@ -33,7 +33,7 @@
     "cmd_find_description": "Dowiedz się na jakim kanale jest użytkownik",
 
     "info_setup": "## **Konfiguracja zakończona.**\n {val1} możesz teraz używać tworzenia tymczasowych kanałów głosowych na serwerze Discord!",
-    "info_setup2": "## **Konfiguracja zakończona.**\n Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
+    "info_setup_interface": "## **Konfiguracja zakończona.**\n Ten [Panel]({val1}) może teraz być używany do zarządzania tymczasowymi kanałami głosowymi na Twoim serwerze Discord!",
     "info_reset": "## **Zresetowano.**\n Konfiguracja została przywrócona do wartości domyślnych.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Uwaga!**\n Limit kanałów twórcy na jednym serwerze wynosi {val1}. Spróbuj usunąć jeden lub zwiększyć limit za pomocą wyższego progu [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Zwolnij!.**\n Komenda może być użyta ponownie **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Zwolnij!**\n Możesz stworzyć nowy kanał **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Aktywuj Premium i Wyrzuć <@762217899355013120>**\nTen [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot został pomyślnie zainstalowany i zaproszony na ten serwer Discord.\n## Aktywuj Premium\n Właściciel bota do personalizacji marki musi aktywować TempVoice Premium na tym serwerze Discord.\nhttps://tempvoice.xyz/premium > `Zaloguj się przez Discorda` > `Zarządzaj Subskrypcją` > `Aktywuj Premium`\n## Wyrzuć publicznego bota <@762217899355013120>\nTylko bot do Personalizacji Marki powinien być na tym serwerze Discord.\n## Ważne\nIstniejące Kanały Twórców z publicznego bota TempVoice będą działać jak wcześniej. Tylko interfejsy trzeba będzie ponownie utworzyć za pomocą **/setup**.\n\nTen bot opuści ten Discord, jeśli Premium nie zostanie wkrótce aktywowane.",
     "error_conflict": "## **Niespodziewany Konflikt.**\n TempVoice miał konflikt z API Discorda. Zgłoś tę wiadomość tutaj: https://discord.gg/tempvoice. \n### Błąd: `{val1}`",
-    "error_already_invited": "## **Uwaga!!**\n Już próbowałeś zaprosić tego użytkownika do swojego kanału.",
     
     "voice_waiting_1": "## **Uwaga!**\n Nie możesz stworzyć poczekalni, gdy Twój kanał jest ukryty.",
     "voice_waiting_2": "## **Uwaga!**\n Nie możesz ukryć kanału, gdy masz do niego poczekalnię.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Uwaga!.**\n Użytkownik nie akceptuje bezpośrednich wiadomości.",
     "voice_invite_3": "## **Zaproszono.**\n Użytkownik został zaproszony do dołączenia do Twojego tymczasowego kanału głosowego.",
     "voice_invite_4": "## **Zaproszono.**\n {val1} zaprosił cię do dołączenia do {val2}",
+    "voice_invite_5": "## **Uwaga!!**\n Już próbowałeś zaprosić tego użytkownika do swojego kanału.",
     "voice_kick_1": "## **Uwaga!.**\n Nie można wyrzucić użytkownika, który nie jest na kanale głosowym.",
     "voice_kick_2": "## **Uwaga!.**\n Nie można wyrzucić użytkownika z innego kanału głosowego.",
     "voice_kick_3": "## **Wyrzucono.**\n Użytkownik został wyrzucony z Twojego tymczasowego kanału głosowego.",

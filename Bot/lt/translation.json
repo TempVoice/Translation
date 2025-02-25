@@ -33,7 +33,7 @@
     "cmd_find_description": "Sužinokite, kuriam balso kanalui priklauso naudotojas",
   
     "info_setup": "## **Konfiguracija užbaigta.**\n Dabar {val1} galite kurti balso kanalus savo Discord serveryje!",
-    "info_setup2": "## **Įdiegimas baigtas.**\n Šią [sąsają]({val1}) galite naudoti šiam laikiniam balso kanalui valdyti jūsų 'Discord' serveryje!",
+    "info_setup_interface": "## **Įdiegimas baigtas.**\n Šią [sąsają]({val1}) galite naudoti šiam laikiniam balso kanalui valdyti jūsų 'Discord' serveryje!",
     "info_reset": "## **Atkūrimas.**\n Konfigūracija buvo atstatyta į numatytąsias vertes.",
   
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Neleistina**\n Kūrėjo kanalų limitas viename serveryje yra {val1}. Bandykite pašalinti vieną arba padidinti limitą su [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Dar Dėmesio!**\n Šią komandą galima naudoti tik **{val1}** kartus.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Dėmesio!**\n Galite sukurti tik **{val1}** kanalus.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Activate Premium and Kick <@762217899355013120>**\nThis [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot has been successfully installed and invited to this Discord server.\n## Activate Premium\n The owner of the custom branding bot has to activate TempVoice Premium on this Discord server.\nhttps://tempvoice.xyz/premium > `Login with Discord` > `Manage Subscription` > `Activate Premium`\n## Kick the public <@762217899355013120> bot\nOnly the Custom Branding bot needs to be on this Discord server.\n## Important\nExisting Creator Channels from the public TempVoice bot will work like before. Only interfaces have to be recreated using **/setup**.\n\nThis bot will leave this Discord if Premium is not going to be activated soon.",
     "error_conflict": "## **Netikėta Konfliktas.**\n TempVoice susidūrė su 'Discord' API konfliktu. Praneškite apie šį pranešimą čia https://discord.gg/tempvoice. \n### Klaida: `{val1}`",
-    "error_already_invited": "## **Attention!**\n You already tried to invite this user to your temporary channel.",
     
     "voice_waiting_1": "## **Dėmesio!**\n Jūs negalite sukurti laukiamojo, kai jūsų kanalas paslėptas.",
     "voice_waiting_2": "## **Dėmesio!**\n Jūs negalite paslėpti kanalo, nes esate sukūrę laukiamąjį kanalą.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Dėmesio!**\n Naudotojas nepriima asmeninių žinučių.",
     "voice_invite_3": "## **Pakviesta.**\n Naudotojas buvo pakviestas prisijungtį į jūsų laikiną balso kanalą: {val1}",
     "voice_invite_4": "## **Pakviesta.**\n {val1} buvo pakviestas prisijungti į jūsų laikiną balso kanalą {val2}",
+    "voice_invite_5": "## **Attention!**\n You already tried to invite this user to your temporary channel.",
     "voice_kick_1": "## **Dėmesio!**\n Jūs negalite išmesti naudotojo, kuris nėra jūsų kanale.",
     "voice_kick_2": "## **Dėmesio!**\n Jūs negalite išmesti naudotojo, kuris yra kitame kanale.",
     "voice_kick_3": "## **Išmesta.**\n Naudotojas buvo išmestas iš jūsų laikino balso kanalo.",

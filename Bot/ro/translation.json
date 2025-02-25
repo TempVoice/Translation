@@ -33,7 +33,7 @@
 	"cmd_find_description": "Află în ce canal de voce se află un utilizator",
 
 	"info_setup": "## Configurare completă!\n {val1} poate fi folosit acum pentru a crea canale de voce temporare pe serverul tău Discord.",
-	"info_setup2": "## Configurare completă!\n Această interfață poate fi folosită acum pentru a gestiona canalele de voce temporare pe serverul tău Discord.",
+	"info_setup_interface": "## Configurare completă!\n Această interfață poate fi folosită acum pentru a gestiona canalele de voce temporare pe serverul tău Discord.",
 	"info_reset": "## Succes!\n Toate setările tale au fost resetate la valorile implicite.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
 	"error_limit": "## Atenţie!\n Limita canalelor creator pe un singur server este {val1}. Încearcă să ștergi unul sau să mărești limita cu un nivel premium superior.",
 	"error_ratelimit": "## Încetinește!\n Această comandă poate fi folosită din nou în {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
 	"error_creation": "## Încetinește!\n Poți crea un nou canal în {val1}.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
 	"error_cb": "## Activează Premium și Elimină <@762217899355013120>\nAcest bot TempVoice Custom Branding a fost instalat și invitat cu succes pe acest server Discord.\n## Activează Premium\n Proprietarul botului de custom branding trebuie să activeze TempVoice Premium pe acest server Discord.\nhttps://tempvoice.xyz/premium > Autentifică-te cu Discord > Gestionează Abonamentul > Activează Premium\n## Elimină botul public <@762217899355013120>\nDoar botul de Custom Branding trebuie să fie pe acest server Discord.\n## Important\nCanalele Creator existente de la botul public TempVoice vor funcționa ca înainte. Doar interfețele trebuie recreate folosind /setup.\n\nAcest bot va părăsi acest Discord dacă Premium nu va fi activat în curând.",
 	"error_conflict": "## Conflict neașteptat.\n TempVoice a avut un conflict cu API-ul Discord. Raportează acest mesaj aici https://discord.gg/tempvoice. \n### Eroare: {val1}",
-	"error_already_invited": "## Atenţie!\n Ai încercat deja să inviți acest utilizator în canalul tău temporar.",
 
 	"voice_waiting_1": "## Atenţie!\n Nu poți crea o cameră de așteptare când canalul tău este ascuns.",
 	"voice_waiting_2": "## Atenţie!\n Nu poți ascunde canalul tău când ai o cameră de așteptare.",
@@ -79,6 +78,7 @@
 	"voice_invite_2": "## Atenţie!\n Acest utilizator nu permite mesaje directe.",
 	"voice_invite_3": "## Succes!\n O invitație de a se alătura canalului tău de voce temporar a fost trimisă utilizatorului.",
 	"voice_invite_4": "## Nouă invitație!\n {val1} te-a invitat să te alături {val2}",
+	"voice_invite_5": "## Atenţie!\n Ai încercat deja să inviți acest utilizator în canalul tău temporar.",
 	"voice_kick_1": "## Atenţie!\n Acest utilizator nu este într-un canal de voce.",
 	"voice_kick_2": "## Atenţie!\n Nu poți da afară un utilizator din alt canal de voce.",
 	"voice_kick_3": "## Succes!\n Utilizatorii selectați au fost dați afară din canalul tău de voce temporar.",

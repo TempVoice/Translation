@@ -33,7 +33,7 @@
     "cmd_find_description": "Ta reda på vilken röstkanal en användare är i",
 
     "info_setup": "## **Installation klar!**\n {val1} kan nu användas för att skapa tillfälliga röstkanaler i din Discord-server.",
-    "info_setup2": "## **Installation klar!**\n Den här [gränssnittet]({val1}) kan nu användas för att hantera tillfälliga röstkanaler i din Discord-server.",
+    "info_setup_interface": "## **Installation klar!**\n Den här [gränssnittet]({val1}) kan nu användas för att hantera tillfälliga röstkanaler i din Discord-server.",
     "info_reset": "## **Återställt!**\n Alla dina inställningar har återställts till standardvärden.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Uppmärksamhet!**\n Gränsen för skaparkanaler på denna server är {val1}. Försök att ta bort en eller öka gränsen med [premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Sakta ner!**\n Detta kommando kan användas igen om **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sakta ner!**\n Du kan skapa en ny kanal om **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Aktivera Premium och Sparka <@762217899355013120>**\nDenna [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot har installerats och bjudits in till denna Discord-server.\n## Aktivera Premium\nÄgaren till den anpassade varumärkesbotten måste aktivera TempVoice Premium på denna Discord-server.\nhttps://tempvoice.xyz/premium > `Logga in med Discord` > `Hantera prenumeration` > `Aktivera Premium`\n## Sparka den allmänna <@762217899355013120> botten\nBara den anpassade varumärkesboten behöver vara på denna Discord-server.\n## Viktigt\nBefintliga skaparkanaler från den allmänna TempVoice-botten kommer att fungera som tidigare. Endast gränssnitt måste återskapas med **/setup**.\n\nDen här boten kommer att lämna denna Discord om Premium inte aktiveras snart.",
-    "error_conflict": "## **Oväntad Konflikt.**\n TempVoice hade en konflikt med Discord API. Rapportera detta meddelande här https://discord.gg/tempvoice. \n### Fel: `{val1}`",
-    "error_already_invited": "## **Uppmärksamhet!!**\n Du har redan försökt bjuda in den här användaren till din tillfälliga kanal.",    
+    "error_conflict": "## **Oväntad Konflikt.**\n TempVoice hade en konflikt med Discord API. Rapportera detta meddelande här https://discord.gg/tempvoice. \n### Fel: `{val1}`", 
     
     "voice_waiting_1": "## **Uppmärksamhet!**\n Du kan inte skapa ett väntrum när din kanal är dold.",
     "voice_waiting_2": "## **Uppmärksamhet!**\n Du kan inte dölja din kanal när du har ett väntrum.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Uppmärksamhet!**\n Den här användaren tillåter inte direktmeddelanden.",
     "voice_invite_3": "## **Inbjuden!**\n En inbjudan att gå med i din tillfälliga röstkanal skickades till användaren.",
     "voice_invite_4": "## **Ny inbjudan!**\n {val1} har bjudit in dig att gå med {val2}",
+    "voice_invite_5": "## **Uppmärksamhet!!**\n Du har redan försökt bjuda in den här användaren till din tillfälliga kanal.",   
     "voice_kick_1": "## **Uppmärksamhet!**\n Den här användaren finns inte i en röstkanal.",
     "voice_kick_2": "## **Uppmärksamhet!**\n Du kan inte sparka en användare från en annan röstkanal.",
     "voice_kick_3": "## **Kickad!**\n Den här användaren har sparkats ut från din tillfälliga röstkanal.",

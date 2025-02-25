@@ -33,7 +33,7 @@
     "cmd_find_description": "Find out which voice channel a user is in",
 
     "info_setup": "## **Setup Complete!**\n {val1} can now be used to create temporary voice channels in your Discord server.",
-    "info_setup2": "## **Setup Complete!**\n This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
+    "info_setup_interface": "## **Setup Complete!**\n This [interface]({val1}) can now be used to manage temporary voice channels in your Discord server.",
     "info_reset": "## **Reset!**\n All your settings have been reset to default.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Premium Required!**\n The limit of free creator channels is {val1}. Try deleting one or setup unlimited with [TempVoice Premium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Slow Down!**\n This command can be used again **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Slow Down!**\n You can create a new channel **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Activate Premium and Kick <@762217899355013120>**\nThis [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot has been successfully installed and invited to this Discord server.\n## Activate Premium\n The owner of the custom branding bot has to activate TempVoice Premium on this Discord server.\nhttps://tempvoice.xyz/premium > `Login with Discord` > `Manage Subscription` > `Activate Premium`\n## Kick the public <@762217899355013120> bot\nOnly the Custom Branding bot needs to be on this Discord server.\n## Important\nExisting Creator Channels from the public TempVoice bot will work like before. Only interfaces have to be recreated using **/setup**.\n\nThis bot will leave this Discord if Premium is not going to be activated soon.",
     "error_conflict": "## **Unexpected Conflict.**\n TempVoice had a conflict with Discord's API. Report this message here https://discord.gg/tempvoice. \n### Error: `{val1}`",
-    "error_already_invited": "## **Attention!**\n You already tried to invite this user to your temporary channel.",
 
     "voice_waiting_1": "## **Attention!**\n You cannot create a waiting room when your channel is hidden.",
     "voice_waiting_2": "## **Attention!**\n You cannot hide your channel when you have a waiting room.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Attention!**\n This user does not allow direct messaging.",
     "voice_invite_3": "## **Invited!**\n An invitation to join your temporary voice channel was sent to the user.",
     "voice_invite_4": "## **New Invitation!**\n {val1} has invited you to join {val2}",
+    "voice_invite_5": "## **Attention!**\n You already tried to invite this user to your temporary channel.",
     "voice_kick_1": "## **Attention!**\n This user isn’t in a voice channel.",
     "voice_kick_2": "## **Attention!**\n You cannot kick a user from another voice channel.",
     "voice_kick_3": "## **Kicked!**\n Selected users have been kicked out of your temporary voice channel.",

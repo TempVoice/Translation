@@ -33,7 +33,7 @@
     "cmd_find_description": "Tudd meg, hogy egy felhasználó melyik hangcsatornában tartózkodik",
 
     "info_setup": "## **A beállítás befejeződött!**\n {val1} mostantól ideiglenes hangcsatornák létrehozására használható a szerveren.",
-    "info_setup2": "## **A beállítás befejeződött!**\n Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",
+    "info_setup_interface": "## **A beállítás befejeződött!**\n Ez a [interface]({val1}) mostantól használható az ideiglenes hangcsatornák kezelésére a Discord szerveren.",
     "info_reset": "## **Visszaállítás.**\n A konfiguráció visszaállt az alapértelmezettre.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Figyelem**\n Egyetlen szerveren legfeljebb {val1} alkotói csatornát hozhatsz létre. Próbálj törölni egyet, vagy növeld a limitet egy magasabb [prémium](<https://tempvoice.xyz/premium>) szinttel.",
     "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Lassítás!**\n Maximum **{val1}** új csatornát hozhatsz létre.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Aktiváld a Prémiumot és rúgd ki <@762217899355013120>-t**\nEz a [TempVoice Egyedi Márkázás](https://tempvoice.xyz/premium) bot sikeresen telepítve és meghívva lett erre a Discord szerverre.\n## Prémium aktiválása\n A személyre szabott márkázású bot tulajdonosának aktiválnia kell a TempVoice Prémiumot erre a Discord szerverre.\nhttps://tempvoice.xyz/premium > `Bejelentkezés a Discord-dal` > `Előfizetés Kezelése` > `Prémium Aktiválása`\n## Rúgd ki a publikus <@762217899355013120> botot\nCsak a Személyre Szabott Márkázású botnak kell lennie ezen a Discord szerveren.\n## Fontos\nA publikus TempVoice botból származó meglévő Létrehozó Csatornák ugyanúgy fognak működni, mint korábban. Csak az interfészeket kell újra létrehozni a **/setup** paranccsal.\n\nEz a bot elhagyja ezt a Discordot, ha a Prémiumot nem fogják hamarosan aktiválni.",
-    "error_conflict": "## **Váratlan konfliktus.**\n A TempVoice konfliktusba került a Discord API-val. Jelentsd ezt a hibát itt https://discord.gg/tempvoice. \n### Hiba: `{val1}`",
-    "error_already_invited": "## **Figyelem!**\n Már megpróbáltad meghívni ezt a felhasználót az ideiglenes csatornádra.",    
+    "error_conflict": "## **Váratlan konfliktus.**\n A TempVoice konfliktusba került a Discord API-val. Jelentsd ezt a hibát itt https://discord.gg/tempvoice. \n### Hiba: `{val1}`",   
     
     "voice_waiting_1": "## **Figyelem**\n Nem hozhatsz létre várótermet, ha a csatornád el van rejtve.",
     "voice_waiting_2": "## **Figyelem**\n Nem lehet elrejteni a csatornát, ha már van egy várótermed.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Figyelem!**\n Ez a felhasználó nem engedélyezi a közvetlen üzenetküldést.",
     "voice_invite_3": "## **Meghívva!**\n A rendszer meghívót küldött az ideiglenes hangcsatornához való csatlakozásra a felhasználónak.",
     "voice_invite_4": "## **Új meghívó!**\n {val1} meghívott, hogy csatlakozz {val2}",
+    "voice_invite_5": "## **Figyelem!**\n Már megpróbáltad meghívni ezt a felhasználót az ideiglenes csatornádra.",
     "voice_kick_1": "## **Figyelem!**\n Ez a felhasználó nincs hangcsatornában.",
     "voice_kick_2": "## **Figyelem!**\n Nem lehet kirúgni egy felhasználót egy másik hangcsatornáról.",
     "voice_kick_3": "## **Kirúgva!**\n Ezt a felhasználót kirúgták az ideiglenes hangcsatornából.",

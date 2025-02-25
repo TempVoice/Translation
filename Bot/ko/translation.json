@@ -33,7 +33,7 @@
     "cmd_find_description": "사용자가 어느 음성 채널에 있는지 찾아보세요.",
   
     "info_setup": "## **설치 완료.**\n 이제 {val1}에서 서버의 임시 음성 채널을 생성할 수 있습니다.",
-    "info_setup2": "## **설치 완료.**\n 이제 [인터페이스]({val1})를 사용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",
+    "info_setup_interface": "## **설치 완료.**\n 이제 [인터페이스]({val1})를 사용하여 디스코드 서버의 임시 음성 채널을 관리할 수 있습니다.",
     "info_reset": "## **초기화됨.**\n 구성이 기본값으로 초기화되었습니다.",
   
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **불가능**\n 단일 서버의 창작자 채널 제한은 {val1}입니다. 하나를 삭제하거나 높은 [프리미엄](<https://tempvoice.xyz/premium>) 티어로 제한을 늘려보세요.",
     "error_ratelimit": "## **아직 허용되지 않음.**\n 해당 명령은 **{val1}** 후에 다시 사용할 수 있습니다. 남은 시간은 메시지에서 확인하세요.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **속도 조절!**\n 새 채널을 만들 수 있습니다 **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **프리미엄 활성화 및 킥 <@762217899355013120>**\n이 [TempVoice Custom Branding](https://tempvoice.xyz/premium) 봇은 성공적으로 설치되어 이 디스코드 서버에 초대되었습니다.\n## 프리미엄 활성화\n 사용자 정의 브랜딩 봇의 소유자는 TempVoice 프리미엄을 이 디스코드 서버에서 활성화해야 합니다.\nhttps://tempvoice.xyz/premium > `디스코드로 로그인` > `구독 관리` > `프리미엄 활성화`\n## 공개 봇 <@762217899355013120> 킥\n이 디스코드 서버에는 사용자 정의 브랜딩 봇만 있으면 됩니다.\n## 중요\n공개 TempVoice 봇에서 기존 생성자 채널은 이전과 같이 작동합니다. 인터페이스만 **/setup**을 사용하여 다시 만들어야 합니다.\n\n이 봇은 프리미엄을 곧 활성화하지 않을 경우 디스코드를 나갈 것입니다.",
     "error_conflict": "## **예기치 않은 충돌.**\n TempVoice가 디스코드의 API와 충돌했습니다. 이 메시지를 여기에서 신고하십시오. https://discord.gg/tempvoice.\n### 에러: `{val1}`",
-    "error_already_invited": "## **불가능!**\n 이미이 사용자를 임시 채널로 초대하려고 시도했습니다.",    
     
     "voice_waiting_1": "## **불가능**\n 음성 채널이 숨겨진 경우 대기실을 생성할 수 없습니다.",
     "voice_waiting_2": "## **불가능**\n 대기실이 있는 경우 음성 채널을 숨길 수 없습니다.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **사용불가능**\n 해당 사용자는 서버 멤버가 보내는 DM을 허용하지 않았습니다.",
     "voice_invite_3": "## **초대됨**\n 해당 사용자를 음성 채널로 초대했습니다.",
     "voice_invite_4": "## **초대됨**\n {val1}님이 당신을 {val2} 채널로 초대했습니다.",
+    "voice_invite_5": "## **불가능!**\n 이미이 사용자를 임시 채널로 초대하려고 시도했습니다.",
     "voice_kick_1": "## **사용불가능**\n 음성 채널에 참여하지 않은 사용자를 추방할 수 없습니다.",
     "voice_kick_2": "## **사용불가능**\n 다른 음성 채널에 참여한 사용자를 추방할 수 없습니다.",
     "voice_kick_3": "## **추방됨**\n 해당 사용자가 음성 채널에서 추방되었습니다.",

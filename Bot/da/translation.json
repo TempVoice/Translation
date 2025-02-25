@@ -33,7 +33,7 @@
     "cmd_find_description": "Find ud af, hvilken talekanal en bruger er i",    
 
     "info_setup": "## **Opsætning fuldført!**\n {val1} kan nu bruges til at oprette midlertidige stemmekanaler på din Discord server.",
-    "info_setup2": "## **Opsætning fuldført!**\n Denne [strepanel]({val1}) kan nu bruges til at administrere midlertidige stemmekanaler på din Discord server.",
+    "info_setup_interface": "## **Opsætning fuldført!**\n Denne [strepanel]({val1}) kan nu bruges til at administrere midlertidige stemmekanaler på din Discord server.",
     "info_reset": "## **Nulstil!**\n Alle dine indstillinger er blevet nulstillet til standard.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Hør efter!**\n Grænsen for skaberkanaler på en enkelt server er {val1}. Prøv at slette en eller øg grænsen med en højere [premium](<https://tempvoice.xyz/premium>) tier.",
     "error_ratelimit": "## **Sænk farten!**\n Denne kommando kan bruges igen **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sænk farten!**\n Du kan oprette en ny kanal **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Aktivér Premium og Kick <@762217899355013120>**\nDenne [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot er blevet succesfuldt installeret og inviteret til denne Discord-server.\n## Aktivér Premium\n Ejeren af den brugerdefinerede branding-bot skal aktivere TempVoice Premium på denne Discord-server.\nhttps://tempvoice.xyz/premium > `Log ind med Discord` > `Administrer abonnement` > `Aktivér Premium`\n## Kick den offentlige <@762217899355013120> bot\nKun den brugerdefinerede branding-bot skal være på denne Discord-server.\n## Vigtigt\nEksisterende skaberkanaler fra den offentlige TempVoice-bot vil fungere som før. Kun grænseflader skal genskabes ved hjælp af **/setup**.\n\nDenne bot vil forlade denne Discord, hvis Premium ikke snart bliver aktiveret.",
-    "error_conflict": "## **Uventet konflikt.**\nTempVoice havde en konflikt med Discord's API. Rapportér denne besked her https://discord.gg/tempvoice.\n### Fejl: `{val1}`",
-    "error_already_invited": "## **Hør efter!**\n Du har allerede forsøgt at invitere denne bruger til din midlertidige kanal.",    
+    "error_conflict": "## **Uventet konflikt.**\nTempVoice havde en konflikt med Discord's API. Rapportér denne besked her https://discord.gg/tempvoice.\n### Fejl: `{val1}`", 
     
     "voice_waiting_1": "## **Hør efter!**\n Du kan ikke oprette et venterum, når din kanal er skjult.",
     "voice_waiting_2": "## **Hør efter!**\n Du kan ikke skjule din kanal, når du har et venterum.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Hør efter!**\n Denne bruger tillader ikke direkte beskeder.",
     "voice_invite_3": "## **Inviteret!**\n En invitation til at deltage i din midlertidige stemmekanal blev sendt til brugeren.",
     "voice_invite_4": "## **Ny invitation!**\n {val1} har inviteret dig til at deltage i {val2}",
+    "voice_invite_5": "## **Hør efter!**\n Du har allerede forsøgt at invitere denne bruger til din midlertidige kanal.",   
     "voice_kick_1": "## **Hør efter!**\n Denne bruger er ikke i en stemmekanal.",
     "voice_kick_2": "## **Hør efter!**\n Du kan ikke smide en bruger fra en anden stemmekanal ud.",
     "voice_kick_3": "## **Smidt ud!**\n Denne bruger er blevet smidt ud af din midlertidige stemmekanal.",

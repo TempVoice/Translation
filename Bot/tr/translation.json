@@ -33,7 +33,7 @@
     "cmd_find_description": "Bir kullanıcının hangi ses kanalında olduğunu öğrenin.",
 
     "info_setup": "## **Kurulum Tamamlandı!**\n {val1}, artık Discord sunucunuzda geçici ses kanallarını oluşturmak için kullanılabilir.",
-    "info_setup2": "## **Kurulum Tamamlandı!**\n [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
+    "info_setup_interface": "## **Kurulum Tamamlandı!**\n [Interface]({val1}) adlı arayüz, Discord sunucunuzdaki geçici ses kanallarını yönetmek için kullanılabilir. ",
     "info_reset": "## **Sıfırlandı!**\n Yapılandırma varsayılan olarak değiştirildi.",
 
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Mümkün değil!**\n Tek bir sunucudaki oluşturucu kanallarının sınırı {val1}'dir. Birini silmeyi deneyiniz veya daha fazla oluşturucu kurmak için [Premium](<https://tempvoice.xyz/premium>) kademesine yükseltin.",
     "error_ratelimit": "## **Yavaşla!**\n Komut, **{val1}** içerisinde tekrar kullanılabilir.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Yavaşla!**\n Yeni bir kanal oluşturmak için: **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Premiumu Etkinleştirin ve <@762217899355013120> Botunu Atın**\nBu [TempVoice Özel Markalaşma](https://tempvoice.xyz/premium) botu başarıyla yüklendi ve bu Discord sunucusuna davet edildi.\n## Premiumu Etkinleştirin\nÖzel markalı botun sahibi, bu Discord sunucusunda TempVoice Premium'u etkinleştirmesi gerekmektedir.\nhttps://tempvoice.xyz/premium > `Discord ile Giriş Yap` > `Aboneliği Yönet` > `Premiumu Etkinleştir`\n## Halka açık <@762217899355013120> botunu atın\nYalnızca Özel Markalaşma botu bu Discord sunucusunda olmalıdır.\n## Önemli\nHalka açık TempVoice botundan mevcut Oluşturucu Kanallar önceki gibi çalışacak. Yalnızca arabirimler **/setup** kullanılarak yeniden oluşturulmalıdır.\n\nBu bot, Premium hızlı bir şekilde etkinleştirilmezse bu Discord'dan ayrılacaktır.",
     "error_conflict": "## **Beklenmeyen Çatışma.**\n TempVoice, Discord'un API'si ile çatışma yaşıyor. Bu mesajı https://discord.gg/tempvoice adresinde bildirin. \n### Hata: `{val1}`",
-    "error_already_invited": "## **Mümkün Değil!**\n Bu kullanıcıyı zaten geçici kanalınıza davet etmeyi denediniz.",    
     
     "voice_waiting_1": "## **Mümkün değil!**\n Kanalınız gizliyken, bekleme odası oluşturamazsınız.",
     "voice_waiting_2": "## **Mümkün değil!**\n Bekleme odanız varken, kanalınızı gizleyemezsiniz.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Mümkün değil!**\n Kullanıcı doğrudan mesajları kabul etmiyor.",
     "voice_invite_3": "## **Davet edildi!**\n Bu kullanıcı, geçici ses kanalınıza katılmaya davet edildi.",
     "voice_invite_4": "## **Davet edildi!**\n {val1} sizi, {val2}'ye katılmaya davet etti.",
+    "voice_invite_5": "## **Mümkün Değil!**\n Bu kullanıcıyı zaten geçici kanalınıza davet etmeyi denediniz.",    
     "voice_kick_1": "## **Mümkün değil!**\n Ses kanalında olmayan bir kullanıcıyı atamazsın.",
     "voice_kick_2": "## **Mümkün değil!**\n Kullanıcıları, başka bir ses kanalından atamazsın.",
     "voice_kick_3": "## **Atıldı!**\n Bu kullanıcı, geçici ses kanalınızdan atıldı.",

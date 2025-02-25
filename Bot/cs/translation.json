@@ -33,7 +33,7 @@
     "cmd_find_description": "Zjistěte, ve kterém hlasovém kanálu je uživatel",
 
     "info_setup": "## **Nastavení dokončeno!**\n Nyní může být {val1} použito k vytváření dočasných hlasových kanálů ve vašem Discord serveru.",
-    "info_setup2": "## **Nastavení dokončeno!**\n Tato [rozhraní]({val1}) nyní může být použita k správě dočasných hlasových kanálů ve vašem Discord serveru.",
+    "info_setup_interface": "## **Nastavení dokončeno!**\n Tato [rozhraní]({val1}) nyní může být použita k správě dočasných hlasových kanálů ve vašem Discord serveru.",
     "info_reset": "## **Obnovení!**\n Všechna vaše nastavení byla obnovena na výchozí hodnoty.",
     
     "error_validated": "## **Premium Expired!**\n {val1} Please contact an Admin. This creator channel isnt valid anymore because the premium subscription got canceled.",
@@ -51,13 +51,12 @@
     "error_limit": "## **Pozor!**\n Limit tvůrčích kanálů v jednom serveru je {val1}. Zkuste jeden smazat nebo zvýšit limit s vyšší úrovní [prémie](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "## **Zpomalte!**\n Tento příkaz lze znovu použít za **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Zpomalte!**\n Můžete vytvořit nový kanál za **{val1}**.",
-    "error_totallimit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
+    "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
     "error_server_limit": "## **Attention!**\n The Discord server has reached the limit of 500 channels that can exist at the same time. Please try again later.",
     "error_current_category_limit": "## **Attention!**\n The category of your temporary voice channel have reached their limit of 50 channels. Please try again later.",
     "error_cb": "## **Aktivujte Premium a vyhoďte <@762217899355013120>**\nTento [TempVoice Custom Branding](https://tempvoice.xyz/premium) bot byl úspěšně nainstalován a pozván na tento Discord server.\n## Aktivovat Premium\n Vlastník uživatelského značení bot musí aktivovat TempVoice Premium na tomto Discord serveru.\nhttps://tempvoice.xyz/premium > `Přihlásit se pomocí Discord` > `Spravovat předplatné` > `Aktivovat Premium`\n## Vyhoďte veřejného bota <@762217899355013120>\nNa tomto Discord serveru musí být pouze vlastní bot s vlastním značením.\n## Důležité\nExistující tvůrčí kanály z veřejného bota TempVoice budou fungovat jako dříve. Pouze rozhraní je třeba znovu vytvořit pomocí **/setup**.\n\nTento bot opustí tento Discord, pokud se Premium brzy neaktivuje.",
-    "error_conflict": "## **Nepředvídaný konflikt.**\nTempVoice měl konflikt s Discordovým API. Nahlaste tuto zprávu zde https://discord.gg/tempvoice.\n### Chyba: `{val1}`",
-    "error_already_invited": "## **Není možné!**\n Již jste se pokusili pozvat tohoto uživatele do svého dočasného kanálu.",    
+    "error_conflict": "## **Nepředvídaný konflikt.**\nTempVoice měl konflikt s Discordovým API. Nahlaste tuto zprávu zde https://discord.gg/tempvoice.\n### Chyba: `{val1}`", 
     
     "voice_waiting_1": "## **Pozor!**\n Nemůžete vytvořit čekárnu, pokud je váš kanál skrytý.",
     "voice_waiting_2": "## **Pozor!**\n Když máte čekárnu, nemůžete svůj kanál skrýt.",
@@ -79,6 +78,7 @@
     "voice_invite_2": "## **Pozor!**\n Tento uživatel nepovoluje přímé zasílání zpráv.",
     "voice_invite_3": "## **Pozvánka!**\n Uživateli byla odeslána pozvánka k připojení k dočasnému hlasovému kanálu.",
     "voice_invite_4": "## **Nová pozvánka!**\n {val1} vás pozval, abyste se připojili k {val2}",
+    "voice_invite_5": "## **Není možné!**\n Již jste se pokusili pozvat tohoto uživatele do svého dočasného kanálu.",   
     "voice_kick_1": "## **Pozor!**\n Tento uživatel není v hlasovém kanálu.",
     "voice_kick_2": "## **Pozor!**\n Uživatele nelze vyhodit z jiného hlasového kanálu.",
     "voice_kick_3": "## **Vyhozeno!**\n Tento uživatel byl vyhozen z vašeho dočasného hlasového kanálu.",
