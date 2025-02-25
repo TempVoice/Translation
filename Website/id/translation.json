@@ -1,9 +1,9 @@
 {
   "slogan_title_part_1": "Sementara",
-  "slogan_title_part_2": "Pengganti Permanen",
+  "slogan_title_part_2": "Gantikan Permanen",
   "slogan_description": "Server lebih rapi, obrolan menjadi asik dengan TempVoice. Channel suara fleksibel. sekali klik langsung jadi.",
   
-  "featured_title": "Pilihan Server Favoritmu",
+  "featured_title": "Pilihan Server Favorit",
   "featured_description": "Ribuan server dan jutaan user Discord memilih TempVoice.",
   
   "introduction_title": "Apa Itu Channel Sementara?",
@@ -21,7 +21,7 @@
   "status_alert_offline": "Maaf atas ketidaknyamanannya, TempVoice saat ini sedang mengalami masalah",
   "status_alert_online": "TempVoice beroprasi dengan baik",
 
-  "server_selection": "Pilih server Discord untuk mengubah setelan bot atau mengundang bot TempVoice ke server lain.",
+  "server_selection": "Pilih server Discord untuk mengubah setelan atau menginstall bot TempVoice ke server lain.",
   
   "appearance_title": "Tampilan",
   "appearance_language_title": "Bahasa",
@@ -40,7 +40,7 @@
   
   "navbar_home": "Beranda",
   "navbar_help": "Bantuan",
-  "navbar_setup": "Memulai",
+  "navbar_setup": "Setup",
   "navbar_premium": "Premium",
   "navbar_support": "Dukungan",
   
@@ -74,7 +74,7 @@
   "placeholder_description_3": "Tampilkan nama role tertinggi pada daftar anggota daring yang dipisahkan.",
   "placeholder_description_4": "Penanda akan diganti dengan nama baru melalui perintah '/voice name'. Bagian dari penanda dapat diubah sesuai keinginan user.",
 
-  "button_lable_invite": "Undang TempVoice",
+  "button_lable_invite": "Install TempVoice",
   "button_lable_dashboard": "Buka Dashboard",
   "button_lable_login": "Masuk pakai Discord",
   "button_lable_logout": "Keluar",
