@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **הרשאות חסרות!**\n ההרשאות הבאות הן **נדרשות** לתפקיד **הגדרות השרת** שלי ול**קטגוריה של ערוצים זמניים**: {val1}\n### למה אני זקוק להרשאות אלו?\nכדי לבצע **סנכרון הרשאות** אני זקוק לכל ההרשאות שיש לסנכרן.",
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "**בלתי אפשרי!** ההגבלה למנהלי ערוצי דיבור זמניים בשרת היא {val1}. נסה למחוק ערוץ קיים או לשדרג לרמת פרימיום כדי להגביל יותר - [פרימיום](https://tempvoice.xyz/premium).",
-    "error_ratelimit": "**בלתי אפשרי כרגע!** הפקודה יכולה להשתמש בתדירות של **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "**בלתי אפשרי כרגע!** הפקודה יכולה להשתמש בתדירות של **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "**מעט יותר!** אתה יכול ליצור ערוץ חדש רק מחר: {val1}.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

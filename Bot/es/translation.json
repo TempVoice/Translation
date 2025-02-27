@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **¡Faltan Permisos!**\n Los siguientes permisos son **necesarios** para mi **rol de configuración del servidor** y **categoría de canales temporales**: {val1}\n### ¿Por qué necesito estos Permisos?\nPara **Permisos de Sincronización** necesito todos los permisos que necesitan ser sincronizados.", 
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "## **¡Atención!**\n El límite de creadores de canales en un solo servidor es de {val1}. Prueba a eliminar uno o incrementa el límite con un nivel más alto de la suscripción [prémium](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **¡Cálmate!**\n El comando puede ser usado de nuevo **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **¡Cálmate!**\n El comando puede ser usado de nuevo **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **¡Cálmate!**\n Puedes crear un nuevo canal **{val1}**.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

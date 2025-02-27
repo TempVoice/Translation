@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **Berechtigungen fehlen!**\nFolgende Berechtigungen sind **erforderlich** für meine **Servereinstellungsrolle** und **Kategorie temporärer Kanäle**: {val1}\n### Warum benötige ich diese Berechtigungen?\nUm **Berechtigungen zu synchronisieren**, benötige ich alle Berechtigungen, die synchronisiert werden müssen.",    
     "error_deactivated": "## **Achtung!**\nDie Administratoren dieses Discord-Servers haben entschieden, diesen Befehl für alle temporären Sprachkanäle von {val1} zu deaktivieren.",
     "error_limit": "## **Achtung!**\nDas Limit für Creator-Kanäle auf diesem Discord-Server beträgt `{val1}`. Lösche einen Creator-Kanal oder erhöhe das Limit mit einer höheren [Premium](<https://tempvoice.xyz/premium>)-Stufe.",
-    "error_ratelimit": "## **Noch nicht möglich!**\nDieser Befehl kann wieder verwendet werden: {val1}\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Noch nicht möglich!**\nDieser Befehl kann wieder verwendet werden: {val1}\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Nicht so schnell!**\nDu kannst einen neuen Kanal erstellen: {val1}",
     "error_total_limit": "## **Achtung!**\nDie Administratoren dieses Discord-Servers haben die Anzahl der temporären Sprachkanäle auf **{val1}** begrenzt. Bitte versuche es später erneut.",
     "error_category_limit": "## **Achtung!**\nAlle verfügbaren Kategorien haben ihr Limit von 50 Kanälen erreicht. Wenn du ein Administrator bist, kannst du weitere [Fallback-Kategorien](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) im Dashboard einrichten, ansonsten versuche es später erneut.",

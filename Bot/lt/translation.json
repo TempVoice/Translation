@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **Trūksta Leidimų!**\n Šie leidimai **privalomi** mano **serverio nustatymų vaidmeniui** ir **laikinų kanalų kategorijai**: {val1}\n### Kodėl man reikia šių leidimų?\nLeidimų **sinchronizavimui** man reikia visų leidimų, kuriuos reikia sinchronizuoti.",    
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "## **Neleistina**\n Kūrėjo kanalų limitas viename serveryje yra {val1}. Bandykite pašalinti vieną arba padidinti limitą su [premium](<https://tempvoice.xyz/premium>).",
-    "error_ratelimit": "## **Dar Dėmesio!**\n Šią komandą galima naudoti tik **{val1}** kartus.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Dar Dėmesio!**\n Šią komandą galima naudoti tik **{val1}** kartus.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Dėmesio!**\n Galite sukurti tik **{val1}** kanalus.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **Kebenaran Hilang!**\n Kebenaran berikut **diperlukan** untuk peranan tetapan server saya dan kategori saluran sementara: {val1}\n### Kenapa perlu kebenaran ini?\nUntuk **Menyelaraskan Kebenaran** saya perlu semua kebenaran yang perlu diselaraskan.",
     "error_deactivated": "## **Perhatian!**\n Pentadbir server Discord ini telah memutuskan untuk menyahaktifkan arahan ini untuk semua saluran suara sementara dari {val1}.",
     "error_limit": "## **Melebihi Had!**\n Had saluran pencipta dalam satu server adalah {val1}. Cuba padam satu atau tingkatkan had dengan [premium](<https://tempvoice.xyz/id/premium>).",
-    "error_ratelimit": "## **Sabar Sikit!**\n Arahan ini boleh digunakan lagi dalam **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Sabar Sikit!**\n Arahan ini boleh digunakan lagi dalam **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Sabar Sikit!**\n Anda boleh buat saluran baru dalam **{val1}**.",
     "error_total_limit": "## **Perhatian!**\n Pentadbir server Discord ini telah memutuskan untuk menghadkan jumlah saluran suara sementara kepada **{val1}**. Sila cuba lagi nanti.",
     "error_category_limit": "## **Perhatian!**\n Semua kategori yang ada telah mencapai had 50 saluran setiap satu. Jika anda admin, anda boleh menetapkan lebih banyak [Kategori Fallback](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) di papan pemuka, jika tidak sila cuba lagi nanti.",

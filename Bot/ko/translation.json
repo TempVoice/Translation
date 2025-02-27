@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **권한 부족!**\n 나의 **서버 설정 역할** 및 **임시 채널 카테고리**에는 다음 권한이 **필요**합니다: {val1}\n### 왜 이런 권한이 필요한가요?\n**권한 동기화**를 위해 동기화해야 할 모든 권한이 필요합니다.",
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "## **불가능**\n 단일 서버의 창작자 채널 제한은 {val1}입니다. 하나를 삭제하거나 높은 [프리미엄](<https://tempvoice.xyz/premium>) 티어로 제한을 늘려보세요.",
-    "error_ratelimit": "## **아직 허용되지 않음.**\n 해당 명령은 **{val1}** 후에 다시 사용할 수 있습니다. 남은 시간은 메시지에서 확인하세요.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **아직 허용되지 않음.**\n 해당 명령은 **{val1}** 후에 다시 사용할 수 있습니다. 남은 시간은 메시지에서 확인하세요.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **속도 조절!**\n 새 채널을 만들 수 있습니다 **{val1}**.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

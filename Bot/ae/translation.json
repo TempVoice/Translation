@@ -20,7 +20,7 @@
     "error_permissions_sync": "## **الصلاحيات مفقودة!**\n الصلاحيات التالية مطلوبة لدور إعدادات السيرفر الخاص بي وفئة الرومات المؤقتة: {val1}\n### لماذا أحتاج إلى هذه الصلاحيات؟\nلمزامنة الصلاحيات، أحتاج إلى جميع الصلاحيات التي يتعين مزامنتها.",
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",    
     "error_limit": "<- حاول حذف واحد أو زيادة الحد مع أعلى [Premium](<https://tempvoice.xyz/premium>) <- {val1} <- غير ممكن** -> الحد الأقصى لرومات المنشئ في سيرفر واحد هو**",
-    "error_ratelimit": "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "**{val1}** غير ممكن بعد** -> يمكن استخدام الأمر**\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "يمكنك إنشاء روم جديدة <- ** {val1} ** <- **يرجى الانتظار ثانية قبل الضغط**",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

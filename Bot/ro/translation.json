@@ -49,7 +49,7 @@
 	"error_permissions_sync": "## Permisiuni lipsă!\n Următoarele permisiuni sunt necesare pentru rolul meu de setări ale serverului și categoria canalelor temporare: {val1}\n### De ce am nevoie de aceste permisiuni?\nPentru a sincroniza permisiunile am nevoie de toate permisiunile care trebuie sincronizate.",
 	"error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
 	"error_limit": "## Atenţie!\n Limita canalelor creator pe un singur server este {val1}. Încearcă să ștergi unul sau să mărești limita cu un nivel premium superior.",
-	"error_ratelimit": "## Încetinește!\n Această comandă poate fi folosită din nou în {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+	"error_ratelimit": "## Încetinește!\n Această comandă poate fi folosită din nou în {val1}.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
 	"error_creation": "## Încetinește!\n Poți crea un nou canal în {val1}.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

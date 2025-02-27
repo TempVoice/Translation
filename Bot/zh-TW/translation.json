@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **缺少權限！**\n 我的**伺服器設定角色**和**臨時頻道類別**需要以下權限：{val1}\n### 為什麼需要這些權限？\n為了**同步權限**，我需要所有需要同步的權限。",
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "## **無法完成**\n 一個伺服器最多能擁有 {val1} 個臨時頻道創造器，請嘗試刪除一些或者透過[付費訂閱](<https://tempvoice.xyz/premium>)獲得更多",
-    "error_ratelimit": "## **請稍後再試！**\n 此命令可以在 **{val1}** 後再次使用\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **請稍後再試！**\n 此命令可以在 **{val1}** 後再次使用\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **請稍後再試！**\n 您可以在 **{val1}** 後創建新頻道",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

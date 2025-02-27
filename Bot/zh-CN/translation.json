@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **权限不足！**\n 以下权限是 **必需的**，用于 **服务器设置角色** 和 **临时频道类别**：{val1}\n### 为什么需要这些权限？\n为了 **同步权限**，需要所有需要同步的权限。",
     "error_deactivated": "## **注意！**\n Discord 服务器的管理员已决定停用 {val1} 的所有临时语音频道的此命令。",
     "error_limit": "## **限制！**\n 单个服务器中创建者频道的限制为 {val1}。尝试删除一个或通过 [高级版](<https://tempvoice.xyz/premium>) 增加限制。",
-    "error_ratelimit": "## **请稍等！**\n 此命令可以在 **{val1}** 后再次使用。\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **请稍等！**\n 此命令可以在 **{val1}** 后再次使用。\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **请稍等！**\n 可以在 **{val1}** 后创建一个新频道。",
     "error_total_limit": "## **注意！**\n Discord 服务器的管理员已决定将临时语音频道的总数限制为 **{val1}**。请稍后再试。",
     "error_category_limit": "## **注意！**\n 所有可用类别已达到每个类别 50 个频道的限制。如果是管理员，可以在控制面板中设置更多 [备用类别](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories)，否则请稍后再试。",

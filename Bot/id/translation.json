@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **Izin Hilang!**\n Izin **diperlukan** untuk mengatur **role server** dan **kategori channel**: {val1}\n### Agar Apa?\nAgar kami dapat melakukan **Sinkronisasi Izin** dengan lancar.",
     "error_deactivated": "## **Tak Dapat Diatur!**\n Admin server telah mematikan seluruh perintah ini untuk channel di {val1}.",
     "error_limit": "## **Batas Tercapai**\n Batas creator channel di setiap server hanya {val1}. Coba hapus salah satu atau dapatkan akses tanpa batas dengan [premium](<https://tempvoice.xyz/id/premium>).",
-    "error_ratelimit": "## **Tunggu Sebentar**\n Kamu baru saja menggunakan perintah ini {val1}.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Tunggu Sebentar**\n Kamu baru saja menggunakan perintah ini {val1}.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Tunggu Sebentar**\n Kamu baru saja membuat channel baru {val1}.",
     "error_total_limit": "## **Dibatasi Admin!**\n Admin server telah membatasi jumlah channel voice menjadi **{val1}**. Silahkan coba lagi nanti.",
     "error_category_limit": "## **Mencapai Batas!**\n Seluruh kategori yang ada sudah mencapai batasnya, masing-masing dari mereka hanya dapat menampung 50 channel. kalau kamu Admin, kamu bisa mengatur [Kategori Fallback](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) di dashboard.",

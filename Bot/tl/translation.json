@@ -20,7 +20,7 @@
       "error_permissions_sync": "## **Missing Permissions!**\n Following permissions are **required** for my **server settings role** and **category of temporary channels**: {val1}\n### Why do I need these permissions?\nTo **Sync Permissions** I need all the permissions that need to be synced.",
       "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
       "error_limit": "## **Hindi Posible!**\n Ang limitasyon ng mga creator na channel sa isang server ay {val1}. Subukang bumura nang isa o dagdagan ang limitasyon gamit ang mas mataas na [prima](<https://tempvoice.xyz/premium>) na hanay.",
-      "error_ratelimit": "## **Bagalin Mo Nga!**\n Ang command na ito ay maaaring gamitin muli pagkatapos ng **{val1}**.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+      "error_ratelimit": "## **Bagalin Mo Nga!**\n Ang command na ito ay maaaring gamitin muli pagkatapos ng **{val1}**.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
       "error_creation": "## **Bagalin Mo Nga!**\n Maaari kang lumikha ng bagong channel **{val1}**.",
       "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
       "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",

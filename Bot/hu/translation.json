@@ -49,7 +49,7 @@
     "error_permissions_sync": "## **Hiányzó Engedélyek!**\n Ezek a **következő** engedélyek **szükségesek** a **szerverbeállítások szerepéhez** és az **ideiglenes csatornák kategóriájához**: {val1}\n### Miért szükségesek ezek az engedélyek?\nAz **Engedélyek szinkronizálásához** minden olyan engedélyre szükségem van, amelyeket szinkronizálni kell.",
     "error_deactivated": "## **Attention!**\n The administrators of this Discord server have decided to deactivate this command for all temporary voice channels of {val1}.",
     "error_limit": "## **Figyelem**\n Egyetlen szerveren legfeljebb {val1} alkotói csatornát hozhatsz létre. Próbálj törölni egyet, vagy növeld a limitet egy magasabb [prémium](<https://tempvoice.xyz/premium>) szinttel.",
-    "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.\nhttps://help.tempvoice.xyz/faq/5min-cooldown",
+    "error_ratelimit": "## **Lassítás!**\n Ezt a parancsot újra használhatod **{val1}** múlva.\nhttps://easy.tempvoice.xyz/faq/5min-cooldown",
     "error_creation": "## **Lassítás!**\n Maximum **{val1}** új csatornát hozhatsz létre.",
     "error_total_limit": "## **Attention!**\n The administrators of this Discord server have decided to limit the number of total temporary voice channels to **{val1}**. Please try again later.",
     "error_category_limit": "## **Attention!**\n All available categories have reached their limit of 50 channels each. If you are an admin, you can set up more [Fallback Categories](https://easy.tempvoice.xyz/config/creator/overview/category#fallback-categories) in the dashboard, otherwise please try again later.",
