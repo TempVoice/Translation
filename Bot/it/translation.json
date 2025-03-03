@@ -25,7 +25,7 @@
     "cmd_voice_password_description": "Imposta una password necessaria per entrare nel tuo canale temporaneo",
     "cmd_voice_reset_description": "Ripristina le impostazioni del tuo canale temporaneo",
     "cmd_voice_lfp_description": "Manda un invito per il tuo canale temporaneo in questa chat",
-    "cmd_voice_status_description": "Change the status of your temporary channel",
+    "cmd_voice_status_description": "Cambia lo stato del tuo canale temporaneo",
 
     "cmd_join_description": "Entra in un canale temporaneo utilizzando una password",
     "cmd_setup_tempvoice_description": "Configura TempVoice facilmente e in maniera guidata",
