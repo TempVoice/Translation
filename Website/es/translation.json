@@ -32,11 +32,11 @@
   "interface_title": "Interfaz",
   "interface_description": "Permite a los usuarios controlar su propio 'Canal de Voz Temporal'",
 
-  "config_tab_1": "Overview",
-  "config_tab_2": "Features",
-  "config_tab_3": "Permissions",
-  "config_tab_4": "Customization",
-  "config_tab_5": "Miscellaneous",
+  "config_tab_1": "Resumen",
+  "config_tab_2": "Características",
+  "config_tab_3": "Permisos",
+  "config_tab_4": "Personalización",
+  "config_tab_5": "Varios"
 
   "navbar_home": "Inicio",
   "navbar_help": "Ayuda",
@@ -191,8 +191,8 @@
   "component_limit_title": "Límite de Usuarios del Canal Temporal",
   "component_limit_description": "Límite de Usuarios Predeterminado del Canal Temporal",
 
-  "component_limit_range_title": "User Limit Range",
-  "component_limit_range_description": "Set a range for the user limit which can be set by the owner of a temporary channel",
+  "component_limit_range_title": "Rango de Límite de Usuarios",
+  "component_limit_range_description": "Establece un rango para el límite de usuarios que puede ser establecido por el propietario de un canal temporal"
 
   "component_ownerpermissions_title": "Comandos Disponibles del Canal Temporal",
   "component_ownerpermissions_menu_lable": "Gestionar Ajustes",
