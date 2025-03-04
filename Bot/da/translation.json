@@ -160,7 +160,7 @@
     "did_you_know_10": "TempVoice stores your temporary channel settings until you create another one",
 
     "log_create_channel": "<:invite:1161647152821444688> **{val1}** [created](https://easy.tempvoice.xyz/#whats-a-temporary-channel) {val2} using {val3}",
-    "log_delete_channel": "<:delete:1161605459292205076> **{val1}** got [deleted](https://easy.tempvoice.xyz/#whats-a-temporary-channel) after {val2}. Previously created by {val3} with {val4}",
+    "log_delete_channel": "<:delete:1161605459292205076> `{val1}` got [deleted](https://easy.tempvoice.xyz/#whats-a-temporary-channel) after {val2}. Previously created by {val3} with {val4}",
     "log_force_delete": "<:delete:1161605459292205076> **{val1}** got [**forcely**](https://easy.tempvoice.xyz/commands/voice/delete) deleted after {val2}. Previously created by {val3} with {val4}",
     "log_create_thread": "<:thread:1161605691379826718> **{val1}** created [temporary thread](https://easy.tempvoice.xyz/commands/voice/thread) {val2} for {val3}",
     "log_delete_thread": "<:delete:1161605459292205076> **{val1}** deleted [temporary thread](https://easy.tempvoice.xyz/commands/voice/thread) {val2}, previously linked with {val3}",
