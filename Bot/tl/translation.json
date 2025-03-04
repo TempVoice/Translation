@@ -137,7 +137,7 @@
       "log_delete_thread": "<:delete:1161605459292205076> **{val1}** deleted [temporary thread](https://easy.tempvoice.xyz/commands/voice/thread) {val2}, previously linked with {val3}",
       "log_create_waiting": "<:waiting:1161605871227387965> **{val1}** created [waiting room](https://easy.tempvoice.xyz/commands/voice/waiting) {val2} for {val3}",
       "log_delete_waiting": "<:delete:1161605459292205076> **{val1}** deleted [waiting room](https://easy.tempvoice.xyz/commands/voice/waiting) {val2}, previously linked with {val3}",
-      "log_name": "<:name:1161605686568960060> **{val1}** [renamed](https://easy.tempvoice.xyz/commands/voice/name) {val2} from {val3} to {val4}",
+      "log_name": "<:name:1161605686568960060> **{val1}** [renamed](https://easy.tempvoice.xyz/commands/voice/name) {val2} from `{val3}` to `{val4}`",
       "log_limit": "<:limit:1161605683955900496> **{val1}** changed the [limit](https://easy.tempvoice.xyz/commands/voice/limit) from {val2} from `{val3}` to `{val4}`",
       "log_region": "<:region:1161605689576263753> **{val1}** changed the [region](https://easy.tempvoice.xyz/commands/voice/region) from {val2} from `{val3}` to `{val4}`",
       "log_bitrate": "<:region:1161605689576263753> **{val1}** changed the [bitrate](https://easy.tempvoice.xyz/commands/voice/bitrate) from {val2} from `{val3} kbps` to `{val4} kbps`",
