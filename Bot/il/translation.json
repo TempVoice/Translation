@@ -127,7 +127,7 @@
     "did_you_know_6": "TempVoice does not collect any usage data and respects your privacy",
     "did_you_know_7": "TempVoice protects your privacy the best with '/voice privacy' & '/voice block'",
     "did_you_know_8": "TempVoice lets you accept join request with a waiting room from '/voice waiting'",
-    "did_you_know_9": "TempVoice lets you set a passwort with '/voice passwort' which can be used by users with '/find'",
+    "did_you_know_9": "TempVoice lets you set a password with '/voice password' which can be used by users with '/find'",
     "did_you_know_10": "TempVoice stores your temporary channel settings until you create another one",
 
     "log_create_channel": "# <:invite:1161647152821444688> Temporary Channel Created\n**{val1}** created {val2} using {val3}",
