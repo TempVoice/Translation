@@ -28,7 +28,7 @@
     "cmd_voice_status_description": "Geçici ses kanalınızın durumunu değiştirin.",
 
     "cmd_join_description": "Şifre kullanarak geçici bir ses kanalına katılın.",
-    "cmd_setup_tempvoice_description": "TempVoice'u bir asistan ile saniyeler içinde kolay bir şekilde .",
+    "cmd_setup_tempvoice_description": "TempVoice'u bir asistan ile saniyeler içinde kolay bir şekilde kurun.",
     "cmd_help_description": "TempVoice'un yardım menüsünü açın.",
     "cmd_find_description": "Bir kullanıcının hangi ses kanalında olduğunu öğrenin.",
 
