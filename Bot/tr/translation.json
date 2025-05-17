@@ -84,7 +84,7 @@
     "voice_kick_3": "## **Atıldı!**\n Bu kullanıcı geçici ses kanalınızdan atıldı.",
     "voice_kick_4": "## **Dikkat!**\n Kullanıcıları yalnızca geçici ses kanalınız kilitli veya görünmezken atabilirsiniz.",
     "voice_kick_5": "## **Dikkat!**\n Seçilen kullanıcıların hepsinde 'Üyeleri Taşı' yetkisi olduğu için kanaldan atılamadı.",
-    "voice_limit_1": "## **Dikkat!**\n Kullanıcı limiti **{val1}** ile **{val2}** arasında olmalıdır.",
+    "voice_limit_1": "## **Dikkat!**\n Kullanıcı limiti **{val1}** ila **{val2}** arasında olmalıdır.",
     "voice_limit_2": "## **Güncellendi!**\n Geçici ses kanalınızın kullanıcı limiti **{val1}** olarak güncellendi.",
     "voice_name_1": "## **Bu Mümkün Değil!**\n Bu ada sahip geçici bir ses kanalınız olamaz.",
     "voice_name_2": "## **Güncellendi!**\n Geçici ses kanalınızın adı **{val1}** olarak güncellendi.",
