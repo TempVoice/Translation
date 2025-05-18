@@ -65,68 +65,51 @@
     "voice_waiting_5": "## **Excluído!**\n A sala de espera foi excluída para este canal.",
     "voice_waiting_6": "## **Atenção!**\n Não há sala de espera para excluir.",
     "voice_waiting_7": "## **Atenção!**\n Você não pode desbloquear seu canal quando tiver uma sala de espera.",
-
     "voice_bitrate_1": "## **Atenção!**\n A taxa de bits não pode ser maior que **{val1}**.",
     "voice_bitrate_2": "## **Atualizado!**\n A taxa de bits do seu canal agora é **{val1} kbps**.",
-
     "voice_block_1": "## **Atenção!**\n Você só pode bloquear até **{val1}** usuários.",
     "voice_block_2": "## **Atenção!**\n Você já bloqueou este usuário.",
     "voice_block_3": "## **Bloqueado!**\n Este usuário foi bloqueado em seus canais de voz temporários.",
-
     "voice_claim_1": "## **Atenção!**\n Você não pode reivindicar um canal de voz normal.",
     "voice_claim_2": "## **Atenção!**\n Você não pode reivindicar seu próprio canal de voz temporário.",
     "voice_claim_3": "## **Reivindicado!**\n Agora você tem a propriedade deste canal de voz temporário.",
     "voice_claim_4": "## **Atenção!**\n O proprietário, {val1}, ainda está conectado a este canal de voz temporário.",
-
     "voice_invite_1": "## **Atenção!**\n Este usuário está em **Não perturbe**.",
     "voice_invite_2": "## **Atenção!**\n Este usuário não permite mensagens diretas.",
     "voice_invite_3": "## **Convidado!**\n Um convite para entrar em seu canal de voz temporário foi enviado ao usuário.",
     "voice_invite_4": "## **Novo convite!**\n {val1} convidou você para entrar em {val2}",
     "voice_invite_5": "## **Não é possível!**\n Você já tentou convidar este usuário para o seu canal temporário.",
-
     "voice_kick_1": "## **Atenção!**\n Este usuário não está em um canal de voz.",
     "voice_kick_2": "## **Atenção!**\n Você não pode expulsar um usuário de outro canal de voz.",
     "voice_kick_3": "## **Expulso!**\n Este usuário foi expulso do seu canal de voz temporário.",
     "voice_kick_4": "## **Atenção!**\n Você só pode expulsar usuários quando seu canal de voz temporário está trancado ou oculto.",
     "voice_kick_5": "## **Atenção!**\n Nem todos os usuários selecionados puderam ser expulsos, pois eles têm a permissão `Mover Membros`.",
-
     "voice_limit_1": "## **Atenção!**\n O limite de usuários precisa estar entre **{val1}** e **{val2}**.",
     "voice_limit_2": "## **Atualizado!**\n O limite de usuários do seu canal agora é **{val1}**.",
-
     "voice_name_1": "## **Atenção!**\n Você não pode ter um canal de voz temporário com esse nome.",
     "voice_name_2": "## **Atualizado!**\n O nome do seu canal agora é: **{val1}**.",
-
     "voice_status_1": "## **Atualizado!**\n O status do seu canal agora é: **{val1}**.",
-
     "voice_privacy_1": "## **Atualizado!**\n {val1} agora está **trancado**.",
     "voice_privacy_2": "## **Atualizado!**\n {val1} agora está **destrancado**.",
     "voice_privacy_3": "## **Atualizado!**\n {val1} agora está **oculto**.",
     "voice_privacy_4": "## **Atualizado!**\n {val1} agora está **visível**.",
-
     "voice_region_1": "## **Região atualizada!**\n A região de {val1} agora é **{val2}**.",
-
     "voice_transfer_1": "## **Atenção!**\n Você não pode transferir um canal de voz normal.",
     "voice_transfer_2": "## **Atenção!**\n Você só pode transferir a propriedade do seu canal para um usuário conectado.",
     "voice_transfer_3": "## **Transferido!**\n Você transferiu a propriedade do canal para {val1}.",
-
     "voice_trust_1": "## **Atenção!**\n Você só pode confiar em até **{val1}** usuários.",
     "voice_trust_2": "## **Confiável!**\n Este usuário agora é confiável em seus canais de voz temporários.",
-
     "voice_unblock_1": "## **Atenção!**\n Este usuário não está bloqueado.",
     "voice_unblock_2": "## **Desbloqueado!**\n Este usuário foi desbloqueado de seus canais de voz temporários.",
-
     "voice_untrust_1": "## **Atenção!**\n Este usuário não é confiável.",
     "voice_untrust_2": "## **Não é mais confiável!**\n Este usuário não é mais confiável em seus canais de voz temporários.",
-
     "voice_thread_1": "## **Atenção!**\n Um tópico já foi criado para este canal de voz temporário.",
     "voice_thread_2": "## **Criado!**\n Um tópico temporário foi criado para este canal.",
     "voice_thread_3": "## **Excluído!**\n O tópico foi excluído.",
     "voice_thread_4": "## **Não é possível!**\n Não há tópico a ser excluído.",
     "voice_thread_5": "## **Atenção!**\n Um tópico temporário só pode ser criado em canais de texto.",
-
     "voice_close_1": "## **Fechado!**\n Seu canal de voz temporário foi fechado.",
     "voice_close_2": "## **Tem certeza?**\n Seu canal de voz temporário será excluído. Por favor, confirme usando o botão abaixo.",
-
     "voice_password_1": "## **Atualizado!**\n Os usuários agora podem entrar no seu canal de voz temporário usando a senha ||`{val1}`|| com o comando </join:1060564928529956985>.",
     "voice_password_2": "## **Atualizado!**\n A senha do seu canal de voz temporário foi removida.",
 
