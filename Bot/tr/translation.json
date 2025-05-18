@@ -160,7 +160,7 @@
     "did_you_know_10": "TempVoice tekrardan kurulana dek geçici ses kanalınızın ayarları korunur.",
 
     "log_create_channel": "# <:invite:1161647152821444688> Geçici Kanal Oluşturuldu\n**{val1}** tarafından {val2} adlı ses kanalı {val3} adlı kanal kullanılarak oluşturuldu.",
-    "log_delete_channel": "# <:delete:1161605459292205076> Geçici Kanal Silindi\n**{val3}** tarafından {val2} geçici bir ses kanalı silindi. Daha öncesinde **{val3}** tarafından `{val1}` adıyla {val4} adlı kanal kullanılarak oluşturulmuştu.",
+    "log_delete_channel": "# <:delete:1161605459292205076> Geçici Kanal Silindi\n`{val1}` adlı geçici ses kanalı {val2} silindi. Daha öncesinde **{val3}** tarafından {val4} adlı kanal kullanılarak oluşturulmuştu.",
     "log_force_delete": "# <:delete:1161605459292205076> Geçici Kanal Silindi\n**{val1}** tarafından geçici bir ses kanalı {val2} zorla silindi. Daha öncesinde {val3} tarafından {val4} adlı kanal kullanılarak oluşturulmuştu.",
     "log_create_thread": "# <:thread:1161605691379826718> Geçici Alt Başlık Oluşturuldu\n**{val1}** tarafından {val2} adlı alt başlık {val3} adlı ses kanalı kullanılarak oluşturuldu.",
     "log_delete_thread": "# <:delete:1161605459292205076> Geçici Alt Başlık Silindi\n**{val1}** tarafından {val2} adlı geçici alt başlık silindi. Daha önceden {val3} adlı kanal için kullanılıyordu.",
