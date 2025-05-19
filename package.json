@@ -4,15 +4,12 @@
 		"delay": 0
 	},
 	"dependencies": {
-		"dotenv": "^16.4.5",
-		"mongoose": "^6.13.4"
+		"dotenv": "^16.5.0",
+		"mongoose": "^8.15.0"
 	},
 	"devDependencies": {
-		"eslint": "^8.57.1",
 		"eslint-config-airbnb": "^19.0.1",
 		"eslint-config-airbnb-base": "^15.0.0",
-		"eslint-config-prettier": "^8.10.0",
-		"eslint-plugin-import": "^2.31.0",
-		"prettier": "^2.8.8"
+		"eslint-plugin-import": "^2.31.0"
 	}
 }
