@@ -24,7 +24,7 @@
     "cmd_voice_users_description": "Geçici ses kanalınızdaki bütün güvenilir ve engellenmiş kullanıcıların listesini gösterir.",
     "cmd_voice_password_description": "Geçici ses kanalınıza bir şifre koyun.",
     "cmd_voice_reset_description": "Geçici ses kanalınızın ayarlarını sıfırlayın.",
-    "cmd_voice_lfp_description": "Komutu kullandığınız kanala, başkalarının geçici ses kanalınıza katılmaları için bir davet mesajı gönderin.",
+    "cmd_voice_lfp_description": "Başkalarının geçici ses kanalınıza katılması için bir davet mesajı gönderin.",
     "cmd_voice_status_description": "Geçici ses kanalınızın durumunu değiştirin.",
 
     "cmd_join_description": "Şifre kullanarak geçici bir ses kanalına katılın.",
