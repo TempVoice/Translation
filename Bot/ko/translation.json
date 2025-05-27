@@ -122,7 +122,7 @@
     "find_1": "## **찾음**\n 찾고 있는 사용자 {val1}은(는) 여기에 있습니다: {val2}",
     "find_2": "## **찾지 못함.**\n 찾고 있는 사용자는 공개 음성 채널에 없습니다.",
     
-    "help": "## TempVoice 설정 및 구성\nTempVoice를 구성하려면 봇의 [대시보드](https://tempvoice.xyz/dashboard)를 방문하고 **`</setup:921000495877877762>`**을 사용하여 다음과 같은 모든 필요한 채널을 생성하세요\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## 첫 번째 임시 채널 생성\n새로운 임시 음성 채널을 생성하려면 **`➕` Creator Channel** (음성 채널)에 참여하세요. \n## 임시 채널 관리\n**/voice** 채팅 명령 또는 **`✨` Interface Message**를 사용하세요.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568>, </voice kick:921416747687489568> 등...",
+    "help": "## TempVoice 설정 및 구성\nTempVoice를 구성하려면 봇의 [대시보드](https://tempvoice.xyz/dashboard)를 방문하고 **`</setup:921000495877877762>`**을 사용하여 다음과 같은 모든 필요한 채널을 생성하세요\n**`➕` Creator Channel** & **`✨` Interface Message**.\n## 첫 번째 임시 채널 생성\n새로운 임시 음성 채널을 생성하려면 **`➕` Creator Channel** (음성 채널)에 참여하세요. \n## 임시 채널 관리\n**/voice** 채팅 명령 또는 **`✨` Interface Message**를 사용하세요.\n\n</voice name:921416747687489568>, </voice limit:921416747687489568>, </voice privacy:921416747687489568> 등...",
     "setup": "## `➕` Creator Channel\n새로운 임시 음성 채널을 생성하려면이 채널에 참여하세요.\n## `✨` 인터페이스 메시지\n**/voice** 채팅 명령어 대체. 이 채널을 사용하여 임시 음성 채널을 관리하세요.",    
   
     "interface_description": "**인터페이스**는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들어졌습니다. **/voice** 명령어 중 일부를 사용하여 추가 옵션을 선택하고 변경할 수 있습니다.",
