@@ -158,7 +158,7 @@
 		"did_you_know_8": "TempVoiceは'/voice waiting'で待機室を使用して、参加リクエストを承認できるよ",
 		"did_you_know_9": "TempVoiceは'/voice passwort'でパスワードを設定できるよ。これは'/find'で使用できるよ",
 		"did_you_know_10": "TempVoiceはあなたが新しいチャンネルを作成するまで、あなたの一時的なチャンネル設定を保存しているよ",
-
+    
 		"log_create_channel": "# <:invite:1161647152821444688> 一時的なチャンネルが作成されたよ\n**{val1}** が {val3} を使って {val2} を作成したよ",
 		"log_delete_channel": "# <:delete:1161605459292205076> 一時的なチャンネルが削除されたよ\n`{val1}` が {val2} に削除されたよ。以前に {val3} が {val4} で作成したものだよ",
 		"log_force_delete": "# <:delete:1161605459292205076> 一時的なチャンネルが削除されたよ\n**{val1}** が {val2} に**強制的に**削除されたよ。以前に {val3} が {val4} で作成したものだよ",
