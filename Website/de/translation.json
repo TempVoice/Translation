@@ -1,0 +1,580 @@
+{
+  "home": {
+    "hero": {
+      "title": "Temporary not permanent",
+      "highlighted": "Temporary",
+      "description": "TempVoice keeps your Discord server organized by creating temporary voice channels that disappear as soon as they’re empty."
+    },
+    "instruction": {
+      "channels": {
+        "title": "What’s a Temporary Channel?",
+        "description": "A temporary voice channel is automatically created when someone joins a Creator Channel and it’s deleted once everyone leaves."
+      },
+      "interface": {
+        "title": "Let your members moderate themselves!",
+        "description": "Temporary voice channels are controlled and moderated by the user who created them."
+      }
+    },
+    "quote": {
+      "title": "Thank you for your interest in TempVoice!",
+      "description": "This app changes the way you use Discord! Since 2021, I’ve been working with the community’s feedback to make every Discord server way more efficient and enjoyable.",
+      "button": "Join our Discord"
+    }
+  },
+  "setup": {
+    "hero": {
+      "title": "How do I set up TempVoice?",
+      "description": "Using TempVoice couldn’t be easier. Invite the app to your Discord server and use the /setup command. TempVoice will create the basic channels needed to generate and manage temporary channels.",
+      "button": "See Tutorials"
+    }
+  },
+  "premium": {
+    "hero": {
+      "title": "Customize More with Premium",
+      "description": "Unlock the full potential of your Discord server with unrestricted access to all features. Cancel at any time."
+    },
+    "features": {
+      "title": "More Customization. More Freedom.",
+      "description": "Make TempVoice your own and enjoy the freedom to customize the bot exactly how you want, with no limits."
+    },
+    "modal": {
+      "features": {
+        "base": {
+          "title": "TempVoice Premium",
+          "feature_1": "Custom Interfaces",
+          "feature_2": "Moderation Logging",
+          "feature_3": "No Vote-locked Commands",
+          "feature_4": "Unlimited Creator Channels"
+        },
+        "custom": {
+          "title": "Your Own Branding",
+          "feature_1": "TempVoice Premium",
+          "feature_2": "Separately Hosted",
+          "feature_3": "Activity Placeholder for Channels",
+          "feature_4": "Custom Avatar, Name and Status"
+        },
+        "billing_cycle": {
+          "monthly": "monthly",
+          "yearly": "yearly"
+        },
+        "amount": "For {{amount}} server",
+        "discount": {
+          "title": "Get 2 months for free",
+          "description": "Save 16% with a yearly billing cycle"
+        },
+        "payments": {
+          "button": "Manage Payments"
+        }
+      },
+      "options": {
+        "activate": {
+          "title": "Activate Premium",
+          "select": {
+            "prompt": "Select a Server"
+          },
+          "description": "Activate premium on the server where you want to use TempVoice Premium."
+        },
+        "token": {
+          "title": "Token",
+          "select": {
+            "prompt": "Enter a token to install or restart your bot"
+          },
+          "description": "By entering a token, you agree to our Terms of Service. Never share this token with anyone else and treat it like a password."
+        },
+        "appearance": {
+          "title": "Appearance",
+          "select": {
+            "prompt": "Creating Temporary Channels"
+          },
+          "description": "Click on the preview to visit the Discord Developer Portal to change its name, icon, banner and 'About Me' section. Updating the status can take up to 5 minutes."
+        },
+        "invite": {
+          "title": "Invite",
+          "button": "Add to your server",
+          "description": "Your TempVoice is ready to be invited to your server. Make sure Premium is activated and the public bot is removed."
+        },
+        "subscribe": {
+          "button": "Continue to Stripe"
+        },
+        "upgrade": {
+          "title": "Upgrade to 'Your Own Branding'",
+          "description": "When you upgrade your Premium plan, we will immediately charge the difference between your current plan and the new plan to the payment method you previously used. Your billing cycle won’t change. Starting with your next renewal, your subscription will continue at the regular price of the upgraded plan.",
+          "confirmation": "I authorize TempVoice to upgrade me.",
+          "button": {
+            "upgrade": "Upgrade Now!",
+            "cancel": "Cancel"
+          }
+        }
+      }
+    },
+    "required": "PREMIUM"
+  },
+  "dashboard": {
+    "navigation": {
+      "greet_user": "Hey, {{user}}!",
+      "start_page": "Start Page",
+      "server_selection": "Server Selection",
+      "server_settings": "Server Settings",
+      "creator_settings": "Creator Settings",
+      "premium": {
+        "active": "Premium Active",
+        "inactive": "No Premium",
+        "branding_tempvoice": "TempVoice Branding",
+        "branding_custom": "Your Own Branding"
+      }
+    },
+    "unsaved_changes": {
+      "description": "Careful - you have unsaved changes!",
+      "button": {
+        "reset": "Reset",
+        "save": "Save Changes"
+      }
+    },
+    "guild": {
+      "language": {
+        "title": "TempVoice Language",
+        "description": "Change the language of the Discord app"
+      },
+      "creator": {
+        "title": "Creator Channels",
+        "description": "Standard voice channels that create temporary voice channels when a user joins them.",
+        "create": {
+          "title": "Add a new Creator!",
+          "description": "This will create a new channel in your Discord server, used to generate temporary channels."
+        },
+        "delete": {
+          "title": "Delete this Creator?",
+          "description": "This will delete the channel from your Discord server and remove all its configurations. This action cannot be undone."
+        },
+        "button": {
+          "create": "Create",
+          "delete": "Delete",
+          "cancel": "Cancel"
+        },
+        "premium": {
+          "title": "Creator Limit Reached",
+          "description": "You need TempVoice Premium to set up unlimited Creator Channels."
+        }
+      },
+      "interface": {
+        "preview": {
+          "title": "Interface Preview",
+          "description": "You can interact with the TempVoice Interface to customize it. Some features require Premium."
+        },
+        "name": {
+          "title": "Webhook Name",
+          "description": "Choose a clear and recognizable name, for example your Discord server name."
+        },
+        "avatar": {
+          "title": "Webhook Avatar",
+          "description": "Set an avatar image, such as your server’s icon or another fitting graphic."
+        },
+        "title": {
+          "title": "Title",
+          "description": "Provide a short and meaningful title, e.g. your server name."
+        },
+        "description": {
+          "title": "Description",
+          "description": "Write a description that explains the purpose and functionality of the TempVoice Interface."
+        },
+        "attachment": {
+          "title": "Attachment",
+          "description": "Insert the URL of an image to display as an attachment."
+        },
+        "footer": {
+          "title": "Footer",
+          "description": "Add a footer that gives context or instructions related to the buttons."
+        },
+        "color": {
+          "title": "Color",
+          "description": "Specify a HEX color code to customize the embed’s accent color."
+        },
+        "buttons": {
+          "description": "Click a button to disable it. Try dragging them to rearrange."
+        },
+        "send": {
+          "title": "Send Interface",
+          "select": {
+            "prompt": "Select a Text Channel"
+          },
+          "description": "Send the customized TempVoice Interface to a text channel of your choice. We recommend a channel where no one else can write.",
+          "status": {
+            "success": "Interface has been sent to {{channel}}",
+            "failed": "Interface could not be sent. Please try again later."
+          }
+        }
+      }
+    },
+    "creator": {
+      "tab": {
+        "overview": "Overview",
+        "permissions": "Permissions",
+        "moderation": "Moderation",
+        "others": "Others"
+      },
+      "voice_role": {
+        "title": "Temporary Voice Role",
+        "select": {
+          "prompt": "Select a Role"
+        },
+        "mode": {
+          "everyone": "Every user will get the 'Voice Role' when they join a temporary channel.",
+          "owner": "Only the owner of the temporary channel will get the 'Voice Role'."
+        },
+        "description": "Assign a role to users when they are in a temporary voice channel."
+      },
+      "recover_owner_settings": {
+        "title": "Recover Owner Settings",
+        "select": {
+          "prompt": "Select an Option",
+          "name": "Name",
+          "limit": "User Limit",
+          "lists": "Trusted & Blocked Users",
+          "privacy": "Privacy Mode (Locked or Hidden)"
+        },
+        "description": "Recovers a temporary channel with the same settings it had before being deleted, including name, permissions and user limit."
+      },
+      "privacy_mode": {
+        "title": "Temporary Channel Privacy Mode",
+        "select": {
+          "prompt": "Select an Option",
+          "public": "Public",
+          "locked": "Locked",
+          "hidden": "Hidden"
+        },
+        "description": "Choose whether temporary channels are public, locked, or hidden from other users by default."
+      },
+      "position": {
+        "title": "Temporary Channel Position",
+        "select": {
+          "prompt": "Select an Option",
+          "top": "At the top",
+          "below": "Right below Creator",
+          "bottom": "At the bottom"
+        },
+        "description": "Set where the temporary channel will be created in relation to the Creator Channel the user joins."
+      },
+      "permissions": {
+        "title": "Temporary Channel Permissions",
+        "select": {
+          "prompt": "Select an Option",
+          "category": "Sync from Category",
+          "creator": "Sync from Creator",
+          "off": "Don’t Sync"
+        },
+        "warning": {
+          "title": "You should know this:",
+          "description": {
+            "problem": "The permissions 'Connect', 'View Channel', and 'Send Messages' cannot be synced for @everyone, as they are reserved for handling channel locking and visibility.",
+            "solution": "If you want to restrict @everyone from accessing temporary channels, please use the 'Temporary Channel Access Roles' instead."
+          }
+        },
+        "description": "Choose where to sync permissions from when creating a temporary channel."
+      },
+      "owner_permissions": {
+        "title": "Temporary Channel Owner Permissions",
+        "select": {
+          "prompt": "Select Permissions",
+          "create_invite": "Create Invite",
+          "manage_channels": "Manage Channels",
+          "manage_roles": "Manage Permissions",
+          "screen_share": "Video",
+          "use_voice_activity": "Use Voice Activity",
+          "priority_speaker": "Priority Speaker",
+          "move_members": "Move Members"
+        },
+        "description": "Grant owners of temporary channels extra permissions (e.g., Manage Channel, Move Members) while they are in control of the channel."
+      },
+      "moderation_log": {
+        "title": "Moderation Log",
+        "description": "Sends messages to a text channel using a Discord webhook URL to log temporary channel actions like creation, deletion and modification."
+      },
+      "max_channels": {
+        "title": "Max Temporary Channels",
+        "description": "Limits the maximum number of temporary channels that can exist at the same time."
+      },
+      "greeting": {
+        "title": "Temporary Channel Greeting",
+        "button": "View Settings",
+        "mode": {
+          "silent": "The message will be sent silently without any @ping",
+          "ping": "The message might trigger a @ping sound",
+          "interface": "Send an TempVoice Interface"
+        },
+        "description": "Sends a message to the temporary voice channel’s text chat when it’s created, optionally including an TempVoice Interface."
+      },
+      "features": {
+        "title": "Toggle Features",
+        "select": {
+          "prompt": "Select Features",
+          "chat": {
+            "title": "In-Voice Chat",
+            "description": "The integrated text channel for a voice channel."
+          },
+          "lfp": {
+            "title": "Looking for People",
+            "description": "/voice lfp"
+          },
+          "thread": {
+            "title": "Creating Temporary Threads",
+            "description": "/voice thread"
+          },
+          "waiting": {
+            "title": "Creating Waiting Rooms",
+            "description": "/voice waiting"
+          },
+          "locking_chat": {
+            "title": "Locking only In-Voice Chat",
+            "description": "/voice privacy"
+          },
+          "locking": {
+            "title": "Locking Channel",
+            "description": "/voice privacy"
+          },
+          "hiding": {
+            "title": "Hiding Channel",
+            "description": "/voice privacy"
+          },
+          "close": {
+            "title": "Force Deleting Channel",
+            "description": "/voice delete"
+          },
+          "claim": {
+            "title": "Claiming Channels",
+            "description": "/voice claim"
+          },
+          "transfer": {
+            "title": "Transferring Channels",
+            "description": "/voice transfer"
+          },
+          "kick": {
+            "title": "Kicking/Disconnecting User",
+            "description": "/voice user kick"
+          },
+          "invite": {
+            "title": "Inviting Users",
+            "description": "/voice user invite"
+          },
+          "users": {
+            "title": "Trusting / Blocking Users",
+            "description": "/voice user trust & /voice user block"
+          },
+          "name": {
+            "title": "Changing Channel Name",
+            "description": "/voice name"
+          },
+          "limit": {
+            "title": "Changing Channel User Limit",
+            "description": "/voice user limit"
+          },
+          "region": {
+            "title": "Changing Channel Region",
+            "description": "/voice region"
+          },
+          "bitrate": {
+            "title": "Changing Channel Bitrate",
+            "description": "/voice bitrate"
+          }
+        },
+        "mode": {
+          "owner": {
+            "title": "Owner Managed On",
+            "description": "Temporary channels are manageable by the users who created them."
+          },
+          "none": {
+            "title": "Owner Managed Off",
+            "description": "Temporary channels cannot be managed by the users who created them."
+          }
+        },
+        "description": "Choose which features temporary channel owners are allowed to use while they are in control of the channel."
+      },
+      "censor": {
+        "title": "Censor Channel Names",
+        "description": "Automatically censor inappropriate words in temporary channel names.",
+        "input": {
+          "prompt": "Type a word and press ↵"
+        },
+        "replacement": {
+          "title": "Replacement Symbol",
+          "description": "Symbol used to replace the characters of a censored word (e.g., I #### this)."
+        },
+        "protection": {
+          "title": "Bypass Protection",
+          "description": "Replaces non-Latin characters that look like Latin letters (e.g., Cyrillic) with their real Latin equivalents."
+        },
+        "button": "View Settings"
+      },
+      "bitrate": {
+        "title": "Temporary Channel Bitrate",
+        "select": {
+          "best": "Highest possible",
+          "default": "64kbps"
+        },
+        "description": "Choose the audio bitrate for temporary voice channels. Higher values improve quality but may be limited by your server’s boost level."
+      },
+      "access_roles": {
+        "title": "Temporary Channel Access Roles",
+        "select": {
+          "prompt": "Select Roles"
+        },
+        "mode": {
+          "locked": "Users without an 'Access Role' can see but not join temporary channels.",
+          "hidden": "Users without an 'Access Role' cannot see temporary channels."
+        },
+        "description": "Select roles that are required to see or access temporary channels, overriding the default @everyone permission."
+      },
+      "name": {
+        "title": "Temporary Channel Name",
+        "description": "Set the default naming format for temporary channels when they are created.",
+        "input": {
+          "prompt": "Example: {OWNER_NICKNAME}'s channel #{NUMBER}"
+        },
+        "waiting": {
+          "title": "Waiting Room Name",
+          "description": "Set the naming format used for Waiting Room channels.",
+          "input": {
+            "prompt": "Example: Ask {OWNER_NICKNAME} to join ↑"
+          }
+        }
+      },
+      "limit": {
+        "title": "Temporary Channel User Limit",
+        "description": "Set the default user limit for temporary channels when they are created.",
+        "range": {
+          "title": "User Limit Range",
+          "description": "Set the minimum and maximum user limit that the owner of a temporary channel can set."
+        }
+      },
+      "category": {
+        "title": "Temporary Channel Category",
+        "select": {
+          "prompt": "Select a Category"
+        },
+        "description": "Choose the category where temporary channels will be created.",
+        "fallbacks": {
+          "title": "Temporary Channel Category Fallbacks",
+          "select": {
+            "prompt": "Select Categories"
+          },
+          "description": "Choose categories which will be used as a fallback when the primary category reaches the Discord limit of 50 channels."
+        }
+      },
+      "placeholder": {
+        "owner": {
+          "title": "Owner",
+          "OWNER_USERNAME": "Username of the user who owns the channel",
+          "OWNER_NICKNAME": "Nickname of the user who owns the channel",
+          "OWNER_CREATED": "Date on which the user created their account (DD/MM/YYYY)",
+          "OWNER_JOINED": "Date on which the user joined the server (DD/MM/YYYY)",
+          "OWNER_MENTION": "The @mention of the owner"
+        },
+        "roles": {
+          "title": "Owner Role",
+          "ROLE_HIGHEST": "Name of the highest role the user has",
+          "ROLE_HOIST": "Name of the highest role shown in the member list"
+        },
+        "counter": {
+          "title": "Counter"
+        },
+        "activity": {
+          "title": "Activity",
+          "ACTIVITY_NAME": "The title of the game the owner is playing",
+          "ACTIVITY_NAME_MAJORITY": "The title of the game the majority is playing",
+          "ACTIVITY_DETAILS": "The details of an activity",
+          "ACTIVITY_STATE": "The state of an activity",
+          "ACTIVITY_EMOJI": "The emoji of an activity"
+        },
+        "ids": {
+          "title": "IDs",
+          "GUILD_ID": "ID of the Discord server",
+          "CHANNEL_ID": "ID of the channel",
+          "OWNER_ID": "ID of the channel owner"
+        },
+        "miscellaneous": {
+          "title": "Miscellaneous",
+          "CUSTOM": "Shows the custom channel name which the owner has chosen",
+          "RANDOM": "Shows a random word from a predefined list",
+          "PRIVACY": "Shows the privacy mode (public/locked/hidden) of the channel"
+        },
+        "settings": {
+          "custom": {
+            "input": {
+              "prompt": "By default: {OWNER_NICKNAME}"
+            },
+            "description": "Choose a default text when the channel owner has not set a custom channel name yet. This placeholder can include other placeholders."
+          },
+          "random": {
+            "input": {
+              "prompt": "Type a word and press ↵"
+            },
+            "description": "Set a list of words which will be used randomly. This placeholder can include other placeholders."
+          },
+          "role": {
+            "input": {
+              "prompt": "Maybe choose an emoji?"
+            },
+            "description": "Choose a default text when the channel owner has no roles."
+          },
+          "activity": {
+            "name": {
+              "description": "Choose a default text when the channel owner or the majority has no activity."
+            },
+            "state": {
+              "description": "Choose a default text when the channel owner has no activity state."
+            },
+            "emoji": {
+              "description": "Choose a default text when the channel owner has no activity emoji."
+            },
+            "details": {
+              "description": "Choose a default text when the channel owner has no activity details."
+            }
+          },
+          "privacy": {
+            "unlocked": {
+              "title": "Public Channel",
+              "description": "Choose a text to show when the temporary channel is public."
+            },
+            "locked": {
+              "title": "Locked Channel",
+              "description": "Choose a text to show when the temporary channel is locked."
+            },
+            "hidden": {
+              "title": "Invisible Channel",
+              "description": "Choose a text to show when the temporary channel is invisible."
+            }
+          }
+        }
+      }
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "setup": "Setup",
+    "premium": "Premium",
+    "support": "Support",
+    "invite": "Get TempVoice",
+    "user": {
+      "login": "Login with Discord",
+      "logout": "Logout",
+      "dashboard": "Open Dashboard",
+      "prompt": {
+        "description": "Would you like to join our Discord?",
+        "button": {
+          "agree": "Yes, please",
+          "deny": "No, just Login"
+        }
+      }
+    }
+  },
+  "footer": {
+    "terms_of_service": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "right_of_withdrawal": "Right of Withdrawal",
+    "legal_notice": "Legal Notice",
+    "statistics": "Statistics",
+    "cookie": {
+      "description": "This website only uses cookies that are essential for its functionality.",
+      "button": "Okay"
+    }
+  }
+}
