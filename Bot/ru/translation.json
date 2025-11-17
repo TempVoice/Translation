@@ -125,7 +125,7 @@
     "interface_description": "Этот **интерфейс** можно использовать для управления личными каналами. Дополнительные возможности доступны через **/voice** команды.",
     "interface_footer": "Чтобы использовать функции интерфейса, воспользуйтесь кнопками ниже.",
 
-    "privacy_menu_placehoder": "Выберите опцию приватности",
+    "privacy_menu_placeholder": "Выберите опцию приватности",
     "privacy_menu_label_1": "Закрытый",
     "privacy_menu_description_1": "Только доверенные пользователи могут зайти в временный канал",
     "privacy_menu_label_2": "Открытый",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Открыть чат",
     "privacy_menu_description_6": "Каждый может писать в чат временного канала",
 
-    "waiting_menu_placehoder": "{val1} хочет зайти в ваш канал",
+    "waiting_menu_placeholder": "{val1} хочет зайти в ваш канал",
     "waiting_menu_label_1": "Принять",
     "waiting_menu_description_1": "Пользователь будет перемещён в ваш канал",
     "waiting_menu_label_2": "Отклонить",

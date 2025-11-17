@@ -125,7 +125,7 @@
     "interface_description": "Esta **interface** pode ser usada para gerenciar canais de voz temporários. Mais opções estão disponíveis com comandos **/voice**",
     "interface_footer": "Pressione os botões abaixo para usar a interface",
 
-    "privacy_menu_placehoder": "Selecione uma opção de privacidade",
+    "privacy_menu_placeholder": "Selecione uma opção de privacidade",
     "privacy_menu_label_1": "Trancar",
     "privacy_menu_description_1": "Somente usuários confiáveis poderão entrar em seu canal de voz",
     "privacy_menu_label_2": "Destrancar",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Abrir bate-papo",
     "privacy_menu_description_6": "Todos poderão enviar mensagens de texto no seu bate-papo",
 
-    "waiting_menu_placehoder": "{val1} quer entrar no seu canal",
+    "waiting_menu_placeholder": "{val1} quer entrar no seu canal",
     "waiting_menu_label_1": "Aceitar",
     "waiting_menu_description_1": "O usuário será movido para o seu canal de voz",
     "waiting_menu_label_2": "Negar",

@@ -125,7 +125,7 @@
     "interface_description": "## **Antarmuka Pengendali**\n**Antarmuka** ini digunakan untuk mengatur __Voice channel sementara__ kamu. Opsi lainnya tersedia melalui perintah **'/voice'**.",
     "interface_footer": "Antarmuka ini dapat digunakan dengan mengklik tombol di bawah ini.",
 
-    "privacy_menu_placehoder": "Setelan menu privasi",
+    "privacy_menu_placeholder": "Setelan menu privasi",
     "privacy_menu_label_1": "Kunci",
     "privacy_menu_description_1": "Hanya orang yang kamu izinkan yang dapat bergabung ke Voice channel ini",
     "privacy_menu_label_2": "Buka Kunci",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Buka Chat",
     "privacy_menu_description_6": "Semua orang dapat mengetik di chat kamu",
 
-    "waiting_menu_placehoder": "{val1} ingin bergabung ke voice channel ini",
+    "waiting_menu_placeholder": "{val1} ingin bergabung ke voice channel ini",
     "waiting_menu_label_1": "Terima",
     "waiting_menu_description_1": "Pengguna berhasil dipindahkan ke Voice channel ini",
     "waiting_menu_label_2": "Tolak",

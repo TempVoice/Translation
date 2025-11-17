@@ -96,7 +96,7 @@
       "interface_description" : "Ang **interface** na ito ay maaaring gamitin sa pag-mamahala ng mga temporaryong boses na channel. Marami pang mga opsyon na maaring gamitin gamit ang [</voice:921416747687489568>](https://tempvoice.xyz) na command.",
       "interface_footer" : "Pindutin ang mga buton sa ibaba upang magamit itong interface.",
   
-      "privacy_menu_placehoder" : "Pumili ng Pribadong Opsyon",
+      "privacy_menu_placeholder" : "Pumili ng Pribadong Opsyon",
       "privacy_menu_label_1" : "Ikandado",
       "privacy_menu_description_1" : "Tanging mga pinagkakatiwalaang mga tagagamit lamang ang makakasali ng iyong boses na channel.",
       "privacy_menu_label_2" : "Tanggalin ang Kandado",
@@ -110,7 +110,7 @@
       "privacy_menu_label_6" : "Buksan ang Chat",
       "privacy_menu_description_6" : "Ang lahat ay makakapagsulat sa loob ng iyong chat.",
   
-      "waiting_menu_placehoder" : "Nais ni {val1} na sumali sa iyong channel.",
+      "waiting_menu_placeholder" : "Nais ni {val1} na sumali sa iyong channel.",
       "waiting_menu_label_1" : "Tanggapin",
       "waiting_menu_description_1" : "Maililipat ang tagagamit sa iyong boses na channel.",
       "waiting_menu_label_2" : "Tanggihan",

@@ -125,7 +125,7 @@
     "interface_description": "Ten **Interfejs** może być użyty do edycji twojego kanału tymczasowego. Więcej opcji jest dostępnych pod komendą **/voice**.",
     "interface_footer": "Interfejs może być użyty dzięki przyciskom poniżej",
 
-    "privacy_menu_placehoder": "Wybierz Opcję Prywatności",
+    "privacy_menu_placeholder": "Wybierz Opcję Prywatności",
     "privacy_menu_label_1": "Zablokuj",
     "privacy_menu_description_1": "Tylko zaufani członkowie będą mogli dołączyć na Twój kanał głosowy",
     "privacy_menu_label_2": "Odblokuj",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Otwórz Czat",
     "privacy_menu_description_6": "Każdy będzie mógł wysyłać wiadomości na Twoim czacie",
 
-    "waiting_menu_placehoder": "{val1} chce dołączyć na Twój Kanał",
+    "waiting_menu_placeholder": "{val1} chce dołączyć na Twój Kanał",
     "waiting_menu_label_1": "Zaakceptuj",
     "waiting_menu_description_1": "Użytkownik zostanie przeniesiony na Twój kanał głosowy",
     "waiting_menu_label_2": "Odrzuć",

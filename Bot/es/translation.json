@@ -125,7 +125,7 @@
     "interface_description": "Esta **interfaz** puede usarse para gestionar canales de voz temporales. Hay más opciones disponibles con los comandos **/voice**.",
     "interface_footer": "Esta interfaz se puede utilizar pulsando los botones de abajo.",
 
-    "privacy_menu_placehoder": "Elige una opción de privacidad",
+    "privacy_menu_placeholder": "Elige una opción de privacidad",
     "privacy_menu_label_1": "Bloquear",
     "privacy_menu_description_1": "Solo usuarios confiados podrán unirse a tu canal de voz",
     "privacy_menu_label_2": "Desbloquear",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Chat Abierto",
     "privacy_menu_description_6": "Todos podrán escribir en tu chat",
 
-    "waiting_menu_placehoder": "{val1} quiere entrar a tu canal",
+    "waiting_menu_placeholder": "{val1} quiere entrar a tu canal",
     "waiting_menu_label_1": "Aceptar",
     "waiting_menu_description_1": "El usuario será movido a tu canal de voz",
     "waiting_menu_label_2": "Denegar",

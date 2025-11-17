@@ -125,7 +125,7 @@
 		"interface_description": "この **設定パネル** であなたのVCを管理できるよ。より詳細な設定は **/voice** コマンドを使ってみてね。",
 		"interface_footer": "以下のボタンを押すと、設定を変更できるよ。",
 
-		"privacy_menu_placehoder": "プライバシーオプションを選択",
+		"privacy_menu_placeholder": "プライバシーオプションを選択",
 		"privacy_menu_label_1": "ロック",
 		"privacy_menu_description_1": "信頼済みユーザーのみがあなたのボイスチャンネルに参加できるよ",
 		"privacy_menu_label_2": "ロック解除",
@@ -139,7 +139,7 @@
 		"privacy_menu_label_6": "チャットを開く",
 		"privacy_menu_description_6": "誰でもあなたのチャットでテキストを送信できるよ",
 
-		"waiting_menu_placehoder": "{val1} があなたのチャンネルに参加したいようです",
+		"waiting_menu_placeholder": "{val1} があなたのチャンネルに参加したいようです",
 		"waiting_menu_label_1": "承認",
 		"waiting_menu_description_1": "ユーザーはあなたのボイスチャンネルに移動されるよ",
 		"waiting_menu_label_2": "拒否",

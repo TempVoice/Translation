@@ -125,7 +125,7 @@
     "interface_description": "Bu arayüzü kullanarak geçici ses kanalınızı istediğiniz şekilde yönetebilirsiniz.\n\nDaha fazla seçeneğe ulaşmak için **/voice** komutunu kullanabilirsiniz.",
     "interface_footer": "Bu arayüzü kullanmak için aşağıdaki uygun butonlara tıklayın.",
 
-    "privacy_menu_placehoder": "Bir gizlilik işlemi seçin",
+    "privacy_menu_placeholder": "Bir gizlilik işlemi seçin",
     "privacy_menu_label_1": "Kilitle",
     "privacy_menu_description_1": "Sadece güvenilir kullanıcılar ses kanalınıza katılabilecek.",
     "privacy_menu_label_2": "Kilidi Aç",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Sohbeti Aç",
     "privacy_menu_description_6": "Herkes sohbetinize yazı yazabilecek.",
 
-    "waiting_menu_placehoder": "{val1} ses kanalınıza katılmak istiyor",
+    "waiting_menu_placeholder": "{val1} ses kanalınıza katılmak istiyor",
     "waiting_menu_label_1": "Kabul Et",
     "waiting_menu_description_1": "Kullanıcı otomatik olarak ses kanalınıza katılacak.",
     "waiting_menu_label_2": "Reddet",

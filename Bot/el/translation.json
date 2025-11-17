@@ -125,7 +125,7 @@
     "interface_description": "Το περιβάλλον χρήσης **interface** μπορεί να χρησιμοποιηθεί για να αλλάξετε τα voice κανάλια. Περισσότερες επιλογές και εντολές εδώ: **/voice**.",
     "interface_footer": "Χρησιμοποιήστε τα κουμπιά για να πλοηγηθείτε",
 
-    "privacy_menu_placehoder": "Αλλαγή Ιδιωτικότητας",
+    "privacy_menu_placeholder": "Αλλαγή Ιδιωτικότητας",
     "privacy_menu_label_1": "Κλείδωμα",
     "privacy_menu_description_1": "Μόνο έμπιστοι χρήστες μπορούν να μπουν στο κανάλι",
     "privacy_menu_label_2": "Ξεκλείδωμα",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Ανοιχτό Chat",
     "privacy_menu_description_6": "Όλοι μπορούν να μπουν στο chat κανάλι",
     
-    "waiting_menu_placehoder": "{val1} θέλει να μπει στο κανάλι σας",
+    "waiting_menu_placeholder": "{val1} θέλει να μπει στο κανάλι σας",
     "waiting_menu_label_1": "ΑΠΟΔΟΧΗ",
     "waiting_menu_description_1": "Ο χρήστης θα μεταφερθεί στο κανάλι σας",
     "waiting_menu_label_2": "ΑΠΟΡΡΙΨΗ",

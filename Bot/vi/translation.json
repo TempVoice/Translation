@@ -125,7 +125,7 @@
     "interface_description": "**Giao diện** này có thể được sử dụng để quản lý các kênh thoại tạm thời. Nhiều tùy chọn hơn có sẵn với lệnh **/voice** commands.",
     "interface_footer": "Nhấn các nút bên dưới để sử dụng giao diện",
 
-    "privacy_menu_placehoder": "Chọn một Tùy chọn Quyền riêng tư",
+    "privacy_menu_placeholder": "Chọn một Tùy chọn Quyền riêng tư",
     "privacy_menu_label_1": "Khóa",
     "privacy_menu_description_1": "Chỉ những người dùng đáng tin cậy mới có thể tham gia kênh thoại của cậu",
     "privacy_menu_label_2": "Mở khóa",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Mở trò chuyện",
     "privacy_menu_description_6": "Mọi người sẽ có thể nhắn tin trong cuộc trò chuyện của cậu",
 
-    "waiting_menu_placehoder": "{val1} muốn tham gia Kênh của cậu",
+    "waiting_menu_placeholder": "{val1} muốn tham gia Kênh của cậu",
     "waiting_menu_label_1": "Chấp nhận",
     "waiting_menu_description_1": "Người dùng sẽ được chuyển vào kênh thoại của cậu",
     "waiting_menu_label_2": "Từ chối",

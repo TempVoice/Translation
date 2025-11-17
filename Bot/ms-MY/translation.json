@@ -96,7 +96,7 @@
     "interface_description": "**Antaramuka** ini boleh digunakan untuk menguruskan saluran suara sementara. Lebih banyak pilihan tersedia dengan arahan suara **/voice**.",
     "interface_footer": "Tekan butang di bawah untuk menggunakan antaramuka",
 
-    "privacy_menu_placehoder": "Pilih Pilihan Privasi",
+    "privacy_menu_placeholder": "Pilih Pilihan Privasi",
     "privacy_menu_label_1": "Kunci",
     "privacy_menu_description_1": "Hanya pengguna yang dipercayai akan dapat menyertai saluran suara anda.",
     "privacy_menu_label_2": "Buka Kunci",
@@ -110,7 +110,7 @@
     "privacy_menu_label_6": "Buka Chat",
     "privacy_menu_description_6": "Semua orang akan dapat berbual dalam chat anda.",
 
-    "waiting_menu_placehoder": "{val1} nak masuk saluran anda",
+    "waiting_menu_placeholder": "{val1} nak masuk saluran anda",
     "waiting_menu_label_1": "Terima",
     "waiting_menu_description_1": "Pengguna akan dipindahkan ke saluran suara anda",
     "waiting_menu_label_2": "Tolak",

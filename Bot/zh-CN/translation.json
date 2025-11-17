@@ -125,7 +125,7 @@
     "interface_description": "此**界面**可用于管理临时语音频道。使用**/voice** 命令可获得更多选项。",
     "interface_footer": "按下面的按钮使用界面",
 
-    "privacy_menu_placehoder": "选择隐私选项",
+    "privacy_menu_placeholder": "选择隐私选项",
     "privacy_menu_label_1": "锁定",
     "privacy_menu_description_1": "只有受信任的用户才能加入语音频道",
     "privacy_menu_label_2": "解锁",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "打开聊天",
     "privacy_menu_description_6": "所有人都可以在聊天中发送消息",
 
-    "waiting_menu_placehoder": "{val1} 想加入频道",
+    "waiting_menu_placeholder": "{val1} 想加入频道",
     "waiting_menu_label_1": "接受",
     "waiting_menu_description_1": "用户将被移动到语音频道",
     "waiting_menu_label_2": "拒绝",

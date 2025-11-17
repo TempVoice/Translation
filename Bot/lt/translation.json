@@ -125,7 +125,7 @@
     "interface_description": "Šią **sąsają** galima naudoti laikinam balso kanalui redaguoti. Daugiau parinkčių galima pasirinkti naudojant **/voice** komandas.",
     "interface_footer": "Šia sąsaja galima naudotis spaudžiant toliau nurodytus mygtukus.",
 
-    "privacy_menu_placehoder": "Pasirinkite privatumo parinktį",
+    "privacy_menu_placeholder": "Pasirinkite privatumo parinktį",
     "privacy_menu_label_1": "Užrakinti",
     "privacy_menu_description_1": "Tik patikimi vartotojai galės prisijungti prie jūsų balso kanalo",
     "privacy_menu_label_2": "Atrakinti",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Atidaryti Pokalbį",
     "privacy_menu_description_6": "Visi galės siųsti tekstinius pranešimus jūsų pokalbyje",
 
-    "waiting_menu_placehoder": "{val1} nori prisijungti prie jūsų kanalo",
+    "waiting_menu_placeholder": "{val1} nori prisijungti prie jūsų kanalo",
     "waiting_menu_label_1": "Priimti",
     "waiting_menu_description_1": "Vartotojas bus perkeltas į jūsų balso kanalą",
     "waiting_menu_label_2": "Atmesti",

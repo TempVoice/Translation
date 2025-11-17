@@ -125,7 +125,7 @@
     "interface_description": "Deze **interface** kan worden gebruikt om tijdelijke spraakkanalen te beheren. Meer opties zijn beschikbaar met **/voice** commando's.",
     "interface_footer": "Druk op de onderstaande knoppen om de interface te gebruiken",
 
-    "privacy_menu_placehoder": "Selecteer een privacyoptie",
+    "privacy_menu_placeholder": "Selecteer een privacyoptie",
     "privacy_menu_label_1": "Slot",
     "privacy_menu_description_1": "Alleen vertrouwde gebruikers kunnen lid worden van uw spraakkanaal",
     "privacy_menu_label_2": "Ontgrendelen",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Bericht openen",
     "privacy_menu_description_6": "Iedereen kan je bericht sms'en",
 
-    "waiting_menu_placehoder": "{val1} wil lid worden van je kanaal",
+    "waiting_menu_placeholder": "{val1} wil lid worden van je kanaal",
     "waiting_menu_label_1": "Aanvaarden",
     "waiting_menu_description_1": "De gebruiker wordt verplaatst naar uw spraakkanaal",
     "waiting_menu_label_2": "Ontkennen",

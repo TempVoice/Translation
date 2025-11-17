@@ -125,7 +125,7 @@
     "interface_description": "Ezt az **interfészt** használhatod ideiglenes hangcsatornák kezelésére. További lehetőségek érhetők el a **/voice** parancsokon keresztül.",
     "interface_footer": "Ez a felület az alábbi gombok megnyomásával használható",    
   
-    "privacy_menu_placehoder": "Válassz egy adatvédelmi beállítást",
+    "privacy_menu_placeholder": "Válassz egy adatvédelmi beállítást",
     "privacy_menu_label_1": "Zárás",
     "privacy_menu_description_1": "Csak a megbízott felhasználók tudnak majd csatlakozni a hangcsatornához",
     "privacy_menu_label_2": "Nyitás",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Csevegés megnyitása",
     "privacy_menu_description_6": "Bárki írhat majd a csevegésbe",
   
-    "waiting_menu_placehoder": "{val1} szeretne csatlakozni a csatornádhoz",
+    "waiting_menu_placeholder": "{val1} szeretne csatlakozni a csatornádhoz",
     "waiting_menu_label_1": "Elfogadás",
     "waiting_menu_description_1": "A felhasználó átkerül a hangcsatornájába",
     "waiting_menu_label_2": "Elutasítás",

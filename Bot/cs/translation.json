@@ -125,7 +125,7 @@
     "interface_description": "Toto **rozhraní** lze použít k řízení dočasných hlasových kanálů. Další možnosti jsou k dispozici s **/voice** příkazy.",
     "interface_footer": "Pro použití rozhraní stiskněte následující tlačítka",
 
-    "privacy_menu_placehoder": "Vyberte možnost ochrany osobních údajů",
+    "privacy_menu_placeholder": "Vyberte možnost ochrany osobních údajů",
     "privacy_menu_label_1": "Uzamknout",
     "privacy_menu_description_1": "K hlasovému kanálu se mohou připojit pouze důvěryhodní uživatelé.",
     "privacy_menu_label_2": "Odemknout",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Otevřít chat",
     "privacy_menu_description_6": "V chatu mohou psát všichni.",
 
-    "waiting_menu_placehoder": "{val1} se chce připojit k vašemu kanálu",
+    "waiting_menu_placeholder": "{val1} se chce připojit k vašemu kanálu",
     "waiting_menu_label_1": "Přijmout",
     "waiting_menu_description_1": "Uživatel bude přesunut do vašeho hlasového kanálu.",
     "waiting_menu_label_2": "Odmítnout",

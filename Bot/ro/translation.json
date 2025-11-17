@@ -125,7 +125,7 @@
 	"interface_description": "Această interfață poate fi folosită pentru a gestiona canalele de voce temporare. Mai multe opțiuni sunt disponibile cu comenzile /voice.",
 	"interface_footer": "Apasă butoanele de mai jos pentru a folosi interfața",
 
-	"privacy_menu_placehoder": "Selectează o opțiune de confidențialitate",
+	"privacy_menu_placeholder": "Selectează o opțiune de confidențialitate",
 	"privacy_menu_label_1": "Blochează",
 	"privacy_menu_description_1": "Doar utilizatorii de încredere vor putea să se alăture canalului tău de voce",
 	"privacy_menu_label_2": "Deblochează",
@@ -139,7 +139,7 @@
 	"privacy_menu_label_6": "Deschide chat-ul",
 	"privacy_menu_description_6": "Toată lumea va putea să scrie în chat-ul tău",
 
-	"waiting_menu_placehoder": "{val1} dorește să se alăture canalului tău",
+	"waiting_menu_placeholder": "{val1} dorește să se alăture canalului tău",
 	"waiting_menu_label_1": "Acceptă",
 	"waiting_menu_description_1": "Utilizatorul va fi mutat în canalul tău de voce",
 	"waiting_menu_label_2": "Refuză",

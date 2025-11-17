@@ -125,7 +125,7 @@
     "interface_description": "**인터페이스**는 임시 음성 채널을 손쉽게 조작할 수 있도록 만들어졌습니다. **/voice** 명령어 중 일부를 사용하여 추가 옵션을 선택하고 변경할 수 있습니다.",
     "interface_footer": "인터페이스를 사용하려면 아래 버튼을 클릭하세요.",
   
-    "privacy_menu_placehoder": "개인 정보 옵션 선택",
+    "privacy_menu_placeholder": "개인 정보 옵션 선택",
     "privacy_menu_label_1": "잠금",
     "privacy_menu_description_1": "신뢰하는 사용자만 음성 채널에 참여할 수 있습니다.",
     "privacy_menu_label_2": "잠금 해제",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "채팅 열기",
     "privacy_menu_description_6": "누구나 채팅을 할 수 있습니다.",
   
-    "waiting_menu_placehoder": "{val1}님이 당신의 채널에 참여하려고 합니다.",
+    "waiting_menu_placeholder": "{val1}님이 당신의 채널에 참여하려고 합니다.",
     "waiting_menu_label_1": "수락",
     "waiting_menu_description_1": "사용자가 음성 채널로 이동됩니다.",
     "waiting_menu_label_2": "거부",

@@ -96,7 +96,7 @@
     "interface_description": "ניתן להשתמש ב **תפריט** זה כדי לערוך את ערוץ הקול הזמני שלך. אפשרויות נוספות זמינות באמצעות פקודות **/voice**.",
     "interface_footer": "ניתן להשתמש בתפריט זה על ידי לחיצה על הכפתורים למטה",
 
-    "privacy_menu_placehoder": "בחר באפשרות פרטיות",
+    "privacy_menu_placeholder": "בחר באפשרות פרטיות",
     "privacy_menu_label_1": "נעול",
     "privacy_menu_description_1": "רק משתמשים מורשים יוכלו להצטרף לערוץ הזמני שלך",
     "privacy_menu_label_2": "פתוח",
@@ -110,7 +110,7 @@
     "privacy_menu_label_6": "פתח צ'אט",
     "privacy_menu_description_6": "כולם יוכלו להשתמש בצ'אט שלך",
 
-    "waiting_menu_placehoder": "{val1} מעוניין להצטרף לערוץ שלך",
+    "waiting_menu_placeholder": "{val1} מעוניין להצטרף לערוץ שלך",
     "waiting_menu_label_1": "אשר",
     "waiting_menu_description_1": "המשתמש יועבר לערוץ שלך",
     "waiting_menu_label_2": "דחה",

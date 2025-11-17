@@ -125,7 +125,7 @@
     "interface_description": "Cette **interface** peut être utilisée pour éditer votre salon vocal temporaire. Plus d'options sont disponible avec les commandes **/voice**.",
     "interface_footer": "Cette interface peut être utilisée en appuyant sur les boutons ci-dessous",
 
-    "privacy_menu_placehoder": "Sélectionnez une option de confidentialité",
+    "privacy_menu_placeholder": "Sélectionnez une option de confidentialité",
     "privacy_menu_label_1": "Verrouiller",
     "privacy_menu_description_1": "Seuls les utilisateurs de confiance pourront rejoindre votre salon vocal",
     "privacy_menu_label_2": "Déverrouiller",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Ouvrir le chat",
     "privacy_menu_description_6": "Tout le monde pourra envoyer des messages dans votre chat",
 
-    "waiting_menu_placehoder": "{val1} souhaite rejoindre votre salon",
+    "waiting_menu_placeholder": "{val1} souhaite rejoindre votre salon",
     "waiting_menu_label_1": "Accepter",
     "waiting_menu_description_1": "L'utilisateur sera déplacé vers votre salon vocal",
     "waiting_menu_label_2": "Refuser",

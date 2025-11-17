@@ -96,7 +96,7 @@
     "interface_description": "يمكنك استخدام **/voice** الأوامر للتحكم في الروم الخاص بك الصوتي المؤقت. المزيد من الخيارات متاحة من خلال هذه",
     "interface_footer": "يمكن استخدام هذه الواجهة بالنقر فوق الأزرار أدناه",    
 
-    "privacy_menu_placehoder": "حدد خيار الخصوصية",
+    "privacy_menu_placeholder": "حدد خيار الخصوصية",
     "privacy_menu_label_1": "إغلاق",
     "privacy_menu_description_1": "فقط المستخدمون الموثوقين بإمكانهم الدخول إلى الروم الخاص بك الصوتي",
     "privacy_menu_label_2": "فتح",
@@ -110,7 +110,7 @@
     "privacy_menu_label_6": "محادثة عامة",
     "privacy_menu_description_6": "الجميع سيملك الصلاحية لرؤية المحادثات الخاصة بك",
 
-    "waiting_menu_placehoder": "{val1} يُريد الدخول إلى الروم الخاص بك المؤقت",
+    "waiting_menu_placeholder": "{val1} يُريد الدخول إلى الروم الخاص بك المؤقت",
     "waiting_menu_label_1": "قبول الطلب",
     "waiting_menu_description_1": "سيتم نقل المستخدم الي الروم الخاص بك الصوتي        ",
     "waiting_menu_label_2": "رفض الطلب",

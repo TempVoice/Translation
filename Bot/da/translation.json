@@ -125,7 +125,7 @@
     "interface_description": "Denne **styrepanel** kan bruges til at administrere midlertidige stemmekanaler. Der er flere muligheder tilgængelige med **/voice** kommandoer.",
     "interface_footer": "Tryk på knapperne nedenfor for at bruge styrepanelet",
 
-    "privacy_menu_placehoder": "Vælg en privatlivsindstilling",
+    "privacy_menu_placeholder": "Vælg en privatlivsindstilling",
     "privacy_menu_label_1": "Lås",
     "privacy_menu_description_1": "Kun betroede brugere kan tilslutte sig din stemmekanal",
     "privacy_menu_label_2": "Lås op",
@@ -139,7 +139,7 @@
     "privacy_menu_label_6": "Åben chat",
     "privacy_menu_description_6": "Alle kan sende beskeder i din chat",
 
-    "waiting_menu_placehoder": "{val1} ønsker at deltage i din kanal",
+    "waiting_menu_placeholder": "{val1} ønsker at deltage i din kanal",
     "waiting_menu_label_1": "Accepter",
     "waiting_menu_description_1": "Brugeren flyttes til din stemmekanal",
     "waiting_menu_label_2": "Afvis",
