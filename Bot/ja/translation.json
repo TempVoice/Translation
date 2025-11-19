@@ -145,7 +145,7 @@
 		"waiting_menu_label_2": "拒否",
 		"waiting_menu_description_2": "ユーザーがキックされ、ブロックされるよ",
     
-		"log_create_channel": "## <:invite:1161647152821444688> 一時的なチャンネルが作成されたよ\n**{val1}** が {val3} を使って {val2} を作成したよ",
+		"log_create_channel": "## <:join_arrow:599612545002635274> 一時的なチャンネルが作成されたよ\n**{val1}** が {val3} を使って {val2} を作成したよ",
 		"log_delete_channel": "## <:delete:1161605459292205076> 一時的なチャンネルが削除されたよ\n`{val1}` が {val2} に削除されたよ。以前に {val3} が {val4} で作成したものだよ",
 		"log_force_delete": "## <:delete:1161605459292205076> 一時的なチャンネルが削除されたよ\n**{val1}** が {val2} に**強制的に**削除されたよ。以前に {val3} が {val4} で作成したものだよ",
 		"log_create_thread": "## <:thread:1161605691379826718> 一時的なスレッドが作成されたよ\n**{val1}** が {val3} のために一時的なスレッド {val2} を作成したよ",

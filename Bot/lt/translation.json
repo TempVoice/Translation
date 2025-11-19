@@ -145,7 +145,7 @@
     "waiting_menu_label_2": "Atmesti",
     "waiting_menu_description_2": "Vartotojas bus išmestas ir užblokuotas",
 
-    "log_create_channel": "## <:invite:1161647152821444688> Temporary Channel Created\n**{val1}** created {val2} using {val3}",
+    "log_create_channel": "## <:join_arrow:599612545002635274> Temporary Channel Created\n**{val1}** created {val2} using {val3}",
     "log_delete_channel": "## <:delete:1161605459292205076> Temporary Channel Deleted\n`{val1}` got deleted {val2}. Previously created by {val3} with {val4}",
     "log_force_delete": "## <:delete:1161605459292205076> Temporary Channel Deleted\n**{val1}** got **forcely** deleted {val2}. Previously created by {val3} with {val4}",
     "log_create_thread": "## <:thread:1161605691379826718> Temporary Thread Created\n**{val1}** created temporary thread {val2} for {val3}",

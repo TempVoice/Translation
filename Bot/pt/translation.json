@@ -145,7 +145,7 @@
     "waiting_menu_label_2": "Negar",
     "waiting_menu_description_2": "O usuário será expulso e bloqueado",
 
-    "log_create_channel": "## <:invite:1161647152821444688> Canal Temporário Criado\n**{val1}** criou {val2} usando {val3}",
+    "log_create_channel": "## <:join_arrow:599612545002635274> Canal Temporário Criado\n**{val1}** criou {val2} usando {val3}",
     "log_delete_channel": "## <:delete:1161605459292205076> Canal Temporário Excluído\n`{val1}` foi excluído após {val2}. Anteriormente criado por {val3} com {val4}",
     "log_force_delete": "## <:delete:1161605459292205076> Canal Temporário Excluído\n**{val1}** foi **forçadamente** excluído após {val2}. Anteriormente criado por {val3} com {val4}",
     "log_create_thread": "## <:thread:1161605691379826718> Tópico Temporário Criado\n**{val1}** criou o tópico temporário {val2} para {val3}",
